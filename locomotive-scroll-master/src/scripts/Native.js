@@ -1,4 +1,4 @@
-import Core from './Core';
+import Core from './Core.js';
 
 export default class extends Core {
     constructor(options = {}) {
