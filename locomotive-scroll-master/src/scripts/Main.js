@@ -1,6 +1,6 @@
-import { defaults } from './options';
-import Scroll from './Native';
-import Smooth from './Smooth';
+import { defaults } from './options.js';
+import Scroll from './Native.js';
+import Smooth from './Smooth.js';
 
 export default class {
     constructor(options = {}) {
