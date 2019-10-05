@@ -1,5 +1,5 @@
 import virtualScroll from 'virtual-scroll.js';
-import Core from './Core';
+import Core from './Core.js';
 import { lerp } from './utils/maths'
 import { getTranslate } from './utils/transform'
 import { getParents, queryClosestParent } from './utils/html';
