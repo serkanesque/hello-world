@@ -2,7 +2,7 @@ import virtualScroll from './virtual-scroll.js';
 import Core from './Core.js';
 import { lerp } from './utils/maths.js'
 import { getTranslate } from './utils/transform.js'
-import { getParents, queryClosestParent } from './utils/html';
+import { getParents, queryClosestParent } from './utils/html.js';
 
 const keyCodes = {
     LEFT: 37,
