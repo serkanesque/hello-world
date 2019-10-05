@@ -1,7 +1,7 @@
 import virtualScroll from './virtual-scroll.js';
 import Core from './Core.js';
-import { lerp } from './utils/maths'
-import { getTranslate } from './utils/transform'
+import { lerp } from './utils/maths.js'
+import { getTranslate } from './utils/transform.js'
 import { getParents, queryClosestParent } from './utils/html';
 
 const keyCodes = {
