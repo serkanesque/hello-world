@@ -10,6 +10,7 @@ var EVT_ID = 'virtualscroll';
 
 module.exports = VirtualScroll;
 
+
 var keyCodes = {
     LEFT: 37,
     UP: 38,
@@ -18,7 +19,7 @@ var keyCodes = {
     SPACE: 32
 };
 
-function VirtualScroll(options) {
+export default function VirtualScroll(options) {
     bindAll(this, '_onWheel', '_onMouseWheel', '_onTouchStart', '_onTouchMove', '_onKeyDown');
 
     this.el = window;
