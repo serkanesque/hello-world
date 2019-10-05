@@ -1,5 +1,14 @@
 'use strict';
 
+
+import objectAssign from 'object-assign';
+import Emitter from 'tiny-emitter';
+import support from './support';
+import clone from './clone';
+import bindAll from 'bindall-standalone';
+
+//import Lethargy from 'lethargy').Lethargy;
+
 var objectAssign = require('object-assign');
 var Emitter = require('tiny-emitter');
 var Lethargy = require('lethargy').Lethargy;
