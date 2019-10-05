@@ -6,9 +6,8 @@ import Emitter from 'tiny-emitter';
 import support from './support';
 import clone from './clone';
 import bindAll from 'bindall-standalone';
-
-//import Lethargy from 'lethargy').Lethargy;
-
+import {lethargy} from 'lethargy';
+/*
 var objectAssign = require('object-assign');
 var Emitter = require('tiny-emitter');
 var Lethargy = require('lethargy').Lethargy;
@@ -16,7 +15,7 @@ var support = require('./support');
 var clone = require('./clone');
 var bindAll = require('bindall-standalone');
 var EVT_ID = 'virtualscroll';
-
+*/
 module.exports = VirtualScroll;
 
 
