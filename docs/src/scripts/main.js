@@ -1,5 +1,6 @@
-import LocomotiveScroll from '../../../src/locomotive-scroll';
-import smoothscroll from 'smoothscroll-polyfill';
+import LocomotiveScroll from '../../../src/locomotive-scroll.js';
+import smoothscroll from 'smoothscroll-polyfill.js';
+
 
 (function() {
 
