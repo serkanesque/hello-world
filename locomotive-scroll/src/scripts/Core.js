@@ -1,4 +1,4 @@
-import { defaults } from './options.js';
+import { defaults } from './options';
 
 export default class {
     constructor(options = {}) {
