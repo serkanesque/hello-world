@@ -1040,8 +1040,11 @@ fixTableTRs[j].addEventListener("mouseover", function(e){
     var homeDrawTable =   document.getElementById('homeDrawTable');
         var awayDrawTable =   document.getElementById('awayDrawTable');
               var leagueTable =   document.getElementById('leagueTable');
+e.currentTarget.childNodes[0].style.backgroundColor = "lightgreen"
 e.currentTarget.childNodes[1].style.backgroundColor = "lightgreen"
+e.currentTarget.childNodes[2].style.backgroundColor = "pink"
 e.currentTarget.childNodes[3].style.backgroundColor = "pink"
+
 var homeDrawTableTRs = homeDrawTable.getElementsByTagName("tr");
 var awayDrawTableTRs = awayDrawTable.getElementsByTagName("tr");
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
@@ -1075,7 +1078,9 @@ var homeDrawTableTRs = homeDrawTable.getElementsByTagName("tr");
 var awayDrawTableTRs = awayDrawTable.getElementsByTagName("tr");
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 
+e.currentTarget.childNodes[0].style.backgroundColor = "white"
 e.currentTarget.childNodes[1].style.backgroundColor = "white"
+e.currentTarget.childNodes[2].style.backgroundColor = "white"
 e.currentTarget.childNodes[3].style.backgroundColor = "white"
 
 for(var p=0; p<homeDrawTableTRs.length; p++){
