@@ -800,7 +800,17 @@ for(var i=0; i<awayInnerDivs.length; i++)
 
 }
 
-homeTable.sort((a, b) => (a.draws > b.draws) ? 1 : -1)
+//homeTable.sort((a, b) => (a.draws > b.draws) ? 1 : -1)
+
+
+homeTable.sort(function (a, b) {
+	if (a.draws < b.draws) return -1;
+	if (a.draws > b.draws) return 1;
+	if (a.wins < b.wins) return 1;
+	if (a.wins > b.wins) return -1;
+});
+
+
 
 markup = markup + '<tr><td>team</td><td>wins</td><td>draws</td></tr>';
 for(var i=0; i<homeTable.length; i++)
@@ -820,6 +830,9 @@ document.getElementById('homeDrawTable').innerHTML = markup;
 	
 function sortNumber(a, b) {
   return a.draws - b.draw;
+}
+function sortWin(a, b) {
+  return a.wins - b.wins;
 }
 
 markup = '<tr><td>team</td><td>wins</td><td>draws</td></tr>';
@@ -843,7 +856,13 @@ for(var i=0; i<awayInnerDivs.length; i++)
 
 }
 
-awayTable.sort((a, b) => (a.draws > b.draws) ? 1 : -1)
+awayTable.sort(function (a, b) {
+	if (a.draws < b.draws) return -1;
+	if (a.draws > b.draws) return 1;
+	if (a.wins < b.wins) return 1;
+	if (a.wins > b.wins) return -1;
+});
+
 
 
 for(var i=0; i<awayTable.length; i++)
