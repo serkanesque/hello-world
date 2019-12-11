@@ -921,8 +921,8 @@ for(var i=0; i<awayInnerDivs.length; i++)
 
 
 homeTable.sort(function (a, b) {
-	if (a.draws < b.draws) return -1;
-	if (a.draws > b.draws) return 1;
+	if (a.drawPercent < b.drawPercent) return -1;
+	if (a.drawPercent > b.drawPercent) return 1;
 	if (a.wins < b.wins) return 1;
 	if (a.wins > b.wins) return -1;
 });
@@ -980,8 +980,8 @@ if(awayInnerDivs[i].id == "lost") {
 }
 
 awayTable.sort(function (a, b) {
-	if (a.draws < b.draws) return -1;
-	if (a.draws > b.draws) return 1;
+    if (a.drawPercent < b.drawPercent) return -1;
+    if (a.drawPercent > b.drawPercent) return 1;
 	if (a.wins < b.wins) return 1;
 	if (a.wins > b.wins) return -1;
 });
