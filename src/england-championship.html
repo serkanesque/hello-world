@@ -929,7 +929,7 @@ homeTable.sort(function (a, b) {
 
 
 
-markup = markup + '<tr><td>team</td><td>wins</td><td>draws</td><td>lost</td><td>draw%</td></tr>';
+markup = markup + '<tr><td>team</td><td>win</td><td>draw</td><td>lost</td><td>draw%</td></tr>';
 for(var i=0; i<homeTable.length; i++)
 {
 markup = markup + '<tr id=' + homeTable[i].name +'><td>' + homeTable[i].name + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].drawPercent + '</td></tr>'
@@ -952,7 +952,7 @@ function sortWin(a, b) {
   return a.wins - b.wins;
 }
 
-markup = '<tr><td>team</td><td>wins</td><td>draws</td><td>lost</td><td>draw %</td></tr>';
+markup = '<tr><td>team</td><td>wins</td><td>draw</td><td>lost</td><td>draw %</td></tr>';
 var awayContainerDiv = document.getElementById("awayRows");
 var awayInnerDivs = awayContainerDiv.getElementsByTagName("DIV");
 awayTable = []
