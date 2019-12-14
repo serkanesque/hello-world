@@ -1752,8 +1752,12 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 
 
     if(team.name == "Mouscron-P") team.name = "Royal Excel Mouscron";
+    if(team.name == "KRC Genk") team.name = "Genk";
     if(team.name == "Eupen") team.name = "As Eupen";   
     if(team.name == "KV Mechelen") team.name = "Kv Mechelen";  
+    if(team.name == "Beveren") team.name = "Waasland-beveren";      
+
+    
 
     
 
@@ -1881,11 +1885,11 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
      var team = new Object();
     team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
     //change team names
-
     if(team.name == "Mouscron-P") team.name = "Royal Excel Mouscron";
+    if(team.name == "KRC Genk") team.name = "Genk";
     if(team.name == "Eupen") team.name = "As Eupen";   
     if(team.name == "KV Mechelen") team.name = "Kv Mechelen";  
-
+    if(team.name == "Beveren") team.name = "Waasland-beveren";     
 
      team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
      halfTimeLeadingAway.push(team);
@@ -1990,12 +1994,16 @@ console.log(homeTeam + " " + awayTeam);
 
 
     if(homeTeam == "Mouscron-P") homeTeam = "Royal Excel Mouscron";
+    if(homeTeam == "KRC Genk") homeTeam = "Genk";
     if(homeTeam == "Eupen") homeTeam = "As Eupen";   
     if(homeTeam == "KV Mechelen") homeTeam = "Kv Mechelen";  
+    if(homeTeam == "Beveren") homeTeam = "Waasland-beveren";     
 
     if(awayTeam == "Mouscron-P") awayTeam = "Royal Excel Mouscron";
+    if(awayTeam == "KRC Genk") awayTeam = "Genk";
     if(awayTeam == "Eupen") awayTeam = "As Eupen";   
-    if(awayTeam == "KV Mechelen") awayTeam = "Kv Mechelen";      
+    if(awayTeam == "KV Mechelen") awayTeam = "Kv Mechelen";  
+    if(awayTeam == "Beveren") awayTeam = "Waasland-beveren";         
 
         for(var j=0; j<homeTable.length; j++)
 {
