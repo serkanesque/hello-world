@@ -1,0 +1,340 @@
+<div id="tables_div" class="table_div">
+    <div class="table_body table_row_special">
+        <div class="table_row table_row_special">
+            <div class="table_div_in">
+                <div class="table_row_in table_top">
+                    <div class="table_cell table_rank_mobile table_rank  "></div>
+                    <div class="table_cell table_rank">R</div>
+                    <div class="table_cell table_team">TEAM</div>
+                    <div class="table_cell table_played">PL</div>
+                    <div class="table_cell table_win">W</div>
+                    <div class="table_cell table_draw">D</div>
+                    <div class="table_cell table_lost">L</div>
+                    <div class="table_cell table_goals">F-A</div>
+                    <div class="table_cell table_gd">+/-</div>
+                    <div class="table_cell table_pts">PTS</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in teamHighlight table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">1</div>
+                    <div class="table_cell table_team teamClick" data-id="2931">Cambuur</div>
+                    <div class="table_cell table_played">8</div>
+                    <div class="table_cell table_win">7</div>
+                    <div class="table_cell table_draw">1</div>
+                    <div class="table_cell table_lost">0</div>
+                    <div class="table_cell table_goals">28-6</div>
+                    <div class="table_cell table_gd">22</div>
+                    <div class="table_cell table_pts">22</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">2</div>
+                    <div class="table_cell table_team teamClick" data-id="2955">Almere City Fc</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">7</div>
+                    <div class="table_cell table_draw">1</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">17-9</div>
+                    <div class="table_cell table_gd">8</div>
+                    <div class="table_cell table_pts">22</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">3</div>
+                    <div class="table_cell table_team teamClick" data-id="16006">De Graafschap</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">6</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">0</div>
+                    <div class="table_cell table_goals">22-4</div>
+                    <div class="table_cell table_gd">18</div>
+                    <div class="table_cell table_pts">21</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">4</div>
+                    <div class="table_cell table_team teamClick" data-id="2937">Excelsior</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">7</div>
+                    <div class="table_cell table_draw">0</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">26-17</div>
+                    <div class="table_cell table_gd">9</div>
+                    <div class="table_cell table_pts">21</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in teamHighlight table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">5</div>
+                    <div class="table_cell table_team teamClick" data-id="35645">Jong Ajax</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">6</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">27-10</div>
+                    <div class="table_cell table_gd">17</div>
+                    <div class="table_cell table_pts">20</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">6</div>
+                    <div class="table_cell table_team teamClick" data-id="16029">Go Ahead Eagles</div>
+                    <div class="table_cell table_played">10</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">6</div>
+                    <div class="table_cell table_lost">0</div>
+                    <div class="table_cell table_goals">19-9</div>
+                    <div class="table_cell table_gd">10</div>
+                    <div class="table_cell table_pts">18</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">7</div>
+                    <div class="table_cell table_team teamClick" data-id="53294">Jong Utrecht</div>
+                    <div class="table_cell table_played">8</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">0</div>
+                    <div class="table_cell table_goals">19-8</div>
+                    <div class="table_cell table_gd">11</div>
+                    <div class="table_cell table_pts">18</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">8</div>
+                    <div class="table_cell table_team teamClick" data-id="16073">Volendam</div>
+                    <div class="table_cell table_played">8</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">15-10</div>
+                    <div class="table_cell table_gd">5</div>
+                    <div class="table_cell table_pts">17</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">9</div>
+                    <div class="table_cell table_team teamClick" data-id="2918">Nac Breda</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">14-7</div>
+                    <div class="table_cell table_gd">7</div>
+                    <div class="table_cell table_pts">17</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">10</div>
+                    <div class="table_cell table_team teamClick" data-id="2935">Fc Eindhoven</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">19-14</div>
+                    <div class="table_cell table_gd">5</div>
+                    <div class="table_cell table_pts">17</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">11</div>
+                    <div class="table_cell table_team teamClick" data-id="2919">Nec Nijmegen</div>
+                    <div class="table_cell table_played">8</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">15-8</div>
+                    <div class="table_cell table_gd">7</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">12</div>
+                    <div class="table_cell table_team teamClick" data-id="2933">Den Bosch</div>
+                    <div class="table_cell table_played">10</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">6</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">20-12</div>
+                    <div class="table_cell table_gd">8</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">13</div>
+                    <div class="table_cell table_team teamClick" data-id="28686">Jong Az</div>
+                    <div class="table_cell table_played">10</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">17-15</div>
+                    <div class="table_cell table_gd">2</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">14</div>
+                    <div class="table_cell table_team teamClick" data-id="32953">Jong Psv</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">13-13</div>
+                    <div class="table_cell table_gd">0</div>
+                    <div class="table_cell table_pts">12</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">15</div>
+                    <div class="table_cell table_team teamClick" data-id="2943">Mvv</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">11-12</div>
+                    <div class="table_cell table_gd">-1</div>
+                    <div class="table_cell table_pts">12</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">16</div>
+                    <div class="table_cell table_team teamClick" data-id="2921">Roda</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">4</div>
+                    <div class="table_cell table_goals">16-16</div>
+                    <div class="table_cell table_gd">0</div>
+                    <div class="table_cell table_pts">11</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">17</div>
+                    <div class="table_cell table_team teamClick" data-id="16036">Top Oss</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">4</div>
+                    <div class="table_cell table_goals">11-11</div>
+                    <div class="table_cell table_gd">0</div>
+                    <div class="table_cell table_pts">11</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">18</div>
+                    <div class="table_cell table_team teamClick" data-id="2945">Telstar</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">1</div>
+                    <div class="table_cell table_lost">5</div>
+                    <div class="table_cell table_goals">11-12</div>
+                    <div class="table_cell table_gd">-1</div>
+                    <div class="table_cell table_pts">10</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">19</div>
+                    <div class="table_cell table_team teamClick" data-id="2941">Helmond Sport</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">2</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">5</div>
+                    <div class="table_cell table_goals">11-16</div>
+                    <div class="table_cell table_gd">-5</div>
+                    <div class="table_cell table_pts">8</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">20</div>
+                    <div class="table_cell table_team teamClick" data-id="16025">Dordrecht</div>
+                    <div class="table_cell table_played">10</div>
+                    <div class="table_cell table_win">1</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">6</div>
+                    <div class="table_cell table_goals">14-24</div>
+                    <div class="table_cell table_gd">-10</div>
+                    <div class="table_cell table_pts">6</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
