@@ -1,533 +1,666 @@
-<tbody>
-    <tr bgcolor="#dddddd">
-        <td align="center" height="30"><b>
+<tbody><tr bgcolor="#dddddd">
+<td align="center" height="30"><b>
 Home
 </b></td>
-        <td align="center"><b>0-15</b></td>
-        <td align="center"><b>16-30</b></td>
-        <td align="center"><b>31-45</b></td>
-        <td align="center"><b>46-60</b></td>
-        <td align="center"><b>61-75</b></td>
-        <td align="center"><b>76-90</b></td>
+<td align="center"><b>0-15</b></td>
+<td align="center"><b>16-30</b></td>
+<td align="center"><b>31-45</b></td>
+<td align="center"><b>46-60</b></td>
+<td align="center"><b>61-75</b></td>
+<td align="center"><b>76-90</b></td>
 
-        <td align="center">&nbsp;&nbsp;</td>
-        <td align="center"><b>
+<td align="center">&nbsp;&nbsp;</td>
+<td align="center"><b>
 1st H.
 </b></td>
-        <td align="center"><b>
+<td align="center"><b>
 2nd H.
 </b></td>
 
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=8-aalborg-bk" target="_top">Aalborg BK</a>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-5-0
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            1-0
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-0
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-5
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            10-5
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            6-5
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=5-ac-horsens" target="_top">AC Horsens</a>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-2
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            0-3
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-2
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            2-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-0
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-1-7
-</b>
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-7
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            6-9
-        </td>
-
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=4-agf-aarhus" target="_top">AGF Aarhus</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-7-3
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            0-3
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            11-5
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            9-7
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=1-brondby-if" target="_top">Brondby IF</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-7-1
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-5
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            3-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            5-3
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            14-5
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            10-11
-        </td>
-
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=10-esbjerg" target="_top">Esbjerg</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            1-0
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-4
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-1-4
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-4
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            2-2
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            6-5
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            5-10
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=12-fc-kobenhavn" target="_top">FC Kobenhavn</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            5-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            1-0
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-6-2
-</b>
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            9-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            12-4
-        </td>
-
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=9-fc-midtjylland" target="_top">FC Midtjylland</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-2-0
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            1-0
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-2-0
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-2
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            5-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            9-5
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=3-hobro-ik" target="_top">Hobro IK</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-4-1
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-2
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-0-3
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            0-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-3
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            5-6
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            4-6
-        </td>
-
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=7-lyngby" target="_top">Lyngby</a>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u197-ado-den-haag" target="_top">ADO Den Haag</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
 0-2
 </b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            2-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-3-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-4
 </b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            5-4
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            4-4
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            5-6
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            10-10
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=6-nordsjælland" target="_top">Nordsjælland</a>
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            0-0
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-3-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
 </b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-3-1
-</b>
-        </td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
 
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            6-4
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            8-3
-        </td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
 
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=11-odense-bk" target="_top">Odense BK</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
-5-0
-</b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-3
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            3-3
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            2-2
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-1
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-1
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            9-6
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            8-4
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=14-randers-fc" target="_top">Randers FC</a>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            4-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u189-ajax-amsterdam" target="_top">Ajax Amsterdam</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
 4-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-0
 </b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-0
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-2
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-2
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u203-az-alkmaar" target="_top">AZ Alkmaar</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-0
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
 4-0
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-1
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u198-fc-emmen" target="_top">FC Emmen</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-0
 </b>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-3
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            3-3
-        </td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
 
-        <td>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            11-3
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            8-6
-        </td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
 
-    </tr>
-    <tr class="trow8">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=2-silkeborg" target="_top">Silkeborg</a>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-3
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            4-4
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            1-2
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            2-2
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-0-10
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            3-0
-        </td>
-
-        <td>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            6-9
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            5-12
-        </td>
-
-    </tr>
-    <tr class="trow2">
-        <td align="left" height="26" style="padding-left:4px;">
-            <a href="team.asp?league=denmark&amp;stats=13-sonderjyske" target="_top">SonderjyskE</a>
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-0-3
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            <b>
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u200-fc-groningen" target="_top">FC Groningen</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
 4-1
 </b>
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            1-1
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-1-4
-</b>
-        </td>
-        <td align="center" bgcolor="#D2FFE9">
-            2-1
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            <b>
-3-6
-</b>
-        </td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
 
-        <td>
-        </td>
-        <td align="center" bgcolor="#FFFFCC">
-            5-5
-        </td>
-        <td align="center" bgcolor="#FFCCCC">
-            6-11
-        </td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-5
+</td>
 
-    </tr>
-    <tr>
-        <td colspan="13" align="center">
-            '31-45 min' and '76-90 min' also include added time
-        </td>
-    </tr>
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u247-fc-twente" target="_top">FC Twente</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-1
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-14
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u194-fc-utrecht" target="_top">FC Utrecht</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-0
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+14-3
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u202-feyenoord" target="_top">Feyenoord</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u196-fortuna-sittard" target="_top">Fortuna Sittard</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-0
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-4
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u188-heerenveen" target="_top">Heerenveen</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-4
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-2
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-0
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-1
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u190-heracles-almelo" target="_top">Heracles Almelo</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+13-4
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u187-pec-zwolle" target="_top">PEC Zwolle</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-5
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-11
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-9
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u193-psv-eindhoven" target="_top">PSV Eindhoven</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-1
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+13-6
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u251-rkc-waalwijk" target="_top">RKC Waalwijk</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-10
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u248-sparta" target="_top">Sparta</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-1
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-5
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u199-vitesse-arnhem" target="_top">Vitesse Arnhem</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-0
+</b>
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-2
+</td>
+
+</tr>
+<tr class="trow8">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u192-vvv" target="_top">VVV</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-6
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-13
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-6
+</td>
+
+</tr>
+<tr class="trow2">
+<td align="left" height="26" style="padding-left:4px;">
+<a href="team.asp?league=netherlands&amp;stats=u191-willem-ii" target="_top">Willem II</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+
+</tr>
+<tr><td colspan="13" align="center">
+'31-45 min' and '76-90 min' also include added time
+</td></tr>
 </tbody>
