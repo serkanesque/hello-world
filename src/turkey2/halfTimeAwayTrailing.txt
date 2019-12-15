@@ -1,611 +1,552 @@
- <tbody>
-        <tr class="trow4">
-            <td height="30" align="center"><b>
+<tbody><tr class="trow4">
+<td height="30" align="center"><b>
 &nbsp;
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 Matches
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 Perc.
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 W
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 D
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 L
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 Goals
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 Pts
 </b></td>
-            <td height="30" align="center"><b>
+<td height="30" align="center"><b>
 Avg Pts
 </b></td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u105-valencia" target="_top">Valencia</a>&nbsp;
-            </td>
-            <td align="center">
-                5 out of 8
-            </td>
-            <td align="center">
-                62%
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                9 - 10
-            </td>
-            <td align="center">
-                7
-            </td>
-            <td align="center">
-                <b>1.40</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u104-getafe" target="_top">Getafe</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                5 - 5
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>1.33</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u97-fc-barcelona" target="_top">FC Barcelona</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                4 - 5
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>1.33</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u106-atletico-madrid" target="_top">Atletico Madrid</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 8
-            </td>
-            <td align="center">
-                12%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1 - 1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                <b>1.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u892-osasuna" target="_top">Osasuna</a>&nbsp;
-            </td>
-            <td align="center">
-                5 out of 8
-            </td>
-            <td align="center">
-                62%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                7 - 8
-            </td>
-            <td align="center">
-                5
-            </td>
-            <td align="center">
-                <b>1.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u90-valladolid" target="_top">Valladolid</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 9
-            </td>
-            <td align="center">
-                33%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                2 - 9
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                <b>0.33</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u92-levante" target="_top">Levante</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 8
-            </td>
-            <td align="center">
-                12%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                2 - 3
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u103-real-madrid" target="_top">Real Madrid</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 7
-            </td>
-            <td align="center">
-                14%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0 - 1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u96-real-sociedad" target="_top">Real Sociedad</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 9
-            </td>
-            <td align="center">
-                11%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0 - 2
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u95-villarreal" target="_top">Villarreal</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 8
-            </td>
-            <td align="center">
-                25%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                2 - 5
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u107-athletic-bilbao" target="_top">Athletic Bilbao</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 8
-            </td>
-            <td align="center">
-                25%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                2 - 5
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u99-eibar" target="_top">Eibar</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 8
-            </td>
-            <td align="center">
-                25%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                1 - 4
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u102-fc-sevilla" target="_top">FC Sevilla</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 9
-            </td>
-            <td align="center">
-                11%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0 - 4
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u93-celta-vigo" target="_top">Celta Vigo</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                4 - 9
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u882-granada" target="_top">Granada</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                3 - 9
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u91-real-betis" target="_top">Real Betis</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 7
-            </td>
-            <td align="center">
-                29%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                2 - 8
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u108-leganes" target="_top">Leganes</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 8
-            </td>
-            <td align="center">
-                25%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                0 - 6
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u94-espanyol" target="_top">Espanyol</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                0 - 7
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u98-alaves" target="_top">Alaves</a>&nbsp;
-            </td>
-            <td align="center">
-                5 out of 8
-            </td>
-            <td align="center">
-                62%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                5
-            </td>
-            <td align="center">
-                4 - 15
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=spain&amp;stats=u891-mallorca" target="_top">Mallorca</a>&nbsp;
-            </td>
-            <td align="center">
-                5 out of 7
-            </td>
-            <td align="center">
-                71%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                5
-            </td>
-            <td align="center">
-                4 - 15
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0.00</b>
-            </td>
-        </tr>
-    </tbody>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=12-menemen-bel." target="_top">Menemen Bel.</a>&nbsp;
+</td>
+<td align="center">
+1 out of 8
+</td>
+<td align="center">
+12%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2 - 2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=6-umraniyespor" target="_top">Umraniyespor</a>&nbsp;
+</td>
+<td align="center">
+4 out of 7
+</td>
+<td align="center">
+57%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5 - 8
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=1-adana-demirspor" target="_top">Adana Demirspor</a>&nbsp;
+</td>
+<td align="center">
+3 out of 8
+</td>
+<td align="center">
+38%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.33</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=13-hatayspor" target="_top">Hatayspor</a>&nbsp;
+</td>
+<td align="center">
+3 out of 7
+</td>
+<td align="center">
+43%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4 - 8
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.33</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=4-adanaspor" target="_top">Adanaspor</a>&nbsp;
+</td>
+<td align="center">
+4 out of 7
+</td>
+<td align="center">
+57%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3 - 9
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.25</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=8-istanbulspor" target="_top">Istanbulspor</a>&nbsp;
+</td>
+<td align="center">
+1 out of 7
+</td>
+<td align="center">
+14%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3 - 4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=5-altay" target="_top">Altay</a>&nbsp;
+</td>
+<td align="center">
+1 out of 7
+</td>
+<td align="center">
+14%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2 - 3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=2-balikesirspor" target="_top">Balikesirspor</a>&nbsp;
+</td>
+<td align="center">
+1 out of 7
+</td>
+<td align="center">
+14%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0 - 1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=7-erzurum-bb" target="_top">Erzurum BB</a>&nbsp;
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=3-akhisarspor" target="_top">Akhisarspor</a>&nbsp;
+</td>
+<td align="center">
+3 out of 7
+</td>
+<td align="center">
+43%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2 - 5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=10-keciorengucu" target="_top">Keciorengucu</a>&nbsp;
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=9-eskisehirspor" target="_top">Eskisehirspor</a>&nbsp;
+</td>
+<td align="center">
+2 out of 8
+</td>
+<td align="center">
+25%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2 - 6
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=17-osmanlispor" target="_top">Osmanlispor</a>&nbsp;
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=15-fatih-karag." target="_top">Fatih Karag.</a>&nbsp;
+</td>
+<td align="center">
+1 out of 8
+</td>
+<td align="center">
+12%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0 - 4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=11-giresunspor" target="_top">Giresunspor</a>&nbsp;
+</td>
+<td align="center">
+2 out of 8
+</td>
+<td align="center">
+25%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 6
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=18-boluspor" target="_top">Boluspor</a>&nbsp;
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0 - 5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=16-bursaspor" target="_top">Bursaspor</a>&nbsp;
+</td>
+<td align="center">
+3 out of 7
+</td>
+<td align="center">
+43%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3 - 9
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+&nbsp;<a href="team.asp?league=turkey2&amp;stats=14-altinordu" target="_top">Altinordu</a>&nbsp;
+</td>
+<td align="center">
+3 out of 7
+</td>
+<td align="center">
+43%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1 - 7
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+</tbody>
