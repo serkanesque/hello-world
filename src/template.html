@@ -125,7 +125,7 @@ get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt')
 
 document.getElementById("halfTimeTrailing").innerHTML  = response;
 })).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
-    console.log(response);
+
 
     document.getElementById("halfTimeAwayTrailing").innerHTML  = response;
 })).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
@@ -210,7 +210,7 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 
 
     var halfTimeContainerDiv = document.getElementById("halfTimeAwayTrailing");
-var halfTimeInnerDivs = halfTimeAwayTrailing.getElementsByTagName("tr");
+var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
 console.log("length" + halfTimeInnerDivs.length)
 halfTimeAwayTrailing = [];
 
