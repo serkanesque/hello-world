@@ -1,5 +1,5 @@
 
-<body>
+<body onload="getParameterByName()">
 <style>
 
 section { display: none; }
@@ -58,6 +58,21 @@ section { display: none; }
 
 <script type="text/javascript">
 
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+// Give the parameter a variable name
+var league = getParameterByName('league');
+
+console.log(league)
+
+
 
 function get(url) {
   // Return a new promise.
@@ -91,32 +106,31 @@ function get(url) {
 }
 
 
-console.log(window.location.pathname)
 
 
 
-get('https://serkanesque.github.io/hello-world/src/spain1/homeRows.txt').then(function(response) {
+get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
 
   document.getElementById("homeRows").innerHTML  = response;
-}).then(get('https://serkanesque.github.io/hello-world/src/spain1/awayRows.txt').then(function(response) {
+}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
  
     document.getElementById("awayRows").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/halfTimeHomeLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
 
       document.getElementById("halfTime").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/halfTimeAwayLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
 
      document.getElementById("halfTimeAway").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/halfTimeHomeTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
 
 document.getElementById("halfTimeTrailing").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/halfTimeAwayTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
 
     document.getElementById("halfTimeAwayTrailing").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/fixtures.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
 
       document.getElementById("fixtures").innerHTML  = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/names.xml').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/names.xml').then(function(response) {
     parser = new DOMParser();
 xmlTeamNames = parser.parseFromString(response,"text/xml");     
 
@@ -158,8 +172,6 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 {
      var team = new Object();
     team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
-    //change team names
-
 
 
   for(var t=0; t<xmlTeamsFrom.length; t++)
@@ -169,6 +181,7 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 }
 
      team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+
      halfTimeLeadingAway.push(team);
     
     }
@@ -188,8 +201,8 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 
 }
 
-
      team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+
      halfTimeTrailing.push(team);
     
     }
@@ -203,6 +216,8 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
 {
      var team = new Object();
     team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+
+
     //change team names
 
   for(var t=0; t<xmlTeamsFrom.length; t++)
@@ -210,8 +225,10 @@ for(var i=0; i<halfTimeInnerDivs.length; i++)
     if(team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
 
 }
-
+ 
      team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+
+        console.log(team.name + " " + team.htPercentage)
      halfTimeAwayTrailing.push(team);    
     }
 
@@ -300,15 +317,19 @@ for(var i=0; i<homeTable.length; i++)
     for(var j=0; j<halfTimeLeading.length; j++) {
         if(halfTimeLeading[j].name == homeTable[i].name) {
          var halfTimeLeadingPercent = halfTimeLeading[j].htPercentage;
-         break
+     
      }
     }   
         for(var j=0; j<halfTimeTrailing.length; j++) {
         if(halfTimeTrailing[j].name == homeTable[i].name) {
+
          var halfTimeTrailingPercent = halfTimeTrailing[j].htPercentage;
-         break
+             // console.log("2" + halfTimeTrailing[j].name + " " + halfTimeTrailing[j].htPercentage)
+      
      }
     }  
+
+
 
 if(homeTable[i].drawPercent > 25 && flag == false) {
     markup = markup + '<tr id="empty"><td>&nbsp; </td></tr><tr id="empty"><td>&nbsp; </td></tr>';
@@ -376,16 +397,28 @@ awayTable.sort(function (a, b) {
 
 for(var i=0; i<awayTable.length; i++)
 {
+
+
  for(var j=0; j<halfTimeLeading.length; j++) {
+console.log(j)
+
+
         if(halfTimeLeadingAway[j].name == awayTable[i].name) {
+
            // console.log(halfTimeLeading[j].name + " " + homeTable[i].name + " " + halfTimeLeading[j].htPercentage)
          var halfTimeLeadingPercent = halfTimeLeadingAway[j].htPercentage;
-         break
-     }
-        if(halfTimeAwayTrailing[j].name == awayTable[i].name) {
-           // console.log(halfTimeLeading[j].name + " " + homeTable[i].name + " " + halfTimeLeading[j].htPercentage)
+         
+     }   
+
+
+
+        if(halfTimeAwayTrailing[j].name == awayTable[i].name) {               
+
+         
          var halfTimeAwayTrailingPercent =   halfTimeAwayTrailing[j].htPercentage;
-         break
+        // console.log("2" + halfTimeAwayTrailing[j].name  + " " + halfTimeAwayTrailing[j].htPercentage)
+         //  console.log(halfTimeAwayTrailing[j].name + " " + halfTimeAwayTrailing[j].htPercentage)
+         
      }
 
     }   
@@ -417,11 +450,11 @@ markup = '<tr><td>Kickoff</td><td>hdr</td><td>home team</td><td>adr</td><td>Away
 
 for(var i=1; i<fixturesInnerDivs.length; i++) {
 
-
-
 date = fixturesInnerDivs[i].childNodes[1].firstElementChild.textContent;
+
 time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
 fixture = fixturesInnerDivs[i].childNodes[3].textContent;
+
 fixture = fixture.trim();
 fixture = fixture.split(' - ');
 homeTeam = fixture[0];
@@ -515,7 +548,7 @@ var leagueTableTRs = leagueTable.getElementsByTagName("tr");;
             homeDrawTableTRs[p].style.backgroundColor = "lightgreen";       
         }
     if(awayDrawTableTRs[p].id == e.currentTarget.childNodes[4].id) {
-        console.log(awayDrawTableTRs[p].id);
+     
             awayDrawTableTRs[p].style.backgroundColor = "pink";             
         }
         if(leagueTableTRs[p].id == e.currentTarget.childNodes[2].id) {
