@@ -12,8 +12,8 @@
 	    	<to>Derby</to>
 	    </team>	  
 	    <team>	
-	   		<from>Nottingham Forest</from>
-	    	<to>Nott Forest</to>
+	   		<from>Nottm Forest</from>
+	    	<to>Nottingham Forest</to>
 	    </team>	
 	    <team>	
 	   		<from>Luton Town</from>
@@ -26,7 +26,15 @@
 	    <team>	
 	   		<from>Swansea City</from>
 	    	<to>Swansea</to>
-	    </team>	     	    	    	    	    
+	    </team>	   
+	   	  <team>	
+	   		<from>Leeds Utd</from>
+	    	<to>Leeds</to>
+	    </team>	 
+	    <team>	
+	   		<from>Cardiff City</from>
+	    	<to>Cardiff</to>
+	    </team>	  	    	    	    	    
 </league>	    	    
 
 
