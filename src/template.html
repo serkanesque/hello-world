@@ -120,7 +120,7 @@ document.getElementById("halfTimeTrailing").innerHTML  = response;
     parser = new DOMParser();
 xmlTeamNames = parser.parseFromString(response,"text/xml");     
 
-})).then(get('https://serkanesque.github.io/hello-world/src/spain1/nav.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
         document.getElementById("nav").innerHTML  = response;
     allDone();
 }))
