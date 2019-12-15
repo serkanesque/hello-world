@@ -1,0 +1,338 @@
+<div class="table_body table_row_special">
+        <div class="table_row table_row_special">
+            <div class="table_div_in">
+                <div class="table_row_in table_top">
+                    <div class="table_cell table_rank_mobile table_rank  "></div>
+                    <div class="table_cell table_rank">R</div>
+                    <div class="table_cell table_team">TEAM</div>
+                    <div class="table_cell table_played">PL</div>
+                    <div class="table_cell table_win">W</div>
+                    <div class="table_cell table_draw">D</div>
+                    <div class="table_cell table_lost">L</div>
+                    <div class="table_cell table_goals">F-A</div>
+                    <div class="table_cell table_gd">+/-</div>
+                    <div class="table_cell table_pts">PTS</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">1</div>
+                    <div class="table_cell table_team teamClick" data-id="14086">Msv Duisburg</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">8</div>
+                    <div class="table_cell table_draw">0</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">22-10</div>
+                    <div class="table_cell table_gd">12</div>
+                    <div class="table_cell table_pts">24</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">2</div>
+                    <div class="table_cell table_team teamClick" data-id="14104">Hansa Rostock</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">13-10</div>
+                    <div class="table_cell table_gd">3</div>
+                    <div class="table_cell table_pts">17</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">3</div>
+                    <div class="table_cell table_team teamClick" data-id="24863">Fc Ingolstadt 04</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">19-13</div>
+                    <div class="table_cell table_gd">6</div>
+                    <div class="table_cell table_pts">16</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">4</div>
+                    <div class="table_cell table_team teamClick" data-id="14108">Sv Meppen</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">1</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">22-14</div>
+                    <div class="table_cell table_gd">8</div>
+                    <div class="table_cell table_pts">16</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">5</div>
+                    <div class="table_cell table_team teamClick" data-id="4425">Tsv 1860 Munich</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">1</div>
+                    <div class="table_cell table_goals">16-8</div>
+                    <div class="table_cell table_gd">8</div>
+                    <div class="table_cell table_pts">16</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">6</div>
+                    <div class="table_cell table_team teamClick" data-id="4492">Hallescher Fc</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">16-10</div>
+                    <div class="table_cell table_gd">6</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">7</div>
+                    <div class="table_cell table_team teamClick" data-id="4465">Spvgg Unterhaching</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">3</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">14-13</div>
+                    <div class="table_cell table_gd">1</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">8</div>
+                    <div class="table_cell table_team teamClick" data-id="42049">Fc Wurzburger Kickers</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">5</div>
+                    <div class="table_cell table_draw">0</div>
+                    <div class="table_cell table_lost">4</div>
+                    <div class="table_cell table_goals">15-16</div>
+                    <div class="table_cell table_gd">-1</div>
+                    <div class="table_cell table_pts">15</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">9</div>
+                    <div class="table_cell table_team teamClick" data-id="13716">Eintracht Braunschweig</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">14-14</div>
+                    <div class="table_cell table_gd">0</div>
+                    <div class="table_cell table_pts">14</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in teamHighlight table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">10</div>
+                    <div class="table_cell table_team teamClick" data-id="3067">Fc Magdeburg</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">16-10</div>
+                    <div class="table_cell table_gd">6</div>
+                    <div class="table_cell table_pts">14</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">11</div>
+                    <div class="table_cell table_team teamClick" data-id="4449">Bayern Munich Ii</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">17-17</div>
+                    <div class="table_cell table_gd">0</div>
+                    <div class="table_cell table_pts">14</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">12</div>
+                    <div class="table_cell table_team teamClick" data-id="3034">Chemnitzer Fc</div>
+                    <div class="table_cell table_played">10</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">5</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">15-13</div>
+                    <div class="table_cell table_gd">2</div>
+                    <div class="table_cell table_pts">14</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">13</div>
+                    <div class="table_cell table_team teamClick" data-id="4423">Fc Kaiserslautern</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">2</div>
+                    <div class="table_cell table_goals">11-10</div>
+                    <div class="table_cell table_gd">1</div>
+                    <div class="table_cell table_pts">13</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">14</div>
+                    <div class="table_cell table_team teamClick" data-id="13978">Fsv Zwickau</div>
+                    <div class="table_cell table_played">8</div>
+                    <div class="table_cell table_win">4</div>
+                    <div class="table_cell table_draw">1</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">17-10</div>
+                    <div class="table_cell table_gd">7</div>
+                    <div class="table_cell table_pts">13</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">15</div>
+                    <div class="table_cell table_team teamClick" data-id="44217">Kfc Uerdingen 05</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">3</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">4</div>
+                    <div class="table_cell table_goals">10-14</div>
+                    <div class="table_cell table_gd">-4</div>
+                    <div class="table_cell table_pts">11</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">16</div>
+                    <div class="table_cell table_team teamClick" data-id="14042">Waldhof Mannheim</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">2</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">10-13</div>
+                    <div class="table_cell table_gd">-3</div>
+                    <div class="table_cell table_pts">10</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">17</div>
+                    <div class="table_cell table_team teamClick" data-id="26547">Fc Viktoria Koln</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">2</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">13-15</div>
+                    <div class="table_cell table_gd">-2</div>
+                    <div class="table_cell table_pts">10</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in teamHighlight table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">18</div>
+                    <div class="table_cell table_team teamClick" data-id="3040">Preussen Munster</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">2</div>
+                    <div class="table_cell table_draw">4</div>
+                    <div class="table_cell table_lost">3</div>
+                    <div class="table_cell table_goals">15-18</div>
+                    <div class="table_cell table_gd">-3</div>
+                    <div class="table_cell table_pts">10</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">19</div>
+                    <div class="table_cell table_team teamClick" data-id="35321">Sg Sonn. Grossaspach</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">1</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">6</div>
+                    <div class="table_cell table_goals">10-23</div>
+                    <div class="table_cell table_gd">-13</div>
+                    <div class="table_cell table_pts">5</div>
+                </div>
+            </div>
+        </div>
+        <div class="table_row">
+            <div class="table_div_in">
+                <div class="table_row_in table_even">
+                    <div class="table_cell table_rank_mobile table_rank"></div>
+                    <div class="table_cell table_rank">20</div>
+                    <div class="table_cell table_team teamClick" data-id="21657">Carl Zeiss Jena</div>
+                    <div class="table_cell table_played">9</div>
+                    <div class="table_cell table_win">1</div>
+                    <div class="table_cell table_draw">2</div>
+                    <div class="table_cell table_lost">6</div>
+                    <div class="table_cell table_goals">8-17</div>
+                    <div class="table_cell table_gd">-9</div>
+                    <div class="table_cell table_pts">5</div>
+                </div>
+            </div>
+        </div>
+    </div>
