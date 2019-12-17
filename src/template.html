@@ -47,6 +47,9 @@ background-color: pink;
 .homeWin, .awayWin{
 background-color: lightgreen;
 }
+.awayDraw {
+  border-radius: 50%;
+}
 
 </style>  
 <div id="nav" class="nav"></div> 
@@ -824,7 +827,7 @@ if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore
 resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
-resultObject.class = "draw";
+resultObject.class = "awayDraw";
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -832,7 +835,7 @@ if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore
 resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
-resultObject.class = "draw";
+resultObject.class = "homeDraw";
 }
 
 return resultObject
@@ -884,7 +887,7 @@ if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore
 resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
-resultObject.class = "draw";
+resultObject.class = "awayDraw";
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -892,7 +895,7 @@ if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore
 resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
-resultObject.class = "draw";
+resultObject.class = "homeDraw";
 }
 
 return resultObject
