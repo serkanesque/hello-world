@@ -1,103 +1,147 @@
- <tbody>
-        <tr class="even">
-            <td height="25" width="27%">&nbsp;<b>
+<tbody><tr><td valign="middle" align="center" width="100%">
+<table id="btable">
+<tbody><tr class="even">
+<td height="25" width="27%">&nbsp;<b>
 Round
- 15</b></td>
-            <td width="51%"></td>
-            <td width="11%"></td>
-            <td width="11%" align="center">
-                HT
-            </td>
-        </tr>
-        <tr class="odd">
+ 16</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td width="11%" align="center">
+HT
+</td></tr>
+<tr class="odd">
 
-            <td align="right"><font size="1" color="gray">Fri. 13 Dec. 
-</font> <font color="green" size="1">19:30</font></td>
-            <td>&nbsp;Hoffenheim - FC Augsburg</td>
-            <td align="center">
-                <b>2 - 4</b></td>
-            <td align="center">
-                (1-1)
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;Bayern Munich - Werder Bremen</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=1&amp;t2id=7&amp;ly=2020" title="Bayern Munich vs Werder Bremen" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;FC Koln - Leverkusen</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=16&amp;t2id=11&amp;ly=2020" title="FC Koln vs Leverkusen" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;FSV Mainz - Dortmund</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=14&amp;t2id=5&amp;ly=2020" title="FSV Mainz vs Dortmund" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;Hertha Berlin - Freiburg</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=2&amp;t2id=13&amp;ly=2020" title="Hertha Berlin vs Freiburg" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;Paderborn - Union Berlin</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=12&amp;t2id=17&amp;ly=2020" title="Paderborn vs Union Berlin" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td align="right"><font size="1" color="gray">Tue. 17 Dec. 
 </font> <font color="green" size="1">17:30</font></td>
-            <td>&nbsp;Dusseldorf - RB Leipzig</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=8&amp;t2id=18&amp;ly=2020" title="Dusseldorf vs RB Leipzig" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
+<td>&nbsp;Werder Bremen - FSV Mainz</td>
+<td align="center">
+<b>0 - 5</b></td>
+<td align="center">
+(0-4)
+</td>
+</tr>
+<tr class="odd">
 
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
-</font> <font color="green" size="1">14:30</font></td>
-            <td>&nbsp;Wolfsburg - Monchengladbach</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=15&amp;t2id=9&amp;ly=2020" title="Wolfsburg vs Monchengladbach" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
+<td align="right"><font size="1" color="gray">Tue. 17 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;Dortmund - RB Leipzig</td>
+<td align="center">
+<b>3 - 3</b></td>
+<td align="center">
+(2-0)
+</td>
+</tr>
+<tr class="odd">
 
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
-</font> <font color="green" size="1">17:00</font></td>
-            <td>&nbsp;Schalke 04 - E. Frankfurt</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=germany&amp;t1id=10&amp;t2id=3&amp;ly=2020" title="Schalke 04 vs E. Frankfurt" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
+<td align="right"><font size="1" color="gray">Tue. 17 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;FC Augsburg - Dusseldorf</td>
+<td align="center">
+<b>3 - 0</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Tue. 17 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;Union Berlin - Hoffenheim</td>
+<td align="center">
+<b>0 - 2</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Wed. 18 Dec. 
+</font> <font color="green" size="1">17:30</font></td>
+<td>&nbsp;Leverkusen - Hertha Berlin</td>
+<td align="center">
+<b><a href="h2h.asp?league=germany&amp;t1id=11&amp;t2id=2&amp;ly=2020" title="Leverkusen vs Hertha Berlin" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Wed. 18 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;E. Frankfurt - FC Koln</td>
+<td align="center">
+<b><a href="h2h.asp?league=germany&amp;t1id=3&amp;t2id=16&amp;ly=2020" title="E. Frankfurt vs FC Koln" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Wed. 18 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;Freiburg - Bayern Munich</td>
+<td align="center">
+<b><a href="h2h.asp?league=germany&amp;t1id=13&amp;t2id=1&amp;ly=2020" title="Freiburg vs Bayern Munich" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Wed. 18 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;Monchengladbach - Paderborn</td>
+<td align="center">
+<b><a href="h2h.asp?league=germany&amp;t1id=9&amp;t2id=12&amp;ly=2020" title="Monchengladbach vs Paderborn" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+
+<td align="right"><font size="1" color="gray">Wed. 18 Dec. 
+</font> <font color="green" size="1">19:30</font></td>
+<td>&nbsp;Wolfsburg - Schalke 04</td>
+<td align="center">
+<b><a href="h2h.asp?league=germany&amp;t1id=15&amp;t2id=10&amp;ly=2020" title="Wolfsburg vs Schalke 04" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
+<td align="center">
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="middle" width="100%">
+<br>
+<table cellspacing="1" cellpadding="3" width="100%">
+<tbody><tr>
+<td width="50%" valign="top">
+<table cellspacing="1" cellpadding="3" width="100%">
+<tbody><tr class="trow8"><td height="18">&nbsp;
+Total goals
+</td><td align="center"><font color="blue" size="2">16</font></td></tr>
+<tr class="trow8"><td height="18">&nbsp;
+Goals per game
+</td><td align="center">4.00</td></tr>
+<tr class="trow8"><td height="18">&nbsp;
+Under 2.5 goals
+</td><td align="center">1 / 4</td></tr>
+<tr class="trow8"><td height="18">&nbsp;
+Over 2.5 goals
+</td><td align="center">3 / 4</td></tr>
+</tbody></table>
+</td>
+<td width="50%" valign="top">
+<table cellspacing="1" cellpadding="3" width="100%">
+<tbody><tr class="trow2"><td height="18">&nbsp;
+Home wins
+</td><td align="center">1</td></tr>
+<tr class="trow2"><td height="18">&nbsp;
+Draws
+</td><td align="center">1</td></tr>
+<tr class="trow2"><td height="18">&nbsp;
+Away wins
+</td><td align="center">2</td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody>
