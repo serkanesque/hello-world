@@ -102,39 +102,4 @@ HT
 <td align="center">
 </td>
 </tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td valign="middle" width="100%">
-<br>
-<table cellspacing="1" cellpadding="3" width="100%">
-<tbody><tr>
-<td width="50%" valign="top">
-<table cellspacing="1" cellpadding="3" width="100%">
-<tbody><tr class="trow8"><td height="18">&nbsp;
-Total goals
-</td><td align="center"><font color="blue" size="2">16</font></td></tr>
-<tr class="trow8"><td height="18">&nbsp;
-Goals per game
-</td><td align="center">4.00</td></tr>
-<tr class="trow8"><td height="18">&nbsp;
-Under 2.5 goals
-</td><td align="center">1 / 4</td></tr>
-<tr class="trow8"><td height="18">&nbsp;
-Over 2.5 goals
-</td><td align="center">3 / 4</td></tr>
-</tbody></table>
-</td>
-<td width="50%" valign="top">
-<table cellspacing="1" cellpadding="3" width="100%">
-<tbody><tr class="trow2"><td height="18">&nbsp;
-Home wins
-</td><td align="center">1</td></tr>
-<tr class="trow2"><td height="18">&nbsp;
-Draws
-</td><td align="center">1</td></tr>
-<tr class="trow2"><td height="18">&nbsp;
-Away wins
-</td><td align="center">2</td></tr>
-</tbody>
+</tbody
