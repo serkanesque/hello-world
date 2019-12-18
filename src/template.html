@@ -929,6 +929,8 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
     matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
     matchResult2 = determineResultHome(homeTeamFixturesArray[1], homeTeam, "home");
      matchResult3= determineResultHome(homeTeamFixturesArray[2], homeTeam, "home");
+     matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
+     matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");          
 }
 
 
@@ -938,6 +940,8 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
     matchResultAwayTeam = determineResultAway(awayTeamFixturesArray[0], awayTeam, "away");
     matchResultAwayTeam2 = determineResultAway(awayTeamFixturesArray[1], awayTeam, "away");
      matchResultAwayTeam3 = determineResultAway(awayTeamFixturesArray[2], awayTeam, "away");
+     matchResultAwayTeam4 = determineResultAway(awayTeamFixturesArray[3], awayTeam, "away");
+     matchResultAwayTeam5 = determineResultAway(awayTeamFixturesArray[4], awayTeam, "away");          
 }
 
 
@@ -950,7 +954,7 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 
 
 if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr><td>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + '>' + homeTable[j].name + '</td><td><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div></td>';
+markup = markup + '<tr><td>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + '>' + homeTable[j].name + '</td><td><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div><div class='+matchResult4.class + ' id='+ matchResult4.opponent +'>'+ matchResult4.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div><div class='+matchResult5.class + ' id='+ matchResult5.opponent +'>'+ matchResult5.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div></td>';
 // console.log(homeTable[j].name)
 homePoints = homeTable[j].points;
 homeGoalsFor = homeTable[j].goalsF;
@@ -976,10 +980,10 @@ homeGoalsAgainst = homeTable[j].goalsA;
 
 
 if(typeof pastHomeFixture[0] === 'undefined') {
-       markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div>' + '<div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>n/a</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
+       markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div><div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span></div><div class='+matchResultAwayTeam4.class +' id='+ matchResultAwayTeam4.opponent +'>'+ matchResultAwayTeam4.lastGame + '<span class=toolTip>' + matchResultAwayTeam4.score +'</span></div><div class='+matchResultAwayTeam5.class +' id='+ matchResultAwayTeam5.opponent +'>'+ matchResultAwayTeam5.lastGame + '<span class=toolTip>' + matchResultAwayTeam5.score +'</span></div></td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>n/a</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
 
   }else{
-     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div>' + '<div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
+     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span></div><div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><div class='+matchResultAwayTeam4.class +' id='+ matchResultAwayTeam4.opponent +'>'+ matchResultAwayTeam4.lastGame + '<span class=toolTip>' + matchResultAwayTeam4.score +'</span></div><div class='+matchResultAwayTeam5.class +' id='+ matchResultAwayTeam5.opponent +'>'+ matchResultAwayTeam5.lastGame + '<span class=toolTip>' + matchResultAwayTeam5.score +'</span></div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
 
 
   }
