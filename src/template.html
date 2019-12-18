@@ -50,6 +50,9 @@ background-color: lightgreen;
 .awayDraw {
   border-radius: 50%;
 }
+.homeDraw,.awayDraw {
+ background-color: white;
+}
 /*
 #homeDrawTable tr.team:nth-child(even) {background: #eee} 
 #awayDrawTable tr.team:nth-child(even) {background: #eee} 
@@ -644,8 +647,9 @@ if(seasonFixtures2018.length > 200) clearInterval(interval);
 
 
             date = fixturesInnerDivs[i].childNodes[1].firstElementChild.textContent;
+
             time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
-            fixture = fixturesInnerDivs[i].childNodes[3].textContent;
+            fixture = fixturesInnerDivs[i].childNodes[3].textContent;            
             fixture = fixture.trim();
             fixture = fixture.split(' - ');
             homeTeam = fixture[0];
@@ -661,8 +665,10 @@ if(seasonFixtures2018.length > 200) clearInterval(interval);
             if (awayTeam == xmlTeamsFrom[t].childNodes[0].nodeValue) awayTeam = xmlTeamsTo[t].childNodes[0].nodeValue
             } 
           
-
+       
             const homeTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
+           // console.log(homeTeamFixturesArray)
+
             const awayTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == awayTeam || team.aName == awayTeam});
 
             const pastHomeFixture =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
@@ -706,12 +712,16 @@ const thisFixture = Object.create(pastFixture18);
 console.log(thisFixture.result())
 */
 
+if(typeof pastHomeFixture[0] === 'undefined') {
+ result = "n/a";
 
-          if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
+   }else{       
+ console.log("defined");
+    if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
             if(pastHomeFixture[0].hScore < pastHomeFixture[0].aScore) result = "hw"
             if(pastHomeFixture[0].hScore == pastHomeFixture[0].aScore) result = "d"
 
-
+}
 
 
 if (pastHomeFixture2018.length < 1 ){
@@ -723,6 +733,7 @@ if (pastHomeFixture2018.length < 1 ){
             if(pastHomeFixture2018[0].hScore > pastHomeFixture2018[0].aScore) {
               var hScore = pastHomeFixture2018[0].hScore;
               var aScore = pastHomeFixture2018[0].aScore;
+
              result18 = "aw";
            }
             if(pastHomeFixture2018[0].hScore < pastHomeFixture2018[0].aScore) {
@@ -933,26 +944,6 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
 
 
@@ -984,7 +975,19 @@ homeGoalsAgainst = homeTable[j].goalsA;
 //<div class='+awayMatchResult.class + ' id='+ awayMatchResult.opponent +'>'+ awayMatchResult.lastGame + '<span class=toolTip>' + awayMatchResult.score +'</span>' + '</div><div class='+awayMatchResult2.class +' id='+ awayMatchResult2.opponent +'>'+ awayMatchResult2.lastGame + '<span class=toolTip>' + awayMatchResult2.score +'</span>' + '</div>' + '<div class='+awayMatchResult3.class +' id='+ awayMatchResult3.opponent +'>'+ awayMatchResult3.lastGame + '<span class=toolTip>' + awayMatchResult3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td>
 
 
-            markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div>' + '<div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
+if(typeof pastHomeFixture[0] === 'undefined') {
+       markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div>' + '<div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>n/a</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
+
+  }else{
+     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + '>' + awayTable[j].name + '</td><td><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div>' + '<div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td></tr>';
+
+
+  }
+
+       
+
+
+
 
             }
             } //
