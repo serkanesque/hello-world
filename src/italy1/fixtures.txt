@@ -1,112 +1,102 @@
- <tbody>
-        <tr class="even">
-            <td height="25" width="27%">&nbsp;<b>
-Round
- 16</b></td>
-            <td width="51%"></td>
-            <td width="11%"></td>
-            <td width="11%" align="center">
-                HT
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">14:00</font></td>
-            <td>&nbsp;Brescia - Lecce</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=12&amp;t2id=20&amp;ly=2020" title="Brescia vs Lecce" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
-</font> <font color="green" size="1">17:00</font></td>
-            <td>&nbsp;Napoli - Parma</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=4&amp;t2id=1&amp;ly=2020" title="Napoli vs Parma" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+ 17</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
+</td></tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Wed. 18 Dec. 
+</font> <font color="green" size="1">17:55</font></td>
+<td> Sampdoria - Juventus</td>
+<td align="center">
+<b>1 - 2</b></td>
+<td align="center">
+(1-2)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Fri. 20 Dec. 
 </font> <font color="green" size="1">19:45</font></td>
-            <td>&nbsp;Genoa - Sampdoria</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=8&amp;t2id=9&amp;ly=2020" title="Genoa vs Sampdoria" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Fiorentina - AS Roma</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=3&amp;t2id=7&amp;ly=2020" target="_top" title="Fiorentina vs AS Roma"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 21 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Udinese - Cagliari</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=5&amp;t2id=11&amp;ly=2020" target="_top" title="Udinese vs Cagliari"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 21 Dec. 
+</font> <font color="green" size="1">17:00</font></td>
+<td> Inter Milan - Genoa</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=19&amp;t2id=8&amp;ly=2020" target="_top" title="Inter Milan vs Genoa"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 21 Dec. 
+</font> <font color="green" size="1">19:45</font></td>
+<td> Torino - SPAL</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=13&amp;t2id=17&amp;ly=2020" target="_top" title="Torino vs SPAL"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 22 Dec. 
 </font> <font color="green" size="1">11:30</font></td>
-            <td>&nbsp;Hellas Verona - Torino</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=15&amp;t2id=13&amp;ly=2020" title="Hellas Verona vs Torino" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Atalanta - AC Milan</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=18&amp;t2id=6&amp;ly=2020" target="_top" title="Atalanta vs AC Milan"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 22 Dec. 
 </font> <font color="green" size="1">14:00</font></td>
-            <td>&nbsp;AC Milan - Sassuolo</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=6&amp;t2id=14&amp;ly=2020" title="AC Milan vs Sassuolo" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Lecce - Bologna</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=20&amp;t2id=16&amp;ly=2020" target="_top" title="Lecce vs Bologna"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 22 Dec. 
 </font> <font color="green" size="1">14:00</font></td>
-            <td>&nbsp;Bologna - Atalanta</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=16&amp;t2id=18&amp;ly=2020" title="Bologna vs Atalanta" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
-</font> <font color="green" size="1">14:00</font></td>
-            <td>&nbsp;Juventus - Udinese</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=2&amp;t2id=5&amp;ly=2020" title="Juventus vs Udinese" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
-</font> <font color="green" size="1">17:00</font></td>
-            <td>&nbsp;AS Roma - SPAL</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=7&amp;t2id=17&amp;ly=2020" title="AS Roma vs SPAL" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Parma - Brescia</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=1&amp;t2id=12&amp;ly=2020" target="_top" title="Parma vs Brescia"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 22 Dec. 
 </font> <font color="green" size="1">19:45</font></td>
-            <td>&nbsp;Fiorentina - Inter Milan</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=3&amp;t2id=19&amp;ly=2020" title="Fiorentina vs Inter Milan" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Mon. 16 Dec. 
+<td> Sassuolo - Napoli</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=14&amp;t2id=4&amp;ly=2020" target="_top" title="Sassuolo vs Napoli"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Wed. 8 Jan. 
 </font> <font color="green" size="1">19:45</font></td>
-            <td>&nbsp;Cagliari - Lazio</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=italy&amp;t1id=11&amp;t2id=10&amp;ly=2020" title="Cagliari vs Lazio" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
+<td> Lazio - Hellas Verona</td>
+<td align="center">
+<b><a href="h2h.asp?league=italy&amp;t1id=10&amp;t2id=15&amp;ly=2020" target="_top" title="Lazio vs Hellas Verona"><img alt="stats" src="img/staticon.png"/></a></b></td>
+<td align="center">
+</td>
+</tr>
+</table>

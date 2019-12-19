@@ -1,7 +1,7 @@
 <table cellpadding="3" cellspacing="1" width="99%">
 <tbody><tr bgcolor="#dddddd">
 <td align="center" height="30" width="90"><b>
-Home
+Away
 </b></td>
 <td align="center"><b>0-10</b></td>
 <td align="center"><b>11-20</b></td>
@@ -22,99 +22,136 @@ Home
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u426-ac-milan" target="_top">AC Milan</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<a href="team.asp?league=italy2&amp;stats=u82-ascoli" target="_top">Ascoli</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 0-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
-1-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-2
-</b>
-</td>
-<td>
+0-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-3
+2-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-3-7
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u415-as-roma" target="_top">AS Roma</a>
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-5
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-8
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u86-benevento" target="_top">Benevento</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
 3-0
 </b>
 </td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u416-chievo" target="_top">Chievo</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-3
+</b>
+</td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-8
 </td>
 <td align="center" bgcolor="#D2FFE9">
 4-2
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-7
-</td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u428-atalanta" target="_top">Atalanta</a>
+<a href="team.asp?league=italy2&amp;stats=u80-cittadella" target="_top">Cittadella</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
@@ -122,150 +159,27 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-7-5
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u422-bologna" target="_top">Bologna</a>
-</td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-1
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-5-5
-</td>
-<td align="center" bgcolor="#FFFFCC">
-8-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u70-brescia" target="_top">Brescia</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-4
+0-3
 </b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-6-7
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-10
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u425-cagliari" target="_top">Cagliari</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+1-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
+2-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
+<td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
@@ -273,24 +187,10 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 4-5
 </td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-14-11
-</td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u412-fiorentina" target="_top">Fiorentina</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<a href="team.asp?league=italy2&amp;stats=u1048-cosenza" target="_top">Cosenza</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -298,27 +198,33 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-2
+0-3
 </b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-5
+4-6
 </td>
 <td align="center" bgcolor="#D2FFE9">
 6-5
@@ -326,227 +232,254 @@ Home
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u421-genoa" target="_top">Genoa</a>
+<a href="team.asp?league=italy2&amp;stats=u74-cremonese" target="_top">Cremonese</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-8
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u81-crotone" target="_top">Crotone</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-1-4
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-5-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u78-hellas-verona" target="_top">Hellas Verona</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
+0-3
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
+2-3
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
+<td align="center" bgcolor="#FFFFCC">
+6-6
 </td>
-<td align="center" bgcolor="#D2FFE9">
-7-6
+<td align="center" bgcolor="#FFCCCC">
+4-6
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u409-inter-milan" target="_top">Inter Milan</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-2
-</b>
+<a href="team.asp?league=italy2&amp;stats=u423-empoli" target="_top">Empoli</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-2
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u417-juventus" target="_top">Juventus</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
+1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-2
 </td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u424-lazio" target="_top">Lazio</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
+<td align="center" bgcolor="#FFCCCC">
+0-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
+2-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
 <b>
-5-0
+0-3
 </b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-14-1
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u1049-lecce" target="_top">Lecce</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-11
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u413-frosinone" target="_top">Frosinone</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-0
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-4
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u1148-juve-stabia" target="_top">Juve Stabia</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-0
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-4
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u674-livorno" target="_top">Livorno</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-2
@@ -556,17 +489,50 @@ Home
 0-3
 </b>
 </td>
+<td>
+</td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+0-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u71-perugia" target="_top">Perugia</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+1-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-3
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 2-3
@@ -577,185 +543,15 @@ Home
 2-6
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-7
+6-8
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u411-napoli" target="_top">Napoli</a>
+<a href="team.asp?league=italy2&amp;stats=u75-pescara" target="_top">Pescara</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u410-parma" target="_top">Parma</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-5-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-7-3
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u414-sampdoria" target="_top">Sampdoria</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-8
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u418-sassuolo" target="_top">Sassuolo</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-8
-</td>
-<td align="center" bgcolor="#FFCCCC">
-7-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u427-spal" target="_top">SPAL</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
@@ -763,17 +559,133 @@ Home
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-8
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u1145-pisa" target="_top">Pisa</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u1149-pordenone" target="_top">Pordenone</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-3
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+<b>
+0-2
+</b>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-9
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u76-salernitana" target="_top">Salernitana</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
@@ -783,27 +695,80 @@ Home
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-5-4
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-7
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-4
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u420-torino" target="_top">Torino</a>
+<a href="team.asp?league=italy2&amp;stats=u77-spezia" target="_top">Spezia</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-5
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u1146-trapani" target="_top">Trapani</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
@@ -811,69 +776,128 @@ Home
 </b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
 0-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-4
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-12
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=italy2&amp;stats=u72-venezia" target="_top">Venezia</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+<b>
+0-2
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-5
+3-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-6-5
+8-5
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=italy&amp;stats=u419-udinese" target="_top">Udinese</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<a href="team.asp?league=italy2&amp;stats=u1147-virtus-entella" target="_top">Virtus Entella</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
 0-2
+</b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-3
+</b>
+</td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
-<td>
-</td>
 <td align="center" bgcolor="#D2FFE9">
-4-2
+1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-7
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
 </td>
 </tr>
 <tr><td align="center" colspan="13">
