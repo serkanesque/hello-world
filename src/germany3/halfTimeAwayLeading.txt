@@ -1,553 +1,611 @@
- <tbody>
-        <tr class="trow4">
-            <td height="30" align="center"><b>
-&nbsp;
+<table cellpadding="2" cellspacing="0" width="99%">
+<tbody><tr class="trow4">
+<td align="center" height="30"><b>
+ 
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Matches
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Perc.
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 W
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 D
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 L
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Goals
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Pts
 </b></td>
-            <td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Avg Pts
 </b></td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u184-bielefeld" target="_top">Bielefeld</a>&nbsp;
-            </td>
-            <td align="center">
-                4 out of 8
-            </td>
-            <td align="center">
-                50%
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                15 - 4
-            </td>
-            <td align="center">
-                12
-            </td>
-            <td align="center">
-                <b>3.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u170-holstein-kiel" target="_top">Holstein Kiel</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                11 - 4
-            </td>
-            <td align="center">
-                9
-            </td>
-            <td align="center">
-                <b>3.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u171-bochum" target="_top">Bochum</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 8
-            </td>
-            <td align="center">
-                12%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3 - 2
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                <b>3.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u166-stuttgart" target="_top">Stuttgart</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 7
-            </td>
-            <td align="center">
-                14%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3 - 2
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                <b>3.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u179-darmstadt" target="_top">Darmstadt</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 9
-            </td>
-            <td align="center">
-                11%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                2 - 1
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                <b>3.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u154-hannover-96" target="_top">Hannover 96</a>&nbsp;
-            </td>
-            <td align="center">
-                4 out of 8
-            </td>
-            <td align="center">
-                50%
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                9 - 4
-            </td>
-            <td align="center">
-                10
-            </td>
-            <td align="center">
-                <b>2.50</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u169-hamburger-sv" target="_top">Hamburger SV</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                9 - 3
-            </td>
-            <td align="center">
-                7
-            </td>
-            <td align="center">
-                <b>2.33</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u489-wehen-wiesbaden" target="_top">Wehen Wiesbaden</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 7
-            </td>
-            <td align="center">
-                43%
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                7 - 4
-            </td>
-            <td align="center">
-                7
-            </td>
-            <td align="center">
-                <b>2.33</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u182-erzgebirge-aue" target="_top">Erzgebirge Aue</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 9
-            </td>
-            <td align="center">
-                22%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3 - 1
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>2.00</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u488-karlsruher-sc" target="_top">Karlsruher SC</a>&nbsp;
-            </td>
-            <td align="center">
-                2 out of 9
-            </td>
-            <td align="center">
-                22%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                4 - 3
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>2.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u173-greuther-furth" target="_top">Greuther Furth</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                2
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                6 - 4
-            </td>
-            <td align="center">
-                5
-            </td>
-            <td align="center">
-                <b>1.67</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u175-regensburg" target="_top">Regensburg</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                8 - 4
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>1.33</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u156-fc-nurnberg" target="_top">FC Nurnberg</a>&nbsp;
-            </td>
-            <td align="center">
-                3 out of 8
-            </td>
-            <td align="center">
-                38%
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                8 - 6
-            </td>
-            <td align="center">
-                4
-            </td>
-            <td align="center">
-                <b>1.33</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u174-sandhausen" target="_top">Sandhausen</a>&nbsp;
-            </td>
-            <td align="center">
-                1 out of 8
-            </td>
-            <td align="center">
-                12%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                1 - 1
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                <b>1.00</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u178-sankt-pauli" target="_top">Sankt Pauli</a>&nbsp;
-            </td>
-            <td align="center">
-                4 out of 8
-            </td>
-            <td align="center">
-                50%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                1
-            </td>
-            <td align="center">
-                6 - 7
-            </td>
-            <td align="center">
-                3
-            </td>
-            <td align="center">
-                <b>0.75</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u183-heidenheim" target="_top">Heidenheim</a>&nbsp;
-            </td>
-            <td align="center">
-                0 out of 8
-            </td>
-            <td align="center">
-                0%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0 - 0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0</b>
-            </td>
-        </tr>
-        <tr class="trow8" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u487-osnabruck" target="_top">Osnabruck</a>&nbsp;
-            </td>
-            <td align="center">
-                0 out of 8
-            </td>
-            <td align="center">
-                0%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0 - 0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0</b>
-            </td>
-        </tr>
-        <tr class="trow2" height="24">
-            <td align="left">
-                &nbsp;<a href="team.asp?league=germany2&amp;stats=u185-dynamo-dresden" target="_top">Dynamo Dresden</a>&nbsp;
-            </td>
-            <td align="center">
-                0 out of 7
-            </td>
-            <td align="center">
-                0%
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                0 - 0
-            </td>
-            <td align="center">
-                0
-            </td>
-            <td align="center">
-                <b>0</b>
-            </td>
-        </tr>
-    </tbody>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u636-viktoria-köln" target="_top">Viktoria Köln</a> 
+</td>
+<td align="center">
+3 out of 5
+</td>
+<td align="center">
+60%
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+11 - 4
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u176-fc-ingolstadt" target="_top">FC Ingolstadt</a> 
+</td>
+<td align="center">
+2 out of 6
+</td>
+<td align="center">
+33%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+8 - 1
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u477-braunschweig" target="_top">Braunschweig</a> 
+</td>
+<td align="center">
+2 out of 6
+</td>
+<td align="center">
+33%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+6 - 2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u480-hallescher-fc" target="_top">Hallescher FC</a> 
+</td>
+<td align="center">
+1 out of 5
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3 - 0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u484-sonnenhof" target="_top">Sonnenhof</a> 
+</td>
+<td align="center">
+1 out of 5
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3 - 0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u479-kfc-uerdingen" target="_top">KFC Uerdingen</a> 
+</td>
+<td align="center">
+2 out of 5
+</td>
+<td align="center">
+40%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+4 - 2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u490-meppen" target="_top">Meppen</a> 
+</td>
+<td align="center">
+1 out of 6
+</td>
+<td align="center">
+17%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3 - 1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u481-hansa-rostock" target="_top">Hansa Rostock</a> 
+</td>
+<td align="center">
+1 out of 5
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2 - 1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u495-kaiserslautern" target="_top">Kaiserslautern</a> 
+</td>
+<td align="center">
+3 out of 5
+</td>
+<td align="center">
+60%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+10 - 7
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u657-bayern-munich-b" target="_top">Bayern Munich B</a> 
+</td>
+<td align="center">
+2 out of 5
+</td>
+<td align="center">
+40%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+6 - 3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u186-msv-duisburg" target="_top">MSV Duisburg</a> 
+</td>
+<td align="center">
+2 out of 6
+</td>
+<td align="center">
+33%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+4 - 1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u492-zwickau" target="_top">Zwickau</a> 
+</td>
+<td align="center">
+2 out of 6
+</td>
+<td align="center">
+33%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3 - 1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u640-mannheim" target="_top">Mannheim</a> 
+</td>
+<td align="center">
+1 out of 6
+</td>
+<td align="center">
+17%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1 - 1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u486-pr.-münster" target="_top">Pr. Münster</a> 
+</td>
+<td align="center">
+1 out of 6
+</td>
+<td align="center">
+17%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1 - 1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u478-carl-zeiss-jena" target="_top">Carl Zeiss Jena</a> 
+</td>
+<td align="center">
+0 out of 6
+</td>
+<td align="center">
+0%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0 - 0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u586-chemnitzer" target="_top">Chemnitzer</a> 
+</td>
+<td align="center">
+0 out of 5
+</td>
+<td align="center">
+0%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0 - 0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u177-magdeburg" target="_top">Magdeburg</a> 
+</td>
+<td align="center">
+0 out of 6
+</td>
+<td align="center">
+0%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0 - 0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u493-unterhaching" target="_top">Unterhaching</a> 
+</td>
+<td align="center">
+0 out of 5
+</td>
+<td align="center">
+0%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0 - 0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u482-1860-münchen" target="_top">1860 München</a> 
+</td>
+<td align="center">
+0 out of 6
+</td>
+<td align="center">
+0%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0 - 0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany3&amp;stats=u494-würzburger-k." target="_top">Würzburger K.</a> 
+</td>
+<td align="center">
+1 out of 5
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4 - 5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+</tbody></table>
