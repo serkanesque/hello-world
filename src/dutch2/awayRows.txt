@@ -1,340 +1,894 @@
-<div id="tables_div" class="table_div">
-    <div class="table_body table_row_special">
-        <div class="table_row table_row_special">
-            <div class="table_div_in">
-                <div class="table_row_in table_top">
-                    <div class="table_cell table_rank_mobile table_rank  "></div>
-                    <div class="table_cell table_rank">R</div>
-                    <div class="table_cell table_team">TEAM</div>
-                    <div class="table_cell table_played">PL</div>
-                    <div class="table_cell table_win">W</div>
-                    <div class="table_cell table_draw">D</div>
-                    <div class="table_cell table_lost">L</div>
-                    <div class="table_cell table_goals">F-A</div>
-                    <div class="table_cell table_gd">+/-</div>
-                    <div class="table_cell table_pts">PTS</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in teamHighlight table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">1</div>
-                    <div class="table_cell table_team teamClick" data-id="2931">Cambuur</div>
-                    <div class="table_cell table_played">10</div>
-                    <div class="table_cell table_win">6</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">17-7</div>
-                    <div class="table_cell table_gd">10</div>
-                    <div class="table_cell table_pts">20</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in teamHighlight table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">2</div>
-                    <div class="table_cell table_team teamClick" data-id="35645">Jong Ajax</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">23-16</div>
-                    <div class="table_cell table_gd">7</div>
-                    <div class="table_cell table_pts">16</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">3</div>
-                    <div class="table_cell table_team teamClick" data-id="16073">Volendam</div>
-                    <div class="table_cell table_played">10</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">4</div>
-                    <div class="table_cell table_goals">15-16</div>
-                    <div class="table_cell table_gd">-1</div>
-                    <div class="table_cell table_pts">16</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">4</div>
-                    <div class="table_cell table_team teamClick" data-id="2945">Telstar</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">4</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">16-15</div>
-                    <div class="table_cell table_gd">1</div>
-                    <div class="table_cell table_pts">15</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">5</div>
-                    <div class="table_cell table_team teamClick" data-id="16006">De Graafschap</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">5</div>
-                    <div class="table_cell table_lost">1</div>
-                    <div class="table_cell table_goals">14-10</div>
-                    <div class="table_cell table_gd">4</div>
-                    <div class="table_cell table_pts">14</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">6</div>
-                    <div class="table_cell table_team teamClick" data-id="2918">Nac Breda</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">4</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">14-12</div>
-                    <div class="table_cell table_gd">2</div>
-                    <div class="table_cell table_pts">14</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">7</div>
-                    <div class="table_cell table_team teamClick" data-id="2919">Nec Nijmegen</div>
-                    <div class="table_cell table_played">10</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">4</div>
-                    <div class="table_cell table_goals">13-15</div>
-                    <div class="table_cell table_gd">-2</div>
-                    <div class="table_cell table_pts">12</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">8</div>
-                    <div class="table_cell table_team teamClick" data-id="2937">Excelsior</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">4</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">12-16</div>
-                    <div class="table_cell table_gd">-4</div>
-                    <div class="table_cell table_pts">10</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">9</div>
-                    <div class="table_cell table_team teamClick" data-id="16029">Go Ahead Eagles</div>
-                    <div class="table_cell table_played">8</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">4</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">11-14</div>
-                    <div class="table_cell table_gd">-3</div>
-                    <div class="table_cell table_pts">10</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">10</div>
-                    <div class="table_cell table_team teamClick" data-id="53294">Jong Utrecht</div>
-                    <div class="table_cell table_played">10</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">5</div>
-                    <div class="table_cell table_goals">9-17</div>
-                    <div class="table_cell table_gd">-8</div>
-                    <div class="table_cell table_pts">9</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">11</div>
-                    <div class="table_cell table_team teamClick" data-id="2921">Roda</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">5</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">6-12</div>
-                    <div class="table_cell table_gd">-6</div>
-                    <div class="table_cell table_pts">8</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">12</div>
-                    <div class="table_cell table_team teamClick" data-id="2933">Den Bosch</div>
-                    <div class="table_cell table_played">8</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">4</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">11-18</div>
-                    <div class="table_cell table_gd">-7</div>
-                    <div class="table_cell table_pts">7</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">13</div>
-                    <div class="table_cell table_team teamClick" data-id="2941">Helmond Sport</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">5</div>
-                    <div class="table_cell table_goals">9-25</div>
-                    <div class="table_cell table_gd">-16</div>
-                    <div class="table_cell table_pts">6</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">14</div>
-                    <div class="table_cell table_team teamClick" data-id="2935">Fc Eindhoven</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">7</div>
-                    <div class="table_cell table_goals">10-26</div>
-                    <div class="table_cell table_gd">-16</div>
-                    <div class="table_cell table_pts">4</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">15</div>
-                    <div class="table_cell table_team teamClick" data-id="28686">Jong Az</div>
-                    <div class="table_cell table_played">8</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">6</div>
-                    <div class="table_cell table_goals">11-17</div>
-                    <div class="table_cell table_gd">-6</div>
-                    <div class="table_cell table_pts">4</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">16</div>
-                    <div class="table_cell table_team teamClick" data-id="32953">Jong Psv</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">7</div>
-                    <div class="table_cell table_goals">9-22</div>
-                    <div class="table_cell table_gd">-13</div>
-                    <div class="table_cell table_pts">4</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">17</div>
-                    <div class="table_cell table_team teamClick" data-id="2943">Mvv</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">7</div>
-                    <div class="table_cell table_goals">7-20</div>
-                    <div class="table_cell table_gd">-13</div>
-                    <div class="table_cell table_pts">4</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">18</div>
-                    <div class="table_cell table_team teamClick" data-id="16036">Top Oss</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">7</div>
-                    <div class="table_cell table_goals">6-24</div>
-                    <div class="table_cell table_gd">-18</div>
-                    <div class="table_cell table_pts">4</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">19</div>
-                    <div class="table_cell table_team teamClick" data-id="2955">Almere City Fc</div>
-                    <div class="table_cell table_played">9</div>
-                    <div class="table_cell table_win">0</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">6</div>
-                    <div class="table_cell table_goals">10-19</div>
-                    <div class="table_cell table_gd">-9</div>
-                    <div class="table_cell table_pts">3</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">20</div>
-                    <div class="table_cell table_team teamClick" data-id="16025">Dordrecht</div>
-                    <div class="table_cell table_played">8</div>
-                    <div class="table_cell table_win">0</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">6</div>
-                    <div class="table_cell table_goals">10-24</div>
-                    <div class="table_cell table_gd">-14</div>
-                    <div class="table_cell table_pts">2</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<table id="btable">
+<tr class="even" height="28">
+<th align="center"><font color="#555555"><b>
+ 
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+ 
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GP
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+W
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+D
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+L
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GF
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GA
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GD
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+Pts
+</b></font></th>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+1
+</b>
+</font>
+</td>
+<td height="20">
+Cambuur
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+7
+</font>
+</td>
+<td align="center">
++10
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td height="20">
+Jong Ajax
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+25
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20">
+FC Volendam
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20">
+Telstar
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20">
+De Graafschap
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20">
+NAC Breda
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20">
+Excelsior
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20">
+Go Ahead Eagles
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td height="20">
+NEC Nijmegen
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td height="20">
+FC Den Bosch
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20">
+Jong FC Utrecht
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td height="20">
+Roda JC
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td height="20">
+Jong AZ
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td height="20">
+Almere City
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+21
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20">
+Helmond Sport
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+25
+</font>
+</td>
+<td align="center">
+-16
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td height="20">
+FC Dordrecht
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
+-13
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20">
+FC Eindhoven
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+28
+</font>
+</td>
+<td align="center">
+-16
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td height="20">
+Jong PSV
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+22
+</font>
+</td>
+<td align="center">
+-13
+</td>
+<td align="center">
+<b>
+4
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+19
+</b>
+</font>
+</td>
+<td height="20">
+MVV Maastricht
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
+-16
+</td>
+<td align="center">
+<b>
+4
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+20
+</b>
+</font>
+</td>
+<td height="20">
+TOP Oss
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
+-18
+</td>
+<td align="center">
+<b>
+4
+</b>
+</td>
+</tr>
+</table>
