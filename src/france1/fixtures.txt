@@ -1,113 +1,111 @@
-<tbody>
-        <tr class="even">
-            <td height="25" width="27%">&nbsp;<b>
-Round
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
  18</b></td>
-            <td width="51%"></td>
-            <td width="11%"></td>
-            <td width="11%" align="center">
-                HT
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Fri. 13 Dec. 
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
+</td></tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Fri. 13 Dec. 
 </font> <font color="green" size="1">19:45</font></td>
-            <td>&nbsp;Lille - Montpellier</td>
-            <td align="center">
-                <b>2 - 1</b></td>
-            <td align="center">
-                (1-0)
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Lille - Montpellier</td>
+<td align="center">
+<b>2 - 1</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">16:30</font></td>
-            <td>&nbsp;Metz - Marseille</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=20&amp;t2id=7&amp;ly=2020" title="Metz vs Marseille" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Metz - Marseille</td>
+<td align="center">
+<b>1 - 1</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">19:00</font></td>
-            <td>&nbsp;Amiens - Dijon</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=10&amp;t2id=17&amp;ly=2020" title="Amiens vs Dijon" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Amiens - Dijon</td>
+<td align="center">
+<b>1 - 1</b></td>
+<td align="center">
+(1-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">19:00</font></td>
-            <td>&nbsp;Angers - Monaco</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=13&amp;t2id=15&amp;ly=2020" title="Angers vs Monaco" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Angers - Monaco</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">19:00</font></td>
-            <td>&nbsp;Brest - Nice</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=11&amp;t2id=9&amp;ly=2020" title="Brest vs Nice" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Brest - Nice</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">19:00</font></td>
-            <td>&nbsp;Nimes - Nantes</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=4&amp;t2id=6&amp;ly=2020" title="Nimes vs Nantes" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Nimes - Nantes</td>
+<td align="center">
+<b>0 - 1</b></td>
+<td align="center">
+(0-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">19:00</font></td>
-            <td>&nbsp;Toulouse - Reims</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=12&amp;t2id=8&amp;ly=2020" title="Toulouse vs Reims" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Toulouse - Reims</td>
+<td align="center">
+<b>0 - 1</b></td>
+<td align="center">
+(0-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">14:00</font></td>
-            <td>&nbsp;Bordeaux - Strasbourg</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=14&amp;t2id=19&amp;ly=2020" title="Bordeaux vs Strasbourg" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Bordeaux - Strasbourg</td>
+<td align="center">
+<b>0 - 1</b></td>
+<td align="center">
+(0-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">16:00</font></td>
-            <td>&nbsp;Lyon - Rennes</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=16&amp;t2id=2&amp;ly=2020" title="Lyon vs Rennes" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Lyon - Rennes</td>
+<td align="center">
+<b>0 - 1</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">20:00</font></td>
-            <td>&nbsp;Saint-Etienne - Paris SG</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=france&amp;t1id=18&amp;t2id=3&amp;ly=2020" title="Saint-Etienne vs Paris SG" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
+<td> Saint-Etienne - Paris SG</td>
+<td align="center">
+<b>0 - 4</b></td>
+<td align="center">
+(0-2)
+</td>
+</tr>
+</table>
