@@ -1,99 +1,42 @@
+<table cellpadding="2" cellspacing="0" width="99%">
 <tbody><tr class="trow4">
-<td height="30" align="center"><b>
-&nbsp;
+<td align="center" height="30"><b>
+ 
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Matches
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Perc.
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 W
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 D
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 L
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Goals
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Pts
 </b></td>
-<td height="30" align="center"><b>
+<td align="center" height="30"><b>
 Avg Pts
 </b></td>
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=18-basaksehir" target="_top">Basaksehir</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=18-basaksehir" target="_top">Basaksehir</a> 
 </td>
 <td align="center">
-1 out of 7
+1 out of 8
 </td>
 <td align="center">
-14%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1 - 1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>1.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=16-besiktas" target="_top">Besiktas</a>&nbsp;
-</td>
-<td align="center">
-1 out of 7
-</td>
-<td align="center">
-14%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1 - 1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>1.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=15-sivasspor" target="_top">Sivasspor</a>&nbsp;
-</td>
-<td align="center">
-1 out of 7
-</td>
-<td align="center">
-14%
+12%
 </td>
 <td align="center">
 0
@@ -116,7 +59,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=12-alanyaspor" target="_top">Alanyaspor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=16-besiktas" target="_top">Besiktas</a> 
 </td>
 <td align="center">
 1 out of 8
@@ -145,7 +88,65 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=11-kayserispor" target="_top">Kayserispor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=15-sivasspor" target="_top">Sivasspor</a> 
+</td>
+<td align="center">
+1 out of 8
+</td>
+<td align="center">
+12%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1 - 1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=turkey&amp;stats=12-alanyaspor" target="_top">Alanyaspor</a> 
+</td>
+<td align="center">
+1 out of 8
+</td>
+<td align="center">
+12%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1 - 1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=turkey&amp;stats=11-kayserispor" target="_top">Kayserispor</a> 
 </td>
 <td align="center">
 1 out of 7
@@ -174,7 +175,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=5-genclerbirligi" target="_top">Genclerbirligi</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=5-genclerbirligi" target="_top">Genclerbirligi</a> 
 </td>
 <td align="center">
 2 out of 8
@@ -203,7 +204,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=13-konyaspor" target="_top">Konyaspor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=13-konyaspor" target="_top">Konyaspor</a> 
 </td>
 <td align="center">
 2 out of 7
@@ -232,13 +233,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=4-gaziantep-fk" target="_top">Gaziantep FK</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=4-gaziantep-fk" target="_top">Gaziantep FK</a> 
 </td>
 <td align="center">
-2 out of 7
+2 out of 8
 </td>
 <td align="center">
-29%
+25%
 </td>
 <td align="center">
 0
@@ -261,7 +262,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=17-yeni-malatyaspo" target="_top">Yeni Malatyaspo</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=17-yeni-malatyaspo" target="_top">Yeni Malatyaspo</a> 
 </td>
 <td align="center">
 3 out of 7
@@ -290,7 +291,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=8-antalyaspor" target="_top">Antalyaspor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=8-antalyaspor" target="_top">Antalyaspor</a> 
 </td>
 <td align="center">
 5 out of 7
@@ -319,7 +320,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=2-galatasaray" target="_top">Galatasaray</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=2-galatasaray" target="_top">Galatasaray</a> 
 </td>
 <td align="center">
 0 out of 8
@@ -348,13 +349,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=10-trabzonspor" target="_top">Trabzonspor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=10-trabzonspor" target="_top">Trabzonspor</a> 
 </td>
 <td align="center">
-1 out of 7
+1 out of 8
 </td>
 <td align="center">
-14%
+12%
 </td>
 <td align="center">
 0
@@ -377,7 +378,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=7-goztepe" target="_top">Goztepe</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=7-goztepe" target="_top">Goztepe</a> 
 </td>
 <td align="center">
 1 out of 7
@@ -406,7 +407,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=3-fenerbahce" target="_top">Fenerbahce</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=3-fenerbahce" target="_top">Fenerbahce</a> 
 </td>
 <td align="center">
 1 out of 7
@@ -435,7 +436,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=1-denizlispor" target="_top">Denizlispor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=1-denizlispor" target="_top">Denizlispor</a> 
 </td>
 <td align="center">
 2 out of 7
@@ -464,7 +465,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=9-kasimpasa" target="_top">Kasimpasa</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=9-kasimpasa" target="_top">Kasimpasa</a> 
 </td>
 <td align="center">
 2 out of 7
@@ -493,7 +494,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=6-rizespor" target="_top">Rizespor</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=6-rizespor" target="_top">Rizespor</a> 
 </td>
 <td align="center">
 2 out of 8
@@ -522,7 +523,7 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
-&nbsp;<a href="team.asp?league=turkey&amp;stats=14-ankaragucu" target="_top">Ankaragucu</a>&nbsp;
+ <a href="team.asp?league=turkey&amp;stats=14-ankaragucu" target="_top">Ankaragucu</a> 
 </td>
 <td align="center">
 3 out of 7
@@ -549,4 +550,4 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-</tbody>
+</tbody></table>

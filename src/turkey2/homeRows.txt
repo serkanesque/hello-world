@@ -1,308 +1,808 @@
-<div id="tables_div" class="table_div">
-    <div class="table_body table_row_special">
-        <div class="table_row table_row_special">
-            <div class="table_div_in">
-                <div class="table_row_in table_top">
-                    <div class="table_cell table_rank_mobile table_rank  "></div>
-                    <div class="table_cell table_rank">R</div>
-                    <div class="table_cell table_team">TEAM</div>
-                    <div class="table_cell table_played">PL</div>
-                    <div class="table_cell table_win">W</div>
-                    <div class="table_cell table_draw">D</div>
-                    <div class="table_cell table_lost">L</div>
-                    <div class="table_cell table_goals">F-A</div>
-                    <div class="table_cell table_gd">+/-</div>
-                    <div class="table_cell table_pts">PTS</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">1</div>
-                    <div class="table_cell table_team teamClick" data-id="31072">Hatayspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">6</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">0</div>
-                    <div class="table_cell table_goals">11-3</div>
-                    <div class="table_cell table_gd">8</div>
-                    <div class="table_cell table_pts">19</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">2</div>
-                    <div class="table_cell table_team teamClick" data-id="32806">Akhisar Belediye</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">0</div>
-                    <div class="table_cell table_goals">13-7</div>
-                    <div class="table_cell table_gd">6</div>
-                    <div class="table_cell table_pts">17</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">3</div>
-                    <div class="table_cell table_team teamClick" data-id="42619">Erzurum Bb</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">0</div>
-                    <div class="table_cell table_goals">11-4</div>
-                    <div class="table_cell table_gd">7</div>
-                    <div class="table_cell table_pts">17</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">4</div>
-                    <div class="table_cell table_team teamClick" data-id="28603">Keciorengucu</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">0</div>
-                    <div class="table_cell table_goals">8-2</div>
-                    <div class="table_cell table_gd">6</div>
-                    <div class="table_cell table_pts">17</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">5</div>
-                    <div class="table_cell table_team teamClick" data-id="12822">Bursaspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">1</div>
-                    <div class="table_cell table_goals">11-6</div>
-                    <div class="table_cell table_gd">5</div>
-                    <div class="table_cell table_pts">16</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">6</div>
-                    <div class="table_cell table_team teamClick" data-id="35866">Balikesirspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">5</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">1</div>
-                    <div class="table_cell table_goals">12-4</div>
-                    <div class="table_cell table_gd">8</div>
-                    <div class="table_cell table_pts">16</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">7</div>
-                    <div class="table_cell table_team teamClick" data-id="42605">Umraniyespor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">4</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">0</div>
-                    <div class="table_cell table_goals">15-6</div>
-                    <div class="table_cell table_gd">9</div>
-                    <div class="table_cell table_pts">15</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">8</div>
-                    <div class="table_cell table_team teamClick" data-id="25075">Giresunspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">4</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">1</div>
-                    <div class="table_cell table_goals">10-7</div>
-                    <div class="table_cell table_gd">3</div>
-                    <div class="table_cell table_pts">14</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">9</div>
-                    <div class="table_cell table_team teamClick" data-id="22120">Altay</div>
-                    <div class="table_cell table_played">8</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">6-8</div>
-                    <div class="table_cell table_gd">-2</div>
-                    <div class="table_cell table_pts">11</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">10</div>
-                    <div class="table_cell table_team teamClick" data-id="30988">Adana Demirspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">10-6</div>
-                    <div class="table_cell table_gd">4</div>
-                    <div class="table_cell table_pts">11</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">11</div>
-                    <div class="table_cell table_team teamClick" data-id="32807">Altinordu</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">11-9</div>
-                    <div class="table_cell table_gd">2</div>
-                    <div class="table_cell table_pts">11</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">12</div>
-                    <div class="table_cell table_team teamClick" data-id="21357">Osmanlispor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">10-9</div>
-                    <div class="table_cell table_gd">1</div>
-                    <div class="table_cell table_pts">11</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">13</div>
-                    <div class="table_cell table_team teamClick" data-id="13005">Eskisehirspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">3</div>
-                    <div class="table_cell table_draw">1</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">12-11</div>
-                    <div class="table_cell table_gd">1</div>
-                    <div class="table_cell table_pts">10</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">14</div>
-                    <div class="table_cell table_team teamClick" data-id="12831">Istanbulspor As</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">13-10</div>
-                    <div class="table_cell table_gd">3</div>
-                    <div class="table_cell table_pts">9</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in teamHighlight table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">15</div>
-                    <div class="table_cell table_team teamClick" data-id="25072">Boluspor</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">3</div>
-                    <div class="table_cell table_lost">2</div>
-                    <div class="table_cell table_goals">9-8</div>
-                    <div class="table_cell table_gd">1</div>
-                    <div class="table_cell table_pts">9</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">16</div>
-                    <div class="table_cell table_team teamClick" data-id="38035">Menemen Belediye</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">6-8</div>
-                    <div class="table_cell table_gd">-2</div>
-                    <div class="table_cell table_pts">8</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in teamHighlight table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">17</div>
-                    <div class="table_cell table_team teamClick" data-id="22125">Fatih Karagumruk As</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">2</div>
-                    <div class="table_cell table_draw">2</div>
-                    <div class="table_cell table_lost">3</div>
-                    <div class="table_cell table_goals">10-9</div>
-                    <div class="table_cell table_gd">1</div>
-                    <div class="table_cell table_pts">8</div>
-                </div>
-            </div>
-        </div>
-        <div class="table_row">
-            <div class="table_div_in">
-                <div class="table_row_in table_even">
-                    <div class="table_cell table_rank_mobile table_rank"></div>
-                    <div class="table_cell table_rank">18</div>
-                    <div class="table_cell table_team teamClick" data-id="12818">Adanaspor As</div>
-                    <div class="table_cell table_played">7</div>
-                    <div class="table_cell table_win">1</div>
-                    <div class="table_cell table_draw">5</div>
-                    <div class="table_cell table_lost">1</div>
-                    <div class="table_cell table_goals">11-11</div>
-                    <div class="table_cell table_gd">0</div>
-                    <div class="table_cell table_pts">8</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<table id="btable">
+<tr class="even" height="28">
+<th align="center"><font color="#555555"><b>
+ 
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+ 
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GP
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+W
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+D
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+L
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GF
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GA
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+GD
+</b></font></th>
+<th align="center"><font color="#555555"><b>
+Pts
+</b></font></th>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+1
+</b>
+</font>
+</td>
+<td height="20">
+Erzurum BB
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+4
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td height="20">
+Hatayspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+3
+</font>
+</td>
+<td align="center">
++8
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20">
+Umraniyespor
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++10
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20">
+Balikesirspor
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+4
+</font>
+</td>
+<td align="center">
++8
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20">
+Akhisarspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+7
+</font>
+</td>
+<td align="center">
++6
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20">
+Keciorengucu
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+3
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20">
+Bursaspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20">
+Giresunspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+7
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td height="20">
+Istanbulspor
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td height="20">
+Altinordu
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20">
+Adana Demirspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td height="20">
+Osmanlispor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td height="20">
+Altay
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td height="20">
+Eskisehirspor
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20">
+Boluspor
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td height="20">
+Fatih Karag.
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20">
+Adanaspor
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td height="20">
+Menemen Bel.
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+4
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+</table>

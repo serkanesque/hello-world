@@ -1,103 +1,101 @@
- <tbody>
-        <tr class="even">
-            <td height="25" width="27%">&nbsp;<b>
-Round
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
  15</b></td>
-            <td width="51%"></td>
-            <td width="11%"></td>
-            <td width="11%" align="center">
-                HT
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Fri. 13 Dec. 
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
+</td></tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Fri. 13 Dec. 
 </font> <font color="green" size="1">16:00</font></td>
-            <td>&nbsp;Altay - Adana Demirspor</td>
-            <td align="center">
-                <b>1 - 0</b></td>
-            <td align="center">
-                (1-0)
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Altay - Adana Demirspor</td>
+<td align="center">
+<b>1 - 0</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">11:00</font></td>
-            <td>&nbsp;Boluspor - Fatih Karag.</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=18&amp;t2id=15&amp;ly=2020" title="Boluspor vs Fatih Karag." target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Boluspor - Fatih Karag.</td>
+<td align="center">
+<b>0 - 2</b></td>
+<td align="center">
+(0-2)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">11:00</font></td>
-            <td>&nbsp;Erzurum BB - Giresunspor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=7&amp;t2id=11&amp;ly=2020" title="Erzurum BB vs Giresunspor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Erzurum BB - Giresunspor</td>
+<td align="center">
+<b>2 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">13:30</font></td>
-            <td>&nbsp;Istanbulspor - Eskisehirspor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=8&amp;t2id=9&amp;ly=2020" title="Istanbulspor vs Eskisehirspor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Istanbulspor - Eskisehirspor</td>
+<td align="center">
+<b>1 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">16:00</font></td>
-            <td>&nbsp;Adanaspor - Menemen Bel.</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=4&amp;t2id=12&amp;ly=2020" title="Adanaspor vs Menemen Bel." target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Adanaspor - Menemen Bel.</td>
+<td align="center">
+<b>1 - 3</b></td>
+<td align="center">
+(0-2)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">11:00</font></td>
-            <td>&nbsp;Keciorengucu - Hatayspor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=10&amp;t2id=13&amp;ly=2020" title="Keciorengucu vs Hatayspor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Keciorengucu - Hatayspor</td>
+<td align="center">
+<b>0 - 1</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">11:00</font></td>
-            <td>&nbsp;Umraniyespor - Osmanlispor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=6&amp;t2id=17&amp;ly=2020" title="Umraniyespor vs Osmanlispor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Umraniyespor - Osmanlispor</td>
+<td align="center">
+<b>1 - 0</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">13:30</font></td>
-            <td>&nbsp;Balikesirspor - Akhisarspor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=2&amp;t2id=3&amp;ly=2020" title="Balikesirspor vs Akhisarspor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Balikesirspor - Akhisarspor</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">16:00</font></td>
-            <td>&nbsp;Altinordu - Bursaspor</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=turkey2&amp;t1id=14&amp;t2id=16&amp;ly=2020" title="Altinordu vs Bursaspor" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
+<td> Altinordu - Bursaspor</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+</table>
