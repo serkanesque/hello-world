@@ -1,113 +1,111 @@
-<tbody>
-        <tr class="even">
-            <td height="25" width="27%">&nbsp;<b>
-Round
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
  17</b></td>
-            <td width="51%"></td>
-            <td width="11%"></td>
-            <td width="11%" align="center">
-                HT
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Fri. 13 Dec. 
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
+</td></tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Fri. 13 Dec. 
 </font> <font color="green" size="1">20:00</font></td>
-            <td>&nbsp;Alaves - Leganes</td>
-            <td align="center">
-                <b>1 - 1</b></td>
-            <td align="center">
-                (0-1)
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Alaves - Leganes</td>
+<td align="center">
+<b>1 - 1</b></td>
+<td align="center">
+(0-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">12:00</font></td>
-            <td>&nbsp;Granada - Levante</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=16&amp;t2id=18&amp;ly=2020" title="Granada vs Levante" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Granada - Levante</td>
+<td align="center">
+<b>1 - 2</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">15:00</font></td>
-            <td>&nbsp;Real Sociedad - FC Barcelona</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=2&amp;t2id=8&amp;ly=2020" title="Real Sociedad vs FC Barcelona" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Real Sociedad - FC Barcelona</td>
+<td align="center">
+<b>2 - 2</b></td>
+<td align="center">
+(1-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">17:30</font></td>
-            <td>&nbsp;Athletic Bilbao - Eibar</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=7&amp;t2id=6&amp;ly=2020" title="Athletic Bilbao vs Eibar" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sat. 14 Dec. 
+<td> Athletic Bilbao - Eibar</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sat. 14 Dec. 
 </font> <font color="green" size="1">20:00</font></td>
-            <td>&nbsp;Atletico Madrid - Osasuna</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=3&amp;t2id=20&amp;ly=2020" title="Atletico Madrid vs Osasuna" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Atletico Madrid - Osasuna</td>
+<td align="center">
+<b>2 - 0</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">11:00</font></td>
-            <td>&nbsp;Getafe - Valladolid</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=4&amp;t2id=10&amp;ly=2020" title="Getafe vs Valladolid" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Getafe - Valladolid</td>
+<td align="center">
+<b>2 - 0</b></td>
+<td align="center">
+(1-0)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">13:00</font></td>
-            <td>&nbsp;Celta Vigo - Mallorca</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=13&amp;t2id=5&amp;ly=2020" title="Celta Vigo vs Mallorca" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Celta Vigo - Mallorca</td>
+<td align="center">
+<b>2 - 2</b></td>
+<td align="center">
+(1-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">15:00</font></td>
-            <td>&nbsp;Espanyol - Real Betis</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=11&amp;t2id=9&amp;ly=2020" title="Espanyol vs Real Betis" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> Espanyol - Real Betis</td>
+<td align="center">
+<b>2 - 2</b></td>
+<td align="center">
+(2-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">17:30</font></td>
-            <td>&nbsp;FC Sevilla - Villarreal</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=12&amp;t2id=15&amp;ly=2020" title="FC Sevilla vs Villarreal" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr class="odd">
-
-            <td align="right"><font size="1" color="gray">Sun. 15 Dec. 
+<td> FC Sevilla - Villarreal</td>
+<td align="center">
+<b>1 - 2</b></td>
+<td align="center">
+(0-1)
+</td>
+</tr>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 15 Dec. 
 </font> <font color="green" size="1">20:00</font></td>
-            <td>&nbsp;Valencia - Real Madrid</td>
-            <td align="center">
-                <b><a href="h2h.asp?league=spain&amp;t1id=1&amp;t2id=14&amp;ly=2020" title="Valencia vs Real Madrid" target="_top"><img src="img/staticon.png" alt="stats"></a></b></td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
+<td> Valencia - Real Madrid</td>
+<td align="center">
+<b>1 - 1</b></td>
+<td align="center">
+(0-0)
+</td>
+</tr>
+</table>
