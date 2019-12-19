@@ -398,6 +398,7 @@ function allDone() {
 
 
   seasonFixtures.push(fixtureTeam);
+         console.log(seasonFixtures)
  }
 
 
@@ -665,7 +666,7 @@ if(seasonFixtures2018.length > 200) clearInterval(interval);
             if (awayTeam == xmlTeamsFrom[t].childNodes[0].nodeValue) awayTeam = xmlTeamsTo[t].childNodes[0].nodeValue
             } 
           
-       
+
             const homeTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
            // console.log(homeTeamFixturesArray)
 
