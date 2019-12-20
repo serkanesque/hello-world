@@ -1,7 +1,7 @@
 <table cellpadding="3" cellspacing="1" width="99%">
 <tbody><tr bgcolor="#dddddd">
 <td align="center" height="30" width="90"><b>
-Away
+Home
 </b></td>
 <td align="center"><b>0-10</b></td>
 <td align="center"><b>11-20</b></td>
@@ -22,16 +22,136 @@ Away
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u232-aves" target="_top">Aves</a>
+<a href="team.asp?league=poland&amp;stats=1-arka-gdynia" target="_top">Arka Gdynia</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-0
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 2-3
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+2-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=10-gornik-zabrze" target="_top">Gornik Zabrze</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-4
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=2-jagiellonia" target="_top">Jagiellonia</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-7
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=12-korona-kielce" target="_top">Korona Kielce</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -40,61 +160,289 @@ Away
 1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
 <b>
-1-4
+3-1
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
+0-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-6-10
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-12
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u234-belenenses" target="_top">Belenenses</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
+<td align="center" bgcolor="#FFFFCC">
+0-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
 <td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=16-ks-cracovia" target="_top">KS Cracovia</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
 0-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-1
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+12-3
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=8-lech-poznan" target="_top">Lech Poznan</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-0
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+13-2
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=6-lechia-gdansk" target="_top">Lechia Gdansk</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-3
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
 3-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-0
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-3
+0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-3
+0-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=3-legia-warsaw" target="_top">Legia Warsaw</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+12-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+15-6
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=5-lks-lodz" target="_top">LKS Lodz</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
 0-4
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-4
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-9
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-7
+</td>
+</tr>
+<tr class="trow8">
+<td align="left" height="26">
+<a href="team.asp?league=poland&amp;stats=7-piast-gliwice" target="_top">Piast Gliwice</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-1
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+1-0
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-2
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+2-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-2
 </b>
 </td>
 <td>
@@ -102,136 +450,86 @@ Away
 <td align="center" bgcolor="#D2FFE9">
 4-2
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-11
+<td align="center" bgcolor="#D2FFE9">
+9-7
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u229-benfica" target="_top">Benfica</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<a href="team.asp?league=poland&amp;stats=4-pogon-szczecin" target="_top">Pogon Szczecin</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
+2-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
 2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-1
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u246-boavista" target="_top">Boavista</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-1
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
 1-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 0-1
-</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
 1-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-1
-</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
+2-0
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
 2-1
-</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
+<td align="center" bgcolor="#D2FFE9">
+6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-2
+6-4
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u338-famalicao" target="_top">Famalicao</a>
+<a href="team.asp?league=poland&amp;stats=11-rakow-czest." target="_top">Rakow Czest.</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-2
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
+<b>
+2-0
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
+1-2
 </td>
 <td align="center" bgcolor="#FFFFCC">
-1-1
+2-2
 </td>
-<td align="center" bgcolor="#FFCCCC">
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
 <b>
-1-4
+2-0
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
@@ -240,482 +538,132 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-5
+5-6
 </td>
-<td align="center" bgcolor="#FFCCCC">
-9-10
+<td align="center" bgcolor="#D2FFE9">
+9-6
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u235-fc-porto" target="_top">FC Porto</a>
+<a href="team.asp?league=poland&amp;stats=14-slask-wroclaw" target="_top">Slask Wroclaw</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
 2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-4-4
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u1072-gil-vicente" target="_top">Gil Vicente</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u230-guimaraes" target="_top">Guimaraes</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-7
-</td>
-<td align="center" bgcolor="#FFFFCC">
-5-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u237-maritimo" target="_top">Maritimo</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u241-moreirense" target="_top">Moreirense</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-5-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u343-pacos-ferreira" target="_top">Pacos Ferreira</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 2-3
 </td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-3
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
 <td>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
+<td align="center" bgcolor="#D2FFE9">
+9-6
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-9
+<td align="center" bgcolor="#FFFFCC">
+9-9
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u245-portimonense" target="_top">Portimonense</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+<a href="team.asp?league=poland&amp;stats=13-wisla-krakow" target="_top">Wisla Krakow</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
 3-0
 </b>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-4-4
+<td align="center" bgcolor="#D2FFE9">
+5-4
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-6
+<td align="center" bgcolor="#D2FFE9">
+6-4
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u240-rio-ave" target="_top">Rio Ave</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+<a href="team.asp?league=poland&amp;stats=9-wisla-plock" target="_top">Wisla Plock</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
+2-1
 </td>
-<td>
+<td align="center" bgcolor="#D2FFE9">
+1-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
 </td>
 <td align="center" bgcolor="#FFFFCC">
 3-3
 </td>
-<td align="center" bgcolor="#FFCCCC">
-3-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u238-santa-clara" target="_top">Santa Clara</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u243-sporting-braga" target="_top">Sporting Braga</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u242-sporting-cp" target="_top">Sporting CP</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-2-0
+3-1
 </b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
 </td>
 <td>
 </td>
@@ -723,32 +671,26 @@ Away
 6-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-7-4
+8-5
 </td>
 </tr>
 <tr class="trow8">
 <td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u233-tondela" target="_top">Tondela</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<a href="team.asp?league=poland&amp;stats=15-zaglebie-lubin" target="_top">Zaglebie Lubin</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
+2-2
 </td>
-<td align="center" bgcolor="#FFCCCC">
+<td align="center" bgcolor="#D2FFE9">
 <b>
-0-2
+4-1
 </b>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+0-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
@@ -759,57 +701,19 @@ Away
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
-<td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
 </td>
 <td align="center" bgcolor="#FFFFCC">
-5-5
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=portugal&amp;stats=u231-vitoria-setubal" target="_top">Vitoria Setubal</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+2-2
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-4
+<td align="center" bgcolor="#D2FFE9">
+10-5
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
+<td align="center" bgcolor="#D2FFE9">
+7-5
 </td>
 </tr>
 <tr><td align="center" colspan="13">
