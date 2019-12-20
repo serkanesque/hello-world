@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Version 1.1</title>
+<title>Version 1.1.2</title>
 </head>
 
 </head>
@@ -490,6 +490,7 @@ function allDone() {
   totalGoals = team.scored + team.last20scored;
   team.seventyScoredPercent = Math.round((team.scored / totalGoals) * 100);
   halfTimeAwayGoals.push(team)
+  console.log(team.name + " " + team.scored + " " + team.conceded + " " + totalGoals)
 
 
  }
@@ -829,10 +830,12 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
   }
 
         for (var j = 0; j < halfTimeAwayGoals.length; j++) {
-        if (halfTimeAwayGoals[j].name == homeTable[i].name) {
+        if (halfTimeAwayGoals[j].name == awayTable[i].name) {
         var scored070 = halfTimeAwayGoals[j].scored;
         var conceded070 = halfTimeAwayGoals[j].conceded;
         var seventyScoredPercent = halfTimeAwayGoals[j].seventyScoredPercent;
+           console.log(halfTimeAwayGoals[j].name + " " + halfTimeAwayGoals[j].scored + " " + scored070)
+
         }
         }
 
@@ -1225,8 +1228,10 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
      matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
      matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");          
 }
-
-
+console.log("4")
+console.log(homeTeamFixturesArray[3])
+console.log("5")
+console.log(homeTeamFixturesArray[4])
 
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
@@ -1239,14 +1244,13 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 }
 
 
-console.log(today + " " + matchDate);
 if(today == matchDate) {
   todaysGame = "matchday"
 
 }else {
     todaysGame = ""
 }
-   console.log(todaysGame)
+ 
 
 
 
