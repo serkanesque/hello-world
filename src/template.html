@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title of the document</title>
+<title>Version 1.0</title>
 </head>
 
 </head>
@@ -81,7 +81,7 @@ background-color: lightgreen;
 <section id="fixtures"></section>
 <section id="seasonFixtures"></section>
 <section id="seasonFixtures2018"></section>
-<section id="fixtures2"></section>
+
 
 
 
@@ -201,13 +201,9 @@ get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt')
 
  document.getElementById("seasonFixtures2018").innerHTML = response;
 
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures2.txt').then(function(response) {
-
- document.getElementById("fixtures2").innerHTML = response;
-
 })).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
  document.getElementById("nav").innerHTML = response;
-interval = setInterval(allDone, 250)
+interval = setInterval(allDone, 50)
 }))
 
 
@@ -504,6 +500,7 @@ function allDone() {
  var seasonFixtures = [];
  var allSeasonFixtures = [];
 
+
  for (var i = 0; i < seasonFixturesInnerDivs.length; i++) {
   var fixtureTeam = new Object();
   fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
@@ -517,6 +514,8 @@ function allDone() {
 
   fixtureTeam.hName = fixture[0];
   fixtureTeam.aName = fixture[1];
+
+
  
 
 
@@ -531,6 +530,8 @@ function allDone() {
 
 
   seasonFixtures.push(fixtureTeam);
+
+  //console.log(fixtureTeam.hName)
  }
 
 
@@ -538,11 +539,17 @@ function allDone() {
 
  var seasonFixtures2018ContainerDiv = document.getElementById("seasonFixtures2018");
  var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("trow3");
- console.log(seasonFixtures2018InnerDivs.length)
+
  if(seasonFixtures2018InnerDivs.length==0) {
   var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
 }
- console.log(seasonFixtures2018InnerDivs.length)
+ if(seasonFixtures2018InnerDivs.length==0) {
+   console.log("No historical data");
+   clearInterval(interval)
+}
+console.log(seasonFixtures2018InnerDivs.length)
+
+ //console.log(seasonFixtures2018InnerDivs.length)
  var seasonFixtures2018 = [];
  var allSeasonFixtures = [];
 
@@ -573,23 +580,20 @@ function allDone() {
  }
 
 
-if(seasonFixtures2018.length > 50) clearInterval(interval);
+if(seasonFixtures2018.length > 150) clearInterval(interval);
 
 
 
 
 
- var fix2ContainerDiv = document.getElementById("fixtures2");
+ var fix2ContainerDiv = document.getElementById("fixtures");
  var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("trow2");
- fixtures2 = [];
+ if(fix2InnerDivs.length == 0 ) var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
+ console.log(fix2ContainerDiv);
 
 
- for (var i = 0; i < fix2InnerDivs.length; i++) {
-  var fixture = new Object();
-    fixture.time = fix2InnerDivs[i].getElementsByTagName("td")[0];    console.log(fixture.time)
 
 
-  }
 
 /*
             time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
@@ -829,26 +833,105 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
 
  var fixturesContainerDiv = document.getElementById("fixtures");
+ //console.log(fixturesContainerDiv)
  var fixturesInnerDivs = fixturesContainerDiv.getElementsByTagName("TR");
 
 
  markup = '<tr><td>Kickoff</td><td>home team</td><td>Last 3 games</td><td>Away team</td><td>Last 3 games</td><<td>pts delta</td><td>goals f delta</td><td>goals a delta</td><td>this season</td><td>last season h</td><td>last season a</td></tr>';
 
- for (var i = 1; i < fixturesInnerDivs.length; i++) {
+
+ for (var i = 0; i < fix2InnerDivs.length; i++) {
 
 
-            date = fixturesInnerDivs[i].childNodes[1].firstElementChild.textContent;
+   var tds = fix2InnerDivs[i].getElementsByTagName("td");
+var fixture = new Object();
+   for (var j = 0; j < tds.length; j++) {     
+    var time = tds[0].textContent.trim()
+    timeClean = time.replace(/[^\w\s]/gi, '');
+     if(timeClean != "away") {
+      time = timeClean.substring(0,3);
+      day = timeClean.substring(3,7);
+      matchDate =  time.concat(" ", day);
+      matchTime = matchDate.concat(" ", tds[1].textContent.trim())
+      date = matchTime;
+    }
+    homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
+    homeTeam2 = homeTeam2.trim();
+    if(homeTeam2.length != 0){
+      homeTeam = homeTeam2;
+      console.log(homeTeam);    
 
-            time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
-            fixture = fixturesInnerDivs[i].childNodes[3].textContent;            
-            fixture = fixture.trim();
-            fixture = fixture.split(' - ');
-            homeTeam = fixture[0].trim();
-            awayTeam = fixture[1].trim();
- 
+if(homeTeam == "E Frankfurt")  homeTeam = "E. Frankfurt" 
+if(homeTeam == "Pr Munster")  homeTeam = "Pr. Munster" 
+if(homeTeam == "Wurzburger K")  homeTeam = "Wurzburger K."
+if(homeTeam == "Defensa y J")  homeTeam = "Defensa y J."
+if(homeTeam == "Atl Tucuman")  homeTeam = "Atl. Tucuman"
+if(homeTeam == "T de Cordoba")  homeTeam = "T. de Cordoba"
+if(homeTeam == "Central Crdoba")  homeTeam = "Central C�rdoba"
+if(homeTeam == "Dagenham  R")  homeTeam = "Dagenham & R."
+if(homeTeam == "SaintEtienne")  homeTeam = "Saint-Etienne"
+if(homeTeam == "Rakow Czest")  homeTeam = "Rakow Czest."
+if(homeTeam == "Fatih Karag")  homeTeam = "Fatih Karag."
+if(homeTeam == "Menemen Bel")  homeTeam = "Menemen Bel."
+if(homeTeam == "MouscronP")  homeTeam = "Mouscron-P"
+if(homeTeam == "ZulteWaregem")  homeTeam = "Zulte-Waregem"
+if(homeTeam == "SintTruiden")  homeTeam = "Sint-Truiden"
 
-            homeTeam = homeTeam.substring(1)
+
+if(homeTeam == "FC Zrich")  homeTeam = "FC Z�rich"
+if(homeTeam == "Neuchtel Xamax")  homeTeam = "Neuch�tel Xamax"
+if(homeTeam == "St Gallen")  homeTeam = "St. Gallen"
+
+
+
+
+
+
+    }    
+  }
+  i++;
+  awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
+  var fixture = new Object();
+       awayTeam2 = awayTeamTds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
+    awayTeam2 = awayTeam2.trim();
+
+    if(awayTeam2.length != 0) {
+     awayTeam = awayTeam2;
+     console.log(awayTeam)
+if(awayTeam == "E Frankfurt")  awayTeam = "E. Frankfurt" 
+if(awayTeam == "Pr Munster")  awayTeam = "Pr. Munster" 
+if(awayTeam == "Wurzburger K")  awayTeam = "Wurzburger K." 
+if(awayTeam == "Defensa y J")  awayTeam = "Defensa y J."
+if(awayTeam == "Atl Tucuman")  awayTeam = "Atl. Tucuman"
+if(awayTeam == "T de Cordoba")  awayTeam = "T. de Cordoba"
+if(awayTeam == "Central Crdoba")  awayTeam = "Central C�rdoba"
+if(awayTeam == "SaintEtienne")  awayTeam = "Saint-Etienne"
+if(awayTeam == "Rakow Czest")  awayTeam = "Rakow Czest."
+if(awayTeam == "Fatih Karag")  awayTeam = "Fatih Karag."
+if(awayTeam == "Menemen Bel")  awayTeam = "Menemen Bel."
+if(awayTeam == "MouscronP")  awayTeam = "Mouscron-P"
+if(awayTeam == "ZulteWaregem")  awayTeam = "Zulte-Waregem"
+if(awayTeam == "SintTruiden")  awayTeam = "Sint-Truiden"
+  if(awayTeam == "FC Zrich")  awayTeam = "FC Z�rich"
+if(awayTeam == "Neuchtel Xamax")  awayTeam = "Neuch�tel Xamax"
+if(awayTeam == "St Gallen")  awayTeam = "St. Gallen"
+
+  } 
+
+
+
+
+
+
+
+
+
+           // homeTeam = homeTeam.substring(1)
        
+
+
+
+
 
 
  
@@ -858,6 +941,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
 
             const awayTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == awayTeam || team.aName == awayTeam});
+
 
 
             const pastHomeFixture =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
@@ -905,7 +989,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
  result = "n/a";
 
    }else{       
- console.log("defined");
+// console.log("defined");
     if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
             if(pastHomeFixture[0].hScore < pastHomeFixture[0].aScore) result = "hw"
             if(pastHomeFixture[0].hScore == pastHomeFixture[0].aScore) result = "d"
@@ -1108,8 +1192,7 @@ return resultObject
 
 
 
-
-
+//console.log(homeTeam)
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 { 
    
@@ -1119,6 +1202,8 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
      matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
      matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");          
 }
+
+
 
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
@@ -1249,8 +1334,8 @@ if(typeof pastHomeFixture[0] === 'undefined') {
             var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 
             //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
-            console.log(leagueTableTRs.length)
-             console.log(homeDrawTableTRs.length)
+            //console.log(leagueTableTRs.length)
+            // console.log(homeDrawTableTRs.length)
             for (var p = 0; p < homeDrawTableTRs.length; p++) {
 
 
