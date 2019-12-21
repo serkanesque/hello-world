@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Version 1.1.7</title>
+<title>Version 1.1.8</title>
 </head>
 
 </head>
@@ -183,7 +183,9 @@ var date = d.getDate();
 day = day.toString();
 day = day.substring(0,3);
 today = day.concat(" ",date)
-console.log(today)
+var n = d.getHours();
+var currentHours = d.getHours()
+
 
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
@@ -876,9 +878,10 @@ var fixture = new Object();
       time = timeClean.substring(0,3);
       day = timeClean.substring(3,7);
       matchDate =  time.concat(" ", day);
-      matchTime = matchDate.concat(" ", tds[1].textContent.trim())
-    
-      date = matchTime;
+      matchTime = matchDate.concat(" ", tds[1].textContent.trim())   
+       date = matchTime;
+      var hours = parseInt(matchTime.substring(6,9));
+  
     }
     homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
     homeTeam2 = homeTeam2.trim();
@@ -1252,7 +1255,10 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
      matchResultAwayTeam3 = determineResultAway(awayTeamFixturesArray[2], awayTeam, "away");
      matchResultAwayTeam4 = determineResultAway(awayTeamFixturesArray[3], awayTeam, "away");
      matchResultAwayTeam5 = determineResultAway(awayTeamFixturesArray[4], awayTeam, "away");          
+
+
 }
+
 
 
 
@@ -1279,6 +1285,10 @@ if(today == matchDate) {
     todaysGame = ""
 }
  
+
+if(currentHours > hours) {
+    displayClass = "hide";
+}
 
 
 
