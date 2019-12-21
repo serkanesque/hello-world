@@ -65,14 +65,16 @@ background-color: lightgreen;
 #awayDrawTable tr.team:nth-child(even) {background: #eee} 
 #tables tr:nth-child(even) {background: #eee} 
 */
-
+#tables td {border-right: 1px solid #ccc;border-bottom: 1px solid #ccc; text-align: center};
 
 
 #fixturesTable td.matchday {
   font-weight: bold;
   background-color: aliceblue;
 }
-#tables td {border-right: 1px solid #ccc;border-bottom: 1px solid #ccc; text-align: center;};
+
+
+tr.hide { display: none }
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -961,7 +963,7 @@ var awayTeamConceed70 =  halfTimeAwayGoals[j].conceded;
 }
 
 delta70minScore = homeTeamScored70 - awayTeamScored70;
-console.log(homeTeam + " " + awayTeam + " " + delta70minScore)
+
 
 
  delta70minGoalsAgasint =  awayTeamConceed70 -homeTeamConceed70;
@@ -1264,12 +1266,23 @@ if(today == matchDate) {
  
 
 
+fixtureDateNumber =  date.substring(4,6);
+var dd = new Date();
+
+
+if(parseInt(fixtureDateNumber) < d.getDate()) {
+  displayClass = "hide";
+  console.log("hide")
+}else {
+  displayClass = "show";
+    console.log("show")
+}
 
 
 
 
 if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr><td class='+ todaysGame +'>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + '>' + homeTable[j].name + '</td><td><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div><div class='+matchResult4.class + ' id='+ matchResult4.opponent +'>'+ matchResult4.lastGame + '<span class=toolTip>' + matchResult4.score +'</span></div><div class='+matchResult5.class + ' id='+ matchResult5.opponent +'>'+ matchResult5.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div></td>';
+markup = markup + '<tr class='+ displayClass +'><td class='+ todaysGame +'>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + '>' + homeTable[j].name + '</td><td><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div><div class='+matchResult4.class + ' id='+ matchResult4.opponent +'>'+ matchResult4.lastGame + '<span class=toolTip>' + matchResult4.score +'</span></div><div class='+matchResult5.class + ' id='+ matchResult5.opponent +'>'+ matchResult5.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div></td>';
 // console.log(homeTable[j].name)
 homePoints = homeTable[j].points;
 homeGoalsFor = homeTable[j].goalsF;
