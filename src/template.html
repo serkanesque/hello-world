@@ -1265,7 +1265,7 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 fixtureDateNumber =  date.substring(4,6);
 var dd = new Date();
 
-/*
+
 if(parseInt(fixtureDateNumber) < d.getDate()) {
   displayClass = "hide";
 }else {
@@ -1275,20 +1275,6 @@ if(parseInt(fixtureDateNumber) < d.getDate()) {
 if(parseInt(fixtureDateNumber) > d.getDate()) {
   displayClass = "hide";
 }
-*/
-
-  console.log(fixtureDateNumber)
-  
-if(parseInt(fixtureDateNumber) < 22) {
-  displayClass = "hide";
-}
-
-if(parseInt(fixtureDateNumber) == 22){
-  displayClass = "show";
-  console.log("show")
-}
-
-
 
 
 
@@ -1299,11 +1285,11 @@ if(today == matchDate) {
     todaysGame = ""
 }
  
-
+/*
 if(currentHours > hours) {
     displayClass = "hide";
 }
-
+*/
 
 
 if (homeTable[j].name == homeTeam) {
