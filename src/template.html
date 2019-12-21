@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Version 1.1.6</title>
+<title>Version 1.1.7</title>
 </head>
 
 </head>
@@ -60,19 +60,18 @@ background-color: lightgreen;
 .homeDraw,.awayDraw {
  background-color: white;
 }
-/*
-#homeDrawTable tr.team:nth-child(even) {background: #eee} 
-#awayDrawTable tr.team:nth-child(even) {background: #eee} 
-#tables tr:nth-child(even) {background: #eee} 
-*/
-#tables td {border-right: 1px solid #ccc;border-bottom: 1px solid #ccc; text-align: center};
+
+#tables td {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; 
+  text-align: center
+}
 
 
 #fixturesTable td.matchday {
   font-weight: bold;
   background-color: aliceblue;
 }
-
 
 tr.hide { display: none }
 </style>  
@@ -90,7 +89,6 @@ tr.hide { display: none }
 <section id="fixtures"></section>
 <section id="seasonFixtures"></section>
 <section id="seasonFixtures2018"></section>
-
 
 
 
@@ -1257,14 +1255,6 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 }
 
 
-if(today == matchDate) {
-  todaysGame = "matchday"
-
-}else {
-    todaysGame = ""
-}
- 
-
 
 fixtureDateNumber =  date.substring(4,6);
 var dd = new Date();
@@ -1272,12 +1262,18 @@ var dd = new Date();
 
 if(parseInt(fixtureDateNumber) < d.getDate()) {
   displayClass = "hide";
-  console.log("hide")
 }else {
   displayClass = "show";
-    console.log("show")
 }
 
+
+if(today == matchDate) {
+  todaysGame = "matchday"
+
+}else {
+    todaysGame = ""
+}
+ 
 
 
 
