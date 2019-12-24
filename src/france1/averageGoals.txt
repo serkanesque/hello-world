@@ -1,6 +1,3 @@
-<table width="100%" border="0" cellpadding="3" cellspacing="2">
-<tbody><tr><td valign="top" align="center"> 
-
 <table cellspacing="1" cellpadding="3" width="100%'">
 <tbody><tr bgcolor="#dddddd"><td rowspan="2"></td><td height="30" colspan="3" align="center"><b>
 Average goals at home
@@ -741,7 +738,8 @@ Total
 &nbsp;<a href="team.asp?league=france&amp;stats=u941-toulouse" target="_top">Toulouse</a>&nbsp;
 </td>
 <td align="center"><font color="green">
-1.00</font></td>
+1.00
+</font></td>
 <td align="center"><font color="red">
 1.56
 </font></td>
@@ -767,11 +765,9 @@ Total
 </b></font></td>
 <td align="center"><b>
 3.05
-</b></td><td align="center"><font color="blue"><b>
+</b></td>
+<td align="center"><font color="blue"><b>
 19
 </b></font></td>
 </tr>
-</tbody></table>
-
-</td></tr>
 </tbody></table>
