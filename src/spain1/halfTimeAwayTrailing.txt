@@ -33,10 +33,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u105-valencia" target="_top">Valencia</a> 
 </td>
 <td align="center">
-5 out of 8
+5 out of 9
 </td>
 <td align="center">
-62%
+56%
 </td>
 <td align="center">
 2
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u104-getafe" target="_top">Getafe</a> 
 </td>
 <td align="center">
-3 out of 8
+3 out of 9
 </td>
 <td align="center">
-38%
+33%
 </td>
 <td align="center">
 1
@@ -120,10 +120,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u106-atletico-madrid" target="_top">Atletico Madrid</a> 
 </td>
 <td align="center">
-1 out of 8
+1 out of 9
 </td>
 <td align="center">
-12%
+11%
 </td>
 <td align="center">
 0
@@ -294,10 +294,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u96-real-sociedad" target="_top">Real Sociedad</a> 
 </td>
 <td align="center">
-1 out of 9
+1 out of 10
 </td>
 <td align="center">
-11%
+10%
 </td>
 <td align="center">
 0
@@ -352,10 +352,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u107-athletic-bilbao" target="_top">Athletic Bilbao</a> 
 </td>
 <td align="center">
-2 out of 8
+2 out of 9
 </td>
 <td align="center">
-25%
+22%
 </td>
 <td align="center">
 0
@@ -410,10 +410,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u102-fc-sevilla" target="_top">FC Sevilla</a> 
 </td>
 <td align="center">
-1 out of 9
+1 out of 10
 </td>
 <td align="center">
-11%
+10%
 </td>
 <td align="center">
 0
@@ -439,10 +439,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u93-celta-vigo" target="_top">Celta Vigo</a> 
 </td>
 <td align="center">
-3 out of 8
+3 out of 9
 </td>
 <td align="center">
-38%
+33%
 </td>
 <td align="center">
 0
@@ -464,35 +464,6 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=spain&amp;stats=u882-granada" target="_top">Granada</a> 
-</td>
-<td align="center">
-3 out of 8
-</td>
-<td align="center">
-38%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3 - 9
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u108-leganes" target="_top">Leganes</a> 
 </td>
@@ -521,27 +492,56 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=spain&amp;stats=u882-granada" target="_top">Granada</a> 
+</td>
+<td align="center">
+4 out of 9
+</td>
+<td align="center">
+44%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3 - 12
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u94-espanyol" target="_top">Espanyol</a> 
 </td>
 <td align="center">
-3 out of 8
+4 out of 9
 </td>
 <td align="center">
-38%
-</td>
-<td align="center">
-0
+44%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3
+0
 </td>
 <td align="center">
-0 - 7
+4
+</td>
+<td align="center">
+0 - 9
 </td>
 <td align="center">
 0
@@ -551,35 +551,6 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=spain&amp;stats=u98-alaves" target="_top">Alaves</a> 
-</td>
-<td align="center">
-5 out of 8
-</td>
-<td align="center">
-62%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4 - 15
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u891-mallorca" target="_top">Mallorca</a> 
 </td>
@@ -600,6 +571,35 @@ Avg Pts
 </td>
 <td align="center">
 4 - 15
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=spain&amp;stats=u98-alaves" target="_top">Alaves</a> 
+</td>
+<td align="center">
+6 out of 9
+</td>
+<td align="center">
+67%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+5 - 19
 </td>
 <td align="center">
 0

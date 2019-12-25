@@ -43,11 +43,11 @@ Rangers
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -57,7 +57,7 @@ Rangers
 </td>
 <td align="center">
 <font color="blue">
-21
+24
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Rangers
 </font>
 </td>
 <td align="center">
-+16
++19
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -125,7 +125,7 @@ Celtic
 </font>
 </td>
 <td height="20">
-Aberdeen
+Motherwell
 </td>
 <td align="center">
 <font color="green">
@@ -133,30 +133,30 @@ Aberdeen
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
 <font color="blue">
-10
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+10
 </font>
 </td>
 <td align="center">
--1
++3
 </td>
 <td align="center">
 <b>
-14
+16
 </b>
 </td>
 </tr>
@@ -168,38 +168,38 @@ Aberdeen
 </font>
 </td>
 <td height="20">
-Motherwell
+Aberdeen
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-12
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+13
 </font>
 </td>
 <td align="center">
-+2
+-2
 </td>
 <td align="center">
 <b>
-13
+14
 </b>
 </td>
 </tr>
@@ -297,49 +297,6 @@ Livingston
 </font>
 </td>
 <td height="20">
-Ross County
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
--9
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20">
 Kilmarnock
 </td>
 <td align="center">
@@ -378,7 +335,7 @@ Kilmarnock
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
+8
 </b>
 </font>
 </td>
@@ -421,12 +378,12 @@ St Johnstone
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+9
 </b>
 </font>
 </td>
 <td height="20">
-Hearts
+Ross County
 </td>
 <td align="center">
 <font color="green">
@@ -437,23 +394,66 @@ Hearts
 1
 </td>
 <td align="center">
-2
+4
 </td>
 <td align="center">
-6
+4
 </td>
 <td align="center">
 <font color="blue">
-5
+7
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+20
 </font>
 </td>
 <td align="center">
--12
+-13
+</td>
+<td align="center">
+<b>
+7
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td height="20">
+Hearts
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-13
 </td>
 <td align="center">
 <b>
@@ -516,14 +516,14 @@ St Mirren
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 8
@@ -543,7 +543,7 @@ St Mirren
 </td>
 <td align="center">
 <b>
-3
+4
 </b>
 </td>
 </tr>

@@ -30,6 +30,35 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
+ <a href="team.asp?league=france&amp;stats=u958-paris-sg" target="_top">Paris SG</a> 
+</td>
+<td align="center">
+5 out of 9
+</td>
+<td align="center">
+56%
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+17 - 1
+</td>
+<td align="center">
+15
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
  <a href="team.asp?league=france&amp;stats=u946-lille" target="_top">Lille</a> 
 </td>
 <td align="center">
@@ -52,35 +81,6 @@ Avg Pts
 </td>
 <td align="center">
 24
-</td>
-<td align="center">
-<b>3.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=france&amp;stats=u958-paris-sg" target="_top">Paris SG</a> 
-</td>
-<td align="center">
-4 out of 8
-</td>
-<td align="center">
-50%
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-13 - 0
-</td>
-<td align="center">
-12
 </td>
 <td align="center">
 <b>3.00</b>
@@ -149,10 +149,10 @@ Avg Pts
  <a href="team.asp?league=france&amp;stats=u940-marseille" target="_top">Marseille</a> 
 </td>
 <td align="center">
-3 out of 9
+3 out of 10
 </td>
 <td align="center">
-33%
+30%
 </td>
 <td align="center">
 3
@@ -207,10 +207,10 @@ Avg Pts
  <a href="team.asp?league=france&amp;stats=u951-reims" target="_top">Reims</a> 
 </td>
 <td align="center">
-2 out of 9
+2 out of 10
 </td>
 <td align="center">
-22%
+20%
 </td>
 <td align="center">
 2
@@ -233,13 +233,16 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=france&amp;stats=u942-nantes" target="_top">Nantes</a> 
+ <a href="team.asp?league=france&amp;stats=u957-strasbourg" target="_top">Strasbourg</a> 
 </td>
 <td align="center">
-1 out of 9
+6 out of 10
 </td>
 <td align="center">
-11%
+60%
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 1
@@ -248,50 +251,18 @@ Avg Pts
 0
 </td>
 <td align="center">
-0
+13 - 5
 </td>
 <td align="center">
-2 - 1
+16
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-<b>3.00</b>
+<b>2.67</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=france&amp;stats=u945-dijon" target="_top">Dijon</a> 
-</td>
-<td align="center">
-1 out of 8
-</td>
-<td align="center">
-12%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1 - 0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<b>3.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=france&amp;stats=u957-strasbourg" target="_top">Strasbourg</a> 
+ <a href="team.asp?league=france&amp;stats=u943-monaco" target="_top">Monaco</a> 
 </td>
 <td align="center">
 5 out of 9
@@ -309,7 +280,36 @@ Avg Pts
 0
 </td>
 <td align="center">
-11 - 4
+15 - 5
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+<b>2.60</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=france&amp;stats=u950-nice" target="_top">Nice</a> 
+</td>
+<td align="center">
+5 out of 10
+</td>
+<td align="center">
+50%
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+12 - 3
 </td>
 <td align="center">
 13
@@ -319,6 +319,35 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=france&amp;stats=u944-montpellier" target="_top">Montpellier</a> 
+</td>
+<td align="center">
+6 out of 10
+</td>
+<td align="center">
+60%
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+13 - 4
+</td>
+<td align="center">
+15
+</td>
+<td align="center">
+<b>2.50</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=france&amp;stats=u954-lyon" target="_top">Lyon</a> 
 </td>
@@ -345,93 +374,6 @@ Avg Pts
 </td>
 <td align="center">
 <b>2.50</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=france&amp;stats=u943-monaco" target="_top">Monaco</a> 
-</td>
-<td align="center">
-4 out of 8
-</td>
-<td align="center">
-50%
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-10 - 4
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-<b>2.50</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=france&amp;stats=u950-nice" target="_top">Nice</a> 
-</td>
-<td align="center">
-4 out of 9
-</td>
-<td align="center">
-44%
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-9 - 3
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-<b>2.50</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=france&amp;stats=u944-montpellier" target="_top">Montpellier</a> 
-</td>
-<td align="center">
-5 out of 9
-</td>
-<td align="center">
-56%
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-9 - 4
-</td>
-<td align="center">
-12
-</td>
-<td align="center">
-<b>2.40</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -526,10 +468,10 @@ Avg Pts
  <a href="team.asp?league=france&amp;stats=u947-rennes" target="_top">Rennes</a> 
 </td>
 <td align="center">
-3 out of 8
+3 out of 9
 </td>
 <td align="center">
-38%
+33%
 </td>
 <td align="center">
 2
@@ -551,6 +493,35 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=france&amp;stats=u945-dijon" target="_top">Dijon</a> 
+</td>
+<td align="center">
+2 out of 9
+</td>
+<td align="center">
+22%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3 - 2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=france&amp;stats=u334-metz" target="_top">Metz</a> 
 </td>
@@ -574,6 +545,35 @@ Avg Pts
 </td>
 <td align="center">
 6
+</td>
+<td align="center">
+<b>1.50</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=france&amp;stats=u942-nantes" target="_top">Nantes</a> 
+</td>
+<td align="center">
+2 out of 10
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3 - 3
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 <b>1.50</b>

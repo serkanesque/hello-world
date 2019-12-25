@@ -28,13 +28,15 @@ Away
 0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
+<b>
 0-2
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
@@ -50,16 +52,16 @@ Away
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-2-5
+3-5
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-5
+4-7
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-8
+7-8
 </td>
 </tr>
 <tr class="trow8">
@@ -119,7 +121,7 @@ Away
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-3
+0-4
 </b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
@@ -128,8 +130,8 @@ Away
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
@@ -140,10 +142,10 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-8
+5-9
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-2
+5-2
 </td>
 </tr>
 <tr class="trow8">
@@ -198,20 +200,22 @@ Away
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+<b>
+4-1
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFFFCC">
+2-2
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -223,11 +227,11 @@ Away
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-4-6
-</td>
 <td align="center" bgcolor="#D2FFE9">
-6-5
+7-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
 </td>
 </tr>
 <tr class="trow8">
@@ -361,22 +365,18 @@ Away
 <a href="team.asp?league=italy2&amp;stats=u413-frosinone" target="_top">Frosinone</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
 2-0
-</b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-2
+0-3
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 0-2
-</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
@@ -391,14 +391,12 @@ Away
 1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 2-4
-</b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-5
+2-6
 </td>
 <td align="center" bgcolor="#FFCCCC">
 3-6
@@ -463,11 +461,13 @@ Away
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#D2FFE9">
+1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
+<b>
+0-3
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-2
@@ -492,7 +492,7 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-4
+1-6
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-5
@@ -695,11 +695,11 @@ Away
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -718,7 +718,7 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-8
+3-9
 </td>
 <td align="center" bgcolor="#D2FFE9">
 7-4
@@ -778,14 +778,14 @@ Away
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#D2FFE9">
+1-0
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-3
+2-4
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -804,7 +804,7 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-7
+6-8
 </td>
 <td align="center" bgcolor="#FFCCCC">
 4-12
@@ -814,8 +814,8 @@ Away
 <td align="left" height="26">
 <a href="team.asp?league=italy2&amp;stats=u72-venezia" target="_top">Venezia</a>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFFFCC">
+2-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
@@ -834,8 +834,8 @@ Away
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
@@ -848,10 +848,10 @@ Away
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-4
+3-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
-8-5
+8-6
 </td>
 </tr>
 <tr class="trow8">
@@ -881,23 +881,23 @@ Away
 1-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
+<b>
+0-2
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
-3-1
-</b>
+3-2
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 4-7
 </td>
-<td align="center" bgcolor="#D2FFE9">
-5-4
+<td align="center" bgcolor="#FFCCCC">
+5-6
 </td>
 </tr>
 <tr><td align="center" colspan="13">

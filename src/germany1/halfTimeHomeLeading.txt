@@ -33,10 +33,10 @@ Avg Pts
  <a href="team.asp?league=germany&amp;stats=u151-bayern-munich" target="_top">Bayern Munich</a> 
 </td>
 <td align="center">
-5 out of 8
+5 out of 9
 </td>
 <td align="center">
-62%
+56%
 </td>
 <td align="center">
 5
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=germany&amp;stats=u168-rb-leipzig" target="_top">RB Leipzig</a> 
 </td>
 <td align="center">
-4 out of 7
+4 out of 8
 </td>
 <td align="center">
-57%
+50%
 </td>
 <td align="center">
 4
@@ -178,10 +178,10 @@ Avg Pts
  <a href="team.asp?league=germany&amp;stats=u155-hertha-berlin" target="_top">Hertha Berlin</a> 
 </td>
 <td align="center">
-2 out of 7
+2 out of 8
 </td>
 <td align="center">
-29%
+25%
 </td>
 <td align="center">
 2
@@ -204,7 +204,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=germany&amp;stats=u164-leverkusen" target="_top">Leverkusen</a> 
+ <a href="team.asp?league=germany&amp;stats=u180-paderborn" target="_top">Paderborn</a> 
 </td>
 <td align="center">
 2 out of 9
@@ -233,28 +233,28 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=germany&amp;stats=u180-paderborn" target="_top">Paderborn</a> 
+ <a href="team.asp?league=germany&amp;stats=u164-leverkusen" target="_top">Leverkusen</a> 
 </td>
 <td align="center">
-1 out of 8
+2 out of 9
 </td>
 <td align="center">
-12%
+22%
 </td>
 <td align="center">
-1
-</td>
-<td align="center">
-0
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-2 - 0
+0
 </td>
 <td align="center">
-3
+4 - 1
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 <b>3.00</b>
@@ -265,25 +265,25 @@ Avg Pts
  <a href="team.asp?league=germany&amp;stats=u157-dusseldorf" target="_top">Dusseldorf</a> 
 </td>
 <td align="center">
-1 out of 7
+2 out of 8
 </td>
 <td align="center">
-14%
+25%
 </td>
 <td align="center">
-1
-</td>
-<td align="center">
-0
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-2 - 0
+0
 </td>
 <td align="center">
-3
+4 - 1
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 <b>3.00</b>
@@ -323,10 +323,10 @@ Avg Pts
  <a href="team.asp?league=germany&amp;stats=u165-fsv-mainz" target="_top">FSV Mainz</a> 
 </td>
 <td align="center">
-1 out of 7
+1 out of 8
 </td>
 <td align="center">
-14%
+12%
 </td>
 <td align="center">
 1
@@ -348,35 +348,6 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=germany&amp;stats=u162-schalke-04" target="_top">Schalke 04</a> 
-</td>
-<td align="center">
-3 out of 8
-</td>
-<td align="center">
-38%
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-8 - 4
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<b>2.33</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=germany&amp;stats=u160-e.-frankfurt" target="_top">E. Frankfurt</a> 
 </td>
@@ -405,7 +376,7 @@ Avg Pts
 <b>2.25</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=germany&amp;stats=u167-dortmund" target="_top">Dortmund</a> 
 </td>
@@ -434,15 +405,44 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=germany&amp;stats=u162-schalke-04" target="_top">Schalke 04</a> 
+</td>
+<td align="center">
+4 out of 9
+</td>
+<td align="center">
+44%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+10 - 6
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
 <tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=germany&amp;stats=u152-hoffenheim" target="_top">Hoffenheim</a> 
 </td>
 <td align="center">
-2 out of 8
+2 out of 9
 </td>
 <td align="center">
-25%
+22%
 </td>
 <td align="center">
 1
@@ -494,6 +494,35 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
+ <a href="team.asp?league=germany&amp;stats=u172-fc-koln" target="_top">FC Koln</a> 
+</td>
+<td align="center">
+4 out of 8
+</td>
+<td align="center">
+50%
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6 - 5
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>1.50</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
  <a href="team.asp?league=germany&amp;stats=u159-freiburg" target="_top">Freiburg</a> 
 </td>
 <td align="center">
@@ -519,35 +548,6 @@ Avg Pts
 </td>
 <td align="center">
 <b>1.50</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=germany&amp;stats=u172-fc-koln" target="_top">FC Koln</a> 
-</td>
-<td align="center">
-3 out of 7
-</td>
-<td align="center">
-43%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-5 - 5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<b>1.00</b>
 </td>
 </tr>
 </tbody></table>
