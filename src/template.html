@@ -539,24 +539,14 @@ function allDone() {
 
   fixtureTeam.hName = fixture[0];
   fixtureTeam.aName = fixture[1];
-
-
- 
-
-
-/*
-  for (var t = 0; t < xmlTeamsFrom.length; t++) {
-   if (fixtureTeam.hName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.hName = xmlTeamsTo[t].childNodes[0].nodeValue;
-   if (fixtureTeam.aName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.aName = xmlTeamsTo[t].childNodes[0].nodeValue
-  }
-*/
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
 
+  console.log(fixtureTeam.hName + " " + fixtureTeam.hScore + " " +  fixtureTeam.aName + " " +  fixtureTeam.aScore)
 
   seasonFixtures.push(fixtureTeam);
 
-  //console.log(fixtureTeam.hName)
+
  }
 
 
@@ -1276,7 +1266,7 @@ if(parseInt(fixtureDateNumber) ==  21) {
   displayClass = "hide";
 }
 
-console.log(fixtureDateNumber)
+
 if(parseInt(fixtureDateNumber) ==  26) {
   displayClass = "show";
 }
