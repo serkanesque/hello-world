@@ -14,44 +14,44 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
+Sat11
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
+00:00
 </font></td>
 <td align="left" height="20" width="25"><font color="#666666" size="1">
  home
 </font></td>
 <td align="right" width="120">
-Dijon
+Amiens
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-50%
+46%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 3 (37.5%)Draws: 3 (37.5%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:8.3px;"></div></span>
+<span title="Wins: 3 (37.5%)Draws: 2 (25.0%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
 </td>
 <td align="center">
-<font color="red">
-2.00
+<font color="green">
+2.88
 </font>
 </td>
 <td align="center">
-<font color="black">
-50%
+<font color="green">
+62%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=189-17-20-2020-dijon-metz" target="_top" title="Dijon vs Metz">stats</a></li>
+<a href="pmatch.asp?league=france&amp;stats=200-10-1-2020-amiens-montpellier" target="_top" title="Amiens vs Montpellier">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -60,58 +60,301 @@ Dijon
  away
 </font></td>
 <td align="right">
-Metz
+Montpellier
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:4.6px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-22%
+19%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 1 (11.1%)Draws: 3 (33.3%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:18.3px;"></div></span>
+<span title="Wins: 0 (0.0%)Draws: 5 (55.6%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:18.3px;"></div><div class="barred" style="width:14.7px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
-2.11
+2.00
 </font>
 </td>
 <td align="center">
 <font color="red">
-22%
+33%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
+Sat11
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
+00:00
 </font></td>
 <td align="left" height="20" width="25"><font color="#666666" size="1">
  home
 </font></td>
 <td align="right" width="120">
-Marseille
+Angers
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.5px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-74%
+67%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 6 (66.7%)Draws: 2 (22.2%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:3.7px;"></div></span>
+<span title="Wins: 6 (60.0%)Draws: 2 (20.0%)Defeats: 2 (20.0%)"><div class="bargreen" style="width:19.8px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:6.6px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.10
+</font>
+</td>
+<td align="center">
+<font color="red">
+30%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=196-13-9-2020-angers-nice" target="_top" title="Angers vs Nice">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Nice
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:6.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+26%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (22.2%)Draws: 1 (11.1%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.56
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Bordeaux
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.44
+</font>
+</td>
+<td align="center">
+<font color="red">
+33%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=192-14-16-2020-bordeaux-lyon" target="_top" title="Bordeaux vs Lyon">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Lyon
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+50%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (40.0%)Draws: 3 (30.0%)Defeats: 3 (30.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:9.9px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.00
+</font>
+</td>
+<td align="center">
+<font color="green">
+70%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Dijon
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+48%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (33.3%)Draws: 4 (44.4%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:7.3px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.22
+</font>
+</td>
+<td align="center">
+<font color="green">
+56%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=197-17-5-2020-dijon-lille" target="_top" title="Dijon vs Lille">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Lille
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:4.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+19%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (11.1%)Draws: 2 (22.2%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.44
+</font>
+</td>
+<td align="center">
+<font color="red">
+33%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr>
+<td align="center" colspan="11" style="padding-top:5px;" valign="top" width="100%">
+<div style="max-width:645px;text-align:center;">
+<!-- /15188745/SoccerStats//Responsive//Unit2 -->
+<div id="div-gpt-ad-1454573773278-1">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454573773278-1'); });
+</script>
+</div>
+</div>
+</td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Metz
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+37%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (22.2%)Draws: 4 (44.4%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:11.0px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -124,11 +367,11 @@ Marseille
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=184-7-4-2020-marseille-nimes" target="_top" title="Marseille vs Nimes">stats</a></li>
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=199-20-19-2020-metz-strasbourg" target="_top" title="Metz vs Strasbourg">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -137,18 +380,326 @@ Marseille
  away
 </font></td>
 <td align="right">
-Nimes
+Strasbourg
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.7px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:6.5px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-15%
+26%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 0 (0.0%)Draws: 4 (44.4%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:18.3px;"></div></span>
+<span title="Wins: 2 (22.2%)Draws: 1 (11.1%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+1.89
+</font>
+</td>
+<td align="center">
+<font color="red">
+22%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Nimes
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+33%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (25.0%)Draws: 2 (25.0%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.13
+</font>
+</td>
+<td align="center">
+<font color="red">
+38%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=198-4-8-2020-nimes-reims" target="_top" title="Nimes vs Reims">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Reims
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:13.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+54%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (50.0%)Draws: 1 (12.5%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+1.50
+</font>
+</td>
+<td align="center">
+<font color="red">
+0%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Rennes
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:17.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+70%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (66.7%)Draws: 1 (11.1%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:7.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.78
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=193-2-7-2020-rennes-marseille" target="_top" title="Rennes vs Marseille">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Marseille
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+56%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (44.4%)Draws: 3 (33.3%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:7.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.67
+</font>
+</td>
+<td align="center">
+<font color="red">
+44%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Saint-Etienne
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+48%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (33.3%)Draws: 4 (44.4%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:7.3px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.44
+</font>
+</td>
+<td align="center">
+<font color="red">
+44%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=194-18-6-2020-saint-etienne-nantes" target="_top" title="Saint-Etienne vs Nantes">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Nantes
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+37%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (33.3%)Draws: 1 (11.1%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:18.3px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.00
+</font>
+</td>
+<td align="center">
+<font color="red">
+33%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat11
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+00:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Toulouse
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+33%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (33.3%)Draws: 0 (0.0%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.56
+</font>
+</td>
+<td align="center">
+<font color="red">
+44%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=france&amp;stats=195-12-11-2020-toulouse-brest" target="_top" title="Toulouse vs Brest">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Brest
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:4.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+19%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (11.1%)Draws: 2 (22.2%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:22.0px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -161,340 +712,18 @@ Nimes
 </font>
 </td>
 <td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Monaco
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (62.5%)Draws: 1 (12.5%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-4.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-88%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=188-15-5-2020-monaco-lille" target="_top" title="Monaco vs Lille">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Lille
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-21%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (12.5%)Draws: 2 (25.0%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Montpellier
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:17.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-70%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (66.7%)Draws: 1 (11.1%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.56
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=181-1-11-2020-montpellier-brest" target="_top" title="Montpellier vs Brest">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Brest
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-21%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (12.5%)Draws: 2 (25.0%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr>
-<td align="center" colspan="11" style="padding-top:5px;" valign="top" width="100%">
-<div style="max-width:645px;text-align:center;">
-<script type="text/javascript">
-(adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;	
-</script>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- middle_300x250 -->
-<ins class="adsbygoogle" data-ad-client="ca-pub-3910539363731532" data-ad-slot="5658579383" style="display:inline-block;width:300px;height:250px"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-</td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Nantes
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:17.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-70%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (66.7%)Draws: 1 (11.1%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.56
-</font>
-</td>
-<td align="center">
-<font color="red">
-22%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=187-6-13-2020-nantes-angers" target="_top" title="Nantes vs Angers">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Angers
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-21%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (12.5%)Draws: 2 (25.0%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="green">
-62%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Nice
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-63%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (55.6%)Draws: 2 (22.2%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:18.3px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.22
-</font>
-</td>
-<td align="center">
-<font color="green">
-67%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=185-9-12-2020-nice-toulouse" target="_top" title="Nice vs Toulouse">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Toulouse
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:2.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-11%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 0 (0.0%)Draws: 3 (33.3%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.56
-</font>
-</td>
-<td align="center">
-<font color="green">
-78%
-</font>
-</td>
-<td align="left">
 <div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
+<tr><td colspan="11" height="12"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
+Sun12
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
+20:00
 </font></td>
 <td align="left" height="20" width="25"><font color="#666666" size="1">
  home
@@ -503,206 +732,15 @@ Sat21
 Paris SG
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:21.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:22.2px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-88%
+89%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 7 (87.5%)Draws: 0 (0.0%)Defeats: 1 (12.5%)"><div class="bargreen" style="width:28.9px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:4.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=182-3-10-2020-paris-sg-amiens" target="_top" title="Paris SG vs Amiens">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Amiens
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-22%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (11.1%)Draws: 3 (33.3%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.22
-</font>
-</td>
-<td align="center">
-<font color="green">
-67%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Reims
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (33.3%)Draws: 5 (55.6%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:18.3px;"></div><div class="barred" style="width:3.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.33
-</font>
-</td>
-<td align="center">
-<font color="red">
-22%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=186-8-16-2020-reims-lyon" target="_top" title="Reims vs Lyon">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Lyon
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.11
-</font>
-</td>
-<td align="center">
-<font color="green">
-78%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Rennes
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (62.5%)Draws: 1 (12.5%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=183-2-14-2020-rennes-bordeaux" target="_top" title="Rennes vs Bordeaux">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Bordeaux
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (33.3%)Draws: 3 (33.3%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+<span title="Wins: 8 (88.9%)Draws: 0 (0.0%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:29.3px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:3.7px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -715,51 +753,11 @@ Bordeaux
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat21
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Strasbourg
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-63%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (55.6%)Draws: 2 (22.2%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:18.3px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=france&amp;stats=190-19-18-2020-strasbourg-saint-etienne" target="_top" title="Strasbourg vs Saint-Etienne">stats</a></li>
+<a href="pmatch.asp?league=france&amp;stats=191-3-15-2020-paris-sg-monaco" target="_top" title="Paris SG vs Monaco">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -768,31 +766,31 @@ Strasbourg
  away
 </font></td>
 <td align="right">
-Saint-Etienne
+Monaco
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-44%
+33%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (44.4%)Draws: 0 (0.0%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:18.3px;"></div></span>
+<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-2.89
+<font color="red">
+2.11
 </font>
 </td>
 <td align="center">
 <font color="green">
-67%
+56%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">
