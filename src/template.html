@@ -542,10 +542,7 @@ function allDone() {
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
 
-  console.log(fixtureTeam.hName + " " + fixtureTeam.hScore + " " +  fixtureTeam.aName + " " +  fixtureTeam.aScore)
-
   seasonFixtures.push(fixtureTeam);
-
 
  }
 
@@ -676,7 +673,7 @@ if(seasonFixtures2018.length > 150) clearInterval(interval);
 
 
   var drawPercentCalc = parseInt(team.draws) / (parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) * 100;
-  team.drawPercent = drawPercentCalc.toFixed(1);
+  team.drawPercent = parseInt(drawPercentCalc.toFixed(1));
 
 
 var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2);
@@ -794,7 +791,8 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
 
   var drawPercentCalc = parseInt(team.draws) / (parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) * 100;
-  team.drawPercent = drawPercentCalc.toFixed(1);
+  team.drawPercent = parseInt(drawPercentCalc.toFixed(1));
+
 
  
   awayTable.push(team);
@@ -967,7 +965,7 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
 
 
- 
+
 
             const homeTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
          
@@ -1225,7 +1223,7 @@ return resultObject
 
 
 
-//console.log(homeTeam)
+
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 { 
    
