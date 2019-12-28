@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=italy2&amp;stats=u1148-juve-stabia" target="_top">Juve Stabia</a> 
 </td>
 <td align="center">
-5 out of 8
+5 out of 9
 </td>
 <td align="center">
-62%
+56%
 </td>
 <td align="center">
 2
@@ -91,10 +91,10 @@ Avg Pts
  <a href="team.asp?league=italy2&amp;stats=u86-benevento" target="_top">Benevento</a> 
 </td>
 <td align="center">
-1 out of 8
+1 out of 9
 </td>
 <td align="center">
-12%
+11%
 </td>
 <td align="center">
 0
@@ -149,10 +149,10 @@ Avg Pts
  <a href="team.asp?league=italy2&amp;stats=u77-spezia" target="_top">Spezia</a> 
 </td>
 <td align="center">
-4 out of 8
+4 out of 9
 </td>
 <td align="center">
-50%
+44%
 </td>
 <td align="center">
 1
@@ -204,6 +204,35 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
+ <a href="team.asp?league=italy2&amp;stats=u71-perugia" target="_top">Perugia</a> 
+</td>
+<td align="center">
+5 out of 9
+</td>
+<td align="center">
+56%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5 - 10
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<b>0.40</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
  <a href="team.asp?league=italy2&amp;stats=u74-cremonese" target="_top">Cremonese</a> 
 </td>
 <td align="center">
@@ -231,7 +260,7 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=italy2&amp;stats=u1147-virtus-entella" target="_top">Virtus Entella</a> 
 </td>
@@ -260,15 +289,15 @@ Avg Pts
 <b>0.25</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=italy2&amp;stats=u81-crotone" target="_top">Crotone</a> 
 </td>
 <td align="center">
-4 out of 8
+4 out of 9
 </td>
 <td align="center">
-50%
+44%
 </td>
 <td align="center">
 0
@@ -281,35 +310,6 @@ Avg Pts
 </td>
 <td align="center">
 2 - 6
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.25</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=italy2&amp;stats=u71-perugia" target="_top">Perugia</a> 
-</td>
-<td align="center">
-4 out of 8
-</td>
-<td align="center">
-50%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3 - 8
 </td>
 <td align="center">
 1
@@ -410,10 +410,10 @@ Avg Pts
  <a href="team.asp?league=italy2&amp;stats=u80-cittadella" target="_top">Cittadella</a> 
 </td>
 <td align="center">
-2 out of 8
+2 out of 9
 </td>
 <td align="center">
-25%
+22%
 </td>
 <td align="center">
 0
@@ -465,13 +465,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=italy2&amp;stats=u1149-pordenone" target="_top">Pordenone</a> 
+ <a href="team.asp?league=italy2&amp;stats=u75-pescara" target="_top">Pescara</a> 
 </td>
 <td align="center">
-3 out of 8
+3 out of 9
 </td>
 <td align="center">
-38%
+33%
 </td>
 <td align="center">
 0
@@ -494,42 +494,13 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy2&amp;stats=u75-pescara" target="_top">Pescara</a> 
-</td>
-<td align="center">
-3 out of 8
-</td>
-<td align="center">
-38%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3 - 8
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=italy2&amp;stats=u1145-pisa" target="_top">Pisa</a> 
 </td>
 <td align="center">
-3 out of 8
+3 out of 9
 </td>
 <td align="center">
-38%
+33%
 </td>
 <td align="center">
 0
@@ -550,7 +521,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=italy2&amp;stats=u674-livorno" target="_top">Livorno</a> 
 </td>
@@ -579,15 +550,15 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy2&amp;stats=u423-empoli" target="_top">Empoli</a> 
+ <a href="team.asp?league=italy2&amp;stats=u1149-pordenone" target="_top">Pordenone</a> 
 </td>
 <td align="center">
-4 out of 8
+4 out of 9
 </td>
 <td align="center">
-50%
+44%
 </td>
 <td align="center">
 0
@@ -599,7 +570,36 @@ Avg Pts
 4
 </td>
 <td align="center">
-0 - 10
+3 - 12
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=italy2&amp;stats=u423-empoli" target="_top">Empoli</a> 
+</td>
+<td align="center">
+5 out of 9
+</td>
+<td align="center">
+56%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+0 - 11
 </td>
 <td align="center">
 0
