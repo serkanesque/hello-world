@@ -30,42 +30,13 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=england2&amp;stats=u56-bristol-city" target="_top">Bristol City</a> 
-</td>
-<td align="center">
-2 out of 12
-</td>
-<td align="center">
-17%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3 - 5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<b>1.50</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=england2&amp;stats=u48-west-brom" target="_top">West Brom</a> 
 </td>
 <td align="center">
-3 out of 12
+3 out of 13
 </td>
 <td align="center">
-25%
+23%
 </td>
 <td align="center">
 1
@@ -86,7 +57,7 @@ Avg Pts
 <b>1.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england2&amp;stats=u46-reading" target="_top">Reading</a> 
 </td>
@@ -110,6 +81,35 @@ Avg Pts
 </td>
 <td align="center">
 4
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=england2&amp;stats=u56-bristol-city" target="_top">Bristol City</a> 
+</td>
+<td align="center">
+3 out of 13
+</td>
+<td align="center">
+23%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5 - 8
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 <b>1.00</b>
@@ -149,10 +149,10 @@ Avg Pts
  <a href="team.asp?league=england2&amp;stats=u55-qp-rangers" target="_top">QP Rangers</a> 
 </td>
 <td align="center">
-5 out of 11
+5 out of 12
 </td>
 <td align="center">
-45%
+42%
 </td>
 <td align="center">
 1
@@ -178,10 +178,10 @@ Avg Pts
  <a href="team.asp?league=england2&amp;stats=u57-nottm-forest" target="_top">Nottm Forest</a> 
 </td>
 <td align="center">
-4 out of 12
+4 out of 13
 </td>
 <td align="center">
-33%
+31%
 </td>
 <td align="center">
 0
@@ -262,35 +262,6 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=england2&amp;stats=u32-huddersfield" target="_top">Huddersfield</a> 
-</td>
-<td align="center">
-5 out of 11
-</td>
-<td align="center">
-45%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-7 - 13
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<b>0.40</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=england2&amp;stats=u50-wigan-athletic" target="_top">Wigan Athletic</a> 
 </td>
 <td align="center">
@@ -313,6 +284,35 @@ Avg Pts
 </td>
 <td align="center">
 1
+</td>
+<td align="center">
+<b>0.33</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england2&amp;stats=u32-huddersfield" target="_top">Huddersfield</a> 
+</td>
+<td align="center">
+6 out of 12
+</td>
+<td align="center">
+50%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+7 - 14
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 <b>0.33</b>
@@ -349,13 +349,42 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
+ <a href="team.asp?league=england2&amp;stats=u30-fulham" target="_top">Fulham</a> 
+</td>
+<td align="center">
+5 out of 12
+</td>
+<td align="center">
+42%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4 - 9
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.20</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
  <a href="team.asp?league=england2&amp;stats=u47-derby-county" target="_top">Derby County</a> 
 </td>
 <td align="center">
-5 out of 11
+5 out of 12
 </td>
 <td align="center">
-45%
+42%
 </td>
 <td align="center">
 0
@@ -376,7 +405,7 @@ Avg Pts
 <b>0.20</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england2&amp;stats=u66-leeds-utd" target="_top">Leeds Utd</a> 
 </td>
@@ -405,27 +434,27 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england2&amp;stats=u51-sheffield-wed" target="_top">Sheffield Wed</a> 
 </td>
 <td align="center">
-3 out of 12
+4 out of 13
 </td>
 <td align="center">
-25%
-</td>
-<td align="center">
-0
+31%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3
+0
 </td>
 <td align="center">
-2 - 5
+4
+</td>
+<td align="center">
+4 - 8
 </td>
 <td align="center">
 0
@@ -434,7 +463,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england2&amp;stats=u211-barnsley" target="_top">Barnsley</a> 
 </td>
@@ -455,35 +484,6 @@ Avg Pts
 </td>
 <td align="center">
 3 - 7
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=england2&amp;stats=u65-swansea-city" target="_top">Swansea City</a> 
-</td>
-<td align="center">
-1 out of 11
-</td>
-<td align="center">
-9%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1 - 5
 </td>
 <td align="center">
 0
@@ -523,25 +523,25 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=england2&amp;stats=u30-fulham" target="_top">Fulham</a> 
+ <a href="team.asp?league=england2&amp;stats=u65-swansea-city" target="_top">Swansea City</a> 
 </td>
 <td align="center">
-4 out of 11
+2 out of 12
 </td>
 <td align="center">
-36%
-</td>
-<td align="center">
-0
+17%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-4
+0
 </td>
 <td align="center">
-1 - 6
+2
+</td>
+<td align="center">
+2 - 8
 </td>
 <td align="center">
 0
@@ -613,10 +613,10 @@ Avg Pts
  <a href="team.asp?league=england2&amp;stats=u62-millwall" target="_top">Millwall</a> 
 </td>
 <td align="center">
-3 out of 12
+3 out of 13
 </td>
 <td align="center">
-25%
+23%
 </td>
 <td align="center">
 0
@@ -642,10 +642,10 @@ Avg Pts
  <a href="team.asp?league=england2&amp;stats=u54-preston" target="_top">Preston</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 12
 </td>
 <td align="center">
-36%
+33%
 </td>
 <td align="center">
 0
@@ -671,10 +671,10 @@ Avg Pts
  <a href="team.asp?league=england2&amp;stats=u52-birmingham-city" target="_top">Birmingham City</a> 
 </td>
 <td align="center">
-4 out of 12
+4 out of 13
 </td>
 <td align="center">
-33%
+31%
 </td>
 <td align="center">
 0

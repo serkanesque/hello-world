@@ -30,64 +30,6 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=england5&amp;stats=u310-bromley" target="_top">Bromley</a> 
-</td>
-<td align="center">
-3 out of 13
-</td>
-<td align="center">
-23%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4 - 4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<b>1.33</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=england5&amp;stats=u296-halifax-town" target="_top">Halifax Town</a> 
-</td>
-<td align="center">
-3 out of 13
-</td>
-<td align="center">
-23%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3 - 4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<b>1.33</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
  <a href="team.asp?league=england5&amp;stats=u268-yeovil-town" target="_top">Yeovil Town</a> 
 </td>
 <td align="center">
@@ -110,6 +52,64 @@ Avg Pts
 </td>
 <td align="center">
 1
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england5&amp;stats=u310-bromley" target="_top">Bromley</a> 
+</td>
+<td align="center">
+4 out of 14
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4 - 7
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>1.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=england5&amp;stats=u296-halifax-town" target="_top">Halifax Town</a> 
+</td>
+<td align="center">
+4 out of 14
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4 - 9
+</td>
+<td align="center">
+4
 </td>
 <td align="center">
 <b>1.00</b>
@@ -178,28 +178,28 @@ Avg Pts
  <a href="team.asp?league=england5&amp;stats=u300-solihull-moors" target="_top">Solihull Moors</a> 
 </td>
 <td align="center">
-5 out of 13
+6 out of 14
 </td>
 <td align="center">
-38%
+43%
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5 - 10
+7 - 12
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-<b>0.60</b>
+<b>0.67</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -265,10 +265,10 @@ Avg Pts
  <a href="team.asp?league=england5&amp;stats=u312-sutton-utd" target="_top">Sutton Utd</a> 
 </td>
 <td align="center">
-3 out of 13
+3 out of 14
 </td>
 <td align="center">
-23%
+21%
 </td>
 <td align="center">
 0
@@ -378,42 +378,13 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=england5&amp;stats=u1101-chorley-fc" target="_top">Chorley FC</a> 
-</td>
-<td align="center">
-4 out of 13
-</td>
-<td align="center">
-31%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4 - 11
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.25</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=england5&amp;stats=u307-ebbsfleet-utd" target="_top">Ebbsfleet Utd</a> 
 </td>
 <td align="center">
-5 out of 13
+5 out of 14
 </td>
 <td align="center">
-38%
+36%
 </td>
 <td align="center">
 0
@@ -434,15 +405,15 @@ Avg Pts
 <b>0.20</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=england5&amp;stats=u1100-torquay-utd" target="_top">Torquay Utd</a> 
+ <a href="team.asp?league=england5&amp;stats=u1101-chorley-fc" target="_top">Chorley FC</a> 
 </td>
 <td align="center">
-7 out of 13
+5 out of 14
 </td>
 <td align="center">
-54%
+36%
 </td>
 <td align="center">
 0
@@ -451,27 +422,27 @@ Avg Pts
 1
 </td>
 <td align="center">
-6
+4
 </td>
 <td align="center">
-6 - 15
+5 - 14
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-<b>0.14</b>
+<b>0.20</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england5&amp;stats=u301-afc-fylde" target="_top">AFC Fylde</a> 
 </td>
 <td align="center">
-8 out of 13
+8 out of 14
 </td>
 <td align="center">
-62%
+57%
 </td>
 <td align="center">
 0
@@ -484,6 +455,35 @@ Avg Pts
 </td>
 <td align="center">
 9 - 20
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.13</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england5&amp;stats=u1100-torquay-utd" target="_top">Torquay Utd</a> 
+</td>
+<td align="center">
+8 out of 14
+</td>
+<td align="center">
+57%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+8 - 21
 </td>
 <td align="center">
 1
@@ -523,42 +523,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=england5&amp;stats=u305-maidenhead-utd" target="_top">Maidenhead Utd</a> 
-</td>
-<td align="center">
-1 out of 13
-</td>
-<td align="center">
-8%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0 - 2
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
  <a href="team.asp?league=england5&amp;stats=u314-hartlepool" target="_top">Hartlepool</a> 
 </td>
 <td align="center">
-2 out of 13
+2 out of 14
 </td>
 <td align="center">
-15%
+14%
 </td>
 <td align="center">
 0
@@ -579,7 +550,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england5&amp;stats=u298-wrexham" target="_top">Wrexham</a> 
 </td>
@@ -600,6 +571,35 @@ Avg Pts
 </td>
 <td align="center">
 3 - 8
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england5&amp;stats=u305-maidenhead-utd" target="_top">Maidenhead Utd</a> 
+</td>
+<td align="center">
+2 out of 14
+</td>
+<td align="center">
+14%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0 - 5
 </td>
 <td align="center">
 0
