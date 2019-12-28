@@ -1,941 +1,773 @@
 <table cellspacing="1" cellpadding="3" width="100%'">
-    <tbody>
-        <tr bgcolor="#dddddd">
-            <td rowspan="2"></td>
-            <td height="30" colspan="3" align="center"><b>
+<tbody><tr bgcolor="#dddddd"><td rowspan="2"></td><td height="30" colspan="3" align="center"><b>
 Average goals at home
-</b></td>
-            <td>&nbsp;&nbsp;</td>
-            <td colspan="3" align="center">
-                <b>
+</b></td><td>&nbsp;&nbsp;</td><td colspan="3" align="center">
+<b>
 Average goals away
-</b></td>
-            <td>&nbsp;&nbsp;</td>
-            <td colspan="3" align="center"><b>
+</b></td><td>&nbsp;&nbsp;</td><td colspan="3" align="center"><b>
 Avgerage goals overall
-</b></td>
-            <td rowspan="2" align="center"><span title="Total matches played">
+</b></td><td rowspan="2" align="center"><span title="Total matches played">
 GP
-</span></td>
-        </tr>
-        <tr bgcolor="#dddddd">
-            <td height="28" align="center">
-                Scored
-            </td>
-            <td align="center">
-                Conc.
-            </td>
-            <td align="center">
-                Total
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center">
-                Scored
-            </td>
-            <td align="center">
-                Conc.
-            </td>
-            <td align="center">
-                Total
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><b>
+</span></td></tr>
+<tr bgcolor="#dddddd"><td height="28" align="center">
+Scored
+</td><td align="center">
+Conc.
+</td><td align="center">
+Total
+</td><td>&nbsp;&nbsp;</td><td align="center">
+Scored
+</td>
+<td align="center">
+Conc.
+</td><td align="center">
+Total
+</td><td>&nbsp;&nbsp;</td><td align="center"><b>
 Scored
 </b></td>
-            <td align="center"><b>
+<td align="center"><b>
 Conc.
-</b></td>
-            <td align="center"><b>
+</b></td><td align="center"><b>
 Total
-</b></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u211-barnsley" target="_top">Barnsley</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.75
+</b></td></tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u44-arsenal" target="_top">Arsenal</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.56
 </font></td>
-            <td align="center"><font color="red">
-2.00
+<td align="center"><font color="red">
+1.67
 </font></td>
-            <td align="center">
-                3.75
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.91
-</font></td>
-            <td align="center"><font color="red">
-2.00
-</font></td>
-            <td align="center">
-                2.91
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.35
-</b></font></td>
-            <td align="center"><font color="red"><b>
-2.00
-</b></font></td>
-            <td align="center"><b>
-3.35
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u52-birmingham-city" target="_top">Birmingham City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.18
-</font></td>
-            <td align="center"><font color="red">
-1.09
-</font></td>
-            <td align="center">
-                2.27
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.92
-</font></td>
-            <td align="center"><font color="red">
-1.83
-</font></td>
-            <td align="center">
-                2.75
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.04
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.48
-</b></font></td>
-            <td align="center"><b>
-2.52
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u61-blackburn" target="_top">Blackburn</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.36
-</font></td>
-            <td align="center"><font color="red">
-0.91
-</font></td>
-            <td align="center">
-                2.27
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.36
-</font></td>
-            <td align="center"><font color="red">
-1.64
-</font></td>
-            <td align="center">
-                3.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.36
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.27
-</b></font></td>
-            <td align="center"><b>
-2.64
-</b></td>
-            <td align="center"><font color="blue"><b>
-22
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u58-brentford" target="_top">Brentford</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.73
-</font></td>
-            <td align="center"><font color="red">
-0.64
-</font></td>
-            <td align="center">
-                2.36
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.25
-</font></td>
-            <td align="center"><font color="red">
-0.92
-</font></td>
-            <td align="center">
-                2.17
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.48
-</b></font></td>
-            <td align="center"><font color="red"><b>
-0.78
-</b></font></td>
-            <td align="center"><b>
-2.26
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u56-bristol-city" target="_top">Bristol City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.45
-</font></td>
-            <td align="center"><font color="red">
-1.27
-</font></td>
-            <td align="center">
-                2.73
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.50
-</font></td>
-            <td align="center"><font color="red">
-1.58
-</font></td>
-            <td align="center">
-                3.08
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.48
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.43
-</b></font></td>
-            <td align="center"><b>
-2.91
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u37-cardiff-city" target="_top">Cardiff City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.64
-</font></td>
-            <td align="center"><font color="red">
-0.82
-</font></td>
-            <td align="center">
-                2.45
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.33
-</font></td>
-            <td align="center"><font color="red">
-1.92
-</font></td>
-            <td align="center">
-                3.25
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.48
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.39
-</b></font></td>
-            <td align="center"><b>
-2.87
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u206-charlton" target="_top">Charlton</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.25
-</font></td>
-            <td align="center"><font color="red">
-1.17
-</font></td>
-            <td align="center">
-                2.42
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.36
-</font></td>
-            <td align="center"><font color="red">
-1.64
-</font></td>
-            <td align="center">
-                3.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.30
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.39
-</b></font></td>
-            <td align="center"><b>
-2.70
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u47-derby-county" target="_top">Derby County</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.17
-</font></td>
-            <td align="center"><font color="red">
-0.75
-</font></td>
-            <td align="center">
-                1.92
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.64
-</font></td>
-            <td align="center"><font color="red">
-2.00
-</font></td>
-            <td align="center">
-                2.64
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-0.91
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.35
-</b></font></td>
-            <td align="center"><b>
-2.26
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u30-fulham" target="_top">Fulham</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.92
-</font></td>
-            <td align="center"><font color="red">
-1.17
-</font></td>
-            <td align="center">
-                3.08
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.09
-</font></td>
-            <td align="center"><font color="red">
-1.00
-</font></td>
-            <td align="center">
-                2.09
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.52
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.09
-</b></font></td>
-            <td align="center"><b>
-2.61
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u32-huddersfield" target="_top">Huddersfield</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
-1.25
-</font></td>
-            <td align="center">
-                2.25
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.27
-</font></td>
-            <td align="center"><font color="red">
-1.82
-</font></td>
-            <td align="center">
-                3.09
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.13
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.52
-</b></font></td>
-            <td align="center"><b>
-2.65
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u68-hull-city" target="_top">Hull City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.75
-</font></td>
-            <td align="center"><font color="red">
-1.17
-</font></td>
-            <td align="center">
-                2.92
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.45
-</font></td>
-            <td align="center"><font color="red">
-1.55
-</font></td>
-            <td align="center">
-                3.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.61
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.35
-</b></font></td>
-            <td align="center"><b>
-2.96
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u66-leeds-utd" target="_top">Leeds Utd</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.64
-</font></td>
-            <td align="center"><font color="red">
-0.64
-</font></td>
-            <td align="center">
-                2.27
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.50
-</font></td>
-            <td align="center"><font color="red">
-0.67
-</font></td>
-            <td align="center">
-                2.17
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.57
-</b></font></td>
-            <td align="center"><font color="red"><b>
-0.65
-</b></font></td>
-            <td align="center"><b>
-2.22
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u208-luton-town" target="_top">Luton Town</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.45
-</font></td>
-            <td align="center"><font color="red">
-1.55
-</font></td>
-            <td align="center">
-                3.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
-2.50
-</font></td>
-            <td align="center">
-                3.50
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.22
-</b></font></td>
-            <td align="center"><font color="red"><b>
-2.04
-</b></font></td>
-            <td align="center"><b>
-3.26
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u63-middlesbrough" target="_top">Middlesbrough</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-0.92
-</font></td>
-            <td align="center"><font color="red">
-0.92
-</font></td>
-            <td align="center">
-                1.83
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.91
-</font></td>
-            <td align="center"><font color="red">
-1.91
-</font></td>
-            <td align="center">
-                2.82
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-0.91
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.39
-</b></font></td>
-            <td align="center"><b>
-2.30
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u62-millwall" target="_top">Millwall</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.55
-</font></td>
-            <td align="center"><font color="red">
-1.18
-</font></td>
-            <td align="center">
-                2.73
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
-1.42
-</font></td>
-            <td align="center">
-                2.42
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.26
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.30
-</b></font></td>
-            <td align="center"><b>
-2.57
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u57-nottm-forest" target="_top">Nottm Forest</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
+<td align="center">
+3.22
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
 1.10
 </font></td>
-            <td align="center">
-                2.10
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.50
+<td align="center"><font color="red">
+1.30
 </font></td>
-            <td align="center"><font color="red">
-1.00
-</font></td>
-            <td align="center">
-                2.50
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.27
+<td align="center">
+2.40
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.32
 </b></font></td>
-            <td align="center"><font color="red"><b>
-1.05
+<td align="center"><font color="red"><b>
+1.47
 </b></font></td>
-            <td align="center"><b>
-2.32
+<td align="center"><b>
+2.79
 </b></td>
-            <td align="center"><font color="blue"><b>
-22
+<td align="center"><font color="blue"><b>
+19
 </b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u54-preston" target="_top">Preston</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-2.42
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u69-aston-villa" target="_top">Aston Villa</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.30
 </font></td>
-            <td align="center"><font color="red">
-1.08
+<td align="center"><font color="red">
+1.40
 </font></td>
-            <td align="center">
-                3.50
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.55
-</font></td>
-            <td align="center"><font color="red">
-1.27
-</font></td>
-            <td align="center">
-                1.82
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.52
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.17
-</b></font></td>
-            <td align="center"><b>
+<td align="center">
 2.70
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u55-qp-rangers" target="_top">QP Rangers</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.75
-</font></td>
-            <td align="center"><font color="red">
-2.00
-</font></td>
-            <td align="center">
-                3.75
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.45
-</font></td>
-            <td align="center"><font color="red">
-1.82
-</font></td>
-            <td align="center">
-                3.27
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.61
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.91
-</b></font></td>
-            <td align="center"><b>
-3.52
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u46-reading" target="_top">Reading</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.55
-</font></td>
-            <td align="center"><font color="red">
-1.45
-</font></td>
-            <td align="center">
-                3.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
-1.00
-</font></td>
-            <td align="center">
-                2.00
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.27
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.23
-</b></font></td>
-            <td align="center"><b>
-2.50
-</b></td>
-            <td align="center"><font color="blue"><b>
-22
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u51-sheffield-wed" target="_top">Sheffield Wed</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.18
-</font></td>
-            <td align="center"><font color="red">
-0.64
-</font></td>
-            <td align="center">
-                1.82
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.75
-</font></td>
-            <td align="center"><font color="red">
-1.08
-</font></td>
-            <td align="center">
-                2.83
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.48
-</b></font></td>
-            <td align="center"><font color="red"><b>
-0.87
-</b></font></td>
-            <td align="center"><b>
-2.35
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u67-stoke-city" target="_top">Stoke City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-1.17
-</font></td>
-            <td align="center"><font color="red">
-1.50
-</font></td>
-            <td align="center">
-                2.67
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.00
-</font></td>
-            <td align="center"><font color="red">
-1.73
-</font></td>
-            <td align="center">
-                2.73
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.09
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.61
-</b></font></td>
-            <td align="center"><b>
-2.70
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u65-swansea-city" target="_top">Swansea City</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
 1.33
 </font></td>
-            <td align="center"><font color="red">
-1.25
+<td align="center"><font color="red">
+2.11
 </font></td>
-            <td align="center">
-                2.58
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.27
-</font></td>
-            <td align="center"><font color="red">
-1.09
-</font></td>
-            <td align="center">
-                2.36
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-1.30
+<td align="center">
+3.44
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.32
 </b></font></td>
-            <td align="center"><font color="red"><b>
-1.17
+<td align="center"><font color="red"><b>
+1.74
 </b></font></td>
-            <td align="center"><b>
-2.48
+<td align="center"><b>
+3.05
 </b></td>
-            <td align="center"><font color="blue"><b>
-23
+<td align="center"><font color="blue"><b>
+19
 </b></font></td>
-        </tr>
-        <tr class="trow8">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u48-west-brom" target="_top">West Brom</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
-2.64
-</font></td>
-            <td align="center"><font color="red">
-1.45
-</font></td>
-            <td align="center">
-                4.09
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-1.42
-</font></td>
-            <td align="center"><font color="red">
-0.67
-</font></td>
-            <td align="center">
-                2.08
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-2.00
-</b></font></td>
-            <td align="center"><font color="red"><b>
-1.04
-</b></font></td>
-            <td align="center"><b>
-3.04
-</b></td>
-            <td align="center"><font color="blue"><b>
-23
-</b></font></td>
-        </tr>
-        <tr class="trow2">
-            <td align="right" height="26">
-                &nbsp;<a href="team.asp?league=england2&amp;stats=u50-wigan-athletic" target="_top">Wigan Athletic</a>&nbsp;
-            </td>
-            <td align="center"><font color="green">
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u36-bournemouth" target="_top">Bournemouth</a>&nbsp;
+</td>
+<td align="center"><font color="green">
 1.00
 </font></td>
-            <td align="center"><font color="red">
-1.27
+<td align="center"><font color="red">
+1.40
 </font></td>
-            <td align="center">
-                2.27
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green">
-0.82
+<td align="center">
+2.40
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.11
 </font></td>
-            <td align="center"><font color="red">
-1.91
+<td align="center"><font color="red">
+1.33
 </font></td>
-            <td align="center">
-                2.73
-            </td>
-            <td>&nbsp;&nbsp;</td>
-            <td align="center"><font color="green"><b>
-0.91
+<td align="center">
+2.44
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.05
 </b></font></td>
-            <td align="center"><font color="red"><b>
-1.59
+<td align="center"><font color="red"><b>
+1.37
 </b></font></td>
-            <td align="center"><b>
-2.50
+<td align="center"><b>
+2.42
 </b></td>
-            <td align="center"><font color="blue"><b>
-22
+<td align="center"><font color="blue"><b>
+19
 </b></font></td>
-        </tr>
-    </tbody>
-</table>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u35-brighton" target="_top">Brighton</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.33
+</font></td>
+<td align="center"><font color="red">
+1.22
+</font></td>
+<td align="center">
+2.56
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.00
+</font></td>
+<td align="center"><font color="red">
+1.70
+</font></td>
+<td align="center">
+2.70
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.16
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.47
+</b></font></td>
+<td align="center"><b>
+2.63
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u43-burnley" target="_top">Burnley</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.44
+</font></td>
+<td align="center"><font color="red">
+1.44
+</font></td>
+<td align="center">
+2.89
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.00
+</font></td>
+<td align="center"><font color="red">
+1.70
+</font></td>
+<td align="center">
+2.70
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.21
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.58
+</b></font></td>
+<td align="center"><b>
+2.79
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u33-chelsea" target="_top">Chelsea</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.10
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+2.10
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+2.44
+</font></td>
+<td align="center"><font color="red">
+1.89
+</font></td>
+<td align="center">
+4.33
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.74
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.42
+</b></font></td>
+<td align="center"><b>
+3.16
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u31-crystal-palace" target="_top">Crystal Palace</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+0.90
+</font></td>
+<td align="center"><font color="red">
+0.90
+</font></td>
+<td align="center">
+1.80
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+0.89
+</font></td>
+<td align="center"><font color="red">
+1.33
+</font></td>
+<td align="center">
+2.22
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+0.89
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.11
+</b></font></td>
+<td align="center"><b>
+2.00
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u39-everton" target="_top">Everton</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.20
+</font></td>
+<td align="center"><font color="red">
+1.10
+</font></td>
+<td align="center">
+2.30
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.00
+</font></td>
+<td align="center"><font color="red">
+2.00
+</font></td>
+<td align="center">
+3.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.11
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.53
+</b></font></td>
+<td align="center"><b>
+2.63
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u27-leicester-city" target="_top">Leicester City</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.90
+</font></td>
+<td align="center"><font color="red">
+0.90
+</font></td>
+<td align="center">
+2.80
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+2.44
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+3.44
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+2.16
+</b></font></td>
+<td align="center"><font color="red"><b>
+0.95
+</b></font></td>
+<td align="center"><b>
+3.11
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u40-liverpool" target="_top">Liverpool</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+2.89
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+3.89
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+2.22
+</font></td>
+<td align="center"><font color="red">
+0.56
+</font></td>
+<td align="center">
+2.78
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+2.56
+</b></font></td>
+<td align="center"><font color="red"><b>
+0.78
+</b></font></td>
+<td align="center"><b>
+3.33
+</b></td>
+<td align="center"><font color="blue"><b>
+18
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u45-manchester-city" target="_top">Manchester City</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+2.78
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+3.78
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+2.70
+</font></td>
+<td align="center"><font color="red">
+1.40
+</font></td>
+<td align="center">
+4.10
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+2.74
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.21
+</b></font></td>
+<td align="center"><b>
+3.95
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u26-manchester-utd" target="_top">Manchester Utd</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+2.00
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+3.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.11
+</font></td>
+<td align="center"><font color="red">
+1.44
+</font></td>
+<td align="center">
+2.56
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.58
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.21
+</b></font></td>
+<td align="center"><b>
+2.79
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u28-newcastle-utd" target="_top">Newcastle Utd</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.11
+</font></td>
+<td align="center"><font color="red">
+0.78
+</font></td>
+<td align="center">
+1.89
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+0.90
+</font></td>
+<td align="center"><font color="red">
+2.10
+</font></td>
+<td align="center">
+3.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.00
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.47
+</b></font></td>
+<td align="center"><b>
+2.47
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u53-norwich-city" target="_top">Norwich City</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.56
+</font></td>
+<td align="center"><font color="red">
+2.44
+</font></td>
+<td align="center">
+4.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+0.50
+</font></td>
+<td align="center"><font color="red">
+1.60
+</font></td>
+<td align="center">
+2.10
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.00
+</b></font></td>
+<td align="center"><font color="red"><b>
+2.00
+</b></font></td>
+<td align="center"><b>
+3.00
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u64-sheffield-utd" target="_top">Sheffield Utd</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.20
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+2.20
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.22
+</font></td>
+<td align="center"><font color="red">
+0.78
+</font></td>
+<td align="center">
+2.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.21
+</b></font></td>
+<td align="center"><font color="red"><b>
+0.89
+</b></font></td>
+<td align="center"><b>
+2.11
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u42-southampton" target="_top">Southampton</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.00
+</font></td>
+<td align="center"><font color="red">
+2.67
+</font></td>
+<td align="center">
+3.67
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.40
+</font></td>
+<td align="center"><font color="red">
+1.30
+</font></td>
+<td align="center">
+2.70
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.21
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.95
+</b></font></td>
+<td align="center"><b>
+3.16
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u29-tottenham" target="_top">Tottenham</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+2.10
+</font></td>
+<td align="center"><font color="red">
+1.00
+</font></td>
+<td align="center">
+3.10
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.44
+</font></td>
+<td align="center"><font color="red">
+1.89
+</font></td>
+<td align="center">
+3.33
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.79
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.42
+</b></font></td>
+<td align="center"><b>
+3.21
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u34-watford" target="_top">Watford</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+0.67
+</font></td>
+<td align="center"><font color="red">
+1.44
+</font></td>
+<td align="center">
+2.11
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+0.60
+</font></td>
+<td align="center"><font color="red">
+2.00
+</font></td>
+<td align="center">
+2.60
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+0.63
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.74
+</b></font></td>
+<td align="center"><b>
+2.37
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+<tr class="trow8">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u41-west-ham-utd" target="_top">West Ham Utd</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.38
+</font></td>
+<td align="center"><font color="red">
+2.13
+</font></td>
+<td align="center">
+3.50
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+0.90
+</font></td>
+<td align="center"><font color="red">
+1.30
+</font></td>
+<td align="center">
+2.20
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.11
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.67
+</b></font></td>
+<td align="center"><b>
+2.78
+</b></td>
+<td align="center"><font color="blue"><b>
+18
+</b></font></td>
+</tr>
+<tr class="trow2">
+<td align="right" height="26">
+&nbsp;<a href="team.asp?league=england&amp;stats=u38-wolverhampton" target="_top">Wolverhampton</a>&nbsp;
+</td>
+<td align="center"><font color="green">
+1.60
+</font></td>
+<td align="center"><font color="red">
+1.40
+</font></td>
+<td align="center">
+3.00
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green">
+1.44
+</font></td>
+<td align="center"><font color="red">
+1.11
+</font></td>
+<td align="center">
+2.56
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center"><font color="green"><b>
+1.53
+</b></font></td>
+<td align="center"><font color="red"><b>
+1.26
+</b></font></td>
+<td align="center"><b>
+2.79
+</b></td>
+<td align="center"><font color="blue"><b>
+19
+</b></font></td>
+</tr>
+</tbody></table>
