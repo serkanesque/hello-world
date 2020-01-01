@@ -1,957 +1,132 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#e5e5e5">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#555555"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#555555"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#555555"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#555555"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="blue"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+ 25</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Millwall
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-61%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Birmingham City - Leeds Utd</td>
 <td align="center">
-<span title="Wins: 6 (50.0%)Draws: 4 (33.3%)Defeats: 2 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.58
-</font>
-</td>
-<td align="center">
-<font color="green">
-58%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=840-13-1-2020-millwall-luton-town" target="_top" title="Millwall vs Luton Town">stats</a></li>
-</ul></div>
+<b>4 - 5</b></td>
+<td align="center">
+(1-2)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Luton Town
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-15%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Bristol City - Luton Town</td>
 <td align="center">
-<span title="Wins: 2 (15.4%)Draws: 0 (0.0%)Defeats: 11 (84.6%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:27.9px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.46
-</font>
-</td>
-<td align="center">
-<font color="green">
-85%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<b>3 - 0</b></td>
+<td align="center">
+(2-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Birmingham City
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-47%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Fulham - Stoke City</td>
 <td align="center">
-<span title="Wins: 5 (41.7%)Draws: 2 (16.7%)Defeats: 5 (41.7%)"><div class="bargreen" style="width:13.8px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:13.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.83
-</font>
-</td>
-<td align="center">
-<font color="red">
-42%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=833-12-9-2020-birmingham-city-wigan-athletic" target="_top" title="Birmingham City vs Wigan Athletic">stats</a></li>
-</ul></div>
+<b>1 - 0</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Wigan Athletic
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:2.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-10%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Huddersfield - Blackburn</td>
 <td align="center">
-<span title="Wins: 0 (0.0%)Draws: 4 (30.8%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:22.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.38
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+<b>2 - 1</b></td>
+<td align="center">
+(1-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Bristol City
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Millwall - Brentford</td>
 <td align="center">
-<span title="Wins: 5 (41.7%)Draws: 4 (33.3%)Defeats: 3 (25.0%)"><div class="bargreen" style="width:13.8px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="green">
-58%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=838-21-11-2020-bristol-city-brentford" target="_top" title="Bristol City vs Brentford">stats</a></li>
-</ul></div>
+<b>1 - 0</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Brentford
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Nottm Forest - Wigan Athletic</td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 1 (7.7%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:17.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.08
-</font>
-</td>
-<td align="center">
-<font color="red">
-38%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+<b>1 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Fulham
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Preston - Reading</td>
 <td align="center">
-<span title="Wins: 8 (61.5%)Draws: 2 (15.4%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:7.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.92
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=829-16-17-2020-fulham-reading" target="_top" title="Fulham vs Reading">stats</a></li>
-</ul></div>
+<b>0 - 2</b></td>
+<td align="center">
+(0-2)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Reading
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-39%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> QP Rangers - Hull City</td>
 <td align="center">
-<span title="Wins: 3 (25.0%)Draws: 5 (41.7%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:13.8px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
+<b>1 - 2</b></td>
+<td align="center">
+(1-1)
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr>
-<td align="center" colspan="11" style="padding-top:5px;" valign="top" width="100%">
-<div style="max-width:645px;text-align:center;">
-<script type="text/javascript">
-(adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;	
-</script>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- middle_300x250 -->
-<ins class="adsbygoogle" data-ad-client="ca-pub-3910539363731532" data-ad-slot="5658579383" style="display:inline-block;width:300px;height:250px"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-</td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Huddersfield
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Sheffield Wed - Cardiff City</td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.31
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=839-23-7-2020-huddersfield-stoke-city" target="_top" title="Huddersfield vs Stoke City">stats</a></li>
-</ul></div>
+<b>1 - 2</b></td>
+<td align="center">
+(1-2)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Stoke City
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:4.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-19%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> Swansea City - Barnsley</td>
 <td align="center">
-<span title="Wins: 2 (16.7%)Draws: 1 (8.3%)Defeats: 9 (75.0%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:2.8px;"></div><div class="barred" style="width:24.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.58
-</font>
-</td>
-<td align="center">
-<font color="green">
-58%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Nottm Forest
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+ </font><font color="green" size="1">15:00</font></td>
+<td> West Brom - Middlesbrough</td>
 <td align="center">
-<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-36%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=834-19-3-2020-nottm-forest-blackburn" target="_top" title="Nottm Forest vs Blackburn">stats</a></li>
-</ul></div>
+<b>0 - 2</b></td>
+<td align="center">
+(0-1)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Blackburn
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Mon. 30 Dec. 
+ </font><font color="green" size="1">19:45</font></td>
+<td> Derby County - Charlton</td>
 <td align="center">
-<span title="Wins: 4 (33.3%)Draws: 1 (8.3%)Defeats: 7 (58.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:2.8px;"></div><div class="barred" style="width:19.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-58%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+<b>2 - 1</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Preston
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-74%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (69.2%)Draws: 2 (15.4%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:22.8px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:5.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.38
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=837-14-2-2020-preston-middlesbrough" target="_top" title="Preston vs Middlesbrough">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Middlesbrough
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-22%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (8.3%)Draws: 5 (41.7%)Defeats: 6 (50.0%)"><div class="bargreen" style="width:2.8px;"></div><div class="barorange" style="width:13.8px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-QP Rangers
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.69
-</font>
-</td>
-<td align="center">
-<font color="green">
-77%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=831-8-10-2020-qp-rangers-cardiff-city" target="_top" title="QP Rangers vs Cardiff City">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Cardiff City
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (15.4%)Draws: 6 (46.2%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:15.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.23
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sheffield Wed
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-61%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (50.0%)Draws: 4 (33.3%)Defeats: 2 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.92
-</font>
-</td>
-<td align="center">
-<font color="red">
-33%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=836-18-6-2020-sheffield-wed-hull-city" target="_top" title="Sheffield Wed vs Hull City">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Hull City
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (33.3%)Draws: 4 (33.3%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:15
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-West Brom
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-64%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (50.0%)Draws: 5 (41.7%)Defeats: 1 (8.3%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:13.8px;"></div><div class="barred" style="width:2.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.92
-</font>
-</td>
-<td align="center">
-<font color="green">
-67%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=832-20-22-2020-west-brom-leeds-utd" target="_top" title="West Brom vs Leeds Utd">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Leeds Utd
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 8 (61.5%)Draws: 2 (15.4%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:7.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.69
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu2
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Derby County
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:14.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-59%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (46.2%)Draws: 5 (38.5%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:5.1px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-23%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer121"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=835-24-15-2020-derby-county-barnsley" target="_top" title="Derby County vs Barnsley">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Barnsley
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-17%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (8.3%)Draws: 3 (25.0%)Defeats: 8 (66.7%)"><div class="bargreen" style="width:2.8px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.67
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu2
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Swansea City
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.38
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer131"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england2&amp;stats=830-5-4-2020-swansea-city-charlton" target="_top" title="Swansea City vs Charlton">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Charlton
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:6.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-28%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (16.7%)Draws: 4 (33.3%)Defeats: 6 (50.0%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
