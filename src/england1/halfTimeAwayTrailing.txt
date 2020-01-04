@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=england&amp;stats=u64-sheffield-utd" target="_top">Sheffield Utd</a> 
 </td>
 <td align="center">
-3 out of 10
+4 out of 11
 </td>
 <td align="center">
-30%
+36%
 </td>
 <td align="center">
 1
@@ -74,16 +74,16 @@ Avg Pts
 2
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
-5 - 4
+5 - 6
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-<b>1.67</b>
+<b>1.25</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -120,10 +120,10 @@ Avg Pts
  <a href="team.asp?league=england&amp;stats=u38-wolverhampton" target="_top">Wolverhampton</a> 
 </td>
 <td align="center">
-5 out of 10
+6 out of 11
 </td>
 <td align="center">
-50%
+55%
 </td>
 <td align="center">
 1
@@ -132,16 +132,16 @@ Avg Pts
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
-6 - 7
+7 - 9
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-<b>1.00</b>
+<b>0.83</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -149,10 +149,10 @@ Avg Pts
  <a href="team.asp?league=england&amp;stats=u33-chelsea" target="_top">Chelsea</a> 
 </td>
 <td align="center">
-4 out of 10
+4 out of 11
 </td>
 <td align="center">
-40%
+36%
 </td>
 <td align="center">
 1
@@ -175,13 +175,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=england&amp;stats=u29-tottenham" target="_top">Tottenham</a> 
+ <a href="team.asp?league=england&amp;stats=u31-crystal-palace" target="_top">Crystal Palace</a> 
 </td>
 <td align="center">
-3 out of 10
+3 out of 11
 </td>
 <td align="center">
-30%
+27%
 </td>
 <td align="center">
 0
@@ -193,7 +193,7 @@ Avg Pts
 1
 </td>
 <td align="center">
-4 - 7
+3 - 7
 </td>
 <td align="center">
 2
@@ -204,63 +204,34 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=england&amp;stats=u31-crystal-palace" target="_top">Crystal Palace</a> 
+ <a href="team.asp?league=england&amp;stats=u29-tottenham" target="_top">Tottenham</a> 
 </td>
 <td align="center">
-2 out of 10
+4 out of 11
 </td>
 <td align="center">
-20%
+36%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-2 - 6
+4 - 8
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <b>0.50</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=england&amp;stats=u26-manchester-utd" target="_top">Manchester Utd</a> 
-</td>
-<td align="center">
-3 out of 10
-</td>
-<td align="center">
-30%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3 - 6
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.33</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england&amp;stats=u43-burnley" target="_top">Burnley</a> 
 </td>
@@ -289,15 +260,15 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england&amp;stats=u27-leicester-city" target="_top">Leicester City</a> 
 </td>
 <td align="center">
-4 out of 10
+4 out of 11
 </td>
 <td align="center">
-40%
+36%
 </td>
 <td align="center">
 0
@@ -310,6 +281,35 @@ Avg Pts
 </td>
 <td align="center">
 3 - 7
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.25</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england&amp;stats=u26-manchester-utd" target="_top">Manchester Utd</a> 
+</td>
+<td align="center">
+4 out of 11
+</td>
+<td align="center">
+36%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3 - 8
 </td>
 <td align="center">
 1
@@ -381,10 +381,10 @@ Avg Pts
  <a href="team.asp?league=england&amp;stats=u69-aston-villa" target="_top">Aston Villa</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 11
 </td>
 <td align="center">
-20%
+18%
 </td>
 <td align="center">
 0
@@ -410,10 +410,10 @@ Avg Pts
  <a href="team.asp?league=england&amp;stats=u39-everton" target="_top">Everton</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 11
 </td>
 <td align="center">
-20%
+18%
 </td>
 <td align="center">
 0
@@ -435,35 +435,6 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=england&amp;stats=u36-bournemouth" target="_top">Bournemouth</a> 
-</td>
-<td align="center">
-4 out of 10
-</td>
-<td align="center">
-40%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3 - 9
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england&amp;stats=u35-brighton" target="_top">Brighton</a> 
 </td>
@@ -492,7 +463,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england&amp;stats=u41-west-ham-utd" target="_top">West Ham Utd</a> 
 </td>
@@ -513,6 +484,35 @@ Avg Pts
 </td>
 <td align="center">
 0 - 7
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=england&amp;stats=u36-bournemouth" target="_top">Bournemouth</a> 
+</td>
+<td align="center">
+5 out of 11
+</td>
+<td align="center">
+45%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3 - 13
 </td>
 <td align="center">
 0

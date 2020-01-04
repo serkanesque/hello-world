@@ -33,10 +33,10 @@ Avg Pts
  <a href="team.asp?league=scotland&amp;stats=3-celtic" target="_top">Celtic</a> 
 </td>
 <td align="center">
-7 out of 10
+7 out of 11
 </td>
 <td align="center">
-70%
+64%
 </td>
 <td align="center">
 7
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=scotland&amp;stats=12-rangers" target="_top">Rangers</a> 
 </td>
 <td align="center">
-4 out of 7
+4 out of 8
 </td>
 <td align="center">
-57%
+50%
 </td>
 <td align="center">
 4
@@ -88,7 +88,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=scotland&amp;stats=8-motherwell" target="_top">Motherwell</a> 
+ <a href="team.asp?league=scotland&amp;stats=1-aberdeen" target="_top">Aberdeen</a> 
 </td>
 <td align="center">
 4 out of 10
@@ -106,7 +106,7 @@ Avg Pts
 0
 </td>
 <td align="center">
-10 - 0
+11 - 3
 </td>
 <td align="center">
 12
@@ -117,42 +117,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=scotland&amp;stats=1-aberdeen" target="_top">Aberdeen</a> 
-</td>
-<td align="center">
-3 out of 9
-</td>
-<td align="center">
-33%
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-9 - 2
-</td>
-<td align="center">
-9
-</td>
-<td align="center">
-<b>3.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
  <a href="team.asp?league=scotland&amp;stats=7-livingston" target="_top">Livingston</a> 
 </td>
 <td align="center">
-2 out of 9
+2 out of 10
 </td>
 <td align="center">
-22%
+20%
 </td>
 <td align="center">
 2
@@ -173,7 +144,7 @@ Avg Pts
 <b>3.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=scotland&amp;stats=11-kilmarnock" target="_top">Kilmarnock</a> 
 </td>
@@ -202,59 +173,30 @@ Avg Pts
 <b>3.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=scotland&amp;stats=9-ross-county" target="_top">Ross County</a> 
-</td>
-<td align="center">
-1 out of 9
-</td>
-<td align="center">
-11%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3 - 0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<b>3.00</b>
-</td>
-</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=scotland&amp;stats=6-st-mirren" target="_top">St Mirren</a> 
 </td>
 <td align="center">
-2 out of 9
+3 out of 11
 </td>
 <td align="center">
-22%
+27%
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-0
+3
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3 - 0
+0
 </td>
 <td align="center">
-6
+4 - 0
+</td>
+<td align="center">
+9
 </td>
 <td align="center">
 <b>3.00</b>
@@ -265,10 +207,10 @@ Avg Pts
  <a href="team.asp?league=scotland&amp;stats=10-hamilton" target="_top">Hamilton</a> 
 </td>
 <td align="center">
-1 out of 10
+1 out of 11
 </td>
 <td align="center">
-10%
+9%
 </td>
 <td align="center">
 1
@@ -291,13 +233,42 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
+ <a href="team.asp?league=scotland&amp;stats=8-motherwell" target="_top">Motherwell</a> 
+</td>
+<td align="center">
+5 out of 11
+</td>
+<td align="center">
+45%
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+11 - 2
+</td>
+<td align="center">
+12
+</td>
+<td align="center">
+<b>2.40</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
  <a href="team.asp?league=scotland&amp;stats=2-hearts" target="_top">Hearts</a> 
 </td>
 <td align="center">
-2 out of 9
+2 out of 11
 </td>
 <td align="center">
-22%
+18%
 </td>
 <td align="center">
 1
@@ -318,7 +289,7 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=scotland&amp;stats=5-hibernian" target="_top">Hibernian</a> 
 </td>
@@ -347,12 +318,41 @@ Avg Pts
 <b>1.67</b>
 </td>
 </tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=scotland&amp;stats=9-ross-county" target="_top">Ross County</a> 
+</td>
+<td align="center">
+2 out of 10
+</td>
+<td align="center">
+20%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4 - 2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>1.50</b>
+</td>
+</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=scotland&amp;stats=4-st-johnstone" target="_top">St Johnstone</a> 
 </td>
 <td align="center">
-0 out of 9
+0 out of 10
 </td>
 <td align="center">
 0%
