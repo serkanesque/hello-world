@@ -27,8 +27,8 @@ Home
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#D2FFE9">
+1-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
@@ -39,8 +39,8 @@ Home
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
@@ -55,11 +55,11 @@ Home
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#D2FFE9">
+3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-9-3
+9-4
 </td>
 </tr>
 <tr class="trow8">
@@ -111,8 +111,8 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+<td align="center" bgcolor="#FFFFCC">
+2-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
@@ -140,7 +140,7 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-5-3
+7-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
 7-2
@@ -173,11 +173,11 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td>
 </td>
@@ -185,7 +185,7 @@ Home
 2-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-6
+5-7
 </td>
 </tr>
 <tr class="trow8">
@@ -240,17 +240,17 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 2-3
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-3
+2-4
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
@@ -261,17 +261,15 @@ Home
 1-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
+2-4
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-8
+6-8
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-12
+3-14
 </td>
 </tr>
 <tr class="trow8">
@@ -325,8 +323,8 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
@@ -337,8 +335,8 @@ Home
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+<td align="center" bgcolor="#FFFFCC">
+1-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
@@ -353,11 +351,11 @@ Home
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-8-5
+9-5
 </td>
 </tr>
 <tr class="trow8">
@@ -374,13 +372,13 @@ Home
 1-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+3-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-1
@@ -390,16 +388,16 @@ Home
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
+4-1
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-7-3
+7-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-10-4
+10-6
 </td>
 </tr>
 <tr class="trow8">
@@ -412,8 +410,8 @@ Home
 <td align="center" bgcolor="#FFFFCC">
 0-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-0
@@ -438,7 +436,7 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-1
+5-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 7-5
@@ -707,24 +705,30 @@ Home
 2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+<b>
+3-1
+</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
 <b>
-3-0
+3-1
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
+<b>
 3-1
+</b>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-1
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
@@ -732,10 +736,10 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-8-5
+9-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
-9-4
+9-6
 </td>
 </tr>
 <tr class="trow8">
@@ -750,7 +754,7 @@ Home
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-3-0
+4-0
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
@@ -774,7 +778,7 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-6-3
+7-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 9-6
@@ -785,10 +789,10 @@ Home
 <a href="team.asp?league=spain&amp;stats=u90-valladolid" target="_top">Valladolid</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+2-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#FFCCCC">
+1-2
 </td>
 <td align="center" bgcolor="#FFFFCC">
 0-0
@@ -807,8 +811,8 @@ Home
 <td align="center" bgcolor="#D2FFE9">
 1-0
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#D2FFE9">
+1-0
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
@@ -816,10 +820,10 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-2
+5-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-2
+5-2
 </td>
 </tr>
 <tr class="trow8">
