@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u338-famalicao" target="_top">Famalicao</a> 
 </td>
 <td align="center">
-2 out of 6
+2 out of 7
 </td>
 <td align="center">
-33%
+29%
 </td>
 <td align="center">
 1
@@ -120,10 +120,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u343-pacos-ferreira" target="_top">Pacos Ferreira</a> 
 </td>
 <td align="center">
-4 out of 7
+4 out of 8
 </td>
 <td align="center">
-57%
+50%
 </td>
 <td align="center">
 1
@@ -178,10 +178,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u240-rio-ave" target="_top">Rio Ave</a> 
 </td>
 <td align="center">
-3 out of 7
+3 out of 8
 </td>
 <td align="center">
-43%
+38%
 </td>
 <td align="center">
 0
@@ -323,7 +323,7 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u242-sporting-cp" target="_top">Sporting CP</a> 
 </td>
 <td align="center">
-0 out of 6
+0 out of 7
 </td>
 <td align="center">
 0%
@@ -352,10 +352,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u232-aves" target="_top">Aves</a> 
 </td>
 <td align="center">
-1 out of 6
+1 out of 7
 </td>
 <td align="center">
-17%
+14%
 </td>
 <td align="center">
 0
@@ -381,10 +381,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u246-boavista" target="_top">Boavista</a> 
 </td>
 <td align="center">
-1 out of 7
+1 out of 8
 </td>
 <td align="center">
-14%
+12%
 </td>
 <td align="center">
 0
@@ -406,35 +406,6 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=portugal&amp;stats=u234-belenenses" target="_top">Belenenses</a> 
-</td>
-<td align="center">
-1 out of 6
-</td>
-<td align="center">
-17%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0 - 2
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u229-benfica" target="_top">Benfica</a> 
 </td>
@@ -463,27 +434,27 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u230-guimaraes" target="_top">Guimaraes</a> 
 </td>
 <td align="center">
-1 out of 7
+2 out of 8
 </td>
 <td align="center">
-14%
-</td>
-<td align="center">
-0
+25%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-1
+0
 </td>
 <td align="center">
-0 - 2
+2
+</td>
+<td align="center">
+0 - 3
 </td>
 <td align="center">
 0
@@ -492,15 +463,15 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u233-tondela" target="_top">Tondela</a> 
 </td>
 <td align="center">
-3 out of 6
+3 out of 7
 </td>
 <td align="center">
-50%
+43%
 </td>
 <td align="center">
 0
@@ -521,7 +492,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u238-santa-clara" target="_top">Santa Clara</a> 
 </td>
@@ -542,6 +513,35 @@ Avg Pts
 </td>
 <td align="center">
 1 - 8
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=portugal&amp;stats=u234-belenenses" target="_top">Belenenses</a> 
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 9
 </td>
 <td align="center">
 0

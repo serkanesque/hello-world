@@ -33,10 +33,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u229-benfica" target="_top">Benfica</a> 
 </td>
 <td align="center">
-1 out of 6
+1 out of 7
 </td>
 <td align="center">
-17%
+14%
 </td>
 <td align="center">
 1
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=portugal&amp;stats=u235-fc-porto" target="_top">FC Porto</a> 
 </td>
 <td align="center">
-1 out of 7
+1 out of 8
 </td>
 <td align="center">
-14%
+12%
 </td>
 <td align="center">
 0
@@ -175,42 +175,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=portugal&amp;stats=u241-moreirense" target="_top">Moreirense</a> 
+ <a href="team.asp?league=portugal&amp;stats=u238-santa-clara" target="_top">Santa Clara</a> 
 </td>
 <td align="center">
 3 out of 7
 </td>
 <td align="center">
 43%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4 - 8
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.33</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=portugal&amp;stats=u238-santa-clara" target="_top">Santa Clara</a> 
-</td>
-<td align="center">
-3 out of 6
-</td>
-<td align="center">
-50%
 </td>
 <td align="center">
 0
@@ -231,7 +202,7 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u230-guimaraes" target="_top">Guimaraes</a> 
 </td>
@@ -260,15 +231,44 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=portugal&amp;stats=u241-moreirense" target="_top">Moreirense</a> 
+</td>
+<td align="center">
+4 out of 8
+</td>
+<td align="center">
+50%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4 - 9
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.25</b>
+</td>
+</tr>
 <tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=portugal&amp;stats=u243-sporting-braga" target="_top">Sporting Braga</a> 
 </td>
 <td align="center">
-3 out of 7
+3 out of 8
 </td>
 <td align="center">
-43%
+38%
 </td>
 <td align="center">
 0
@@ -378,94 +378,7 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=portugal&amp;stats=u231-vitoria-setubal" target="_top">Vitoria Setubal</a> 
-</td>
-<td align="center">
-2 out of 6
-</td>
-<td align="center">
-33%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-0 - 5
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=portugal&amp;stats=u1072-gil-vicente" target="_top">Gil Vicente</a> 
-</td>
-<td align="center">
-3 out of 6
-</td>
-<td align="center">
-50%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1 - 7
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=portugal&amp;stats=u237-maritimo" target="_top">Maritimo</a> 
-</td>
-<td align="center">
-2 out of 6
-</td>
-<td align="center">
-33%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1 - 7
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=portugal&amp;stats=u245-portimonense" target="_top">Portimonense</a> 
 </td>
 <td align="center">
 3 out of 7
@@ -483,7 +396,94 @@ Avg Pts
 3
 </td>
 <td align="center">
+1 - 7
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=portugal&amp;stats=u237-maritimo" target="_top">Maritimo</a> 
+</td>
+<td align="center">
+2 out of 7
+</td>
+<td align="center">
+29%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1 - 7
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=portugal&amp;stats=u245-portimonense" target="_top">Portimonense</a> 
+</td>
+<td align="center">
+3 out of 8
+</td>
+<td align="center">
+38%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
 0 - 7
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=portugal&amp;stats=u231-vitoria-setubal" target="_top">Vitoria Setubal</a> 
+</td>
+<td align="center">
+3 out of 7
+</td>
+<td align="center">
+43%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0 - 8
 </td>
 <td align="center">
 0

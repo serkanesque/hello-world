@@ -1,724 +1,111 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#e5e5e5">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#555555"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#555555"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#555555"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#555555"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="blue"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
-</td>
-</tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri17
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Frosinone
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-74%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (66.7%)Draws: 2 (22.2%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:3.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.44
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=198-20-19-2020-frosinone-pordenone" target="_top" title="Frosinone vs Pordenone">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Pordenone
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.4px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-30%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (22.2%)Draws: 2 (22.2%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.44
-</font>
-</td>
-<td align="center">
-<font color="green">
-67%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+ 19</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Cremonese
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-56%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">11:30</font></td>
+<td> Pescara - Chievo</td>
 <td align="center">
-<span title="Wins: 4 (44.4%)Draws: 3 (33.3%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.67
-</font>
-</td>
-<td align="center">
-<font color="red">
-22%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=195-12-11-2020-cremonese-venezia" target="_top" title="Cremonese vs Venezia">stats</a></li>
-</ul></div>
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Venezia
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-47%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Cittadella - Virtus Entella</td>
 <td align="center">
-<span title="Wins: 3 (30.0%)Draws: 5 (50.0%)Defeats: 2 (20.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:6.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.30
-</font>
-</td>
-<td align="center">
-<font color="red">
-20%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+<b>1 - 3</b></td>
+<td align="center">
+(0-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Juve Stabia
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Crotone - Trapani</td>
 <td align="center">
-<span title="Wins: 5 (50.0%)Draws: 1 (10.0%)Defeats: 4 (40.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:13.2px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.70
-</font>
-</td>
-<td align="center">
-<font color="red">
-30%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=196-16-15-2020-juve-stabia-empoli" target="_top" title="Juve Stabia vs Empoli">stats</a></li>
-</ul></div>
+<b>3 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Empoli
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-22%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Juve Stabia - Cosenza</td>
 <td align="center">
-<span title="Wins: 1 (11.1%)Draws: 3 (33.3%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.44
-</font>
-</td>
-<td align="center">
-<font color="red">
-33%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<b>1 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Livorno
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Perugia - Venezia</td>
 <td align="center">
-<span title="Wins: 3 (33.3%)Draws: 0 (0.0%)Defeats: 6 (66.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=194-14-13-2020-livorno-virtus-entella" target="_top" title="Livorno vs Virtus Entella">stats</a></li>
-</ul></div>
+<b>0 - 1</b></td>
+<td align="center">
+(0-1)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Virtus Entella
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-37%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Pisa - Frosinone</td>
 <td align="center">
-<span title="Wins: 3 (30.0%)Draws: 2 (20.0%)Defeats: 5 (50.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.60
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+<b>0 - 0</b></td>
+<td align="center">
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr>
-<td align="center" colspan="11" style="padding-top:5px;" valign="top" width="100%">
-<div style="max-width:645px;text-align:center;">
-<!-- /15188745/SoccerStats//Responsive//Unit2 -->
-<div id="div-gpt-ad-1454573773278-1">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454573773278-1'); });
-</script>
-</div>
-</div>
-</td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Trapani
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:6.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-26%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Pordenone - Cremonese</td>
 <td align="center">
-<span title="Wins: 1 (11.1%)Draws: 4 (44.4%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.44
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=197-10-9-2020-trapani-ascoli" target="_top" title="Trapani vs Ascoli">stats</a></li>
-</ul></div>
+<b>1 - 0</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Ascoli
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-17%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">14:00</font></td>
+<td> Spezia - Salernitana</td>
 <td align="center">
-<span title="Wins: 1 (10.0%)Draws: 2 (20.0%)Defeats: 7 (70.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:23.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-60%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<b>2 - 1</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Chievo
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-56%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">17:00</font></td>
+<td> Benevento - Ascoli</td>
 <td align="center">
-<span title="Wins: 4 (44.4%)Draws: 3 (33.3%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.78
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=191-18-17-2020-chievo-perugia" target="_top" title="Chievo vs Perugia">stats</a></li>
-</ul></div>
+<b>4 - 0</b></td>
+<td align="center">
+(1-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Perugia
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
+<tr class="odd">
+<td align="right"><font color="gray" size="1">Sun. 29 Dec. 
+</font> <font color="green" size="1">20:00</font></td>
+<td> Empoli - Livorno</td>
 <td align="center">
-<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.89
-</font>
-</td>
-<td align="center">
-<font color="green">
-67%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+<b>1 - 1</b></td>
+<td align="center">
+(1-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun19
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Pescara
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-47%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (30.0%)Draws: 5 (50.0%)Defeats: 2 (20.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:6.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.90
-</font>
-</td>
-<td align="center">
-<font color="green">
-60%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=192-4-3-2020-pescara-salernitana" target="_top" title="Pescara vs Salernitana">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Salernitana
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (30.0%)Draws: 1 (10.0%)Defeats: 6 (60.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:19.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.60
-</font>
-</td>
-<td align="center">
-<font color="red">
-40%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun19
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Spezia
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.56
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=193-8-7-2020-spezia-cittadella" target="_top" title="Spezia vs Cittadella">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Cittadella
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.89
-</font>
-</td>
-<td align="center">
-<font color="red">
-22%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun19
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Benevento
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:23.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-93%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (90.0%)Draws: 1 (10.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:29.7px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="red">
-30%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=italy2&amp;stats=200-2-1-2020-benevento-pisa" target="_top" title="Benevento vs Pisa">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Pisa
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.22
-</font>
-</td>
-<td align="center">
-<font color="red">
-33%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>

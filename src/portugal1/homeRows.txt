@@ -125,11 +125,54 @@ FC Porto
 </font>
 </td>
 <td height="20">
-Guimaraes
+Famalicao
 </td>
 <td align="center">
 <font color="green">
 7
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++8
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20">
+Guimaraes
+</td>
+<td align="center">
+<font color="green">
+8
 </font>
 </td>
 <td align="center">
@@ -139,7 +182,7 @@ Guimaraes
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -148,11 +191,11 @@ Guimaraes
 </td>
 <td align="center">
 <font color="red">
-5
+6
 </font>
 </td>
 <td align="center">
-+10
++9
 </td>
 <td align="center">
 <b>
@@ -163,7 +206,7 @@ Guimaraes
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -206,7 +249,7 @@ Moreirense
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Gil Vicente
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,49 +335,6 @@ Vitoria Setubal
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20">
-Famalicao
-</td>
-<td align="center">
-<font color="green">
-6
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+5
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 8
 </b>
 </font>
@@ -344,7 +344,7 @@ Sporting CP
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -354,20 +354,20 @@ Sporting CP
 0
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-11
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+9
 </font>
 </td>
 <td align="center">
-+4
++3
 </td>
 <td align="center">
 <b>
@@ -387,7 +387,7 @@ Rio Ave
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Rio Ave
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Rio Ave
 </td>
 <td align="center">
 <font color="red">
-8
+9
 </font>
 </td>
 <td align="center">
-+3
++2
 </td>
 <td align="center">
 <b>
@@ -516,17 +516,60 @@ Boavista
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 2
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td height="20">
+Pacos Ferreira
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -543,14 +586,14 @@ Boavista
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-13
+14
 </b>
 </font>
 </td>
@@ -593,12 +636,12 @@ Santa Clara
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-14
+15
 </b>
 </font>
 </td>
 <td height="20">
-Pacos Ferreira
+Belenenses
 </td>
 <td align="center">
 <font color="green">
@@ -621,54 +664,11 @@ Pacos Ferreira
 </td>
 <td align="center">
 <font color="red">
-8
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 15
-</b>
-</font>
-</td>
-<td height="20">
-Belenenses
-</td>
-<td align="center">
-<font color="green">
-6
 </font>
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-5
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
--3
+-9
 </td>
 <td align="center">
 <b>
@@ -688,7 +688,7 @@ Aves
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -698,7 +698,7 @@ Aves
 0
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -707,11 +707,11 @@ Aves
 </td>
 <td align="center">
 <font color="red">
-8
+9
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>
@@ -774,26 +774,26 @@ Tondela
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-3
+4
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -801,7 +801,7 @@ Tondela
 </td>
 <td align="center">
 <b>
-4
+5
 </b>
 </td>
 </tr>
