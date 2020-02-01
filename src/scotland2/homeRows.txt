@@ -38,31 +38,31 @@ Pts
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Dundee Utd
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
 9
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
 <font color="blue">
-31
+32
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -70,7 +70,7 @@ Dundee Utd
 </td>
 <td align="center">
 <b>
-28
+29
 </b>
 </td>
 </tr>
@@ -81,7 +81,50 @@ Dundee Utd
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
+Dunfermline
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Inverness
 </td>
 <td align="center">
@@ -120,26 +163,26 @@ Inverness
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-3
+4
 </b>
 </font>
 </td>
-<td height="20">
-Dunfermline
+<td height="20" style="padding-left:4px;">
+Morton
 </td>
 <td align="center">
 <font color="green">
-11
+10
 </font>
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -156,27 +199,27 @@ Dunfermline
 </td>
 <td align="center">
 <b>
-17
+19
 </b>
 </td>
 </tr>
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Ayr United
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 1
@@ -186,7 +229,7 @@ Ayr United
 </td>
 <td align="center">
 <font color="blue">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -195,54 +238,11 @@ Ayr United
 </font>
 </td>
 <td align="center">
-+4
++5
 </td>
 <td align="center">
 <b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20">
-Morton
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-16
+19
 </b>
 </td>
 </tr>
@@ -253,7 +253,50 @@ Morton
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
+Arbroath FC
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Dundee FC
 </td>
 <td align="center">
@@ -292,59 +335,16 @@ Dundee FC
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20">
-Arbroath FC
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+1
-</td>
-<td align="center">
-<b>
-15
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 8
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Queen of South
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -354,20 +354,20 @@ Queen of South
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
-13
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+12
 </font>
 </td>
 <td align="center">
-+4
++3
 </td>
 <td align="center">
 <b>
@@ -382,16 +382,16 @@ Queen of South
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Alloa Athletic
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 3
@@ -401,7 +401,7 @@ Alloa Athletic
 </td>
 <td align="center">
 <font color="blue">
-8
+10
 </font>
 </td>
 <td align="center">
@@ -410,11 +410,11 @@ Alloa Athletic
 </font>
 </td>
 <td align="center">
--9
+-7
 </td>
 <td align="center">
 <b>
-9
+12
 </b>
 </td>
 </tr>
@@ -425,39 +425,39 @@ Alloa Athletic
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Partick Thistle
 </td>
 <td align="center">
 <font color="green">
-9
+11
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-10
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+21
 </font>
 </td>
 <td align="center">
--6
+-9
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>

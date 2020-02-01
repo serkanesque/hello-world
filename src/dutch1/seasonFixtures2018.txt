@@ -1,15 +1,5 @@
 <table id="btable">
-<tr class="even">
-<th colspan="4" height="25"> </th>
-<th align="center"><span title="
-Half-time score
-">
-HT
-</span></th>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -20,10 +10,10 @@ HT
 <font color="black"><b>6 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -34,10 +24,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -48,10 +38,10 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -62,10 +52,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -76,10 +66,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -90,10 +80,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -104,10 +94,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -118,10 +108,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 15 May </font>
 </td>
@@ -132,12 +122,12 @@ HT
 <font color="black"><b>1 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -148,10 +138,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -162,10 +152,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -176,10 +166,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -190,10 +180,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -204,10 +194,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -218,10 +208,10 @@ HT
 <font color="black"><b>4 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -232,10 +222,10 @@ HT
 <font color="black"><b>2 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -246,10 +236,10 @@ HT
 <font color="black"><b>6 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 May </font>
 </td>
@@ -260,12 +250,12 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Mo 29 Apr </font>
 </td>
@@ -276,12 +266,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Th 25 Apr </font>
 </td>
@@ -292,10 +282,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Th 25 Apr </font>
 </td>
@@ -306,12 +296,12 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 24 Apr </font>
 </td>
@@ -322,10 +312,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 24 Apr </font>
 </td>
@@ -336,12 +326,12 @@ HT
 <font color="black"><b>0 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 23 Apr </font>
 </td>
@@ -352,10 +342,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 23 Apr </font>
 </td>
@@ -366,10 +356,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 23 Apr </font>
 </td>
@@ -380,10 +370,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 23 Apr </font>
 </td>
@@ -394,12 +384,12 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Apr </font>
 </td>
@@ -410,10 +400,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Apr </font>
 </td>
@@ -424,10 +414,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Apr </font>
 </td>
@@ -438,12 +428,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Apr </font>
 </td>
@@ -454,10 +444,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Apr </font>
 </td>
@@ -468,10 +458,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Apr </font>
 </td>
@@ -482,10 +472,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Apr </font>
 </td>
@@ -496,10 +486,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Apr </font>
 </td>
@@ -510,12 +500,12 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 19 Apr </font>
 </td>
@@ -526,12 +516,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 14 Apr </font>
 </td>
@@ -542,10 +532,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 14 Apr </font>
 </td>
@@ -556,10 +546,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 14 Apr </font>
 </td>
@@ -570,10 +560,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 14 Apr </font>
 </td>
@@ -584,12 +574,12 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 13 Apr </font>
 </td>
@@ -600,10 +590,10 @@ HT
 <font color="black"><b>6 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(3-1)
+(HT: 3-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 13 Apr </font>
 </td>
@@ -614,10 +604,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 13 Apr </font>
 </td>
@@ -628,10 +618,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 13 Apr </font>
 </td>
@@ -642,12 +632,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 12 Apr </font>
 </td>
@@ -658,12 +648,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Apr </font>
 </td>
@@ -674,10 +664,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Apr </font>
 </td>
@@ -688,10 +678,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Apr </font>
 </td>
@@ -702,10 +692,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Apr </font>
 </td>
@@ -716,12 +706,12 @@ HT
 <font color="black"><b>3 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Apr </font>
 </td>
@@ -732,10 +722,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Apr </font>
 </td>
@@ -746,10 +736,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Apr </font>
 </td>
@@ -760,10 +750,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Apr </font>
 </td>
@@ -774,10 +764,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Apr </font>
 </td>
@@ -788,12 +778,12 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Th 4 Apr </font>
 </td>
@@ -804,10 +794,10 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Th 4 Apr </font>
 </td>
@@ -818,12 +808,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 3 Apr </font>
 </td>
@@ -834,10 +824,10 @@ HT
 <font color="black"><b>2 - 6</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 3 Apr </font>
 </td>
@@ -848,10 +838,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 3 Apr </font>
 </td>
@@ -862,10 +852,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 3 Apr </font>
 </td>
@@ -876,12 +866,12 @@ HT
 <font color="black"><b>2 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 2 Apr </font>
 </td>
@@ -892,10 +882,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 2 Apr </font>
 </td>
@@ -906,10 +896,10 @@ HT
 <font color="black"><b>3 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Tu 2 Apr </font>
 </td>
@@ -920,12 +910,12 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 31 Mar </font>
 </td>
@@ -936,10 +926,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 31 Mar </font>
 </td>
@@ -950,10 +940,10 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 31 Mar </font>
 </td>
@@ -964,10 +954,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 31 Mar </font>
 </td>
@@ -978,12 +968,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 30 Mar </font>
 </td>
@@ -994,10 +984,10 @@ HT
 <font color="black"><b>3 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(2-3)
+(HT: 2-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 30 Mar </font>
 </td>
@@ -1008,10 +998,10 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 30 Mar </font>
 </td>
@@ -1022,10 +1012,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 30 Mar </font>
 </td>
@@ -1036,10 +1026,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 30 Mar </font>
 </td>
@@ -1050,12 +1040,12 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Mar </font>
 </td>
@@ -1066,10 +1056,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Mar </font>
 </td>
@@ -1080,10 +1070,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Mar </font>
 </td>
@@ -1094,10 +1084,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Mar </font>
 </td>
@@ -1108,12 +1098,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Mar </font>
 </td>
@@ -1124,10 +1114,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Mar </font>
 </td>
@@ -1138,10 +1128,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Mar </font>
 </td>
@@ -1152,10 +1142,10 @@ HT
 <font color="black"><b>0 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Mar </font>
 </td>
@@ -1166,12 +1156,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-2)
+(HT: 2-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 15 Mar </font>
 </td>
@@ -1182,12 +1172,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">We 13 Mar </font>
 </td>
@@ -1198,12 +1188,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Mar </font>
 </td>
@@ -1214,10 +1204,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Mar </font>
 </td>
@@ -1228,10 +1218,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Mar </font>
 </td>
@@ -1242,10 +1232,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Mar </font>
 </td>
@@ -1256,12 +1246,12 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Mar </font>
 </td>
@@ -1272,10 +1262,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Mar </font>
 </td>
@@ -1286,10 +1276,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Mar </font>
 </td>
@@ -1300,10 +1290,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Mar </font>
 </td>
@@ -1314,12 +1304,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 8 Mar </font>
 </td>
@@ -1330,12 +1320,12 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Mar </font>
 </td>
@@ -1346,10 +1336,10 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Mar </font>
 </td>
@@ -1360,10 +1350,10 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Mar </font>
 </td>
@@ -1374,10 +1364,10 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Mar </font>
 </td>
@@ -1388,12 +1378,12 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Mar </font>
 </td>
@@ -1404,10 +1394,10 @@ HT
 <font color="black"><b>1 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Mar </font>
 </td>
@@ -1418,10 +1408,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Mar </font>
 </td>
@@ -1432,12 +1422,12 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 1 Mar </font>
 </td>
@@ -1448,12 +1438,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 24 Feb </font>
 </td>
@@ -1464,10 +1454,10 @@ HT
 <font color="black"><b>1 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 24 Feb </font>
 </td>
@@ -1478,10 +1468,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 24 Feb </font>
 </td>
@@ -1492,10 +1482,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 24 Feb </font>
 </td>
@@ -1506,12 +1496,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 23 Feb </font>
 </td>
@@ -1522,10 +1512,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 23 Feb </font>
 </td>
@@ -1536,10 +1526,10 @@ HT
 <font color="black"><b>2 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 23 Feb </font>
 </td>
@@ -1550,10 +1540,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 23 Feb </font>
 </td>
@@ -1564,12 +1554,12 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 22 Feb </font>
 </td>
@@ -1580,12 +1570,12 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Feb </font>
 </td>
@@ -1596,10 +1586,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Feb </font>
 </td>
@@ -1610,10 +1600,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Feb </font>
 </td>
@@ -1624,10 +1614,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 17 Feb </font>
 </td>
@@ -1638,12 +1628,12 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Feb </font>
 </td>
@@ -1654,10 +1644,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Feb </font>
 </td>
@@ -1668,10 +1658,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Feb </font>
 </td>
@@ -1682,10 +1672,10 @@ HT
 <font color="black"><b>6 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 16 Feb </font>
 </td>
@@ -1696,12 +1686,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 15 Feb </font>
 </td>
@@ -1712,12 +1702,12 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Feb </font>
 </td>
@@ -1728,10 +1718,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Feb </font>
 </td>
@@ -1742,10 +1732,10 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Feb </font>
 </td>
@@ -1756,10 +1746,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 10 Feb </font>
 </td>
@@ -1770,12 +1760,12 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Feb </font>
 </td>
@@ -1786,10 +1776,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Feb </font>
 </td>
@@ -1800,10 +1790,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Feb </font>
 </td>
@@ -1814,10 +1804,10 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 9 Feb </font>
 </td>
@@ -1828,12 +1818,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 8 Feb </font>
 </td>
@@ -1844,12 +1834,12 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Feb </font>
 </td>
@@ -1860,10 +1850,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Feb </font>
 </td>
@@ -1874,10 +1864,10 @@ HT
 <font color="black"><b>4 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Feb </font>
 </td>
@@ -1888,10 +1878,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 3 Feb </font>
 </td>
@@ -1902,12 +1892,12 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Feb </font>
 </td>
@@ -1918,10 +1908,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Feb </font>
 </td>
@@ -1932,10 +1922,10 @@ HT
 <font color="black"><b>6 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Feb </font>
 </td>
@@ -1946,10 +1936,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 2 Feb </font>
 </td>
@@ -1960,12 +1950,12 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 1 Feb </font>
 </td>
@@ -1976,12 +1966,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 27 Jan </font>
 </td>
@@ -1992,10 +1982,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 27 Jan </font>
 </td>
@@ -2006,10 +1996,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 27 Jan </font>
 </td>
@@ -2020,10 +2010,10 @@ HT
 <font color="black"><b>6 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(3-2)
+(HT: 3-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 27 Jan </font>
 </td>
@@ -2034,12 +2024,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 26 Jan </font>
 </td>
@@ -2050,10 +2040,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 26 Jan </font>
 </td>
@@ -2064,10 +2054,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 26 Jan </font>
 </td>
@@ -2078,10 +2068,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 26 Jan </font>
 </td>
@@ -2092,12 +2082,12 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 25 Jan </font>
 </td>
@@ -2108,12 +2098,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 20 Jan </font>
 </td>
@@ -2124,10 +2114,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 20 Jan </font>
 </td>
@@ -2138,10 +2128,10 @@ HT
 <font color="black"><b>5 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 20 Jan </font>
 </td>
@@ -2152,10 +2142,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 20 Jan </font>
 </td>
@@ -2166,12 +2156,12 @@ HT
 <font color="black"><b>4 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(3-1)
+(HT: 3-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 19 Jan </font>
 </td>
@@ -2182,10 +2172,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 19 Jan </font>
 </td>
@@ -2196,10 +2186,10 @@ HT
 <font color="black"><b>2 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 19 Jan </font>
 </td>
@@ -2210,10 +2200,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 19 Jan </font>
 </td>
@@ -2224,12 +2214,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 18 Jan </font>
 </td>
@@ -2240,12 +2230,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Dec </font>
 </td>
@@ -2256,10 +2246,10 @@ HT
 <font color="black"><b>1 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Dec </font>
 </td>
@@ -2270,10 +2260,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Dec </font>
 </td>
@@ -2284,10 +2274,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Dec </font>
 </td>
@@ -2298,12 +2288,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Dec </font>
 </td>
@@ -2314,10 +2304,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Dec </font>
 </td>
@@ -2328,10 +2318,10 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Dec </font>
 </td>
@@ -2342,10 +2332,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Dec </font>
 </td>
@@ -2356,12 +2346,12 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 21 Dec </font>
 </td>
@@ -2372,12 +2362,12 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Dec </font>
 </td>
@@ -2388,10 +2378,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-3)
+(HT: 0-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Dec </font>
 </td>
@@ -2402,10 +2392,10 @@ HT
 <font color="black"><b>8 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Dec </font>
 </td>
@@ -2416,10 +2406,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Dec </font>
 </td>
@@ -2430,12 +2420,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Dec </font>
 </td>
@@ -2446,10 +2436,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Dec </font>
 </td>
@@ -2460,10 +2450,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Dec </font>
 </td>
@@ -2474,10 +2464,10 @@ HT
 <font color="black"><b>0 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Dec </font>
 </td>
@@ -2488,12 +2478,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 14 Dec </font>
 </td>
@@ -2504,12 +2494,12 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 9 Dec </font>
 </td>
@@ -2520,10 +2510,10 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 9 Dec </font>
 </td>
@@ -2534,10 +2524,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 9 Dec </font>
 </td>
@@ -2548,10 +2538,10 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 9 Dec </font>
 </td>
@@ -2562,12 +2552,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 8 Dec </font>
 </td>
@@ -2578,10 +2568,10 @@ HT
 <font color="black"><b>1 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 8 Dec </font>
 </td>
@@ -2592,10 +2582,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 8 Dec </font>
 </td>
@@ -2606,12 +2596,12 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 7 Dec </font>
 </td>
@@ -2622,10 +2612,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 7 Dec </font>
 </td>
@@ -2636,12 +2626,12 @@ HT
 <font color="black"><b>6 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Th 6 Dec </font>
 </td>
@@ -2652,12 +2642,12 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Dec </font>
 </td>
@@ -2668,10 +2658,10 @@ HT
 <font color="black"><b>5 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(3-1)
+(HT: 3-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Dec </font>
 </td>
@@ -2682,10 +2672,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Dec </font>
 </td>
@@ -2696,10 +2686,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Dec </font>
 </td>
@@ -2710,12 +2700,12 @@ HT
 <font color="black"><b>5 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Dec </font>
 </td>
@@ -2726,10 +2716,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Dec </font>
 </td>
@@ -2740,10 +2730,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Dec </font>
 </td>
@@ -2754,10 +2744,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Dec </font>
 </td>
@@ -2768,12 +2758,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 30 Nov </font>
 </td>
@@ -2784,12 +2774,12 @@ HT
 <font color="black"><b>3 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 25 Nov </font>
 </td>
@@ -2800,10 +2790,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 25 Nov </font>
 </td>
@@ -2814,10 +2804,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 25 Nov </font>
 </td>
@@ -2828,10 +2818,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 25 Nov </font>
 </td>
@@ -2842,10 +2832,10 @@ HT
 <font color="black"><b>1 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-3)
+(HT: 0-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 25 Nov </font>
 </td>
@@ -2856,12 +2846,12 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 24 Nov </font>
 </td>
@@ -2872,10 +2862,10 @@ HT
 <font color="black"><b>0 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 24 Nov </font>
 </td>
@@ -2886,10 +2876,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(2-2)
+(HT: 2-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 24 Nov </font>
 </td>
@@ -2900,10 +2890,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 24 Nov </font>
 </td>
@@ -2914,12 +2904,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 11 Nov </font>
 </td>
@@ -2930,10 +2920,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 11 Nov </font>
 </td>
@@ -2944,10 +2934,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 11 Nov </font>
 </td>
@@ -2958,10 +2948,10 @@ HT
 <font color="black"><b>1 - 7</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 11 Nov </font>
 </td>
@@ -2972,12 +2962,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 10 Nov </font>
 </td>
@@ -2988,10 +2978,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 10 Nov </font>
 </td>
@@ -3002,10 +2992,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 10 Nov </font>
 </td>
@@ -3016,10 +3006,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 10 Nov </font>
 </td>
@@ -3030,12 +3020,12 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 9 Nov </font>
 </td>
@@ -3046,12 +3036,12 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 4 Nov </font>
 </td>
@@ -3062,10 +3052,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 4 Nov </font>
 </td>
@@ -3076,10 +3066,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 4 Nov </font>
 </td>
@@ -3090,12 +3080,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 3 Nov </font>
 </td>
@@ -3106,10 +3096,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 3 Nov </font>
 </td>
@@ -3120,10 +3110,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 3 Nov </font>
 </td>
@@ -3134,10 +3124,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 3 Nov </font>
 </td>
@@ -3148,12 +3138,12 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 2 Nov </font>
 </td>
@@ -3164,12 +3154,12 @@ HT
 <font color="black"><b>2 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 28 Oct </font>
 </td>
@@ -3180,10 +3170,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 28 Oct </font>
 </td>
@@ -3194,10 +3184,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 28 Oct </font>
 </td>
@@ -3208,10 +3198,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 28 Oct </font>
 </td>
@@ -3222,12 +3212,12 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 27 Oct </font>
 </td>
@@ -3238,10 +3228,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 27 Oct </font>
 </td>
@@ -3252,10 +3242,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 27 Oct </font>
 </td>
@@ -3266,10 +3256,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 27 Oct </font>
 </td>
@@ -3280,12 +3270,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 26 Oct </font>
 </td>
@@ -3296,12 +3286,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Oct </font>
 </td>
@@ -3312,10 +3302,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-2)
+(HT: 1-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Oct </font>
 </td>
@@ -3326,10 +3316,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Oct </font>
 </td>
@@ -3340,10 +3330,10 @@ HT
 <font color="black"><b>4 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Oct </font>
 </td>
@@ -3354,10 +3344,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 21 Oct </font>
 </td>
@@ -3368,12 +3358,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Oct </font>
 </td>
@@ -3384,10 +3374,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Oct </font>
 </td>
@@ -3398,10 +3388,10 @@ HT
 <font color="black"><b>6 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(4-0)
+(HT: 4-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Oct </font>
 </td>
@@ -3412,10 +3402,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 20 Oct </font>
 </td>
@@ -3426,12 +3416,12 @@ HT
 <font color="black"><b>0 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Oct </font>
 </td>
@@ -3442,10 +3432,10 @@ HT
 <font color="black"><b>3 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Oct </font>
 </td>
@@ -3456,10 +3446,10 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Oct </font>
 </td>
@@ -3470,10 +3460,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 7 Oct </font>
 </td>
@@ -3484,12 +3474,12 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Oct </font>
 </td>
@@ -3500,10 +3490,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Oct </font>
 </td>
@@ -3514,10 +3504,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Oct </font>
 </td>
@@ -3528,10 +3518,10 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 6 Oct </font>
 </td>
@@ -3542,12 +3532,12 @@ HT
 <font color="black"><b>0 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(0-4)
+(HT: 0-4)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 5 Oct </font>
 </td>
@@ -3558,12 +3548,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 30 Sep </font>
 </td>
@@ -3574,10 +3564,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 30 Sep </font>
 </td>
@@ -3588,10 +3578,10 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 30 Sep </font>
 </td>
@@ -3602,10 +3592,10 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 30 Sep </font>
 </td>
@@ -3616,10 +3606,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 30 Sep </font>
 </td>
@@ -3630,12 +3620,12 @@ HT
 <font color="black"><b>2 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 29 Sep </font>
 </td>
@@ -3646,10 +3636,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 29 Sep </font>
 </td>
@@ -3660,10 +3650,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 29 Sep </font>
 </td>
@@ -3674,10 +3664,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 29 Sep </font>
 </td>
@@ -3688,12 +3678,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Sep </font>
 </td>
@@ -3704,10 +3694,10 @@ HT
 <font color="black"><b>1 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Sep </font>
 </td>
@@ -3718,10 +3708,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Sep </font>
 </td>
@@ -3732,10 +3722,10 @@ HT
 <font color="black"><b>1 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 23 Sep </font>
 </td>
@@ -3746,12 +3736,12 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Sep </font>
 </td>
@@ -3762,10 +3752,10 @@ HT
 <font color="black"><b>4 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(2-2)
+(HT: 2-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Sep </font>
 </td>
@@ -3776,10 +3766,10 @@ HT
 <font color="black"><b>3 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Sep </font>
 </td>
@@ -3790,10 +3780,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 22 Sep </font>
 </td>
@@ -3804,12 +3794,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 21 Sep </font>
 </td>
@@ -3820,12 +3810,12 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Sep </font>
 </td>
@@ -3836,10 +3826,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Sep </font>
 </td>
@@ -3850,10 +3840,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Sep </font>
 </td>
@@ -3864,10 +3854,10 @@ HT
 <font color="black"><b>3 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Sep </font>
 </td>
@@ -3878,10 +3868,10 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 16 Sep </font>
 </td>
@@ -3892,12 +3882,12 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Sep </font>
 </td>
@@ -3908,10 +3898,10 @@ HT
 <font color="black"><b>0 - 7</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Sep </font>
 </td>
@@ -3922,10 +3912,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Sep </font>
 </td>
@@ -3936,10 +3926,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 15 Sep </font>
 </td>
@@ -3950,12 +3940,12 @@ HT
 <font color="black"><b>2 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Sep </font>
 </td>
@@ -3966,10 +3956,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Sep </font>
 </td>
@@ -3980,10 +3970,10 @@ HT
 <font color="black"><b>3 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Sep </font>
 </td>
@@ -3994,10 +3984,10 @@ HT
 <font color="black"><b>0 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-3)
+(HT: 0-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 2 Sep </font>
 </td>
@@ -4008,12 +3998,12 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(1-1)
+(HT: 1-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Sep </font>
 </td>
@@ -4024,10 +4014,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Sep </font>
 </td>
@@ -4038,10 +4028,10 @@ HT
 <font color="black"><b>2 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Sep </font>
 </td>
@@ -4052,10 +4042,10 @@ HT
 <font color="black"><b>6 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(4-0)
+(HT: 4-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 1 Sep </font>
 </td>
@@ -4066,12 +4056,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 31 Aug </font>
 </td>
@@ -4082,12 +4072,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 26 Aug </font>
 </td>
@@ -4098,10 +4088,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 26 Aug </font>
 </td>
@@ -4112,10 +4102,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 26 Aug </font>
 </td>
@@ -4126,10 +4116,10 @@ HT
 <font color="black"><b>3 - 5</b></font>
 </td>
 <td align="center"><font size="1">
-(0-3)
+(HT: 0-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 26 Aug </font>
 </td>
@@ -4140,12 +4130,12 @@ HT
 <font color="black"><b>0 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 25 Aug </font>
 </td>
@@ -4156,10 +4146,10 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 25 Aug </font>
 </td>
@@ -4170,10 +4160,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 25 Aug </font>
 </td>
@@ -4184,10 +4174,10 @@ HT
 <font color="black"><b>0 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 25 Aug </font>
 </td>
@@ -4198,12 +4188,12 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 24 Aug </font>
 </td>
@@ -4214,12 +4204,12 @@ HT
 <font color="black"><b>3 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 19 Aug </font>
 </td>
@@ -4230,10 +4220,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(2-0)
+(HT: 2-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 19 Aug </font>
 </td>
@@ -4244,10 +4234,10 @@ HT
 <font color="black"><b>1 - 4</b></font>
 </td>
 <td align="center"><font size="1">
-(1-3)
+(HT: 1-3)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 19 Aug </font>
 </td>
@@ -4258,10 +4248,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 19 Aug </font>
 </td>
@@ -4272,12 +4262,12 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 18 Aug </font>
 </td>
@@ -4288,10 +4278,10 @@ HT
 <font color="black"><b>3 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 18 Aug </font>
 </td>
@@ -4302,10 +4292,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 18 Aug </font>
 </td>
@@ -4316,10 +4306,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 18 Aug </font>
 </td>
@@ -4330,12 +4320,12 @@ HT
 <font color="black"><b>4 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(3-2)
+(HT: 3-2)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 17 Aug </font>
 </td>
@@ -4346,12 +4336,12 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 Aug </font>
 </td>
@@ -4362,10 +4352,10 @@ HT
 <font color="black"><b>1 - 2</b></font>
 </td>
 <td align="center"><font size="1">
-(0-2)
+(HT: 0-2)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 Aug </font>
 </td>
@@ -4376,10 +4366,10 @@ HT
 <font color="black"><b>2 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 Aug </font>
 </td>
@@ -4390,10 +4380,10 @@ HT
 <font color="black"><b>5 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(2-1)
+(HT: 2-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Su 12 Aug </font>
 </td>
@@ -4404,12 +4394,12 @@ HT
 <font color="black"><b>5 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(3-0)
+(HT: 3-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 11 Aug </font>
 </td>
@@ -4420,10 +4410,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-0)
+(HT: 0-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 11 Aug </font>
 </td>
@@ -4434,10 +4424,10 @@ HT
 <font color="black"><b>0 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(0-1)
+(HT: 0-1)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 11 Aug </font>
 </td>
@@ -4448,10 +4438,10 @@ HT
 <font color="black"><b>1 - 1</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr class="odd">
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Sa 11 Aug </font>
 </td>
@@ -4462,12 +4452,12 @@ HT
 <font color="black"><b>4 - 0</b></font>
 </td>
 <td align="center"><font size="1">
-(1-0)
+(HT: 1-0)
 </font></td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="8" height="10"></td></tr>
-<tr class="odd">
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
 <td align="right" height="20">
 <font color="gray" size="1" width="70">Fr 10 Aug </font>
 </td>
@@ -4478,7 +4468,7 @@ HT
 <font color="black"><b>2 - 3</b></font>
 </td>
 <td align="center"><font size="1">
-(1-3)
+(HT: 1-3)
 </font></td>
 </tr>
 </table>

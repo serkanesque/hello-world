@@ -38,39 +38,39 @@ Pts
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Farense
 </td>
 <td align="center">
 <font color="green">
-7
+9
 </font>
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-10
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-5
+8
 </font>
 </td>
 <td align="center">
-+5
++4
 </td>
 <td align="center">
 <b>
-15
+18
 </b>
 </td>
 </tr>
@@ -81,12 +81,55 @@ Farense
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Nacional
 </td>
 <td align="center">
 <font color="green">
-8
+10
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Mafra
+</td>
+<td align="center">
+<font color="green">
+10
 </font>
 </td>
 <td align="center">
@@ -96,16 +139,16 @@ Nacional
 3
 </td>
 <td align="center">
-1
+3
 </td>
 <td align="center">
 <font color="blue">
-9
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+11
 </font>
 </td>
 <td align="center">
@@ -120,86 +163,43 @@ Nacional
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20">
-Sp. Covilha
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 4
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Academico Viseu
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-8
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+11
 </font>
 </td>
 <td align="center">
-0
+-1
 </td>
 <td align="center">
 <b>
-12
+15
 </b>
 </td>
 </tr>
@@ -210,19 +210,62 @@ Academico Viseu
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
+Sp. Covilha
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Leixoes
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
@@ -242,33 +285,33 @@ Leixoes
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
-<td height="20">
-Mafra
+<td height="20" style="padding-left:4px;">
+Estoril
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-2
+0
 </td>
 <td align="center">
-3
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -285,6 +328,49 @@ Mafra
 </td>
 <td align="center">
 <b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Feirense
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
 11
 </b>
 </td>
@@ -292,66 +378,23 @@ Mafra
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+9
 </b>
 </font>
 </td>
-<td height="20">
-Varzim
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Chaves
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 4
@@ -371,50 +414,7 @@ Chaves
 </td>
 <td align="center">
 <b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20">
-Feirense
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-7
-</font>
-</td>
-<td align="center">
-+1
-</td>
-<td align="center">
-<b>
-9
+11
 </b>
 </td>
 </tr>
@@ -425,39 +425,39 @@ Feirense
 </b>
 </font>
 </td>
-<td height="20">
-Estoril
+<td height="20" style="padding-left:4px;">
+Varzim
 </td>
 <td align="center">
 <font color="green">
-7
+9
 </font>
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
-0
+5
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
 <font color="blue">
-9
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+16
 </font>
 </td>
 <td align="center">
-0
+-2
 </td>
 <td align="center">
 <b>
-9
+11
 </b>
 </td>
 </tr>
@@ -468,16 +468,13 @@ Estoril
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Academica
 </td>
 <td align="center">
 <font color="green">
-7
+9
 </font>
-</td>
-<td align="center">
-2
 </td>
 <td align="center">
 2
@@ -485,22 +482,25 @@ Academica
 <td align="center">
 3
 </td>
+<td align="center">
+4
+</td>
 <td align="center">
 <font color="blue">
-8
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+10
 </font>
 </td>
 <td align="center">
-0
+-1
 </td>
 <td align="center">
 <b>
-8
+9
 </b>
 </td>
 </tr>
@@ -511,105 +511,19 @@ Academica
 </b>
 </font>
 </td>
-<td height="20">
-FC Porto B
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-8
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td height="20">
-Penafiel
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Oliveirense
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 5
@@ -629,7 +543,93 @@ Oliveirense
 </td>
 <td align="center">
 <b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Penafiel
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
 7
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+FC Porto B
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-5
+</td>
+<td align="center">
+<b>
+8
 </b>
 </td>
 </tr>
@@ -640,12 +640,12 @@ Oliveirense
 </b>
 </font>
 </td>
-<td height="20">
-Benfica B
+<td height="20" style="padding-left:4px;">
+Vilafranquense
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -655,7 +655,7 @@ Benfica B
 3
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -664,11 +664,11 @@ Benfica B
 </td>
 <td align="center">
 <font color="red">
-12
+13
 </font>
 </td>
 <td align="center">
--5
+-6
 </td>
 <td align="center">
 <b>
@@ -683,8 +683,51 @@ Benfica B
 </b>
 </font>
 </td>
-<td height="20">
-Vilafranquense
+<td height="20" style="padding-left:4px;">
+Benfica B
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-7
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Casa Pia
 </td>
 <td align="center">
 <font color="green">
@@ -702,59 +745,16 @@ Vilafranquense
 </td>
 <td align="center">
 <font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-5
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td height="20">
-Casa Pia
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
 4
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+14
 </font>
 </td>
 <td align="center">
--6
+-10
 </td>
 <td align="center">
 <b>
@@ -769,12 +769,12 @@ Casa Pia
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Cova da Piedade
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Cova da Piedade
 1
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Cova da Piedade
 </td>
 <td align="center">
 <font color="red">
-19
+22
 </font>
 </td>
 <td align="center">
--14
+-17
 </td>
 <td align="center">
 <b>

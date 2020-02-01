@@ -1,6 +1,444 @@
 <table id="btable">
 <tr class="trow3" height="26">
 <td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Inter Milan - Cagliari</td>
+<td align="center">
+<font color="black"><b>1 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Hellas Verona - Lecce</td>
+<td align="center">
+<font color="black"><b>3 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 2-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Parma - Udinese</td>
+<td align="center">
+<font color="black"><b>2 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 2-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Sampdoria - Sassuolo</td>
+<td align="center">
+<font color="black"><b>0 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>AS Roma - Lazio</td>
+<td align="center">
+<font color="black"><b>1 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 26 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Napoli - Juventus</td>
+<td align="center">
+<font color="black"><b>2 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 25 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>SPAL - Bologna</td>
+<td align="center">
+<font color="black"><b>1 - 3</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 25 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Fiorentina - Genoa</td>
+<td align="center">
+<font color="black"><b>0 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 25 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Torino - Atalanta</td>
+<td align="center">
+<font color="black"><b>0 - 7</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-3)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Fr 24 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Brescia - AC Milan</td>
+<td align="center">
+<font color="black"><b>0 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Mo 20 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Atalanta - SPAL</td>
+<td align="center">
+<font color="black"><b>1 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>AC Milan - Udinese</td>
+<td align="center">
+<font color="black"><b>3 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Bologna - Hellas Verona</td>
+<td align="center">
+<font color="black"><b>1 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Brescia - Cagliari</td>
+<td align="center">
+<font color="black"><b>2 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Lecce - Inter Milan</td>
+<td align="center">
+<font color="black"><b>1 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Genoa - AS Roma</td>
+<td align="center">
+<font color="black"><b>1 - 3</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-2)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 19 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Juventus - Parma</td>
+<td align="center">
+<font color="black"><b>2 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 18 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Lazio - Sampdoria</td>
+<td align="center">
+<font color="black"><b>5 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 3-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 18 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Sassuolo - Torino</td>
+<td align="center">
+<font color="black"><b>2 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 18 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Napoli - Fiorentina</td>
+<td align="center">
+<font color="black"><b>0 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-1)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Mo 13 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Parma - Lecce</td>
+<td align="center">
+<font color="black"><b>2 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Udinese - Sassuolo</td>
+<td align="center">
+<font color="black"><b>3 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Fiorentina - SPAL</td>
+<td align="center">
+<font color="black"><b>1 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Sampdoria - Brescia</td>
+<td align="center">
+<font color="black"><b>5 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 2-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Torino - Bologna</td>
+<td align="center">
+<font color="black"><b>1 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Hellas Verona - Genoa</td>
+<td align="center">
+<font color="black"><b>2 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-1)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Su 12 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>AS Roma - Juventus</td>
+<td align="center">
+<font color="black"><b>1 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-2)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 11 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Cagliari - AC Milan</td>
+<td align="center">
+<font color="black"><b>0 - 2</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 11 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Lazio - Napoli</td>
+<td align="center">
+<font color="black"><b>1 - 0</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 0-0)
+</font></td>
+</tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
+<font color="gray" size="1" width="70">Sa 11 Jan </font>
+</td>
+<td align="center">
+</td>
+<td>Inter Milan - Atalanta</td>
+<td align="center">
+<font color="black"><b>1 - 1</b></font>
+</td>
+<td align="center"><font size="1">
+(HT: 1-0)
+</font></td>
+</tr>
+<tr bgcolor="#e9e9e9" height="16">
+<td colspan="8"></td></tr>
+<tr class="trow3" height="26">
+<td align="right" height="20">
 <font color="gray" size="1" width="70">Mo 6 Jan </font>
 </td>
 <td align="center">

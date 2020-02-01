@@ -38,12 +38,12 @@ Pts
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 RB Leipzig
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -53,7 +53,7 @@ RB Leipzig
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -62,11 +62,11 @@ RB Leipzig
 </td>
 <td align="center">
 <font color="red">
-11
+13
 </font>
 </td>
 <td align="center">
-+14
++12
 </td>
 <td align="center">
 <b>
@@ -81,16 +81,16 @@ RB Leipzig
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Leverkusen
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 0
@@ -100,20 +100,20 @@ Leverkusen
 </td>
 <td align="center">
 <font color="blue">
-11
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+12
 </font>
 </td>
 <td align="center">
-0
++3
 </td>
 <td align="center">
 <b>
-15
+18
 </b>
 </td>
 </tr>
@@ -124,16 +124,16 @@ Leverkusen
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Bayern Munich
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 2
@@ -143,7 +143,7 @@ Bayern Munich
 </td>
 <td align="center">
 <font color="blue">
-18
+22
 </font>
 </td>
 <td align="center">
@@ -152,11 +152,11 @@ Bayern Munich
 </font>
 </td>
 <td align="center">
-+5
++9
 </td>
 <td align="center">
 <b>
-14
+17
 </b>
 </td>
 </tr>
@@ -167,16 +167,16 @@ Bayern Munich
 </b>
 </font>
 </td>
-<td height="20">
-Schalke 04
+<td height="20" style="padding-left:4px;">
+Hoffenheim
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 2
@@ -186,12 +186,12 @@ Schalke 04
 </td>
 <td align="center">
 <font color="blue">
-15
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+9
 </font>
 </td>
 <td align="center">
@@ -199,7 +199,7 @@ Schalke 04
 </td>
 <td align="center">
 <b>
-14
+17
 </b>
 </td>
 </tr>
@@ -210,31 +210,31 @@ Schalke 04
 </b>
 </font>
 </td>
-<td height="20">
-Hoffenheim
+<td height="20" style="padding-left:4px;">
+Dortmund
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-11
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+18
 </font>
 </td>
 <td align="center">
@@ -242,7 +242,7 @@ Hoffenheim
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
@@ -253,12 +253,98 @@ Hoffenheim
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
+Freiburg
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Schalke 04
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Monchengladbach
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -268,7 +354,7 @@ Monchengladbach
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -277,11 +363,11 @@ Monchengladbach
 </td>
 <td align="center">
 <font color="red">
-7
+9
 </font>
 </td>
 <td align="center">
-+3
++1
 </td>
 <td align="center">
 <b>
@@ -292,16 +378,16 @@ Monchengladbach
 <tr class="odd" height="26">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+9
 </b>
 </font>
 </td>
-<td height="20">
-Freiburg
+<td height="20" style="padding-left:4px;">
+Hertha Berlin
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -311,110 +397,24 @@ Freiburg
 3
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-15
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+16
 </font>
 </td>
 <td align="center">
-+1
+-3
 </td>
 <td align="center">
 <b>
 12
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20">
-Dortmund
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-12
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20">
-Wolfsburg
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-11
 </b>
 </td>
 </tr>
@@ -425,59 +425,16 @@ Wolfsburg
 </b>
 </font>
 </td>
-<td height="20">
-Hertha Berlin
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 Werder Bremen
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 3
@@ -487,7 +444,7 @@ Werder Bremen
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -496,11 +453,54 @@ Werder Bremen
 </font>
 </td>
 <td align="center">
--7
+-6
 </td>
 <td align="center">
 <b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="26">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Wolfsburg
+</td>
+<td align="center">
+<font color="green">
 9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+11
 </b>
 </td>
 </tr>
@@ -511,12 +511,12 @@ Werder Bremen
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 FC Augsburg
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -526,7 +526,7 @@ FC Augsburg
 3
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -535,11 +535,11 @@ FC Augsburg
 </td>
 <td align="center">
 <font color="red">
-20
+22
 </font>
 </td>
 <td align="center">
--8
+-10
 </td>
 <td align="center">
 <b>
@@ -554,12 +554,12 @@ FC Augsburg
 </b>
 </font>
 </td>
-<td height="20">
+<td height="20" style="padding-left:4px;">
 FSV Mainz
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -569,20 +569,20 @@ FSV Mainz
 0
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+27
 </font>
 </td>
 <td align="center">
--9
+-11
 </td>
 <td align="center">
 <b>
@@ -597,8 +597,8 @@ FSV Mainz
 </b>
 </font>
 </td>
-<td height="20">
-FC Koln
+<td height="20" style="padding-left:4px;">
+Paderborn
 </td>
 <td align="center">
 <font color="green">
@@ -609,10 +609,10 @@ FC Koln
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-6
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -621,15 +621,15 @@ FC Koln
 </td>
 <td align="center">
 <font color="red">
-21
+17
 </font>
 </td>
 <td align="center">
--11
+-7
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>
@@ -640,39 +640,39 @@ FC Koln
 </b>
 </font>
 </td>
-<td height="20">
-Union Berlin
+<td height="20" style="padding-left:4px;">
+FC Koln
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-5
+1
+</td>
+<td align="center">
+7
 </td>
 <td align="center">
 <font color="blue">
-8
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+26
 </font>
 </td>
 <td align="center">
--5
+-15
 </td>
 <td align="center">
 <b>
-5
+7
 </b>
 </td>
 </tr>
@@ -683,39 +683,39 @@ Union Berlin
 </b>
 </font>
 </td>
-<td height="20">
-Paderborn
+<td height="20" style="padding-left:4px;">
+E. Frankfurt
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-5
+0
+</td>
+<td align="center">
+7
 </td>
 <td align="center">
 <font color="blue">
-8
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+16
 </font>
 </td>
 <td align="center">
--9
+-6
 </td>
 <td align="center">
 <b>
-5
+6
 </b>
 </td>
 </tr>
@@ -726,8 +726,8 @@ Paderborn
 </b>
 </font>
 </td>
-<td height="20">
-Dusseldorf
+<td height="20" style="padding-left:4px;">
+Union Berlin
 </td>
 <td align="center">
 <font color="green">
@@ -745,16 +745,16 @@ Dusseldorf
 </td>
 <td align="center">
 <font color="blue">
-10
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+16
 </font>
 </td>
 <td align="center">
--12
+-7
 </td>
 <td align="center">
 <b>
@@ -769,39 +769,39 @@ Dusseldorf
 </b>
 </font>
 </td>
-<td height="20">
-E. Frankfurt
+<td height="20" style="padding-left:4px;">
+Dusseldorf
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-0
+2
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
 <font color="blue">
-8
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+25
 </font>
 </td>
 <td align="center">
--7
+-15
 </td>
 <td align="center">
 <b>
-3
+5
 </b>
 </td>
 </tr>
