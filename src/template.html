@@ -76,15 +76,18 @@ background-color: lightgreen;
 tr.hide { display: none }
 
 td.noDraws {
-  background-color: red !important;
+  background-color: purple !important;
+  color: white;
 }
 td.homeWin4 {
-  background-color: orange !important;
+  background-color: springgreen !important;
 }
 td.homeWin3 {
   background-color: gold !important;
 }
-
+td.homeWin2 {
+  background-color: red !important;
+}
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -1331,7 +1334,8 @@ for(p=0;p<homeGameTotal.length;p++) {
    } 
 }
   if(homeDraw == 0) rowClassH = "homeWin4"; 
-  if(homeDraw == 1) rowClassH = "homeWin3";   
+  if(homeDraw == 1) rowClassH = "homeWin3"; 
+  if(homeDraw == 2) rowClassH = "homeWin2";   
 
 
 
@@ -1342,8 +1346,8 @@ for(p=0;p<awayGameTotal.length;p++) {
    } 
 }
    if(awayDraw == 0)  rowClassA = "homeWin4"; 
-
    if(awayDraw == 1)  rowClassA = "homeWin3"; 
+   if(awayDraw == 2)  rowClassA = "homeWin2";    
 
 
      
