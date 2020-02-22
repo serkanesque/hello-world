@@ -31,7 +31,7 @@ GD
 Pts
 </b></font></th>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 1
@@ -43,11 +43,11 @@ Liverpool
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-12
+13
 </td>
 <td align="center">
 0
@@ -57,7 +57,7 @@ Liverpool
 </td>
 <td align="center">
 <font color="blue">
-31
+35
 </font>
 </td>
 <td align="center">
@@ -66,15 +66,15 @@ Liverpool
 </font>
 </td>
 <td align="center">
-+22
++26
 </td>
 <td align="center">
 <b>
-36
+39
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 2
@@ -86,11 +86,11 @@ Manchester City
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 2
@@ -100,7 +100,7 @@ Manchester City
 </td>
 <td align="center">
 <font color="blue">
-31
+33
 </font>
 </td>
 <td align="center">
@@ -109,15 +109,15 @@ Manchester City
 </font>
 </td>
 <td align="center">
-+19
++21
 </td>
 <td align="center">
 <b>
-26
+29
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 3
@@ -129,26 +129,26 @@ Leicester City
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
 <font color="blue">
-24
+26
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+14
 </font>
 </td>
 <td align="center">
@@ -156,11 +156,11 @@ Leicester City
 </td>
 <td align="center">
 <b>
-26
+27
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 4
@@ -172,11 +172,11 @@ Tottenham
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -186,7 +186,7 @@ Tottenham
 </td>
 <td align="center">
 <font color="blue">
-23
+25
 </font>
 </td>
 <td align="center">
@@ -195,18 +195,61 @@ Tottenham
 </font>
 </td>
 <td align="center">
-+11
++13
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Everton
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
@@ -215,14 +258,14 @@ Manchester Utd
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 2
@@ -242,33 +285,76 @@ Manchester Utd
 </td>
 <td align="center">
 <b>
-22
+23
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Everton
+Arsenal
 </td>
 <td align="center">
 <font color="green">
-12
+13
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Sheffield Utd
+</td>
+<td align="center">
+<font color="green">
+13
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
-3
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -277,22 +363,22 @@ Everton
 </td>
 <td align="center">
 <font color="red">
-13
+12
 </font>
 </td>
 <td align="center">
-+2
++3
 </td>
 <td align="center">
 <b>
-21
+20
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+9
 </b>
 </font>
 </td>
@@ -301,14 +387,14 @@ Newcastle Utd
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 3
@@ -328,57 +414,14 @@ Newcastle Utd
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Chelsea
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-18
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -387,14 +430,14 @@ Burnley
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 6
@@ -414,14 +457,14 @@ Burnley
 </td>
 <td align="center">
 <b>
-18
+19
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -430,17 +473,60 @@ Brighton
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
+6
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Chelsea
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
 5
 </td>
 <td align="center">
 3
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -449,50 +535,7 @@ Brighton
 </td>
 <td align="center">
 <font color="red">
-13
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Sheffield Utd
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
+14
 </font>
 </td>
 <td align="center">
@@ -500,14 +543,14 @@ Sheffield Utd
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -516,14 +559,14 @@ Wolverhampton
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 3
@@ -543,54 +586,11 @@ Wolverhampton
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Arsenal
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 14
@@ -602,7 +602,7 @@ Aston Villa
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -610,178 +610,6 @@ Aston Villa
 </td>
 <td align="center">
 2
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-21
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Crystal Palace
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-16
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Watford
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Bournemouth
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Norwich City
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
 </td>
 <td align="center">
 6
@@ -793,22 +621,151 @@ Norwich City
 </td>
 <td align="center">
 <font color="red">
-25
+24
 </font>
 </td>
 <td align="center">
--7
+-6
 </td>
 <td align="center">
 <b>
-12
+17
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Crystal Palace
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Bournemouth
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
 19
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Watford
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+18
 </b>
 </font>
 </td>
@@ -817,26 +774,26 @@ West Ham Utd
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
 <font color="blue">
-17
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+25
 </font>
 </td>
 <td align="center">
@@ -844,11 +801,54 @@ West Ham Utd
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+19
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Norwich City
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+26
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 20
@@ -860,7 +860,7 @@ Southampton
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -870,20 +870,20 @@ Southampton
 2
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-28
+30
 </font>
 </td>
 <td align="center">
--15
+-16
 </td>
 <td align="center">
 <b>

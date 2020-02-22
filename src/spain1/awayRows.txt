@@ -31,7 +31,7 @@ GD
 Pts
 </b></font></th>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 1
@@ -43,11 +43,11 @@ Real Madrid
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 4
@@ -57,24 +57,24 @@ Real Madrid
 </td>
 <td align="center">
 <font color="blue">
-17
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+7
 </font>
 </td>
 <td align="center">
-+11
++14
 </td>
 <td align="center">
 <b>
-22
+25
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 2
@@ -86,54 +86,11 @@ FC Sevilla
 </td>
 <td align="center">
 <font color="green">
-11
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
 12
 </font>
 </td>
 <td align="center">
-+2
-</td>
-<td align="center">
-<b>
-20
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Real Sociedad
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-5
+6
 </td>
 <td align="center">
 2
@@ -148,22 +105,22 @@ Real Sociedad
 </td>
 <td align="center">
 <font color="red">
-17
+14
 </font>
 </td>
 <td align="center">
--2
++1
 </td>
 <td align="center">
 <b>
-17
+20
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
+3
 </b>
 </font>
 </td>
@@ -172,84 +129,41 @@ Getafe
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 4
 </td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
 <td align="center">
 <font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
 12
 </font>
 </td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
 <td align="center">
-+2
++3
 </td>
 <td align="center">
 <b>
-15
+18
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Villarreal
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-15
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-6
+4
 </b>
 </font>
 </td>
@@ -258,11 +172,11 @@ FC Barcelona
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 3
@@ -272,12 +186,98 @@ FC Barcelona
 </td>
 <td align="center">
 <font color="blue">
-15
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+17
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Real Sociedad
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Villarreal
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
 </font>
 </td>
 <td align="center">
@@ -285,11 +285,11 @@ FC Barcelona
 </td>
 <td align="center">
 <b>
-15
+16
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 7
@@ -301,38 +301,38 @@ Atletico Madrid
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-8
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+11
 </font>
 </td>
 <td align="center">
-0
+-1
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 8
@@ -344,38 +344,38 @@ Osasuna
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-10
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+15
 </font>
 </td>
 <td align="center">
--2
+-3
 </td>
 <td align="center">
 <b>
-11
+14
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 9
@@ -383,42 +383,42 @@ Osasuna
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Valencia
+Valladolid
 </td>
 <td align="center">
 <font color="green">
-10
+13
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-14
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+19
 </font>
 </td>
 <td align="center">
--6
+-10
 </td>
 <td align="center">
 <b>
-11
+13
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 10
@@ -430,7 +430,50 @@ Espanyol
 </td>
 <td align="center">
 <font color="green">
+12
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
 10
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-9
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Valencia
+</td>
+<td align="center">
+<font color="green">
+11
 </font>
 </td>
 <td align="center">
@@ -440,20 +483,20 @@ Espanyol
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-7
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+23
 </font>
 </td>
 <td align="center">
--8
+-9
 </td>
 <td align="center">
 <b>
@@ -461,10 +504,10 @@ Espanyol
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -473,7 +516,7 @@ Athletic Bilbao
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -483,20 +526,20 @@ Athletic Bilbao
 7
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-8
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+13
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -504,38 +547,38 @@ Athletic Bilbao
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Valladolid
+Real Betis
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-4
+6
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-7
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+20
 </font>
 </td>
 <td align="center">
@@ -543,14 +586,14 @@ Valladolid
 </td>
 <td align="center">
 <b>
-10
+9
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-13
+14
 </b>
 </font>
 </td>
@@ -559,7 +602,7 @@ Levante
 </td>
 <td align="center">
 <font color="green">
-11
+13
 </font>
 </td>
 <td align="center">
@@ -569,93 +612,7 @@ Levante
 0
 </td>
 <td align="center">
-8
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-21
-</font>
-</td>
-<td align="center">
--10
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Eibar
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--7
-</td>
-<td align="center">
-<b>
-8
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Granada
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-7
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -664,11 +621,54 @@ Granada
 </td>
 <td align="center">
 <font color="red">
-22
+25
 </font>
 </td>
 <td align="center">
--9
+-12
+</td>
+<td align="center">
+<b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Eibar
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-8
 </td>
 <td align="center">
 <b>
@@ -676,7 +676,7 @@ Granada
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 16
@@ -684,30 +684,30 @@ Granada
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Real Betis
+Granada
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
-5
+8
 </td>
 <td align="center">
 <font color="blue">
-9
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+23
 </font>
 </td>
 <td align="center">
@@ -715,11 +715,11 @@ Real Betis
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 17
@@ -731,38 +731,38 @@ Alaves
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-9
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+25
 </font>
 </td>
 <td align="center">
--14
+-15
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 18
@@ -774,38 +774,38 @@ Celta Vigo
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-10
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+22
 </font>
 </td>
 <td align="center">
--9
+-10
 </td>
 <td align="center">
 <b>
-6
+7
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 19
@@ -817,7 +817,7 @@ Leganes
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -827,7 +827,7 @@ Leganes
 5
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -836,11 +836,11 @@ Leganes
 </td>
 <td align="center">
 <font color="red">
-16
+18
 </font>
 </td>
 <td align="center">
--10
+-12
 </td>
 <td align="center">
 <b>
@@ -848,7 +848,7 @@ Leganes
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 20
@@ -860,34 +860,34 @@ Mallorca
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
-7
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+29
 </font>
 </td>
 <td align="center">
--18
+-19
 </td>
 <td align="center">
 <b>
-1
+2
 </b>
 </td>
 </tr>

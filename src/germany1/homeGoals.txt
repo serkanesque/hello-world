@@ -1,7 +1,7 @@
-<table cellpadding="3" cellspacing="1" width="99%">
+<table cellpadding="1" cellspacing="1" width="99%">
 <tbody><tr bgcolor="#dddddd">
 <td align="center" height="30" width="90"><b>
-Home
+Overall
 </b></td>
 <td align="center"><b>0-10</b></td>
 <td align="center"><b>11-20</b></td>
@@ -20,795 +20,775 @@ Home
 2nd half
 </b></td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=germany&amp;stats=u151-bayern-munich" target="_top">Bayern Munich</a>
 </td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+4-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
+10-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-7-0
+6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
+6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-9-1
+13-2
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+7-5
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-11-6
+27-12
 </td>
 <td align="center" bgcolor="#D2FFE9">
-22-3
+38-14
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=germany&amp;stats=u167-dortmund" target="_top">Dortmund</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 3-3
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
 <td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+7-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 5-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-8-2
+4-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+10-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-7-0
+12-1
 </b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-5
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-9-5
+21-13
 </td>
 <td align="center" bgcolor="#D2FFE9">
-22-5
+42-19
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=germany&amp;stats=u157-dusseldorf" target="_top">Dusseldorf</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+1-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
 <b>
-3-1
+1-7
 </b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-9
+10-18
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-6
+11-28
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=germany&amp;stats=u160-e.-frankfurt" target="_top">E. Frankfurt</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-6-3
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-7
-</td>
-<td align="center" bgcolor="#D2FFE9">
-13-7
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u158-fc-augsburg" target="_top">FC Augsburg</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-2-5
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-10-12
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u172-fc-koln" target="_top">FC Koln</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-6-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u159-freiburg" target="_top">Freiburg</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-5
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u165-fsv-mainz" target="_top">FSV Mainz</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-3
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-9
-</td>
-<td align="center" bgcolor="#FFFFCC">
-8-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u155-hertha-berlin" target="_top">Hertha Berlin</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
+<td align="center" bgcolor="#FFFFCC">
+2-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-3
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-5
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-15
+</td>
+<td align="center" bgcolor="#D2FFE9">
+26-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u158-fc-augsburg" target="_top">FC Augsburg</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-8
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-15
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-30
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u172-fc-koln" target="_top">FC Koln</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
 1-5
 </b>
 </td>
-<td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-8
+3-5
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-10
+3-5
 </td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u152-hoffenheim" target="_top">Hoffenheim</a>
+<td align="center" bgcolor="#FFCCCC">
+2-5
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
 </td>
 <td align="center" bgcolor="#FFCCCC">
 2-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+<b>
+10-6
+</b>
+</td>
+<td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
+10-19
+</td>
+<td align="center" bgcolor="#FFCCCC">
+18-23
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u159-freiburg" target="_top">Freiburg</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-4
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+4-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+9-9
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+14-12
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-19
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u165-fsv-mainz" target="_top">FSV Mainz</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+10-12
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+15-23
+</td>
+<td align="center" bgcolor="#FFCCCC">
+16-25
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u155-hertha-berlin" target="_top">Hertha Berlin</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
+4-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
+7-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-6
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+5-11
+</b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-8
+10-15
 </td>
 <td align="center" bgcolor="#FFCCCC">
-10-13
+17-23
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u164-leverkusen" target="_top">Leverkusen</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u152-hoffenheim" target="_top">Hoffenheim</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+5-7
 </td>
 <td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+10-15
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u164-leverkusen" target="_top">Leverkusen</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
 <b>
-0-2
+7-3
 </b>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
+<td align="center" bgcolor="#FFFFCC">
+4-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+<b>
+7-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
-<td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 9-6
 </td>
+<td>
+</td>
 <td align="center" bgcolor="#D2FFE9">
-6-4
+23-14
+</td>
+<td align="center" bgcolor="#FFFFCC">
+15-15
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=germany&amp;stats=u163-monchengladbach" target="_top">Monchengladbach</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+5-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-0
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
 </td>
 <td align="center" bgcolor="#FFFFCC">
-1-1
+4-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-2
+2-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-2
+<b>
+7-2
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+8-5
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+19-9
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-15
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u180-paderborn" target="_top">Paderborn</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+4-9
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+15-25
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-25
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u168-rb-leipzig" target="_top">RB Leipzig</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-3
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+25-12
+</td>
+<td align="center" bgcolor="#D2FFE9">
+31-13
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u162-schalke-04" target="_top">Schalke 04</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-0
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 4-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-6-2
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-16-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u180-paderborn" target="_top">Paderborn</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-7-14
-</td>
-<td align="center" bgcolor="#FFCCCC">
-6-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u168-rb-leipzig" target="_top">RB Leipzig</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
+6-3
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 5-3
 </td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-8
+</td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-11-6
+10-7
 </td>
 <td align="center" bgcolor="#D2FFE9">
-15-4
+22-20
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u162-schalke-04" target="_top">Schalke 04</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u181-union-berlin" target="_top">Union Berlin</a>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#D2FFE9">
+4-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+2-5
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+2-4
 </td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 5-2
 </td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-6
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-5
+</b>
+</td>
 <td align="center" bgcolor="#D2FFE9">
-11-9
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-14
+</td>
+<td align="center" bgcolor="#FFCCCC">
+16-21
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u181-union-berlin" target="_top">Union Berlin</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u153-werder-bremen" target="_top">Werder Bremen</a>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-7
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+13-22
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-29
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=germany&amp;stats=u161-wolfsburg" target="_top">Wolfsburg</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
+<td align="center" bgcolor="#FFCCCC">
+4-5
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
+<td align="center" bgcolor="#FFCCCC">
+4-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
 4-1
 </b>
 </td>
-<td>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-5-5
-</td>
 <td align="center" bgcolor="#D2FFE9">
-9-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u153-werder-bremen" target="_top">Werder Bremen</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-4
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+3-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-5
+5-8
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-10
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-12
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=germany&amp;stats=u161-wolfsburg" target="_top">Wolfsburg</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
+11-12
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-2-4
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-7-6
+17-16
 </td>
 </tr>
 <tr><td align="center" colspan="13">
-'41-50 m' and '81-90 m' also include added time
+<font color="gray">'41-50 m' and '81-90 m' also include added time</font>
 </td></tr>
 </tbody></table>

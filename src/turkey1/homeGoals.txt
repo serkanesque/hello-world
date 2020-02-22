@@ -1,7 +1,7 @@
-<table cellpadding="3" cellspacing="1" width="99%">
+<table cellpadding="1" cellspacing="1" width="99%">
 <tbody><tr bgcolor="#dddddd">
 <td align="center" height="30" width="90"><b>
-Home
+Overall
 </b></td>
 <td align="center"><b>0-10</b></td>
 <td align="center"><b>11-20</b></td>
@@ -20,702 +20,404 @@ Home
 2nd half
 </b></td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=turkey&amp;stats=12-alanyaspor" target="_top">Alanyaspor</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-7-1
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-17-4
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=14-ankaragucu" target="_top">Ankaragucu</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
 0-3
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-4
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
 <td align="center" bgcolor="#D2FFE9">
 3-0
 </td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-4
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-8
-</td>
-<td align="center" bgcolor="#FFCCCC">
-6-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=8-antalyaspor" target="_top">Antalyaspor</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-16
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=18-basaksehir" target="_top">Basaksehir</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
 5-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-5
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-15-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-13-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=16-besiktas" target="_top">Besiktas</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-13-4
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=1-denizlispor" target="_top">Denizlispor</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-7
-</td>
-<td align="center" bgcolor="#FFCCCC">
-7-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=3-fenerbahce" target="_top">Fenerbahce</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 5-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
 <b>
-5-1
+7-2
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
+9-4
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-15-7
+18-7
 </td>
 <td align="center" bgcolor="#D2FFE9">
-11-2
+23-15
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=2-galatasaray" target="_top">Galatasaray</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=14-ankaragucu" target="_top">Ankaragucu</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-7-7
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=4-gaziantep-fk" target="_top">Gaziantep FK</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+0-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-2-5
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-4
-</td>
-<td align="center" bgcolor="#FFFFCC">
-10-10
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=5-genclerbirligi" target="_top">Genclerbirligi</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-2-6
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-8-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=7-goztepe" target="_top">Goztepe</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
+1-8
 </b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
 1-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-5
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=9-kasimpasa" target="_top">Kasimpasa</a>
+0-5
 </td>
 <td align="center" bgcolor="#FFFFCC">
-1-1
+4-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
+5-0
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-3
+5-10
 </td>
-<td align="center" bgcolor="#D2FFE9">
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+15-21
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=8-antalyaspor" target="_top">Antalyaspor</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
 <b>
-5-0
+2-6
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-3
+4-7
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-5-11
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=11-kayserispor" target="_top">Kayserispor</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-5
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-11
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=13-konyaspor" target="_top">Konyaspor</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-6
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=6-rizespor" target="_top">Rizespor</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
 <b>
 1-5
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+5-3
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+<td align="center" bgcolor="#FFCCCC">
+10-21
+</td>
+<td align="center" bgcolor="#FFCCCC">
+13-18
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=18-basaksehir" target="_top">Basaksehir</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-0
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+5-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+4-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
+6-7
 </td>
 <td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+18-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-17
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=16-besiktas" target="_top">Besiktas</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
 </td>
 <td align="center" bgcolor="#FFFFCC">
 6-6
 </td>
 <td align="center" bgcolor="#D2FFE9">
-7-5
+<b>
+4-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-4
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-14
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-14
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=15-sivasspor" target="_top">Sivasspor</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=1-denizlispor" target="_top">Denizlispor</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+0-1
 </td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
+<td align="center" bgcolor="#FFCCCC">
+1-4
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFCCCC">
+2-4
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-7
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
+8-4
 </b>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-5-2
-</td>
 <td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-13
+</td>
+<td align="center" bgcolor="#FFFFCC">
+17-17
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=3-fenerbahce" target="_top">Fenerbahce</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-14-3
+<b>
+8-1
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+20-16
+</td>
+<td align="center" bgcolor="#D2FFE9">
+21-10
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=10-trabzonspor" target="_top">Trabzonspor</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=2-galatasaray" target="_top">Galatasaray</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+3-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
+10-0
 </b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+22-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-15
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=4-gaziantep-fk" target="_top">Gaziantep FK</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-5
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+5-9
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-11
+</td>
+<td align="center" bgcolor="#FFCCCC">
+16-24
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=5-genclerbirligi" target="_top">Genclerbirligi</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
@@ -723,33 +425,45 @@ Home
 <td align="center" bgcolor="#D2FFE9">
 4-2
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-7
+</b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-5-5
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+6-10
+</b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-12-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-15-8
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=turkey&amp;stats=17-yeni-malatyaspo" target="_top">Yeni Malatyaspo</a>
+14-12
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
+17-27
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=7-goztepe" target="_top">Goztepe</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-0
+</b>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 1-1
@@ -757,36 +471,330 @@ Home
 <td align="center" bgcolor="#FFCCCC">
 1-4
 </td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
 <td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+4-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+7-2
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#FFCCCC">
+1-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-11
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-12
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=9-kasimpasa" target="_top">Kasimpasa</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
 <b>
-6-0
+3-10
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-28
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-21
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=11-kayserispor" target="_top">Kayserispor</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-9
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+5-16
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-4-7
+10-20
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-34
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=13-konyaspor" target="_top">Konyaspor</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-12-3
+3-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-7
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-15
+</td>
+<td align="center" bgcolor="#FFCCCC">
+8-15
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=6-rizespor" target="_top">Rizespor</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-9
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+0-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-14
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-18
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=15-sivasspor" target="_top">Sivasspor</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-3
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-13
+</td>
+<td align="center" bgcolor="#D2FFE9">
+25-13
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=10-trabzonspor" target="_top">Trabzonspor</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+24-9
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-12
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=turkey&amp;stats=17-yeni-malatyaspo" target="_top">Yeni Malatyaspo</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+14-3
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-18
+</td>
+<td align="center" bgcolor="#D2FFE9">
+25-12
 </td>
 </tr>
 <tr><td align="center" colspan="13">
-'41-50 m' and '81-90 m' also include added time
+<font color="gray">'41-50 m' and '81-90 m' also include added time</font>
 </td></tr>
 </tbody></table>

@@ -14,7 +14,7 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat1
+Sat22
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 12:30
@@ -23,35 +23,35 @@ Sat1
  home
 </font></td>
 <td align="right" width="120">
-Leicester City
+Chelsea
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-72%
+46%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 8 (66.7%)Draws: 2 (16.7%)Defeats: 2 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-3.00
+<font color="red">
+2.31
 </font>
 </td>
 <td align="center">
-<font color="green">
-67%
+<font color="red">
+38%
 </font>
 </td>
 <td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england&amp;stats=605-5-20-2020-leicester-city-chelsea" target="_top" title="Leicester City vs Chelsea">stats</a></li>
+<a href="pmatch.asp?league=england&amp;stats=624-20-15-2020-chelsea-tottenham" target="_top" title="Chelsea vs Tottenham">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -60,49 +60,9 @@ Leicester City
  away
 </font></td>
 <td align="right">
-Chelsea
+Tottenham
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-61%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (58.3%)Draws: 1 (8.3%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:19.3px;"></div><div class="barorange" style="width:2.8px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.75
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat1
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Bournemouth
- </td>
-<td align="left" width="30">
 <div class="graphwide"><div class="bargray" style="width:9.0px;"></div></div>
 </td>
 <td align="left">
@@ -111,24 +71,64 @@ Bournemouth
 </font>
 </td>
 <td align="center">
-<span title="Wins: 3 (25.0%)Draws: 4 (33.3%)Defeats: 5 (41.7%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:13.8px;"></div></span>
+<span title="Wins: 3 (23.1%)Draws: 5 (38.5%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-2.58
+3.08
 </font>
 </td>
 <td align="center">
 <font color="green">
-58%
+77%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat22
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+15:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Burnley
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+49%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (46.2%)Draws: 1 (7.7%)Defeats: 6 (46.2%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:15.2px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.62
+</font>
+</td>
+<td align="center">
+<font color="green">
+54%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england&amp;stats=610-13-16-2020-bournemouth-aston-villa" target="_top" title="Bournemouth vs Aston Villa">stats</a></li>
+<a href="pmatch.asp?league=england&amp;stats=628-7-13-2020-burnley-bournemouth" target="_top" title="Burnley vs Bournemouth">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -137,38 +137,38 @@ Bournemouth
  away
 </font></td>
 <td align="right">
-Aston Villa
+Bournemouth
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:6.4px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-22%
+26%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 2 (16.7%)Draws: 2 (16.7%)Defeats: 8 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
+<span title="Wins: 3 (23.1%)Draws: 1 (7.7%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:22.8px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-3.25
+<font color="red">
+2.46
 </font>
 </td>
 <td align="center">
 <font color="green">
-75%
+54%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat1
+Sat22
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 15:00
@@ -180,32 +180,32 @@ Sat1
 Crystal Palace
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-44%
+41%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (33.3%)Draws: 4 (33.3%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
-1.83
+1.77
 </font>
 </td>
 <td align="center">
 <font color="red">
-17%
+15%
 </font>
 </td>
 <td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england&amp;stats=608-9-14-2020-crystal-palace-sheffield-utd" target="_top" title="Crystal Palace vs Sheffield Utd">stats</a></li>
+<a href="pmatch.asp?league=england&amp;stats=630-9-17-2020-crystal-palace-newcastle-utd" target="_top" title="Crystal Palace vs Newcastle Utd">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -214,41 +214,506 @@ Crystal Palace
  away
 </font></td>
 <td align="right">
-Sheffield Utd
+Newcastle Utd
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-44%
+28%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 3 (25.0%)Draws: 7 (58.3%)Defeats: 2 (16.7%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:19.3px;"></div><div class="barred" style="width:5.5px;"></div></span>
+<span title="Wins: 3 (23.1%)Draws: 2 (15.4%)Defeats: 8 (61.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:20.3px;"></div></span>
 </td>
 <td align="center">
-<font color="red">
-2.00
+<font color="green">
+3.08
 </font>
 </td>
 <td align="center">
-<font color="red">
-17%
+<font color="green">
+54%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat1
+Sat22
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 15:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Sheffield Utd
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+51%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (46.2%)Draws: 2 (15.4%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:12.7px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.08
+</font>
+</td>
+<td align="center">
+<font color="red">
+31%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=626-14-12-2020-sheffield-utd-brighton" target="_top" title="Sheffield Utd vs Brighton">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Brighton
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+23%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (15.4%)Draws: 3 (23.1%)Defeats: 8 (61.5%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:20.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.92
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat22
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+15:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Southampton
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+28%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (23.1%)Draws: 2 (15.4%)Defeats: 8 (61.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:20.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.38
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=629-8-16-2020-southampton-aston-villa" target="_top" title="Southampton vs Aston Villa">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Aston Villa
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+21%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (15.4%)Draws: 2 (15.4%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:22.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.23
+</font>
+</td>
+<td align="center">
+<font color="green">
+77%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat22
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+17:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Leicester City
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:17.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+69%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (61.5%)Draws: 3 (23.1%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:5.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.08
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=627-5-4-2020-leicester-city-manchester-city" target="_top" title="Leicester City vs Manchester City">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Manchester City
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:16.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+64%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (61.5%)Draws: 1 (7.7%)Defeats: 4 (30.8%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:10.2px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.92
+</font>
+</td>
+<td align="center">
+<font color="green">
+77%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun23
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Manchester Utd
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:14.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+59%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (46.2%)Draws: 5 (38.5%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:5.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.77
+</font>
+</td>
+<td align="center">
+<font color="green">
+54%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=625-19-11-2020-manchester-utd-watford" target="_top" title="Manchester Utd vs Watford">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Watford
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:6.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+26%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (15.4%)Draws: 4 (30.8%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:17.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.62
+</font>
+</td>
+<td align="center">
+<font color="red">
+31%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun23
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Wolverhampton
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+46%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (30.8%)Draws: 6 (46.2%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:15.2px;"></div><div class="barred" style="width:7.6px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.69
+</font>
+</td>
+<td align="center">
+<font color="red">
+38%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=621-6-2-2020-wolverhampton-norwich-city" target="_top" title="Wolverhampton vs Norwich City">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Norwich City
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:3.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+15%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (7.7%)Draws: 3 (23.1%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:22.8px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.15
+</font>
+</td>
+<td align="center">
+<font color="red">
+31%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun23
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+16:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Arsenal
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+51%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (38.5%)Draws: 5 (38.5%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:7.6px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.08
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=623-18-10-2020-arsenal-everton" target="_top" title="Arsenal vs Everton">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Everton
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:7.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+31%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (23.1%)Draws: 3 (23.1%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:17.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.08
+</font>
+</td>
+<td align="center">
+<font color="green">
+62%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Mon24
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+20:00
 </font></td>
 <td align="left" height="20" width="25"><font color="#666666" size="1">
  home
@@ -265,24 +730,24 @@ Liverpool
 </font>
 </td>
 <td align="center">
-<span title="Wins: 12 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+<span title="Wins: 13 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-3.33
+3.38
 </font>
 </td>
 <td align="center">
 <font color="green">
-67%
+69%
 </font>
 </td>
 <td align="left">
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=england&amp;stats=601-1-8-2020-liverpool-southampton" target="_top" title="Liverpool vs Southampton">stats</a></li>
+<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=england&amp;stats=622-1-3-2020-liverpool-west-ham-utd" target="_top" title="Liverpool vs West Ham Utd">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -291,32 +756,35 @@ Liverpool
  away
 </font></td>
 <td align="right">
-Southampton
+West Ham Utd
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:7.7px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-56%
+31%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 6 (50.0%)Draws: 2 (16.7%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:11.0px;"></div></span>
+<span title="Wins: 3 (23.1%)Draws: 3 (23.1%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:17.8px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-2.67
+<font color="red">
+2.31
 </font>
 </td>
 <td align="center">
-<font color="green">
-58%
+<font color="red">
+38%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td colspan="12" height="40" style="line-height:16px;" valign="middle">
+Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
+</td></tr>
 </table>

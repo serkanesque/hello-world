@@ -1,7 +1,7 @@
-<table cellpadding="3" cellspacing="1" width="99%">
+<table cellpadding="1" cellspacing="1" width="99%">
 <tbody><tr bgcolor="#dddddd">
 <td align="center" height="30" width="90"><b>
-Home
+Overall
 </b></td>
 <td align="center"><b>0-10</b></td>
 <td align="center"><b>11-20</b></td>
@@ -20,616 +20,135 @@ Home
 2nd half
 </b></td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=england4&amp;stats=u228-bradford" target="_top">Bradford</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-7
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u282-cambridge-utd" target="_top">Cambridge Utd</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-2
 </td>
-<td align="center" bgcolor="#FFFFCC">
-4-4
+<td align="center" bgcolor="#FFCCCC">
+6-7
 </td>
 <td align="center" bgcolor="#FFCCCC">
 1-3
 </td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
+<td align="center" bgcolor="#D2FFE9">
+4-3
 </td>
-<td align="center" bgcolor="#FFFFCC">
-4-4
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-8
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-9
+15-18
 </td>
-<td align="center" bgcolor="#FFCCCC">
-12-14
+<td align="center" bgcolor="#D2FFE9">
+26-17
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u282-cambridge-utd" target="_top">Cambridge Utd</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+14-6
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-20
+</td>
+<td align="center" bgcolor="#D2FFE9">
+29-24
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
 <a href="team.asp?league=england4&amp;stats=u286-carlisle-utd" target="_top">Carlisle Utd</a>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+4-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
 1-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-8-10
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u283-cheltenham" target="_top">Cheltenham</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-7-3
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-9-8
-</td>
-<td align="center" bgcolor="#D2FFE9">
-19-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u272-colchester" target="_top">Colchester</a>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-5
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-7
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u284-crawley-town" target="_top">Crawley Town</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-3-1
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-9
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u279-crewe-alexandra" target="_top">Crewe Alexandra</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-5-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-6-2
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-8
-</td>
-<td align="center" bgcolor="#D2FFE9">
-17-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u285-exeter-city" target="_top">Exeter City</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-7-1
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-14-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u270-forest-green" target="_top">Forest Green</a>
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-8
-</td>
-<td align="center" bgcolor="#FFFFCC">
-9-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u269-grimsby" target="_top">Grimsby</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
+4-10
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-8
-</td>
-<td align="center" bgcolor="#FFFFCC">
-11-11
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u292-leyton-orient" target="_top">Leyton Orient</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-5
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
 2-6
-</b>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
-</b>
+<td align="center" bgcolor="#FFFFCC">
+7-7
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-6-5
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-4-14
-</td>
-<td align="center" bgcolor="#D2FFE9">
-15-11
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u278-macclesfield" target="_top">Macclesfield</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-2-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-8-6
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u287-mansfield" target="_top">Mansfield</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
+6-7
 </td>
 <td align="center" bgcolor="#FFFFCC">
 3-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-4
+0-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
-1-4
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-5-8
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-7
-</td>
-<td align="center" bgcolor="#FFCCCC">
-12-20
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u280-morecambe" target="_top">Morecambe</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-4
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-6-2
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-4
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
+6-8
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-9
-</td>
-<td align="center" bgcolor="#D2FFE9">
-13-12
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u288-newport" target="_top">Newport</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+14-26
 </td>
 <td align="center" bgcolor="#FFCCCC">
-0-2
+19-24
 </td>
-<td align="center" bgcolor="#FFFFCC">
-0-0
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u283-cheltenham" target="_top">Cheltenham</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
@@ -637,346 +156,310 @@ Home
 <td align="center" bgcolor="#FFFFCC">
 4-4
 </td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
+<td align="center" bgcolor="#D2FFE9">
+3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
-1-0
+7-5
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+4-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
-5-1
-</b>
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-6-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u275-northampton" target="_top">Northampton</a>
+6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 4-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-18-5
-</td>
-<td align="center" bgcolor="#D2FFE9">
-10-5
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u273-oldham" target="_top">Oldham</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-5-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-5
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-8-11
-</td>
-<td align="center" bgcolor="#D2FFE9">
-11-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u214-plymouth" target="_top">Plymouth</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-6-0
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 8-3
 </td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-17-6
-</td>
-<td align="center" bgcolor="#D2FFE9">
-12-9
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u281-port-vale" target="_top">Port Vale</a>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
-</td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-4-0
-</b>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-4-0
+9-2
 </b>
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-8-8
+<td align="center" bgcolor="#D2FFE9">
+19-14
 </td>
 <td align="center" bgcolor="#D2FFE9">
-14-4
+28-12
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u291-salford-city" target="_top">Salford City</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u272-colchester" target="_top">Colchester</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-1
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
 4-1
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
+<td align="center" bgcolor="#D2FFE9">
 <b>
-0-4
+10-6
 </b>
 </td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-3
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFFFCC">
-1-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-3-5
+7-6
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-9-9
+<td align="center" bgcolor="#D2FFE9">
+26-11
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-10
+21-23
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u210-scunthorpe" target="_top">Scunthorpe</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u284-crawley-town" target="_top">Crawley Town</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-4-2
+6-6
 </td>
 <td align="center" bgcolor="#FFFFCC">
-2-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-<b>
-6-0
-</b>
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-5
-</td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-14-5
-</td>
-<td align="center" bgcolor="#FFCCCC">
-8-16
-</td>
-</tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u289-stevenage" target="_top">Stevenage</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#D2FFE9">
-1-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-2
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-1-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-3-5
-</b>
-</td>
-<td>
+4-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
 4-5
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-13
+<b>
+4-7
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+8-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+21-19
+</td>
+<td align="center" bgcolor="#FFCCCC">
+24-27
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u277-swindon-town" target="_top">Swindon Town</a>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u279-crewe-alexandra" target="_top">Crewe Alexandra</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-0
+6-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+8-4
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+7-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+8-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+10-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+13-6
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+22-21
+</td>
+<td align="center" bgcolor="#D2FFE9">
+38-19
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u285-exeter-city" target="_top">Exeter City</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+13-2
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+24-17
+</td>
+<td align="center" bgcolor="#D2FFE9">
+26-19
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u270-forest-green" target="_top">Forest Green</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+8-4
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-18
+</td>
+<td align="center" bgcolor="#D2FFE9">
+24-21
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u269-grimsby" target="_top">Grimsby</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-19
+</td>
+<td align="center" bgcolor="#D2FFE9">
+29-21
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u292-leyton-orient" target="_top">Leyton Orient</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-9
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
@@ -984,13 +467,436 @@ Home
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-2-3
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-12
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+16-29
+</td>
+<td align="center" bgcolor="#D2FFE9">
+27-23
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u278-macclesfield" target="_top">Macclesfield</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-9
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-10
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+18-23
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u287-mansfield" target="_top">Mansfield</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-9
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+8-14
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+19-22
+</td>
+<td align="center" bgcolor="#FFCCCC">
+27-31
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u280-morecambe" target="_top">Morecambe</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-9
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-9
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-27
+</td>
+<td align="center" bgcolor="#FFCCCC">
+23-29
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u288-newport" target="_top">Newport</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+8-3
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-14
+</td>
+<td align="center" bgcolor="#D2FFE9">
+16-13
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u275-northampton" target="_top">Northampton</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-0
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-9
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+28-12
+</td>
+<td align="center" bgcolor="#FFCCCC">
+19-24
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u273-oldham" target="_top">Oldham</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-8
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+7-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+5-12
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-24
+</td>
+<td align="center" bgcolor="#FFCCCC">
+20-28
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u214-plymouth" target="_top">Plymouth</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+9-4
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+11-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+27-17
+</td>
+<td align="center" bgcolor="#D2FFE9">
+27-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u281-port-vale" target="_top">Port Vale</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+8-1
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+8-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+18-18
+</td>
+<td align="center" bgcolor="#D2FFE9">
+28-22
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u291-salford-city" target="_top">Salford City</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-8
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+4-10
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+22-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+22-27
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u210-scunthorpe" target="_top">Scunthorpe</a>
+</td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+9-2
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-10
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-10
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-7
 </td>
 <td align="center" bgcolor="#FFFFCC">
 3-3
@@ -998,57 +904,139 @@ Home
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-16-3
+21-18
 </td>
-<td align="center" bgcolor="#D2FFE9">
-11-10
+<td align="center" bgcolor="#FFCCCC">
+20-32
 </td>
 </tr>
-<tr class="trow8">
-<td align="left" height="26">
-<a href="team.asp?league=england4&amp;stats=u213-walsall" target="_top">Walsall</a>
-</td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u289-stevenage" target="_top">Stevenage</a>
 </td>
 <td align="center" bgcolor="#FFFFCC">
-0-0
-</td>
-<td align="center" bgcolor="#FFCCCC">
-<b>
-0-3
-</b>
-</td>
-<td align="center" bgcolor="#FFCCCC">
-0-1
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
-</td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
+1-1
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-1
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-2-5
+6-14
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-5-7
+9-13
 </td>
 <td align="center" bgcolor="#FFCCCC">
-7-12
+14-32
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u277-swindon-town" target="_top">Swindon Town</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+12-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-9
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+34-10
+</td>
+<td align="center" bgcolor="#FFCCCC">
+23-26
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=england4&amp;stats=u213-walsall" target="_top">Walsall</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-10
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-8
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-9
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+17-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+18-29
 </td>
 </tr>
 <tr><td align="center" colspan="13">
-'41-50 m' and '81-90 m' also include added time
+<font color="gray">'41-50 m' and '81-90 m' also include added time</font>
 </td></tr>
 </tbody></table>

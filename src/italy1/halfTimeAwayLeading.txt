@@ -33,25 +33,25 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u411-napoli" target="_top">Napoli</a> 
 </td>
 <td align="center">
-2 out of 10
+3 out of 13
 </td>
 <td align="center">
-20%
+23%
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-0
+3
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-8 - 4
+0
 </td>
 <td align="center">
-6
+12 - 6
+</td>
+<td align="center">
+9
 </td>
 <td align="center">
 <b>3.00</b>
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u417-juventus" target="_top">Juventus</a> 
 </td>
 <td align="center">
-3 out of 11
+3 out of 12
 </td>
 <td align="center">
-27%
+25%
 </td>
 <td align="center">
 3
@@ -91,10 +91,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u418-sassuolo" target="_top">Sassuolo</a> 
 </td>
 <td align="center">
-1 out of 11
+1 out of 12
 </td>
 <td align="center">
-9%
+8%
 </td>
 <td align="center">
 1
@@ -117,71 +117,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u409-inter-milan" target="_top">Inter Milan</a> 
-</td>
-<td align="center">
-7 out of 10
-</td>
-<td align="center">
-70%
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-18 - 8
-</td>
-<td align="center">
-19
-</td>
-<td align="center">
-<b>2.71</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=italy&amp;stats=u415-as-roma" target="_top">AS Roma</a> 
-</td>
-<td align="center">
-5 out of 10
-</td>
-<td align="center">
-50%
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-15 - 4
-</td>
-<td align="center">
-13
-</td>
-<td align="center">
-<b>2.60</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=italy&amp;stats=u428-atalanta" target="_top">Atalanta</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 12
 </td>
 <td align="center">
-36%
+33%
 </td>
 <td align="center">
 3
@@ -204,16 +146,74 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u425-cagliari" target="_top">Cagliari</a> 
+ <a href="team.asp?league=italy&amp;stats=u409-inter-milan" target="_top">Inter Milan</a> 
 </td>
 <td align="center">
-4 out of 11
+8 out of 12
 </td>
 <td align="center">
-36%
+67%
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+19 - 10
+</td>
+<td align="center">
+19
+</td>
+<td align="center">
+<b>2.38</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=italy&amp;stats=u1049-lecce" target="_top">Lecce</a> 
+</td>
+<td align="center">
+3 out of 12
+</td>
+<td align="center">
+25%
 </td>
 <td align="center">
 2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+6 - 4
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<b>2.33</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=italy&amp;stats=u412-fiorentina" target="_top">Fiorentina</a> 
+</td>
+<td align="center">
+5 out of 12
+</td>
+<td align="center">
+42%
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 2
@@ -222,24 +222,82 @@ Avg Pts
 0
 </td>
 <td align="center">
-8 - 4
+13 - 5
 </td>
 <td align="center">
-8
+11
 </td>
 <td align="center">
-<b>2.00</b>
+<b>2.20</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u412-fiorentina" target="_top">Fiorentina</a> 
+ <a href="team.asp?league=italy&amp;stats=u410-parma" target="_top">Parma</a> 
 </td>
 <td align="center">
-4 out of 10
+5 out of 12
 </td>
 <td align="center">
-40%
+42%
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+7 - 4
+</td>
+<td align="center">
+11
+</td>
+<td align="center">
+<b>2.20</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=italy&amp;stats=u415-as-roma" target="_top">AS Roma</a> 
+</td>
+<td align="center">
+6 out of 12
+</td>
+<td align="center">
+50%
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+16 - 6
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+<b>2.17</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=italy&amp;stats=u425-cagliari" target="_top">Cagliari</a> 
+</td>
+<td align="center">
+4 out of 12
+</td>
+<td align="center">
+33%
 </td>
 <td align="center">
 2
@@ -262,16 +320,13 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u410-parma" target="_top">Parma</a> 
+ <a href="team.asp?league=italy&amp;stats=u424-lazio" target="_top">Lazio</a> 
 </td>
 <td align="center">
-4 out of 10
+3 out of 11
 </td>
 <td align="center">
-40%
-</td>
-<td align="center">
-2
+27%
 </td>
 <td align="center">
 2
@@ -280,10 +335,13 @@ Avg Pts
 0
 </td>
 <td align="center">
-6 - 4
+1
 </td>
 <td align="center">
-8
+5 - 2
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 <b>2.00</b>
@@ -294,10 +352,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u78-hellas-verona" target="_top">Hellas Verona</a> 
 </td>
 <td align="center">
-3 out of 9
+3 out of 12
 </td>
 <td align="center">
-33%
+25%
 </td>
 <td align="center">
 2
@@ -320,28 +378,28 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u1049-lecce" target="_top">Lecce</a> 
+ <a href="team.asp?league=italy&amp;stats=u422-bologna" target="_top">Bologna</a> 
 </td>
 <td align="center">
-2 out of 11
+3 out of 12
 </td>
 <td align="center">
-18%
+25%
 </td>
 <td align="center">
-1
-</td>
-<td align="center">
-1
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3 - 2
+1
 </td>
 <td align="center">
-4
+8 - 7
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 <b>2.00</b>
@@ -352,10 +410,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u420-torino" target="_top">Torino</a> 
 </td>
 <td align="center">
-4 out of 10
+4 out of 12
 </td>
 <td align="center">
-40%
+33%
 </td>
 <td align="center">
 2
@@ -378,71 +436,42 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=italy&amp;stats=u424-lazio" target="_top">Lazio</a> 
+ <a href="team.asp?league=italy&amp;stats=u421-genoa" target="_top">Genoa</a> 
 </td>
 <td align="center">
-2 out of 10
+3 out of 13
 </td>
 <td align="center">
-20%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
+23%
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-4 - 2
+1
 </td>
 <td align="center">
-3
+1
 </td>
 <td align="center">
-<b>1.50</b>
+6 - 4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>1.33</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=italy&amp;stats=u422-bologna" target="_top">Bologna</a> 
-</td>
-<td align="center">
-2 out of 11
-</td>
-<td align="center">
-18%
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-5 - 5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<b>1.50</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=italy&amp;stats=u426-ac-milan" target="_top">AC Milan</a> 
 </td>
 <td align="center">
-2 out of 11
+3 out of 12
 </td>
 <td align="center">
-18%
+25%
 </td>
 <td align="center">
 1
@@ -451,45 +480,16 @@ Avg Pts
 0
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-4 - 4
+6 - 8
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-<b>1.50</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=italy&amp;stats=u421-genoa" target="_top">Genoa</a> 
-</td>
-<td align="center">
-2 out of 11
-</td>
-<td align="center">
-18%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3 - 4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.50</b>
+<b>1.00</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -497,10 +497,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u414-sampdoria" target="_top">Sampdoria</a> 
 </td>
 <td align="center">
-1 out of 10
+1 out of 11
 </td>
 <td align="center">
-10%
+9%
 </td>
 <td align="center">
 0
@@ -526,10 +526,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u419-udinese" target="_top">Udinese</a> 
 </td>
 <td align="center">
-1 out of 11
+1 out of 12
 </td>
 <td align="center">
-9%
+8%
 </td>
 <td align="center">
 0
@@ -555,10 +555,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u427-spal" target="_top">SPAL</a> 
 </td>
 <td align="center">
-1 out of 11
+1 out of 13
 </td>
 <td align="center">
-9%
+8%
 </td>
 <td align="center">
 0
@@ -584,10 +584,10 @@ Avg Pts
  <a href="team.asp?league=italy&amp;stats=u70-brescia" target="_top">Brescia</a> 
 </td>
 <td align="center">
-1 out of 10
+1 out of 12
 </td>
 <td align="center">
-10%
+8%
 </td>
 <td align="center">
 0

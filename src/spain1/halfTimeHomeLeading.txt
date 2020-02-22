@@ -33,25 +33,25 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u97-fc-barcelona" target="_top">FC Barcelona</a> 
 </td>
 <td align="center">
-7 out of 10
+9 out of 12
 </td>
 <td align="center">
-70%
+75%
 </td>
 <td align="center">
-7
-</td>
-<td align="center">
-0
+9
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-29 - 8
+0
 </td>
 <td align="center">
-21
+33 - 10
+</td>
+<td align="center">
+27
 </td>
 <td align="center">
 <b>3.00</b>
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u103-real-madrid" target="_top">Real Madrid</a> 
 </td>
 <td align="center">
-5 out of 10
+5 out of 12
 </td>
 <td align="center">
-50%
+42%
 </td>
 <td align="center">
 5
@@ -91,25 +91,25 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u95-villarreal" target="_top">Villarreal</a> 
 </td>
 <td align="center">
-2 out of 10
+4 out of 12
 </td>
 <td align="center">
-20%
+33%
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-0
+4
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-9 - 2
+0
 </td>
 <td align="center">
-6
+14 - 4
+</td>
+<td align="center">
+12
 </td>
 <td align="center">
 <b>3.00</b>
@@ -120,10 +120,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u104-getafe" target="_top">Getafe</a> 
 </td>
 <td align="center">
-3 out of 11
+3 out of 12
 </td>
 <td align="center">
-27%
+25%
 </td>
 <td align="center">
 3
@@ -149,10 +149,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u91-real-betis" target="_top">Real Betis</a> 
 </td>
 <td align="center">
-3 out of 11
+3 out of 13
 </td>
 <td align="center">
-27%
+23%
 </td>
 <td align="center">
 3
@@ -178,10 +178,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u882-granada" target="_top">Granada</a> 
 </td>
 <td align="center">
-4 out of 10
+4 out of 12
 </td>
 <td align="center">
-40%
+33%
 </td>
 <td align="center">
 4
@@ -204,13 +204,13 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=spain&amp;stats=u90-valladolid" target="_top">Valladolid</a> 
+ <a href="team.asp?league=spain&amp;stats=u99-eibar" target="_top">Eibar</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 11
 </td>
 <td align="center">
-20%
+18%
 </td>
 <td align="center">
 2
@@ -233,42 +233,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=spain&amp;stats=u99-eibar" target="_top">Eibar</a> 
-</td>
-<td align="center">
-2 out of 10
-</td>
-<td align="center">
-20%
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-5 - 0
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<b>3.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
  <a href="team.asp?league=spain&amp;stats=u93-celta-vigo" target="_top">Celta Vigo</a> 
 </td>
 <td align="center">
-1 out of 11
+1 out of 12
 </td>
 <td align="center">
-9%
+8%
 </td>
 <td align="center">
 1
@@ -289,15 +260,15 @@ Avg Pts
 <b>3.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u891-mallorca" target="_top">Mallorca</a> 
 </td>
 <td align="center">
-6 out of 11
+6 out of 13
 </td>
 <td align="center">
-55%
+46%
 </td>
 <td align="center">
 5
@@ -318,15 +289,15 @@ Avg Pts
 <b>2.67</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u107-athletic-bilbao" target="_top">Athletic Bilbao</a> 
 </td>
 <td align="center">
-5 out of 10
+5 out of 12
 </td>
 <td align="center">
-50%
+42%
 </td>
 <td align="center">
 4
@@ -347,15 +318,44 @@ Avg Pts
 <b>2.60</b>
 </td>
 </tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=spain&amp;stats=u106-atletico-madrid" target="_top">Atletico Madrid</a> 
+</td>
+<td align="center">
+5 out of 12
+</td>
+<td align="center">
+42%
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+7 - 2
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+<b>2.60</b>
+</td>
+</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=spain&amp;stats=u105-valencia" target="_top">Valencia</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 13
 </td>
 <td align="center">
-36%
+31%
 </td>
 <td align="center">
 3
@@ -378,16 +378,16 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=spain&amp;stats=u106-atletico-madrid" target="_top">Atletico Madrid</a> 
+ <a href="team.asp?league=spain&amp;stats=u90-valladolid" target="_top">Valladolid</a> 
 </td>
 <td align="center">
-4 out of 11
+3 out of 11
 </td>
 <td align="center">
-36%
+27%
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
 1
@@ -396,13 +396,13 @@ Avg Pts
 0
 </td>
 <td align="center">
-6 - 2
+6 - 1
 </td>
 <td align="center">
-10
+7
 </td>
 <td align="center">
-<b>2.50</b>
+<b>2.33</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
@@ -410,10 +410,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u108-leganes" target="_top">Leganes</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 13
 </td>
 <td align="center">
-36%
+31%
 </td>
 <td align="center">
 3
@@ -439,10 +439,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u98-alaves" target="_top">Alaves</a> 
 </td>
 <td align="center">
-2 out of 11
+2 out of 12
 </td>
 <td align="center">
-18%
+17%
 </td>
 <td align="center">
 1
@@ -468,10 +468,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u892-osasuna" target="_top">Osasuna</a> 
 </td>
 <td align="center">
-2 out of 11
+2 out of 12
 </td>
 <td align="center">
-18%
+17%
 </td>
 <td align="center">
 1
@@ -497,10 +497,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u102-fc-sevilla" target="_top">FC Sevilla</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 12
 </td>
 <td align="center">
-20%
+17%
 </td>
 <td align="center">
 1
@@ -526,10 +526,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u96-real-sociedad" target="_top">Real Sociedad</a> 
 </td>
 <td align="center">
-4 out of 10
+4 out of 11
 </td>
 <td align="center">
-40%
+36%
 </td>
 <td align="center">
 2
@@ -555,13 +555,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u92-levante" target="_top">Levante</a> 
 </td>
 <td align="center">
-2 out of 10
+3 out of 11
 </td>
 <td align="center">
-20%
-</td>
-<td align="center">
-0
+27%
 </td>
 <td align="center">
 1
@@ -570,13 +567,16 @@ Avg Pts
 1
 </td>
 <td align="center">
-3 - 5
-</td>
-<td align="center">
 1
 </td>
 <td align="center">
-<b>0.50</b>
+5 - 5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>1.33</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
@@ -584,10 +584,10 @@ Avg Pts
  <a href="team.asp?league=spain&amp;stats=u94-espanyol" target="_top">Espanyol</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 12
 </td>
 <td align="center">
-36%
+33%
 </td>
 <td align="center">
 0

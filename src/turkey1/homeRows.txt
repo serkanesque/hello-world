@@ -31,7 +31,7 @@ GD
 Pts
 </b></font></th>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 1
@@ -43,38 +43,38 @@ Sivasspor
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
 <font color="blue">
-20
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+7
 </font>
 </td>
 <td align="center">
-+14
++15
 </td>
 <td align="center">
 <b>
-26
+30
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 2
@@ -86,127 +86,41 @@ Basaksehir
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-7
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-28
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+17
-</td>
-<td align="center">
-<b>
-24
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Fenerbahce
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-26
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+17
-</td>
-<td align="center">
-<b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Alanyaspor
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-25
-</font>
-</td>
-<td align="center">
-<font color="red">
 8
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+29
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
 </font>
 </td>
 <td align="center">
-+17
++18
 </td>
 <td align="center">
 <b>
-21
+27
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
+3
 </b>
 </font>
 </td>
@@ -215,11 +129,11 @@ Galatasaray
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
-6
+8
 </td>
 <td align="center">
 3
@@ -229,27 +143,27 @@ Galatasaray
 </td>
 <td align="center">
 <font color="blue">
-17
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+8
 </font>
 </td>
 <td align="center">
-+10
++14
 </td>
 <td align="center">
 <b>
-21
+27
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+4
 </b>
 </font>
 </td>
@@ -258,14 +172,57 @@ Trabzonspor
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
-6
+8
 </td>
 <td align="center">
 2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+31
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
++18
+</td>
+<td align="center">
+<b>
+26
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Alanyaspor
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 2
@@ -277,19 +234,62 @@ Trabzonspor
 </td>
 <td align="center">
 <font color="red">
-11
+10
 </font>
 </td>
 <td align="center">
-+16
++17
 </td>
 <td align="center">
 <b>
-20
+24
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Fenerbahce
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+27
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++17
+</td>
+<td align="center">
+<b>
+23
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 7
@@ -301,11 +301,11 @@ Besiktas
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 2
@@ -315,7 +315,7 @@ Besiktas
 </td>
 <td align="center">
 <font color="blue">
-18
+21
 </font>
 </td>
 <td align="center">
@@ -324,18 +324,61 @@ Besiktas
 </font>
 </td>
 <td align="center">
-+10
++13
 </td>
 <td align="center">
 <b>
-20
+23
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 8
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Gaziantep FK
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+9
 </b>
 </font>
 </td>
@@ -344,7 +387,7 @@ Rizespor
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -354,20 +397,20 @@ Rizespor
 1
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+13
 </font>
 </td>
 <td align="center">
-+2
++1
 </td>
 <td align="center">
 <b>
@@ -375,10 +418,10 @@ Rizespor
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -418,10 +461,10 @@ Goztepe
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -430,7 +473,7 @@ Genclerbirligi
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -440,7 +483,7 @@ Genclerbirligi
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -449,62 +492,19 @@ Genclerbirligi
 </td>
 <td align="center">
 <font color="red">
-13
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Gaziantep FK
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
 15
 </font>
 </td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
 <td align="center">
-+1
+-2
 </td>
 <td align="center">
 <b>
-12
+13
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 12
@@ -516,7 +516,7 @@ Yeni Malatyaspo
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -526,7 +526,7 @@ Yeni Malatyaspo
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -535,11 +535,11 @@ Yeni Malatyaspo
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
-+6
++5
 </td>
 <td align="center">
 <b>
@@ -547,7 +547,7 @@ Yeni Malatyaspo
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 13
@@ -559,56 +559,13 @@ Kayserispor
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Konyaspor
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
 4
 </td>
 <td align="center">
@@ -616,70 +573,27 @@ Konyaspor
 </td>
 <td align="center">
 <font color="blue">
-5
-</font>
-</td>
-<td align="center">
-<font color="red">
 11
 </font>
 </td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
 <td align="center">
 -6
 </td>
 <td align="center">
 <b>
-7
+10
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Denizlispor
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--8
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="26">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-16
+14
 </b>
 </font>
 </td>
@@ -688,11 +602,54 @@ Antalyaspor
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-1
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+22
+</font>
+</td>
+<td align="center">
+-9
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Ankaragucu
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 4
@@ -707,19 +664,62 @@ Antalyaspor
 </td>
 <td align="center">
 <font color="red">
-21
+19
 </font>
 </td>
 <td align="center">
--11
+-9
 </td>
 <td align="center">
 <b>
-7
+10
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Konyaspor
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 17
@@ -727,25 +727,25 @@ Antalyaspor
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Ankaragucu
+Denizlispor
 </td>
 <td align="center">
 <font color="green">
-9
+11
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
-5
+7
 </td>
 <td align="center">
 <font color="blue">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -754,15 +754,15 @@ Ankaragucu
 </font>
 </td>
 <td align="center">
--10
+-9
 </td>
 <td align="center">
 <b>
-6
+8
 </b>
 </td>
 </tr>
-<tr class="odd" height="26">
+<tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 18
@@ -774,7 +774,7 @@ Kasimpasa
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Kasimpasa
 2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Kasimpasa
 </td>
 <td align="center">
 <font color="red">
-19
+22
 </font>
 </td>
 <td align="center">
--5
+-8
 </td>
 <td align="center">
 <b>
