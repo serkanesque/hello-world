@@ -79,10 +79,11 @@ td.noDraws {
   background-color: red !important;
 }
 td.homeWin4 {
-  background-color: aqua !important;
+  background-color: orange !important;
 }
-
-
+td.homeWin3 {
+  background-color: gold !important;
+}
 
 </style>  
 
@@ -1329,10 +1330,9 @@ for(p=0;p<homeGameTotal.length;p++) {
     homeDraw += 1;
    } 
 }
-  if(homeDraw == 0) {
-    //console.log(homeGameTotal[p].hName)
-    rowClassH = "homeWin4"; 
-  }
+  if(homeDraw == 0) rowClassH = "homeWin4"; 
+  if(homeDraw == 1) rowClassH = "homeWin3";   
+
 
 
 var awayDraw = 0;
@@ -1341,10 +1341,9 @@ for(p=0;p<awayGameTotal.length;p++) {
     awayDraw += 1;
    } 
 }
-   if(awayDraw == 0) {
- rowClassA = "homeWin4"; 
-  }
+   if(awayDraw == 0)  rowClassA = "homeWin4"; 
 
+   if(awayDraw == 1)  rowClassA = "homeWin3"; 
 
 
      
