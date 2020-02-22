@@ -1323,26 +1323,27 @@ if(currentHours > hours) {
 }
 */
 
-var homeWin = 0;
+var homeDraw = 0;
 for(p=0;p<homeGameTotal.length;p++) {
-   if(homeGameTotal[p].class == "homeWin"){
-    homeWin += 1;
-   }
-   if(homeWin > 4) {
+   if(homeGameTotal[p].class == "homeDraw"){
+    homeDraw += 1;
+   } 
+}
+  if(homeDraw == 0) {
     //console.log(homeGameTotal[p].hName)
     rowClassH = "homeWin4"; 
   }
-}
 
-var awayNoDraw = awayGameTotal.length;
+
+var awayDraw = 0;
 for(p=0;p<awayGameTotal.length;p++) {
    if(awayGameTotal[p].class == "awayDraw"){
-    awayNoDraw -= 1;
+    awayDraw += 1;
    } 
-   if(awayNoDraw < 4) {
-console.log(awayGameTotal[p].aName + " "  + awayNoDraw)
-  }
 }
+   if(awayDraw == 0) {
+ rowClassA = "homeWin4"; 
+  }
 
 
 
