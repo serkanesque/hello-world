@@ -78,6 +78,11 @@ tr.hide { display: none }
 td.noDraws {
   background-color: red !important;
 }
+td.homeWin4 {
+  background-color: aqua !important;
+}
+
+
 
 </style>  
 
@@ -1108,7 +1113,7 @@ function getValue () {
 
 
 var matchStats = new Object;
-
+var homeGameTotal = [];
 
 function determineResultHome (fixture, team, venue){
 var resultObject = new Object;
@@ -1123,6 +1128,8 @@ resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeWin";
+resultObject.type = "home"
+homeGameTotal.push(resultObject);
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
@@ -1131,6 +1138,8 @@ resultObject.lastGame = "L";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeLoss";
+resultObject.type = "home";
+homeGameTotal.push(resultObject);
 }
 
 
@@ -1164,12 +1173,14 @@ resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeDraw";
+resultObject.type = "home";
+homeGameTotal.push(resultObject);
 }
 
 return resultObject
 }
 
-
+var awayGameTotal = [];
 function determineResultAway (fixture, team, venue){
 var resultObject = new Object;
 
@@ -1183,6 +1194,7 @@ resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeWin";
+resultObject.type = "home"
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
@@ -1191,6 +1203,7 @@ resultObject.lastGame = "L";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeLoss";
+resultObject.type = "home"
 }
 
 
@@ -1200,6 +1213,7 @@ resultObject.lastGame = "L";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayLoss";
+awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
@@ -1208,6 +1222,7 @@ resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayWin";
+awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -1216,6 +1231,7 @@ resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayDraw";
+awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -1224,6 +1240,7 @@ resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeDraw";
+resultObject.type = "home"
 }
 
 return resultObject
@@ -1266,9 +1283,7 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
  matchResultAwayTeam8 = determineResultAway(awayTeamFixturesArray[7], awayTeam, "away");                         
  matchResultAwayTeam9 = determineResultAway(awayTeamFixturesArray[8], awayTeam, "away");  
  matchResultAwayTeam10 = determineResultAway(awayTeamFixturesArray[9], awayTeam, "away");  
-   rowClassA="nope";
-
-    
+   rowClassA = "nope";
 }
 
 
@@ -1308,12 +1323,41 @@ if(currentHours > hours) {
 }
 */
 
+var homeWin = 0;
+for(p=0;p<homeGameTotal.length;p++) {
+   if(homeGameTotal[p].class == "homeWin"){
+    homeWin += 1;
+   }
+   if(homeWin > 4) {
+    //console.log(homeGameTotal[p].hName)
+    rowClassH = "homeWin4"; 
+  }
+}
+
+var awayNoDraw = awayGameTotal.length;
+for(p=0;p<awayGameTotal.length;p++) {
+   if(awayGameTotal[p].class == "awayDraw"){
+    awayNoDraw -= 1;
+   } 
+   if(awayNoDraw < 4) {
+console.log(awayGameTotal[p].aName + " "  + awayNoDraw)
+  }
+}
+
+
+
+     
+
+
+
+
+
     if(matchResult.lastGame != "D" && matchResult2.lastGame != "D" && matchResult3.lastGame != "D" && matchResult4.lastGame != "D" && matchResult5.lastGame != "D" && matchResult6.lastGame != "D" && matchResult7.lastGame != "D" && matchResult8.lastGame != "D" && matchResult9.lastGame != "D" && matchResult10.lastGame != "D" ) {
      // console.log(homeTeam)
-
-
       rowClassH ="noDraws";
     }   
+
+
 
 
 
@@ -1343,7 +1387,7 @@ homeGoalsAgainst = homeTable[j].goalsA;
 
 //<div class='+awayMatchResult.class + ' id='+ awayMatchResult.opponent +'>'+ awayMatchResult.lastGame + '<span class=toolTip>' + awayMatchResult.score +'</span>' + '</div><div class='+awayMatchResult2.class +' id='+ awayMatchResult2.opponent +'>'+ awayMatchResult2.lastGame + '<span class=toolTip>' + awayMatchResult2.score +'</span>' + '</div>' + '<div class='+awayMatchResult3.class +' id='+ awayMatchResult3.opponent +'>'+ awayMatchResult3.lastGame + '<span class=toolTip>' + awayMatchResult3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td>
  if(matchResultAwayTeam.lastGame != "D" && matchResultAwayTeam2.lastGame != "D" && matchResultAwayTeam3.lastGame != "D" && matchResultAwayTeam4.lastGame != "D" && matchResultAwayTeam5.lastGame != "D" && matchResultAwayTeam6.lastGame != "D" && matchResultAwayTeam7.lastGame != "D" && matchResultAwayTeam8.lastGame != "D" && matchResultAwayTeam9.lastGame != "D" && matchResultAwayTeam10.lastGame != "D" ) {
-      console.log(awayTeam)
+ 
         
       rowClassA ="noDraws";
     }  
