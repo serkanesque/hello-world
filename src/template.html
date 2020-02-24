@@ -762,7 +762,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
         }
 
         var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeTrailingPercent));
-     console.log(seventyScoredPercent)
+
         markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent + '%</td><td>' + conceded070 + '</td></tr>'
  }
  //
@@ -851,8 +851,14 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
   var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeAwayTrailingPercent));
 
+if(league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2") {
+   markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + " - " + 0 + '%</td><td>' + 0 + '</td></tr>'
+
+}else {
+
   markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeAwayTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent.toFixed(0) + '%</td><td>' + conceded070 + '</td></tr>'
  }
+}
   //
 
 
@@ -888,6 +894,7 @@ var fixture = new Object();
     }
     homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
     homeTeam2 = homeTeam2.trim();
+    console.log(homeTeam2)
     if(homeTeam2.length != 0){
       homeTeam = homeTeam2;
        
@@ -914,15 +921,27 @@ if(homeTeam == "Sp Covilha")  homeTeam = "Sp. Covilha"
 if(homeTeam == "H Beer Sheva")  homeTeam = "H. Beer Sheva"
 if(homeTeam == "M Tel Aviv")  homeTeam = "M. Tel Aviv"
 if(homeTeam == "B Jerusalem")  homeTeam = "B. Jerusalem"
+
 if(homeTeam == "M Petah Tikva")  homeTeam = "M. Petah Tikva"
 if(homeTeam == "H Ramat Gan")  homeTeam = "H. Ramat Gan"
 if(homeTeam == "H Umm alFahm")  homeTeam = "H. Umm al-Fahm"
 if(homeTeam == "Hapoel Petah T")  homeTeam = "Hapoel Petah T."   
 if(homeTeam == "Maccabi Ahi N")  homeTeam = "Maccabi Ahi N."  
 if(homeTeam == "Hap Bnei Lod")  homeTeam = "Hap. Bnei Lod"  
-if(homeTeam == "Hap Ashkelon")  homeTeam = "Hap. Ashkelon"                                                            
+if(homeTeam == "Hap Ashkelon")  homeTeam = "Hap. Ashkelon"      
+                                              
+if(homeTeam == "Univ Craiova")  homeTeam = "Univ. Craiova"  
+if(homeTeam == "Viit Constanta")  homeTeam = "Viit. Constanta"     
+if(homeTeam == "Din Bucuresti")  homeTeam = "Din. Bucuresti" 
+if(homeTeam == "Chindia Targov")  homeTeam = "Chindia Targov."  
+if(homeTeam == "Pol Iasi")  homeTeam = "Pol. Iasi"  
+if(homeTeam == "Ac Clinceni")  homeTeam = "Ac. Clinceni"  
 
-
+if(homeTeam == "Politehnica T")  homeTeam = "Politehnica T."  
+if(homeTeam == "Dun Calarasi")  homeTeam = "Dun. Calarasi"   
+if(homeTeam == "R Timisoara")  homeTeam =  "R. Timisoara"    
+if(homeTeam == "Univ Cluj")  homeTeam =  "Univ. Cluj" 
+if(homeTeam == "DacoGetica Bu")  homeTeam =  "Daco-Getica Bu."      
 
     }    
   }
@@ -954,6 +973,7 @@ if(awayTeam == "FC Zrich")  awayTeam = "FC Z�rich"
 if(awayTeam == "Neuchtel Xamax")  awayTeam = "Neuch�tel Xamax"
 if(awayTeam == "St Gallen")  awayTeam = "St. Gallen"
 if(awayTeam == "Sp Covilha")  awayTeam = "Sp. Covilha"
+
 if(awayTeam == "H Beer Sheva")  awayTeam = "H. Beer Sheva"
 if(awayTeam == "M Tel Aviv")  awayTeam = "M. Tel Aviv"
 if(awayTeam == "B Jerusalem")  awayTeam = "B. Jerusalem"
@@ -964,7 +984,21 @@ if(awayTeam == "H Umm alFahm")  awayTeam = "H. Umm al-Fahm"
 if(awayTeam == "Hapoel Petah T")  awayTeam = "Hapoel Petah T."   
 if(awayTeam == "Maccabi Ahi N")  awayTeam = "Maccabi Ahi N."  
 if(awayTeam == "Hap Bnei Lod")  awayTeam = "Hap. Bnei Lod"  
-if(awayTeam == "Hap Ashkelon")  awayTeam = "Hap. Ashkelon"    
+if(awayTeam == "Hap Ashkelon")  awayTeam = "Hap. Ashkelon"  
+
+if(awayTeam == "Univ Craiova")  awayTeam = "Univ. Craiova"  
+if(awayTeam == "Viit Constanta")  awayTeam = "Viit. Constanta"     
+if(awayTeam == "Din Bucuresti")  awayTeam = "Din. Bucuresti" 
+if(awayTeam == "Chindia Targov")  awayTeam = "Chindia Targov."  
+if(awayTeam == "Pol Iasi")  awayTeam = "Pol. Iasi"  
+if(awayTeam == "Ac Clinceni")  awayTeam = "Ac. Clinceni"
+
+
+if(awayTeam == "Politehnica T")  awayTeam = "Politehnica T."  
+if(awayTeam == "Dun Calarasi")  awayTeam = "Dun. Calarasi"   
+if(awayTeam == "R Timisoara")  awayTeam =  "R. Timisoara"    
+if(awayTeam == "Univ Cluj")  awayTeam =  "Univ. Cluj" 
+if(awayTeam == "DacoGetica Bu")  awayTeam =  "Daco-Getica Bu."     
 
   } 
 
@@ -1270,7 +1304,7 @@ return resultObject
 
 
 
-//console.log(homeTeamFixturesArray)
+console.log(homeTeamFixturesArray)
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 { 
    
