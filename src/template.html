@@ -1089,7 +1089,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
  result = "n/a";
 
    }else{       
- console.log("defined");
+
   if(pastHomeFixture[0].hScore == "pp." ) result = "n/a"
     if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
             if(pastHomeFixture[0].hScore < pastHomeFixture[0].aScore) result = "hw"
@@ -1097,7 +1097,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
 
 }
 
-console.log(pastHomeFixture[0])
+
 if (pastHomeFixture2018.length < 1 ){
               result18 = "promoted";
              var hScore = "-";
@@ -1186,7 +1186,7 @@ resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeWin";
 resultObject.type = "home"
-homeGameTotal.push(resultObject);
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
@@ -1196,7 +1196,7 @@ resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeLoss";
 resultObject.type = "home";
-homeGameTotal.push(resultObject);
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
 
 
@@ -1231,7 +1231,7 @@ resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeDraw";
 resultObject.type = "home";
-homeGameTotal.push(resultObject);
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
 
 return resultObject
@@ -1270,7 +1270,7 @@ resultObject.lastGame = "L";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayLoss";
-awayGameTotal.push(resultObject);
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
@@ -1279,7 +1279,7 @@ resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayWin";
-awayGameTotal.push(resultObject);
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -1288,7 +1288,7 @@ resultObject.lastGame = "D";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "awayDraw";
-awayGameTotal.push(resultObject);
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 }
 
 if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -1322,6 +1322,7 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
             matchResult11= determineResultHome(homeTeamFixturesArray[10], homeTeam, "home");  
                   matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home");  
              matchResult13= determineResultHome(homeTeamFixturesArray[12], homeTeam, "home"); 
+                          matchResult14= determineResultHome(homeTeamFixturesArray[13], homeTeam, "home"); 
        rowClassH = "nope";
    
    // console.log(matchResult.lastGame,matchResult2.lastGame,matchResult3.lastGame,matchResult4.lastGame,matchResult5.lastGame,matchResult6.lastGame,matchResult7.lastGame,matchResult8.lastGame,matchResult9.lastGame,matchResult10.lastGame)
@@ -1345,6 +1346,7 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
   matchResultAwayTeam11 = determineResultAway(awayTeamFixturesArray[10], awayTeam, "away");  
    matchResultAwayTeam12 = determineResultAway(awayTeamFixturesArray[11], awayTeam, "away");
         matchResultAwayTeam13 = determineResultAway(awayTeamFixturesArray[12], awayTeam, "away");
+                matchResultAwayTeam14 = determineResultAway(awayTeamFixturesArray[13], awayTeam, "away");
    rowClassA = "nope";
 }
 
@@ -1389,8 +1391,10 @@ var homeDraw = 0;
 for(p=0;p<homeGameTotal.length;p++) {
    if(homeGameTotal[p].class == "homeDraw"){
     homeDraw += 1;
-   } 
+
+   }    
 }
+
 
   if(homeDraw == 0) rowClassH = "homeWin4"; 
   if(homeDraw == 1) rowClassH = "homeWin3"; 
