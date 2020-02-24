@@ -88,6 +88,10 @@ td.homeWin3 {
 td.homeWin2 {
   background-color: orangered !important;
 }
+
+.pp {
+  background-color: lightgrey;
+}
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -894,10 +898,10 @@ var fixture = new Object();
     }
     homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
     homeTeam2 = homeTeam2.trim();
-    console.log(homeTeam2)
+
     if(homeTeam2.length != 0){
       homeTeam = homeTeam2;
-       
+    
 
 if(homeTeam == "E Frankfurt")  homeTeam = "E. Frankfurt" 
 if(homeTeam == "Pr Munster")  homeTeam = "Pr. Munster" 
@@ -1264,16 +1268,27 @@ resultObject.type = "home";
 if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
 
+if (fixture.hScore == "pp.") {
+
+resultObject.lastGame = "pp.";
+resultObject.class = "pp";
+
+}
+
+
 return resultObject
 }
 
 var awayGameTotal = [];
+
+
 function determineResultAway (fixture, team, venue){
 var resultObject = new Object;
 
 resultObject.hName = fixture.hName
+
 resultObject.aName = fixture.aName
-//console.log(team)
+
 
 if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
 //console.log(team + " home win")
@@ -1329,30 +1344,37 @@ resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + res
 resultObject.class = "homeDraw";
 resultObject.type = "home"
 }
+if (fixture.hScore == "pp.") {
+//console.log(team + "home draw")
+
+resultObject.lastGame = "pp.";
+resultObject.class = "pp";
+}
+
+
+
 
 return resultObject
 }
 
 
 
-
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
-{ 
-   
-    matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
-    matchResult2 = determineResultHome(homeTeamFixturesArray[1], homeTeam, "home");
-     matchResult3= determineResultHome(homeTeamFixturesArray[2], homeTeam, "home");
-     matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
-     matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");  
-     matchResult6= determineResultHome(homeTeamFixturesArray[5], homeTeam, "home");  
-     matchResult7= determineResultHome(homeTeamFixturesArray[6], homeTeam, "home");  
-     matchResult8= determineResultHome(homeTeamFixturesArray[7], homeTeam, "home"); 
-    matchResult9= determineResultHome(homeTeamFixturesArray[8], homeTeam, "home"); 
-      matchResult10= determineResultHome(homeTeamFixturesArray[9], homeTeam, "home");  
-            matchResult11= determineResultHome(homeTeamFixturesArray[10], homeTeam, "home");  
-                  matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home");  
-             matchResult13= determineResultHome(homeTeamFixturesArray[12], homeTeam, "home"); 
-                          matchResult14= determineResultHome(homeTeamFixturesArray[13], homeTeam, "home"); 
+{    
+  matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
+  matchResult2 = determineResultHome(homeTeamFixturesArray[1], homeTeam, "home");
+  matchResult3= determineResultHome(homeTeamFixturesArray[2], homeTeam, "home");
+  matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
+  matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");  
+  matchResult6= determineResultHome(homeTeamFixturesArray[5], homeTeam, "home");  
+  matchResult7= determineResultHome(homeTeamFixturesArray[6], homeTeam, "home");  
+  matchResult8= determineResultHome(homeTeamFixturesArray[7], homeTeam, "home"); 
+  matchResult9= determineResultHome(homeTeamFixturesArray[8], homeTeam, "home"); 
+  matchResult10= determineResultHome(homeTeamFixturesArray[9], homeTeam, "home");  
+  matchResult11= determineResultHome(homeTeamFixturesArray[10], homeTeam, "home");  
+  matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home");  
+  matchResult13= determineResultHome(homeTeamFixturesArray[12], homeTeam, "home"); 
+  matchResult14= determineResultHome(homeTeamFixturesArray[13], homeTeam, "home"); 
        rowClassH = "nope";
    
    // console.log(matchResult.lastGame,matchResult2.lastGame,matchResult3.lastGame,matchResult4.lastGame,matchResult5.lastGame,matchResult6.lastGame,matchResult7.lastGame,matchResult8.lastGame,matchResult9.lastGame,matchResult10.lastGame)
