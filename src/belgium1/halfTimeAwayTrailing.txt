@@ -149,71 +149,13 @@ Avg Pts
  <a href="team.asp?league=belgium&amp;stats=15-eupen" target="_top">Eupen</a> 
 </td>
 <td align="center">
-8 out of 13
+9 out of 14
 </td>
 <td align="center">
-62%
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-9 - 22
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<b>0.75</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=belgium&amp;stats=13-charleroi" target="_top">Charleroi</a> 
-</td>
-<td align="center">
-4 out of 13
-</td>
-<td align="center">
-31%
-</td>
-<td align="center">
-0
+64%
 </td>
 <td align="center">
 2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3 - 6
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<b>0.50</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=belgium&amp;stats=5-sint-truiden" target="_top">Sint-Truiden</a> 
-</td>
-<td align="center">
-8 out of 13
-</td>
-<td align="center">
-62%
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 0
@@ -222,16 +164,45 @@ Avg Pts
 7
 </td>
 <td align="center">
-5 - 25
+10 - 28
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<b>0.67</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=belgium&amp;stats=13-charleroi" target="_top">Charleroi</a> 
+</td>
+<td align="center">
+5 out of 14
+</td>
+<td align="center">
+36%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-<b>0.38</b>
+3 - 7
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<b>0.40</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=belgium&amp;stats=4-standard-liege" target="_top">Standard Liege</a> 
 </td>
@@ -260,7 +231,7 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=belgium&amp;stats=1-krc-genk" target="_top">KRC Genk</a> 
 </td>
@@ -289,15 +260,44 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=belgium&amp;stats=5-sint-truiden" target="_top">Sint-Truiden</a> 
+</td>
+<td align="center">
+9 out of 14
+</td>
+<td align="center">
+64%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+6 - 29
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>0.33</b>
+</td>
+</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=belgium&amp;stats=16-antwerp" target="_top">Antwerp</a> 
 </td>
 <td align="center">
-3 out of 13
+4 out of 14
 </td>
 <td align="center">
-23%
+29%
 </td>
 <td align="center">
 0
@@ -306,16 +306,16 @@ Avg Pts
 1
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
-2 - 6
+2 - 7
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-<b>0.33</b>
+<b>0.25</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -323,10 +323,10 @@ Avg Pts
  <a href="team.asp?league=belgium&amp;stats=11-zulte-waregem" target="_top">Zulte-Waregem</a> 
 </td>
 <td align="center">
-7 out of 13
+7 out of 14
 </td>
 <td align="center">
-54%
+50%
 </td>
 <td align="center">
 0
@@ -352,10 +352,10 @@ Avg Pts
  <a href="team.asp?league=belgium&amp;stats=3-cercle-brugge" target="_top">Cercle Brugge</a> 
 </td>
 <td align="center">
-9 out of 13
+9 out of 14
 </td>
 <td align="center">
-69%
+64%
 </td>
 <td align="center">
 0
@@ -468,22 +468,22 @@ Avg Pts
  <a href="team.asp?league=belgium&amp;stats=7-beveren" target="_top">Beveren</a> 
 </td>
 <td align="center">
-7 out of 13
+8 out of 14
 </td>
 <td align="center">
-54%
-</td>
-<td align="center">
-0
+57%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-7
+0
 </td>
 <td align="center">
-3 - 21
+8
+</td>
+<td align="center">
+3 - 25
 </td>
 <td align="center">
 0

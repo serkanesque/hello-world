@@ -43,11 +43,11 @@ Stuttgart
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 0
@@ -57,7 +57,7 @@ Stuttgart
 </td>
 <td align="center">
 <font color="blue">
-24
+26
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Stuttgart
 </font>
 </td>
 <td align="center">
-+16
++18
 </td>
 <td align="center">
 <b>
-27
+30
 </b>
 </td>
 </tr>
@@ -86,7 +86,7 @@ Hamburger SV
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -96,7 +96,7 @@ Hamburger SV
 1
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,11 @@ Hamburger SV
 </td>
 <td align="center">
 <font color="red">
-6
+8
 </font>
 </td>
 <td align="center">
-+19
++17
 </td>
 <td align="center">
 <b>
@@ -211,6 +211,49 @@ Heidenheim
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Bielefeld
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++11
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Regensburg
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Regensburg
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Sankt Pauli
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,7 +378,7 @@ Greuther Furth
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
@@ -378,49 +421,6 @@ Osnabruck
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Bielefeld
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+10
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 10
 </b>
 </font>
@@ -430,7 +430,7 @@ Sandhausen
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -440,7 +440,7 @@ Sandhausen
 5
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -449,11 +449,11 @@ Sandhausen
 </td>
 <td align="center">
 <font color="red">
-13
+15
 </font>
 </td>
 <td align="center">
-+2
+0
 </td>
 <td align="center">
 <b>
@@ -559,7 +559,7 @@ Dynamo Dresden
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -569,20 +569,20 @@ Dynamo Dresden
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+17
 </font>
 </td>
 <td align="center">
--2
+-3
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ FC Nurnberg
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -612,20 +612,20 @@ FC Nurnberg
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-18
+20
 </font>
 </td>
 <td align="center">
--5
+-6
 </td>
 <td align="center">
 <b>
@@ -645,7 +645,7 @@ Holstein Kiel
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -655,7 +655,7 @@ Holstein Kiel
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -664,11 +664,11 @@ Holstein Kiel
 </td>
 <td align="center">
 <font color="red">
-15
+16
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>

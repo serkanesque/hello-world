@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Csikszereda
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-60%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (40.0%)Draws: 6 (60.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:19.8px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-30%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=romania2&amp;stats=193-10-17-2020-csikszereda-uta-arad" target="_top" title="Csikszereda vs UTA Arad">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-UTA Arad
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-43%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (30.0%)Draws: 4 (40.0%)Defeats: 3 (30.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:13.2px;"></div><div class="barred" style="width:9.9px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.70
-</font>
-</td>
-<td align="center">
-<font color="red">
-40%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Tue25
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ Rapid Bucuresti
 <div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=192-7-15-2020-rapid-bucuresti-turnu-magurele" target="_top" title="Rapid Bucuresti vs Turnu Magurele">stats</a></li>
 </ul></div>
 </td>
@@ -206,7 +128,7 @@ Arges
 <div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=199-1-14-2020-arges-mioveni" target="_top" title="Arges vs Mioveni">stats</a></li>
 </ul></div>
 </td>
@@ -283,7 +205,7 @@ Dun. Calarasi
 <div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=200-18-10-2020-dun.-calarasi-csikszereda" target="_top" title="Dun. Calarasi vs Csikszereda">stats</a></li>
 </ul></div>
 </td>
@@ -320,7 +242,6 @@ Csikszereda
 <div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -361,7 +282,7 @@ Metaloglobus
 <div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=203-11-19-2020-metaloglobus-sportul-snagov" target="_top" title="Metaloglobus vs Sportul Snagov">stats</a></li>
 </ul></div>
 </td>
@@ -398,6 +319,7 @@ Sportul Snagov
 <div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
+<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -438,7 +360,7 @@ Petrolul
 <div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=204-12-8-2020-petrolul-farul-constanta" target="_top" title="Petrolul vs Farul Constanta">stats</a></li>
 </ul></div>
 </td>
@@ -515,7 +437,7 @@ Politehnica T.
 <div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=205-13-7-2020-politehnica-t.-rapid-bucuresti" target="_top" title="Politehnica T. vs Rapid Bucuresti">stats</a></li>
 </ul></div>
 </td>
@@ -592,7 +514,7 @@ SCM Gloria
 <div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=202-9-6-2020-scm-gloria-univ.-cluj" target="_top" title="SCM Gloria vs Univ. Cluj">stats</a></li>
 </ul></div>
 </td>
@@ -669,7 +591,7 @@ Turnu Magurele
 <div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=206-15-3-2020-turnu-magurele-concordia" target="_top" title="Turnu Magurele vs Concordia">stats</a></li>
 </ul></div>
 </td>
@@ -746,7 +668,7 @@ UTA Arad
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=romania2&amp;stats=207-17-2-2020-uta-arad-r.-timisoara" target="_top" title="UTA Arad vs R. Timisoara">stats</a></li>
 </ul></div>
 </td>
@@ -781,6 +703,83 @@ R. Timisoara
 </td>
 <td align="left">
 <div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat29
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+09:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Viitorul Targu 
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+50%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (40.0%)Draws: 3 (30.0%)Defeats: 3 (30.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:9.9px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.40
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=romania2&amp;stats=364-20-16-2020-viitorul-targu--pandurii-targu" target="_top" title="Viitorul Targu  vs Pandurii Targu">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Pandurii Targu
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:3.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+12%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (9.1%)Draws: 1 (9.1%)Defeats: 9 (81.8%)"><div class="bargreen" style="width:3.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:27.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.36
+</font>
+</td>
+<td align="center">
+<font color="green">
+73%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

@@ -125,11 +125,11 @@ Frosinone
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Pordenone
+Crotone
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -139,20 +139,20 @@ Pordenone
 3
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
-18
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+12
 </font>
 </td>
 <td align="center">
-+11
++13
 </td>
 <td align="center">
 <b>
@@ -168,7 +168,50 @@ Pordenone
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Crotone
+Pordenone
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++10
+</td>
+<td align="center">
+<b>
+27
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Salernitana
 </td>
 <td align="center">
 <font color="green">
@@ -179,14 +222,14 @@ Crotone
 7
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 <font color="blue">
-21
+20
 </font>
 </td>
 <td align="center">
@@ -195,18 +238,18 @@ Crotone
 </font>
 </td>
 <td align="center">
-+10
++9
 </td>
 <td align="center">
 <b>
-24
+25
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Empoli
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Spezia
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,49 +378,6 @@ Ascoli
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Salernitana
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-19
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+8
-</td>
-<td align="center">
-<b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 9
 </b>
 </font>
@@ -387,7 +387,7 @@ Virtus Entella
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Virtus Entella
 4
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Virtus Entella
 </td>
 <td align="center">
 <font color="red">
-5
+9
 </font>
 </td>
 <td align="center">
-+7
++3
 </td>
 <td align="center">
 <b>
@@ -598,6 +598,49 @@ Cremonese
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Cittadella
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Pescara
 </td>
 <td align="center">
@@ -636,7 +679,7 @@ Pescara
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-15
+16
 </b>
 </font>
 </td>
@@ -645,7 +688,7 @@ Pisa
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -655,20 +698,20 @@ Pisa
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-17
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+17
 </font>
 </td>
 <td align="center">
-+2
++1
 </td>
 <td align="center">
 <b>
@@ -679,12 +722,12 @@ Pisa
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Cittadella
+Trapani
 </td>
 <td align="center">
 <font color="green">
@@ -692,37 +735,37 @@ Cittadella
 </font>
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
-3
+5
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-15
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+18
 </font>
 </td>
 <td align="center">
--4
+-5
 </td>
 <td align="center">
 <b>
-15
+11
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-17
+18
 </b>
 </font>
 </td>
@@ -755,49 +798,6 @@ Cosenza
 </td>
 <td align="center">
 -4
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Trapani
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
--5
 </td>
 <td align="center">
 <b>

@@ -39,15 +39,15 @@ Pts
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Club Brugge
+Gent
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 3
@@ -57,20 +57,20 @@ Club Brugge
 </td>
 <td align="center">
 <font color="blue">
-30
+37
 </font>
 </td>
 <td align="center">
 <font color="red">
-4
+10
 </font>
 </td>
 <td align="center">
-+26
++27
 </td>
 <td align="center">
 <b>
-33
+36
 </b>
 </td>
 </tr>
@@ -82,15 +82,15 @@ Club Brugge
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Gent
+Club Brugge
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 3
@@ -100,20 +100,20 @@ Gent
 </td>
 <td align="center">
 <font color="blue">
-33
+31
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+4
 </font>
 </td>
 <td align="center">
-+24
++27
 </td>
 <td align="center">
 <b>
-33
+36
 </b>
 </td>
 </tr>
@@ -168,6 +168,49 @@ Antwerp
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Standard Liege
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+24
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++15
+</td>
+<td align="center">
+<b>
+30
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Charleroi
 </td>
 <td align="center">
@@ -200,49 +243,6 @@ Charleroi
 <td align="center">
 <b>
 29
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Standard Liege
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+14
-</td>
-<td align="center">
-<b>
-27
 </b>
 </td>
 </tr>
@@ -297,6 +297,49 @@ KRC Genk
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Anderlecht
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
++10
+</td>
+<td align="center">
+<b>
+23
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Zulte-Waregem
 </td>
 <td align="center">
@@ -335,7 +378,50 @@ Zulte-Waregem
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
+9
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+KV Mechelen
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+24
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+21
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
 </b>
 </font>
 </td>
@@ -344,7 +430,7 @@ Mouscron
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -354,7 +440,7 @@ Mouscron
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -363,11 +449,11 @@ Mouscron
 </td>
 <td align="center">
 <font color="red">
-16
+17
 </font>
 </td>
 <td align="center">
-+5
++4
 </td>
 <td align="center">
 <b>
@@ -378,50 +464,7 @@ Mouscron
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Anderlecht
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
 11
-</font>
-</td>
-<td align="center">
-+5
-</td>
-<td align="center">
-<b>
-20
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-10
 </b>
 </font>
 </td>
@@ -464,16 +507,16 @@ Kortrijk
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-KV Mechelen
+Oostende
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -483,11 +526,11 @@ KV Mechelen
 3
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-20
+18
 </font>
 </td>
 <td align="center">
@@ -496,7 +539,7 @@ KV Mechelen
 </font>
 </td>
 <td align="center">
--3
+-5
 </td>
 <td align="center">
 <b>
@@ -507,7 +550,7 @@ KV Mechelen
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -540,49 +583,6 @@ Sint-Truiden
 </td>
 <td align="center">
 +2
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Oostende
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--5
 </td>
 <td align="center">
 <b>
