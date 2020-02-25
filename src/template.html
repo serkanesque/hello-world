@@ -8,6 +8,8 @@
 </head>
 <body onload="getParameterByName()">
 <style>
+table {
+   border-spacing: 0;}
 
     #tables { display: flex; }
     #tables div { margin-right: 20px; }
@@ -62,16 +64,17 @@ background-color: lightgreen;
 }
 
 .hideAway .awayWin, .hideAway .awayLoss,.hideAway .awayDraw {
-  opacity: 0;
+display: none !important;
 }
 
 .hideHome .homeWin, .hideHome .homeLoss,.hideHome .homeDraw {
-  opacity: 0;
+display: none !important;
 }
 #tables td {
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc; 
-  text-align: center
+  text-align: center;
+  padding: 5px;
 }
 
 
@@ -130,13 +133,13 @@ td.homeWin2 {
     <table id="leagueTable"></table>
 </Div>
 
-<Div>       
+<Div style="display: none;">       
     <h1> Home </h1>
     <table id="homeDrawTable">
     </table>
 </Div>
 
-<div>
+<Div style="display: none;">  
 <h1> Away </h1>
 <table id="awayDrawTable">
 </table>
