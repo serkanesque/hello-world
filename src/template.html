@@ -52,10 +52,13 @@ section { display: none; }
 .awayWin, .awayLoss{
 border-radius: 50%;
 background-color: pink;
+min-width: 15px;
 }
 .homeWin, .awayWin{
 background-color: lightgreen;
 }
+
+
 .awayDraw {
   border-radius: 50%;
 }
@@ -97,6 +100,17 @@ td.homeWin3 {
 }
 td.homeWin2 {
   background-color: orangered !important;
+}
+
+.homeWinDiff2 {
+  background-color: springgreen;
+}
+.homeLossDiff2 {
+  background-color: orangered;
+}
+.awayWinDiff2 {
+    background-color: springgreen;
+    border-radius: 50%;
 }
 
 .pp {
@@ -1239,7 +1253,9 @@ if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)
 resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.hScore - fixture.aScore;
 resultObject.class = "homeWin";
+if(scoreDiff > 1) resultObject.class = "homeWinDiff2";
 resultObject.type = "home"
 if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
@@ -1251,6 +1267,8 @@ resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
 resultObject.class = "homeLoss";
 resultObject.type = "home";
+scoreDiff = fixture.aScore - fixture.hScore;
+//if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
 if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 }
 
@@ -1268,7 +1286,10 @@ if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)
 resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
 resultObject.class = "awayWin";
+
+if(scoreDiff > 1) resultObject.class = "awayWin awayWinDiff2";
 }
 
 if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
@@ -1344,7 +1365,11 @@ if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)
 resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.hName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
 resultObject.class = "awayWin";
+
+if(scoreDiff > 1) resultObject.class = "awayWinDiff2";
+
 if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 }
 
@@ -1466,10 +1491,10 @@ var homeDraw = 0;
 for(p=0;p<homeGameTotal.length;p++) {
    if(homeGameTotal[p].class == "homeDraw"){
     homeDraw += 1;
-console.log(homeGameTotal[p].hName + " " + homeGameTotal[p].score)
+
    }    
 }
-console.log(homeDraw)
+
 
   if(homeDraw == 0) rowClassH = "homeWin4"; 
   if(homeDraw == 1) rowClassH = "homeWin3"; 
