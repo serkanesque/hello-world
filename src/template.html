@@ -582,6 +582,9 @@ function allDone() {
 
   fixtureTeam.hName = fixture[0];
   fixtureTeam.aName = fixture[1];
+  if(fixtureTeam.hName == "Newcastle Jets ") fixtureTeam.hName = "Newcastle Jets"
+      if(fixtureTeam.hName == "Western Sydney ") fixtureTeam.hName = "Western Sydney"
+              if(fixtureTeam.hName == "Melbourne City ") fixtureTeam.hName = "Melbourne City"
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
 
@@ -1326,10 +1329,9 @@ var awayGameTotal = [];
 
 function determineResultAway (fixture, team, venue){
 var resultObject = new Object;
-
 resultObject.hName = fixture.hName
-
 resultObject.aName = fixture.aName
+
 
 
 if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
