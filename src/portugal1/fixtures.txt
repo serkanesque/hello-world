@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Gil Vicente
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:14.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-57%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (40.0%)Draws: 5 (50.0%)Defeats: 1 (10.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:3.3px;"></div></span>
-</td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="red">
-40%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=portugal&amp;stats=193-5-9-2020-gil-vicente-benfica" target="_top" title="Gil Vicente vs Benfica">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Benfica
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:22.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-90%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (90.0%)Draws: 0 (0.0%)Defeats: 1 (10.0%)"><div class="bargreen" style="width:29.7px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:3.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.80
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Fri28
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ Portimonense
 <div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=portugal&amp;stats=205-15-11-2020-portimonense-vitoria-setubal" target="_top" title="Portimonense vs Vitoria Setubal">stats</a></li>
 </ul></div>
 </td>
@@ -206,7 +128,7 @@ Rio Ave
 <div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=portugal&amp;stats=200-7-16-2020-rio-ave-belenenses" target="_top" title="Rio Ave vs Belenenses">stats</a></li>
 </ul></div>
 </td>
@@ -283,7 +205,7 @@ Boavista
 <div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=portugal&amp;stats=207-17-5-2020-boavista-gil-vicente" target="_top" title="Boavista vs Gil Vicente">stats</a></li>
 </ul></div>
 </td>
@@ -320,7 +242,239 @@ Gil Vicente
 <div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 </tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+15:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Aves
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:6.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+27%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (27.3%)Draws: 0 (0.0%)Defeats: 8 (72.7%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:24.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.36
+</font>
+</td>
+<td align="center">
+<font color="red">
+45%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=portugal&amp;stats=204-18-10-2020-aves-pacos-ferreira" target="_top" title="Aves vs Pacos Ferreira">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Pacos Ferreira
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+17%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (10.0%)Draws: 2 (20.0%)Defeats: 7 (70.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:23.1px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.40
+</font>
+</td>
+<td align="center">
+<font color="red">
+40%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
 <tr><td colspan="11" height="6"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+17:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Maritimo
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:10.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+42%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (27.3%)Draws: 5 (45.5%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:15.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.64
+</font>
+</td>
+<td align="center">
+<font color="green">
+55%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=portugal&amp;stats=199-3-1-2020-maritimo-sporting-braga" target="_top" title="Maritimo vs Sporting Braga">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Sporting Braga
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:14.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+58%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (54.5%)Draws: 1 (9.1%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:18.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.45
+</font>
+</td>
+<td align="center">
+<font color="red">
+36%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+20:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Guimaraes
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.55
+</font>
+</td>
+<td align="center">
+<font color="red">
+36%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=portugal&amp;stats=202-8-12-2020-guimaraes-tondela" target="_top" title="Guimaraes vs Tondela">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Tondela
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.36
+</font>
+</td>
+<td align="center">
+<font color="red">
+45%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
 <tr bgcolor="#f8f8f8">
 <td colspan="12" height="40" style="line-height:16px;" valign="middle">
 Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.

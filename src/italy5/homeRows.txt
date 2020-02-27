@@ -86,7 +86,7 @@ Catanzaro
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -96,7 +96,7 @@ Catanzaro
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,11 @@ Catanzaro
 </td>
 <td align="center">
 <font color="red">
-14
+15
 </font>
 </td>
 <td align="center">
-+13
++12
 </td>
 <td align="center">
 <b>
@@ -215,7 +215,7 @@ Teramo
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -225,7 +225,7 @@ Teramo
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -234,11 +234,11 @@ Teramo
 </td>
 <td align="center">
 <font color="red">
-14
+15
 </font>
 </td>
 <td align="center">
-+6
++5
 </td>
 <td align="center">
 <b>
@@ -344,11 +344,11 @@ Monopoli
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -358,7 +358,7 @@ Monopoli
 </td>
 <td align="center">
 <font color="blue">
-19
+20
 </font>
 </td>
 <td align="center">
@@ -367,11 +367,11 @@ Monopoli
 </font>
 </td>
 <td align="center">
-+7
++8
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -383,12 +383,15 @@ Monopoli
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Ternana
+Cavese
 </td>
 <td align="center">
 <font color="green">
-13
+15
 </font>
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 7
@@ -396,12 +399,9 @@ Ternana
 <td align="center">
 2
 </td>
-<td align="center">
-4
-</td>
 <td align="center">
 <font color="blue">
-17
+18
 </font>
 </td>
 <td align="center">
@@ -410,11 +410,11 @@ Ternana
 </font>
 </td>
 <td align="center">
-+5
++6
 </td>
 <td align="center">
 <b>
-23
+25
 </b>
 </td>
 </tr>
@@ -422,6 +422,92 @@ Ternana
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 10
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Vibonese
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+25
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Ternana
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
 </b>
 </font>
 </td>
@@ -458,92 +544,6 @@ Paganese
 <td align="center">
 <b>
 22
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Cavese
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+5
-</td>
-<td align="center">
-<b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Vibonese
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+13
-</td>
-<td align="center">
-<b>
-21
 </b>
 </td>
 </tr>
@@ -645,7 +645,7 @@ AZ Picerno
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -655,20 +655,20 @@ AZ Picerno
 4
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+13
 </font>
 </td>
 <td align="center">
-+4
++3
 </td>
 <td align="center">
 <b>
@@ -688,11 +688,11 @@ Avellino
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 5
@@ -702,7 +702,7 @@ Avellino
 </td>
 <td align="center">
 <font color="blue">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -711,11 +711,11 @@ Avellino
 </font>
 </td>
 <td align="center">
--2
+-1
 </td>
 <td align="center">
 <b>
-14
+17
 </b>
 </td>
 </tr>
@@ -774,26 +774,26 @@ Sicula Leonzio
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
 <font color="blue">
-19
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-26
+28
 </font>
 </td>
 <td align="center">
@@ -801,7 +801,7 @@ Sicula Leonzio
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -817,7 +817,7 @@ Bisceglie
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -827,7 +827,7 @@ Bisceglie
 6
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -836,11 +836,11 @@ Bisceglie
 </td>
 <td align="center">
 <font color="red">
-18
+19
 </font>
 </td>
 <td align="center">
--9
+-10
 </td>
 <td align="center">
 <b>

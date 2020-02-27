@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-AC Horsens
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (50.0%)Draws: 1 (10.0%)Defeats: 4 (40.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:13.2px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.70
-</font>
-</td>
-<td align="center">
-<font color="green">
-60%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=150-5-4-2020-ac-horsens-agf-aarhus" target="_top" title="AC Horsens vs AGF Aarhus">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-AGF Aarhus
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:14.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-57%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (50.0%)Draws: 2 (20.0%)Defeats: 3 (30.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:9.9px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.40
-</font>
-</td>
-<td align="center">
-<font color="green">
-60%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Fri28
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ AGF Aarhus
 <div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=denmark&amp;stats=155-4-3-2020-agf-aarhus-hobro-ik" target="_top" title="AGF Aarhus vs Hobro IK">stats</a></li>
 </ul></div>
 </td>
@@ -206,7 +128,7 @@ Esbjerg
 <div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=denmark&amp;stats=157-10-6-2020-esbjerg-nordsjaelland" target="_top" title="Esbjerg vs Nordsjaelland">stats</a></li>
 </ul></div>
 </td>
@@ -241,6 +163,316 @@ Nordsjaelland
 </td>
 <td align="left">
 <div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+11:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+AC Horsens
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+48%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (45.5%)Draws: 1 (9.1%)Defeats: 5 (45.5%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:15.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.73
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=denmark&amp;stats=159-5-14-2020-ac-horsens-randers-fc" target="_top" title="AC Horsens vs Randers FC">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Randers FC
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+23%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (20.0%)Draws: 1 (10.0%)Defeats: 7 (70.0%)"><div class="bargreen" style="width:6.6px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:23.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.20
+</font>
+</td>
+<td align="center">
+<font color="green">
+80%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+13:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Odense BK
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.64
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=denmark&amp;stats=161-11-2-2020-odense-bk-silkeborg" target="_top" title="Odense BK vs Silkeborg">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Silkeborg
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:4.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+18%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (9.1%)Draws: 3 (27.3%)Defeats: 7 (63.6%)"><div class="bargreen" style="width:3.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:21.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.55
+</font>
+</td>
+<td align="center">
+<font color="green">
+73%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+15:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Brondby IF
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+67%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 7 (63.6%)Draws: 1 (9.1%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:21.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.82
+</font>
+</td>
+<td align="center">
+<font color="green">
+91%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=denmark&amp;stats=156-1-7-2020-brondby-if-lyngby" target="_top" title="Brondby IF vs Lyngby">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Lyngby
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+20%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (10.0%)Draws: 3 (30.0%)Defeats: 6 (60.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:19.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.90
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun1
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+17:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+FC Kobenhavn
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:23.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+93%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 9 (90.0%)Draws: 1 (10.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:29.7px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.10
+</font>
+</td>
+<td align="center">
+<font color="green">
+80%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=denmark&amp;stats=158-12-8-2020-fc-kobenhavn-aalborg-bk" target="_top" title="FC Kobenhavn vs Aalborg BK">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Aalborg BK
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:10.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+42%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (36.4%)Draws: 2 (18.2%)Defeats: 5 (45.5%)"><div class="bargreen" style="width:12.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:15.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.82
+</font>
+</td>
+<td align="center">
+<font color="green">
+55%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">
