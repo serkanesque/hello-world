@@ -86,11 +86,11 @@ Boca Juniors
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 2
@@ -100,7 +100,7 @@ Boca Juniors
 </td>
 <td align="center">
 <font color="blue">
-13
+17
 </font>
 </td>
 <td align="center">
@@ -109,11 +109,11 @@ Boca Juniors
 </font>
 </td>
 <td align="center">
-+9
++13
 </td>
 <td align="center">
 <b>
-20
+23
 </b>
 </td>
 </tr>
@@ -121,6 +121,49 @@ Boca Juniors
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Defensa y J.
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
@@ -153,49 +196,6 @@ Velez Sarsfield
 </td>
 <td align="center">
 +3
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Defensa y J.
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+2
 </td>
 <td align="center">
 <b>
@@ -254,6 +254,49 @@ Racing Club
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Banfield
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Gimnasia
 </td>
 <td align="center">
@@ -282,49 +325,6 @@ Gimnasia
 </td>
 <td align="center">
 +6
-</td>
-<td align="center">
-<b>
-15
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Banfield
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-5
-</font>
-</td>
-<td align="center">
-+2
 </td>
 <td align="center">
 <b>
@@ -512,34 +512,34 @@ Argentinos Jrs
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Atl. Tucuman
+Newells
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-3
+2
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 3
-</td>
-<td align="center">
-4
 </td>
 <td align="center">
 <font color="blue">
-7
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+15
 </font>
 </td>
 <td align="center">
--3
+-1
 </td>
 <td align="center">
 <b>
@@ -551,6 +551,49 @@ Atl. Tucuman
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 13
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Atl. Tucuman
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+7
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -593,7 +636,50 @@ Independiente
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-14
+15
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Union Santa Fe
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-7
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+16
 </b>
 </font>
 </td>
@@ -636,50 +722,7 @@ Rosario
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Newells
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--1
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
@@ -722,7 +765,7 @@ T. de Cordoba
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-17
+18
 </b>
 </font>
 </td>
@@ -765,7 +808,7 @@ Central Córdoba
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-18
+19
 </b>
 </font>
 </td>
@@ -808,7 +851,7 @@ Aldosivi
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-19
+20
 </b>
 </font>
 </td>
@@ -841,49 +884,6 @@ Estudiantes
 </td>
 <td align="center">
 -5
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-20
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Union Santa Fe
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--9
 </td>
 <td align="center">
 <b>

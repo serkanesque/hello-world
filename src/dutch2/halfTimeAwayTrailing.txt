@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=netherlands2&amp;stats=u204-nac-breda" target="_top">NAC Breda</a> 
 </td>
 <td align="center">
-4 out of 13
+4 out of 14
 </td>
 <td align="center">
-31%
+29%
 </td>
 <td align="center">
 2
@@ -91,10 +91,10 @@ Avg Pts
  <a href="team.asp?league=netherlands2&amp;stats=u259-go-ahead-eagles" target="_top">Go Ahead Eagles</a> 
 </td>
 <td align="center">
-5 out of 13
+5 out of 14
 </td>
 <td align="center">
-38%
+36%
 </td>
 <td align="center">
 2
@@ -116,6 +116,35 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=netherlands2&amp;stats=u252-telstar" target="_top">Telstar</a> 
+</td>
+<td align="center">
+4 out of 13
+</td>
+<td align="center">
+31%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7 - 12
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<b>0.50</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=netherlands2&amp;stats=u249-nec-nijmegen" target="_top">NEC Nijmegen</a> 
 </td>
@@ -144,73 +173,15 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=netherlands2&amp;stats=u252-telstar" target="_top">Telstar</a> 
-</td>
-<td align="center">
-3 out of 12
-</td>
-<td align="center">
-25%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-5 - 10
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.33</b>
-</td>
-</tr>
 <tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=netherlands2&amp;stats=u195-excelsior" target="_top">Excelsior</a> 
-</td>
-<td align="center">
-3 out of 13
-</td>
-<td align="center">
-23%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2 - 9
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.33</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=netherlands2&amp;stats=u258-fc-den-bosch" target="_top">FC Den Bosch</a> 
 </td>
 <td align="center">
-6 out of 13
+6 out of 14
 </td>
 <td align="center">
-46%
+43%
 </td>
 <td align="center">
 0
@@ -231,7 +202,7 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=netherlands2&amp;stats=u254-jong-ajax" target="_top">Jong Ajax</a> 
 </td>
@@ -260,15 +231,15 @@ Avg Pts
 <b>0.25</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=netherlands2&amp;stats=u261-fc-dordrecht" target="_top">FC Dordrecht</a> 
+ <a href="team.asp?league=netherlands2&amp;stats=u195-excelsior" target="_top">Excelsior</a> 
 </td>
 <td align="center">
-4 out of 13
+4 out of 14
 </td>
 <td align="center">
-31%
+29%
 </td>
 <td align="center">
 0
@@ -280,42 +251,13 @@ Avg Pts
 3
 </td>
 <td align="center">
-4 - 14
+3 - 12
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
 <b>0.25</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=netherlands2&amp;stats=u265-jong-az" target="_top">Jong AZ</a> 
-</td>
-<td align="center">
-5 out of 14
-</td>
-<td align="center">
-36%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4 - 12
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.20</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -349,6 +291,35 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
+ <a href="team.asp?league=netherlands2&amp;stats=u261-fc-dordrecht" target="_top">FC Dordrecht</a> 
+</td>
+<td align="center">
+5 out of 14
+</td>
+<td align="center">
+36%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4 - 19
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.20</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
  <a href="team.asp?league=netherlands2&amp;stats=u256-top-oss" target="_top">TOP Oss</a> 
 </td>
 <td align="center">
@@ -376,15 +347,15 @@ Avg Pts
 <b>0.18</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=netherlands2&amp;stats=u262-helmond-sport" target="_top">Helmond Sport</a> 
+ <a href="team.asp?league=netherlands2&amp;stats=u265-jong-az" target="_top">Jong AZ</a> 
 </td>
 <td align="center">
-7 out of 13
+6 out of 15
 </td>
 <td align="center">
-54%
+40%
 </td>
 <td align="center">
 0
@@ -393,16 +364,45 @@ Avg Pts
 1
 </td>
 <td align="center">
-6
+5
 </td>
 <td align="center">
-4 - 23
+5 - 17
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-<b>0.14</b>
+<b>0.17</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=netherlands2&amp;stats=u262-helmond-sport" target="_top">Helmond Sport</a> 
+</td>
+<td align="center">
+8 out of 14
+</td>
+<td align="center">
+57%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+4 - 25
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<b>0.13</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
@@ -526,22 +526,22 @@ Avg Pts
  <a href="team.asp?league=netherlands2&amp;stats=u260-jong-fc-utrecht" target="_top">Jong FC Utrecht</a> 
 </td>
 <td align="center">
-3 out of 13
+4 out of 14
 </td>
 <td align="center">
-23%
-</td>
-<td align="center">
-0
+29%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3
+0
 </td>
 <td align="center">
-0 - 10
+4
+</td>
+<td align="center">
+1 - 12
 </td>
 <td align="center">
 0
@@ -555,10 +555,10 @@ Avg Pts
  <a href="team.asp?league=netherlands2&amp;stats=u263-jong-psv" target="_top">Jong PSV</a> 
 </td>
 <td align="center">
-7 out of 13
+7 out of 14
 </td>
 <td align="center">
-54%
+50%
 </td>
 <td align="center">
 0

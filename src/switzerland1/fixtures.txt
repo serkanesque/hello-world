@@ -14,7 +14,7 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat29
+Sat7
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 18:00
@@ -23,35 +23,112 @@ Sat29
  home
 </font></td>
 <td align="right" width="120">
-BSC Young Boys
+FC Thun
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:22.0px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:6.3px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-88%
+25%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 9 (81.8%)Draws: 2 (18.2%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:27.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+<span title="Wins: 2 (16.7%)Draws: 3 (25.0%)Defeats: 7 (58.3%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:19.3px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-3.36
+3.08
 </font>
 </td>
 <td align="center">
-<font color="red">
-45%
+<font color="green">
+58%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=switzerland&amp;stats=116-7-9-2020-bsc-young-boys-fc-zurich" target="_top" title="BSC Young Boys vs FC Zurich">stats</a></li>
+<a href="pmatch.asp?league=switzerland&amp;stats=124-3-7-2020-fc-thun-bsc-young-boys" target="_top" title="FC Thun vs BSC Young Boys">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+BSC Young Boys
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+44%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (33.3%)Draws: 4 (33.3%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.33
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat7
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+18:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+St. Gallen
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:16.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+64%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 7 (58.3%)Draws: 2 (16.7%)Defeats: 3 (25.0%)"><div class="bargreen" style="width:19.3px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.58
+</font>
+</td>
+<td align="center">
+<font color="green">
+75%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=switzerland&amp;stats=123-5-9-2020-st.-gallen-fc-zurich" target="_top" title="St. Gallen vs FC Zurich">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -87,89 +164,12 @@ FC Zurich
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat29
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sion
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (27.3%)Draws: 3 (27.3%)Defeats: 5 (45.5%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:15.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.36
-</font>
-</td>
-<td align="center">
-<font color="green">
-73%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=switzerland&amp;stats=118-1-5-2020-sion-st.-gallen" target="_top" title="Sion vs St. Gallen">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-St. Gallen
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (63.6%)Draws: 1 (9.1%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:21.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.55
-</font>
-</td>
-<td align="center">
-<font color="green">
-82%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
 <tr><td colspan="11" height="12"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun1
+Sun8
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 15:00
@@ -178,35 +178,35 @@ Sun1
  home
 </font></td>
 <td align="right" width="120">
-Luzern
+Lugano
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-52%
+33%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+<span title="Wins: 2 (16.7%)Draws: 6 (50.0%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:11.0px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-2.55
+<font color="red">
+1.42
 </font>
 </td>
 <td align="center">
-<font color="green">
-55%
+<font color="red">
+25%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=switzerland&amp;stats=117-6-2-2020-luzern-fc-basel" target="_top" title="Luzern vs FC Basel">stats</a></li>
+<a href="pmatch.asp?league=switzerland&amp;stats=121-10-6-2020-lugano-luzern" target="_top" title="Lugano vs Luzern">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -215,38 +215,38 @@ Luzern
  away
 </font></td>
 <td align="right">
-FC Basel
+Luzern
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-52%
+39%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
+<span title="Wins: 4 (33.3%)Draws: 2 (16.7%)Defeats: 6 (50.0%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-3.09
+<font color="red">
+2.25
 </font>
 </td>
 <td align="center">
-<font color="green">
-64%
+<font color="red">
+33%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun1
+Sun8
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 15:00
@@ -283,7 +283,7 @@ Neuchatel Xamax
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=switzerland&amp;stats=119-4-3-2020-neuchatel-xamax-fc-thun" target="_top" title="Neuchatel Xamax vs FC Thun">stats</a></li>
+<a href="pmatch.asp?league=switzerland&amp;stats=125-4-2-2020-neuchatel-xamax-fc-basel" target="_top" title="Neuchatel Xamax vs FC Basel">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -292,27 +292,27 @@ Neuchatel Xamax
  away
 </font></td>
 <td align="right">
-FC Thun
+FC Basel
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.6px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:12.9px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-30%
+52%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 3 (27.3%)Draws: 1 (9.1%)Defeats: 7 (63.6%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:21.0px;"></div></span>
+<span title="Wins: 5 (45.5%)Draws: 2 (18.2%)Defeats: 4 (36.4%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:12.0px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-2.91
+3.09
 </font>
 </td>
 <td align="center">
 <font color="green">
-55%
+64%
 </font>
 </td>
 <td align="left">
@@ -324,7 +324,7 @@ FC Thun
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun1
+Sun8
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 15:00
@@ -333,59 +333,22 @@ Sun1
  home
 </font></td>
 <td align="right" width="120">
-Servette
+Sion
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:9.1px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-64%
+36%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 6 (54.5%)Draws: 3 (27.3%)Defeats: 2 (18.2%)"><div class="bargreen" style="width:18.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:6.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.18
-</font>
-</td>
-<td align="center">
-<font color="red">
-45%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=switzerland&amp;stats=120-8-10-2020-servette-lugano" target="_top" title="Servette vs Lugano">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Lugano
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-42%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (36.4%)Draws: 2 (18.2%)Defeats: 5 (45.5%)"><div class="bargreen" style="width:12.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:15.0px;"></div></span>
+<span title="Wins: 3 (27.3%)Draws: 3 (27.3%)Defeats: 5 (45.5%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:15.0px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-3.09
+3.36
 </font>
 </td>
 <td align="center">
@@ -394,7 +357,44 @@ Lugano
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=switzerland&amp;stats=122-1-8-2020-sion-servette" target="_top" title="Sion vs Servette">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Servette
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+44%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (33.3%)Draws: 4 (33.3%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.08
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

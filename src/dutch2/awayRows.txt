@@ -211,6 +211,92 @@ FC Volendam
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+NAC Breda
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Go Ahead Eagles
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+27
+</font>
+</td>
+<td align="center">
+-5
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 NEC Nijmegen
 </td>
 <td align="center">
@@ -249,98 +335,12 @@ NEC Nijmegen
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-NAC Breda
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Go Ahead Eagles
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-25
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 8
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Excelsior
+Telstar
 </td>
 <td align="center">
 <font color="green">
@@ -351,27 +351,27 @@ Excelsior
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
-20
+26
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+27
 </font>
 </td>
 <td align="center">
-0
+-1
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -383,11 +383,11 @@ Excelsior
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Telstar
+Excelsior
 </td>
 <td align="center">
 <font color="green">
-12
+14
 </font>
 </td>
 <td align="center">
@@ -397,20 +397,20 @@ Telstar
 5
 </td>
 <td align="center">
-3
+5
 </td>
 <td align="center">
 <font color="blue">
-24
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+23
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>
@@ -430,11 +430,11 @@ FC Den Bosch
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 5
@@ -444,20 +444,20 @@ FC Den Bosch
 </td>
 <td align="center">
 <font color="blue">
-22
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-27
+29
 </font>
 </td>
 <td align="center">
--5
+-4
 </td>
 <td align="center">
 <b>
-14
+17
 </b>
 </td>
 </tr>
@@ -516,7 +516,7 @@ Jong FC Utrecht
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -526,20 +526,20 @@ Jong FC Utrecht
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+27
 </font>
 </td>
 <td align="center">
--12
+-13
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ FC Dordrecht
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -612,7 +612,7 @@ FC Dordrecht
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
@@ -621,11 +621,11 @@ FC Dordrecht
 </td>
 <td align="center">
 <font color="red">
-31
+36
 </font>
 </td>
 <td align="center">
--16
+-21
 </td>
 <td align="center">
 <b>
@@ -688,7 +688,7 @@ Jong AZ
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -698,20 +698,20 @@ Jong AZ
 4
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
-18
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-31
+36
 </font>
 </td>
 <td align="center">
--13
+-17
 </td>
 <td align="center">
 <b>
@@ -774,7 +774,7 @@ Helmond Sport
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Helmond Sport
 3
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Helmond Sport
 </td>
 <td align="center">
 <font color="red">
-35
+37
 </font>
 </td>
 <td align="center">
--24
+-26
 </td>
 <td align="center">
 <b>
@@ -809,49 +809,6 @@ Helmond Sport
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 19
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Jong PSV
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-32
-</font>
-</td>
-<td align="center">
--18
-</td>
-<td align="center">
-<b>
-5
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-20
 </b>
 </font>
 </td>
@@ -884,6 +841,49 @@ MVV Maastricht
 </td>
 <td align="center">
 -19
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+20
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Jong PSV
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+11
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+36
+</font>
+</td>
+<td align="center">
+-20
 </td>
 <td align="center">
 <b>

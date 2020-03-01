@@ -172,7 +172,7 @@ Aalborg BK
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -182,20 +182,20 @@ Aalborg BK
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-17
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+17
 </font>
 </td>
 <td align="center">
-+3
++2
 </td>
 <td align="center">
 <b>
@@ -207,6 +207,49 @@ Aalborg BK
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Nordsjaelland
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Brondby IF
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,12 +335,12 @@ Odense BK
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Nordsjaelland
+Randers FC
 </td>
 <td align="center">
 <font color="green">
@@ -308,34 +351,34 @@ Nordsjaelland
 3
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-20
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+20
 </font>
 </td>
 <td align="center">
--3
+-5
 </td>
 <td align="center">
 <b>
-11
+10
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
@@ -378,7 +421,7 @@ SonderjyskE
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -421,49 +464,6 @@ AC Horsens
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Randers FC
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-19
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 11
 </b>
 </font>
@@ -473,14 +473,14 @@ Hobro IK
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 6
@@ -500,7 +500,7 @@ Hobro IK
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>
@@ -512,38 +512,38 @@ Hobro IK
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Lyngby
+Silkeborg
 </td>
 <td align="center">
 <font color="green">
-10
+12
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-10
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+26
 </font>
 </td>
 <td align="center">
--9
+-11
 </td>
 <td align="center">
 <b>
-6
+7
 </b>
 </td>
 </tr>
@@ -555,7 +555,7 @@ Lyngby
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Silkeborg
+Lyngby
 </td>
 <td align="center">
 <font color="green">
@@ -573,16 +573,16 @@ Silkeborg
 </td>
 <td align="center">
 <font color="blue">
-14
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+20
 </font>
 </td>
 <td align="center">
--11
+-10
 </td>
 <td align="center">
 <b>

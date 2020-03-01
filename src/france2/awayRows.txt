@@ -43,14 +43,14 @@ AC Ajaccio
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
 9
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
@@ -70,7 +70,7 @@ AC Ajaccio
 </td>
 <td align="center">
 <b>
-29
+30
 </b>
 </td>
 </tr>
@@ -129,11 +129,11 @@ Troyes
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -143,7 +143,7 @@ Troyes
 </td>
 <td align="center">
 <font color="blue">
-12
+14
 </font>
 </td>
 <td align="center">
@@ -152,11 +152,11 @@ Troyes
 </font>
 </td>
 <td align="center">
-+4
++6
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -172,11 +172,11 @@ Clermont
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 5
@@ -186,20 +186,20 @@ Clermont
 </td>
 <td align="center">
 <font color="blue">
-12
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
-+2
++3
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -207,6 +207,49 @@ Clermont
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Le Havre
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+20
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Chateauroux
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,12 +335,12 @@ Lens
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Le Havre
+Chambly
 </td>
 <td align="center">
 <font color="green">
@@ -315,55 +358,12 @@ Le Havre
 </td>
 <td align="center">
 <font color="blue">
-17
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Guingamp
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
+11
 </font>
 </td>
 <td align="center">
@@ -371,7 +371,7 @@ Guingamp
 </td>
 <td align="center">
 <b>
-18
+19
 </b>
 </td>
 </tr>
@@ -383,7 +383,7 @@ Guingamp
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Grenoble
+Guingamp
 </td>
 <td align="center">
 <font color="green">
@@ -391,26 +391,26 @@ Grenoble
 </font>
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
-6
+5
 </td>
 <td align="center">
 3
 </td>
+<td align="center">
+5
+</td>
 <td align="center">
 <font color="blue">
-14
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+17
 </font>
 </td>
 <td align="center">
-0
++2
 </td>
 <td align="center">
 <b>
@@ -422,6 +422,49 @@ Grenoble
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 10
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Grenoble
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
 </b>
 </font>
 </td>
@@ -458,49 +501,6 @@ Caen
 <td align="center">
 <b>
 17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Chambly
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-16
 </b>
 </td>
 </tr>
@@ -731,26 +731,26 @@ Rodez Aveyron
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
 <font color="blue">
-8
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -758,7 +758,7 @@ Rodez Aveyron
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
@@ -817,7 +817,7 @@ Niort
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -827,20 +827,20 @@ Niort
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+25
 </font>
 </td>
 <td align="center">
--9
+-11
 </td>
 <td align="center">
 <b>

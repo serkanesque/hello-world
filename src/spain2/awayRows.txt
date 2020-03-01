@@ -39,6 +39,92 @@ Pts
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Alcorcon
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+25
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Real Zaragoza
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Cadiz
 </td>
 <td align="center">
@@ -77,7 +163,7 @@ Cadiz
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-2
+4
 </b>
 </font>
 </td>
@@ -86,7 +172,7 @@ Almeria
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -96,110 +182,24 @@ Almeria
 8
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-25
+26
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
-</font>
-</td>
-<td align="center">
-+8
-</td>
-<td align="center">
-<b>
-23
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Real Zaragoza
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
 19
 </font>
 </td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
 <td align="center">
-+3
++7
 </td>
 <td align="center">
 <b>
 23
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Alcorcon
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-22
 </b>
 </td>
 </tr>
@@ -387,26 +387,26 @@ Rayo Vallecano
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
 <font color="blue">
-16
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -414,7 +414,7 @@ Rayo Vallecano
 </td>
 <td align="center">
 <b>
-15
+16
 </b>
 </td>
 </tr>
@@ -426,15 +426,12 @@ Rayo Vallecano
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Tenerife
+Malaga
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
-</td>
-<td align="center">
-4
 </td>
 <td align="center">
 3
@@ -442,22 +439,25 @@ Tenerife
 <td align="center">
 7
 </td>
+<td align="center">
+6
+</td>
 <td align="center">
 <font color="blue">
-18
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+13
 </font>
 </td>
 <td align="center">
--1
+-4
 </td>
 <td align="center">
 <b>
-15
+16
 </b>
 </td>
 </tr>
@@ -469,7 +469,7 @@ Tenerife
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Malaga
+Tenerife
 </td>
 <td align="center">
 <font color="green">
@@ -477,26 +477,26 @@ Malaga
 </font>
 </td>
 <td align="center">
+4
+</td>
+<td align="center">
 3
 </td>
 <td align="center">
-6
-</td>
-<td align="center">
-6
+8
 </td>
 <td align="center">
 <font color="blue">
-8
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+20
 </font>
 </td>
 <td align="center">
--4
+-2
 </td>
 <td align="center">
 <b>
@@ -516,26 +516,26 @@ Extremadura
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
 <font color="blue">
-13
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+22
 </font>
 </td>
 <td align="center">
@@ -543,7 +543,7 @@ Extremadura
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
@@ -641,11 +641,11 @@ Deportivo
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Sporting Gijon
+Girona
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -655,20 +655,20 @@ Sporting Gijon
 4
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-8
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+23
 </font>
 </td>
 <td align="center">
--7
+-6
 </td>
 <td align="center">
 <b>
@@ -684,104 +684,18 @@ Sporting Gijon
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Numancia
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-12
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Girona
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-12
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
 Lugo
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 6
@@ -798,6 +712,92 @@ Lugo
 </td>
 <td align="center">
 -6
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Sporting Gijon
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Numancia
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
+-7
 </td>
 <td align="center">
 <b>

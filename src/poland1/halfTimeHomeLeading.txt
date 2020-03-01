@@ -33,25 +33,25 @@ Avg Pts
  <a href="team.asp?league=poland&amp;stats=3-legia-warsaw" target="_top">Legia Warsaw</a> 
 </td>
 <td align="center">
-7 out of 12
+8 out of 13
 </td>
 <td align="center">
-58%
+62%
 </td>
 <td align="center">
-7
-</td>
-<td align="center">
-0
+8
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-27 - 3
+0
 </td>
 <td align="center">
-21
+29 - 4
+</td>
+<td align="center">
+24
 </td>
 <td align="center">
 <b>3.00</b>
@@ -91,10 +91,10 @@ Avg Pts
  <a href="team.asp?league=poland&amp;stats=13-wisla-krakow" target="_top">Wisla Krakow</a> 
 </td>
 <td align="center">
-4 out of 11
+4 out of 12
 </td>
 <td align="center">
-36%
+33%
 </td>
 <td align="center">
 4
@@ -120,25 +120,25 @@ Avg Pts
  <a href="team.asp?league=poland&amp;stats=10-gornik-zabrze" target="_top">Gornik Zabrze</a> 
 </td>
 <td align="center">
-2 out of 11
+3 out of 12
 </td>
 <td align="center">
-18%
+25%
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-0
+3
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-6 - 0
+0
 </td>
 <td align="center">
-6
+9 - 1
+</td>
+<td align="center">
+9
 </td>
 <td align="center">
 <b>3.00</b>
@@ -178,10 +178,10 @@ Avg Pts
  <a href="team.asp?league=poland&amp;stats=12-korona-kielce" target="_top">Korona Kielce</a> 
 </td>
 <td align="center">
-3 out of 11
+3 out of 12
 </td>
 <td align="center">
-27%
+25%
 </td>
 <td align="center">
 3
@@ -207,10 +207,10 @@ Avg Pts
  <a href="team.asp?league=poland&amp;stats=15-zaglebie-lubin" target="_top">Zaglebie Lubin</a> 
 </td>
 <td align="center">
-5 out of 11
+5 out of 12
 </td>
 <td align="center">
-45%
+42%
 </td>
 <td align="center">
 4
@@ -320,35 +320,6 @@ Avg Pts
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
- <a href="team.asp?league=poland&amp;stats=2-jagiellonia" target="_top">Jagiellonia</a> 
-</td>
-<td align="center">
-4 out of 11
-</td>
-<td align="center">
-36%
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-11 - 6
-</td>
-<td align="center">
-9
-</td>
-<td align="center">
-<b>2.25</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
  <a href="team.asp?league=poland&amp;stats=9-wisla-plock" target="_top">Wisla Plock</a> 
 </td>
 <td align="center">
@@ -376,7 +347,65 @@ Avg Pts
 <b>2.25</b>
 </td>
 </tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=poland&amp;stats=2-jagiellonia" target="_top">Jagiellonia</a> 
+</td>
+<td align="center">
+5 out of 12
+</td>
+<td align="center">
+42%
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+12 - 7
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
 <tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=poland&amp;stats=11-rakow-czest." target="_top">Rakow Czest.</a> 
+</td>
+<td align="center">
+5 out of 12
+</td>
+<td align="center">
+42%
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+9 - 5
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<b>2.00</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=poland&amp;stats=5-lks-lodz" target="_top">LKS Lodz</a> 
 </td>
@@ -405,7 +434,7 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=poland&amp;stats=4-pogon-szczecin" target="_top">Pogon Szczecin</a> 
 </td>
@@ -434,44 +463,15 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
-<td align="left">
- <a href="team.asp?league=poland&amp;stats=11-rakow-czest." target="_top">Rakow Czest.</a> 
-</td>
-<td align="center">
-4 out of 11
-</td>
-<td align="center">
-36%
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7 - 5
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<b>1.75</b>
-</td>
-</tr>
 <tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=poland&amp;stats=1-arka-gdynia" target="_top">Arka Gdynia</a> 
 </td>
 <td align="center">
-1 out of 11
+1 out of 12
 </td>
 <td align="center">
-9%
+8%
 </td>
 <td align="center">
 0

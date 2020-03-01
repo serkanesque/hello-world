@@ -43,11 +43,11 @@ Olympiakos
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-11
+12
 </td>
 <td align="center">
 1
@@ -57,7 +57,7 @@ Olympiakos
 </td>
 <td align="center">
 <font color="blue">
-31
+33
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Olympiakos
 </font>
 </td>
 <td align="center">
-+25
++27
 </td>
 <td align="center">
 <b>
-34
+37
 </b>
 </td>
 </tr>
@@ -168,15 +168,15 @@ AEK Athens
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Aris Thessaloni
+Panathinaikos
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -199,7 +199,7 @@ Aris Thessaloni
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -211,15 +211,15 @@ Aris Thessaloni
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Panathinaikos
+OFI Crete
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 2
@@ -229,20 +229,20 @@ Panathinaikos
 </td>
 <td align="center">
 <font color="blue">
-20
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+9
 </font>
 </td>
 <td align="center">
-+10
++13
 </td>
 <td align="center">
 <b>
-23
+26
 </b>
 </td>
 </tr>
@@ -254,11 +254,11 @@ Panathinaikos
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-OFI Crete
+Aris Thessaloni
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -268,20 +268,20 @@ OFI Crete
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-19
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+13
 </font>
 </td>
 <td align="center">
-+10
++12
 </td>
 <td align="center">
 <b>
@@ -383,6 +383,49 @@ Atromitos
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+AEL Larissa
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Volos NFC
 </td>
 <td align="center">
@@ -421,7 +464,50 @@ Volos NFC
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Xanthi
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
 </b>
 </font>
 </td>
@@ -458,92 +544,6 @@ Lamia
 <td align="center">
 <b>
 17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Xanthi
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+1
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-AEL Larissa
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--1
-</td>
-<td align="center">
-<b>
-15
 </b>
 </td>
 </tr>
@@ -602,26 +602,26 @@ Panionios
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
 <font color="blue">
-9
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -629,7 +629,7 @@ Panionios
 </td>
 <td align="center">
 <b>
-12
+13
 </b>
 </td>
 </tr>
