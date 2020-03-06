@@ -149,25 +149,25 @@ Avg Pts
  <a href="team.asp?league=argentina&amp;stats=5-san-lorenzo" target="_top">San Lorenzo</a> 
 </td>
 <td align="center">
-3 out of 10
+4 out of 11
 </td>
 <td align="center">
-30%
+36%
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-0
+4
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-4 - 0
+0
 </td>
 <td align="center">
-9
+7 - 1
+</td>
+<td align="center">
+12
 </td>
 <td align="center">
 <b>3.00</b>
@@ -323,10 +323,10 @@ Avg Pts
  <a href="team.asp?league=argentina&amp;stats=9-argentinos-jrs" target="_top">Argentinos Jrs</a> 
 </td>
 <td align="center">
-1 out of 10
+1 out of 11
 </td>
 <td align="center">
-10%
+9%
 </td>
 <td align="center">
 1
@@ -348,6 +348,35 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=argentina&amp;stats=6-godoy-cruz" target="_top">Godoy Cruz</a> 
+</td>
+<td align="center">
+1 out of 11
+</td>
+<td align="center">
+9%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1 - 0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<b>3.00</b>
+</td>
+</tr>
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=1-racing-club" target="_top">Racing Club</a> 
 </td>
@@ -376,15 +405,15 @@ Avg Pts
 <b>2.50</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=15-t.-de-cordoba" target="_top">T. de Cordoba</a> 
 </td>
 <td align="center">
-3 out of 10
+3 out of 11
 </td>
 <td align="center">
-30%
+27%
 </td>
 <td align="center">
 2
@@ -405,7 +434,7 @@ Avg Pts
 <b>2.33</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=17-defensa-y-j." target="_top">Defensa y J.</a> 
 </td>
@@ -434,7 +463,7 @@ Avg Pts
 <b>2.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=12-aldosivi" target="_top">Aldosivi</a> 
 </td>
@@ -463,15 +492,15 @@ Avg Pts
 <b>2.25</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=21-arsenal-sarandi" target="_top">Arsenal Sarandi</a> 
 </td>
 <td align="center">
-5 out of 10
+5 out of 11
 </td>
 <td align="center">
-50%
+45%
 </td>
 <td align="center">
 3
@@ -492,7 +521,7 @@ Avg Pts
 <b>2.20</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=14-central-córdoba" target="_top">Central Córdoba</a> 
 </td>
@@ -521,7 +550,7 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=22-banfield" target="_top">Banfield</a> 
 </td>
@@ -550,15 +579,15 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=18-independiente" target="_top">Independiente</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 11
 </td>
 <td align="center">
-20%
+18%
 </td>
 <td align="center">
 1
@@ -579,7 +608,7 @@ Avg Pts
 <b>2.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=4-patronato" target="_top">Patronato</a> 
 </td>
@@ -608,41 +637,12 @@ Avg Pts
 <b>1.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=argentina&amp;stats=20-huracan" target="_top">Huracan</a> 
 </td>
 <td align="center">
 0 out of 11
-</td>
-<td align="center">
-0%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0 - 0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=argentina&amp;stats=6-godoy-cruz" target="_top">Godoy Cruz</a> 
-</td>
-<td align="center">
-0 out of 10
 </td>
 <td align="center">
 0%
@@ -700,10 +700,10 @@ Avg Pts
  <a href="team.asp?league=argentina&amp;stats=11-estudiantes" target="_top">Estudiantes</a> 
 </td>
 <td align="center">
-2 out of 10
+2 out of 11
 </td>
 <td align="center">
-20%
+18%
 </td>
 <td align="center">
 0
