@@ -1,15 +1,790 @@
-<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
-<tr bgcolor="#f4f4f4" height="18">
-<td align="center" style="background-color:#acacac;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
-<font color="#fafafa">Home / Away</font></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=netherlands2&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=netherlands2&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#acacac">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
+<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
+<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
+<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
+<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
+<td align="right" width="55">
+ 
+</td>
 </tr>
-<tr>
-<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
-<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
-<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
+<tr><td colspan="11"></td></tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun8
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+13:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Go Ahead Eagles
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+67%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 7 (50.0%)Draws: 7 (50.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.71
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=288-7-5-2020-go-ahead-eagles-de-graafschap" target="_top" title="Go Ahead Eagles vs De Graafschap">stats</a></li>
+</ul></div>
+</td>
 </tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+De Graafschap
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:14.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+60%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (42.9%)Draws: 7 (50.0%)Defeats: 1 (7.1%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:2.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.00
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun8
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+13:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+NAC Breda
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:16.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+64%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (57.1%)Draws: 3 (21.4%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:7.1px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.43
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=281-10-3-2020-nac-breda-roda-jc" target="_top" title="NAC Breda vs Roda JC">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Roda JC
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+21%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (7.1%)Draws: 6 (42.9%)Defeats: 7 (50.0%)"><div class="bargreen" style="width:2.4px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+1.93
+</font>
+</td>
+<td align="center">
+<font color="red">
+21%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Mon9
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Jong AZ
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+54%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (46.2%)Draws: 3 (23.1%)Defeats: 4 (30.8%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:10.2px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.69
+</font>
+</td>
+<td align="center">
+<font color="green">
+77%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=290-18-6-2020-jong-az-cambuur" target="_top" title="Jong AZ vs Cambuur">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Cambuur
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:17.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+69%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 9 (64.3%)Draws: 2 (14.3%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:21.2px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:7.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.57
+</font>
+</td>
+<td align="center">
+<font color="red">
+43%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Mon9
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Jong FC Utrecht
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:17.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+69%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (57.1%)Draws: 5 (35.7%)Defeats: 1 (7.1%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:2.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.64
+</font>
+</td>
+<td align="center">
+<font color="green">
+79%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=289-16-1-2020-jong-fc-utrecht-nec-nijmegen" target="_top" title="Jong FC Utrecht vs NEC Nijmegen">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+NEC Nijmegen
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:11.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+45%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (35.7%)Draws: 4 (28.6%)Defeats: 5 (35.7%)"><div class="bargreen" style="width:11.8px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:11.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.14
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Almere City
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:18.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+74%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 10 (71.4%)Draws: 1 (7.1%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:23.6px;"></div><div class="barorange" style="width:2.4px;"></div><div class="barred" style="width:7.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.79
+</font>
+</td>
+<td align="center">
+<font color="red">
+43%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=298-4-16-2020-almere-city-jong-fc-utrecht" target="_top" title="Almere City vs Jong FC Utrecht">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Jong FC Utrecht
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:5.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+21%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (14.3%)Draws: 3 (21.4%)Defeats: 9 (64.3%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:21.2px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.93
+</font>
+</td>
+<td align="center">
+<font color="green">
+57%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Cambuur
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:20.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+81%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 11 (78.6%)Draws: 1 (7.1%)Defeats: 2 (14.3%)"><div class="bargreen" style="width:25.9px;"></div><div class="barorange" style="width:2.4px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.86
+</font>
+</td>
+<td align="center">
+<font color="green">
+79%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=294-6-10-2020-cambuur-nac-breda" target="_top" title="Cambuur vs NAC Breda">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+NAC Breda
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+48%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (35.7%)Draws: 5 (35.7%)Defeats: 4 (28.6%)"><div class="bargreen" style="width:11.8px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.79
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+De Graafschap
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:20.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+81%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 10 (71.4%)Draws: 4 (28.6%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:23.6px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.29
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=295-5-11-2020-de-graafschap-helmond-sport" target="_top" title="De Graafschap vs Helmond Sport">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Helmond Sport
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+14%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (7.1%)Draws: 3 (21.4%)Defeats: 10 (71.4%)"><div class="bargreen" style="width:2.4px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:23.6px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.43
+</font>
+</td>
+<td align="center">
+<font color="green">
+57%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+FC Dordrecht
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:6.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+24%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (14.3%)Draws: 4 (28.6%)Defeats: 8 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.36
+</font>
+</td>
+<td align="center">
+<font color="black">
+50%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=296-9-18-2020-fc-dordrecht-jong-az" target="_top" title="FC Dordrecht vs Jong AZ">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Jong AZ
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:3.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+16%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (6.7%)Draws: 4 (26.7%)Defeats: 10 (66.7%)"><div class="bargreen" style="width:2.2px;"></div><div class="barorange" style="width:8.8px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.67
+</font>
+</td>
+<td align="center">
+<font color="green">
+87%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+MVV Maastricht
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (42.9%)Draws: 4 (28.6%)Defeats: 4 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.86
+</font>
+</td>
+<td align="center">
+<font color="green">
+64%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=293-8-2-2020-mvv-maastricht-fc-eindhoven" target="_top" title="MVV Maastricht vs FC Eindhoven">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+FC Eindhoven
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+19%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (14.3%)Draws: 2 (14.3%)Defeats: 10 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.79
+</font>
+</td>
+<td align="center">
+<font color="green">
+71%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Fri13
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+19:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+NEC Nijmegen
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+55%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 6 (42.9%)Draws: 5 (35.7%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:7.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.93
+</font>
+</td>
+<td align="center">
+<font color="red">
+43%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=netherlands2&amp;stats=291-1-12-2020-nec-nijmegen-fc-volendam" target="_top" title="NEC Nijmegen vs FC Volendam">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+FC Volendam
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:13.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+55%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 7 (50.0%)Draws: 2 (14.3%)Defeats: 5 (35.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:11.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.14
+</font>
+</td>
+<td align="center">
+<font color="green">
+79%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td colspan="12" height="40" style="line-height:16px;" valign="middle">
+Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
+</td></tr>
 </table>
