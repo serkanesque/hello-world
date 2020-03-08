@@ -33,28 +33,28 @@ Avg Pts
  <a href="team.asp?league=england3&amp;stats=u59-rotherham" target="_top">Rotherham</a> 
 </td>
 <td align="center">
-4 out of 17
+5 out of 18
 </td>
 <td align="center">
-24%
-</td>
-<td align="center">
-1
+28%
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-7 - 8
+3
+</td>
+<td align="center">
+8 - 11
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-<b>1.00</b>
+<b>0.80</b>
 </td>
 </tr>
 <tr class="trow2" height="24">
@@ -62,10 +62,10 @@ Avg Pts
  <a href="team.asp?league=england3&amp;stats=u224-gillingham" target="_top">Gillingham</a> 
 </td>
 <td align="center">
-5 out of 17
+5 out of 18
 </td>
 <td align="center">
-29%
+28%
 </td>
 <td align="center">
 1
@@ -87,6 +87,35 @@ Avg Pts
 </td>
 </tr>
 <tr class="trow8" height="24">
+<td align="left">
+ <a href="team.asp?league=england3&amp;stats=u212-oxford-utd" target="_top">Oxford Utd</a> 
+</td>
+<td align="center">
+6 out of 18
+</td>
+<td align="center">
+33%
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+7 - 14
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<b>0.67</b>
+</td>
+</tr>
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u219-fleetwood" target="_top">Fleetwood</a> 
 </td>
@@ -115,7 +144,7 @@ Avg Pts
 <b>0.60</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u60-ipswich-town" target="_top">Ipswich Town</a> 
 </td>
@@ -144,12 +173,12 @@ Avg Pts
 <b>0.60</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u209-coventry-city" target="_top">Coventry City</a> 
 </td>
 <td align="center">
-2 out of 16
+2 out of 17
 </td>
 <td align="center">
 12%
@@ -173,7 +202,7 @@ Avg Pts
 <b>0.50</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u227-shrewsbury" target="_top">Shrewsbury</a> 
 </td>
@@ -202,7 +231,7 @@ Avg Pts
 <b>0.40</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u220-afc-wimbledon" target="_top">AFC Wimbledon</a> 
 </td>
@@ -231,15 +260,15 @@ Avg Pts
 <b>0.38</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u218-blackpool" target="_top">Blackpool</a> 
 </td>
 <td align="center">
-3 out of 17
+3 out of 18
 </td>
 <td align="center">
-18%
+17%
 </td>
 <td align="center">
 0
@@ -260,7 +289,7 @@ Avg Pts
 <b>0.33</b>
 </td>
 </tr>
-<tr class="trow8" height="24">
+<tr class="trow2" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u205-sunderland" target="_top">Sunderland</a> 
 </td>
@@ -287,35 +316,6 @@ Avg Pts
 </td>
 <td align="center">
 <b>0.25</b>
-</td>
-</tr>
-<tr class="trow2" height="24">
-<td align="left">
- <a href="team.asp?league=england3&amp;stats=u212-oxford-utd" target="_top">Oxford Utd</a> 
-</td>
-<td align="center">
-5 out of 17
-</td>
-<td align="center">
-29%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4 - 12
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<b>0.20</b>
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -465,42 +465,13 @@ Avg Pts
 </tr>
 <tr class="trow2" height="24">
 <td align="left">
- <a href="team.asp?league=england3&amp;stats=u207-portsmouth" target="_top">Portsmouth</a> 
-</td>
-<td align="center">
-3 out of 16
-</td>
-<td align="center">
-19%
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2 - 6
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>0.00</b>
-</td>
-</tr>
-<tr class="trow8" height="24">
-<td align="left">
  <a href="team.asp?league=england3&amp;stats=u216-doncaster" target="_top">Doncaster</a> 
 </td>
 <td align="center">
-2 out of 14
+2 out of 15
 </td>
 <td align="center">
-14%
+13%
 </td>
 <td align="center">
 0
@@ -521,7 +492,7 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
-<tr class="trow2" height="24">
+<tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u221-peterborough" target="_top">Peterborough</a> 
 </td>
@@ -550,15 +521,44 @@ Avg Pts
 <b>0.00</b>
 </td>
 </tr>
+<tr class="trow2" height="24">
+<td align="left">
+ <a href="team.asp?league=england3&amp;stats=u207-portsmouth" target="_top">Portsmouth</a> 
+</td>
+<td align="center">
+4 out of 17
+</td>
+<td align="center">
+24%
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2 - 8
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>0.00</b>
+</td>
+</tr>
 <tr class="trow8" height="24">
 <td align="left">
  <a href="team.asp?league=england3&amp;stats=u225-burton-albion" target="_top">Burton Albion</a> 
 </td>
 <td align="center">
-3 out of 17
+3 out of 18
 </td>
 <td align="center">
-18%
+17%
 </td>
 <td align="center">
 0
@@ -613,22 +613,22 @@ Avg Pts
  <a href="team.asp?league=england3&amp;stats=u222-bristol-rovers" target="_top">Bristol Rovers</a> 
 </td>
 <td align="center">
-5 out of 16
+6 out of 17
 </td>
 <td align="center">
-31%
-</td>
-<td align="center">
-0
+35%
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-5
+0
 </td>
 <td align="center">
-1 - 12
+6
+</td>
+<td align="center">
+2 - 15
 </td>
 <td align="center">
 0
@@ -642,10 +642,10 @@ Avg Pts
  <a href="team.asp?league=england3&amp;stats=u290-tranmere" target="_top">Tranmere</a> 
 </td>
 <td align="center">
-7 out of 15
+7 out of 16
 </td>
 <td align="center">
-47%
+44%
 </td>
 <td align="center">
 0
@@ -671,10 +671,10 @@ Avg Pts
  <a href="team.asp?league=england3&amp;stats=u49-bolton" target="_top">Bolton</a> 
 </td>
 <td align="center">
-10 out of 15
+10 out of 16
 </td>
 <td align="center">
-67%
+62%
 </td>
 <td align="center">
 0

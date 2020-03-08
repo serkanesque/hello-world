@@ -129,14 +129,14 @@ Weymouth
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 3
@@ -156,7 +156,7 @@ Weymouth
 </td>
 <td align="center">
 <b>
-25
+26
 </b>
 </td>
 </tr>
@@ -168,38 +168,38 @@ Weymouth
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Hampton &amp; Rich.
+Dartford
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
 <font color="blue">
-23
+27
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+26
 </font>
 </td>
 <td align="center">
-0
++1
 </td>
 <td align="center">
 <b>
-25
+26
 </b>
 </td>
 </tr>
@@ -254,6 +254,49 @@ Bath City
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Hampton &amp; Rich.
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+25
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+25
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Wealdstone
 </td>
 <td align="center">
@@ -286,49 +329,6 @@ Wealdstone
 <td align="center">
 <b>
 24
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Dartford
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-25
-</font>
-</td>
-<td align="center">
-<font color="red">
-25
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-23
 </b>
 </td>
 </tr>
@@ -430,7 +430,7 @@ Dorking W.
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -440,7 +440,7 @@ Dorking W.
 4
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -449,11 +449,11 @@ Dorking W.
 </td>
 <td align="center">
 <font color="red">
-33
+34
 </font>
 </td>
 <td align="center">
--7
+-8
 </td>
 <td align="center">
 <b>
@@ -473,7 +473,7 @@ Dulwich H.
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -483,20 +483,20 @@ Dulwich H.
 6
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-21
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+21
 </font>
 </td>
 <td align="center">
-+2
++1
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ Welling Utd
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -612,20 +612,20 @@ Welling Utd
 4
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-12
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-21
+24
 </font>
 </td>
 <td align="center">
--9
+-11
 </td>
 <td align="center">
 <b>
@@ -645,7 +645,7 @@ Braintree Town
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -655,20 +655,20 @@ Braintree Town
 1
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 <font color="blue">
-22
+23
 </font>
 </td>
 <td align="center">
 <font color="red">
-37
+39
 </font>
 </td>
 <td align="center">
--15
+-16
 </td>
 <td align="center">
 <b>
@@ -680,6 +680,49 @@ Braintree Town
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 16
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Chippenham
+</td>
+<td align="center">
+<font color="green">
+17
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+21
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
 </b>
 </font>
 </td>
@@ -722,7 +765,7 @@ Chelmsford
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-17
+18
 </b>
 </font>
 </td>
@@ -731,26 +774,26 @@ Concord R.
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+25
 </font>
 </td>
 <td align="center">
@@ -758,14 +801,14 @@ Concord R.
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-18
+19
 </b>
 </font>
 </td>
@@ -808,7 +851,7 @@ Tonbridge
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-19
+20
 </b>
 </font>
 </td>
@@ -851,50 +894,50 @@ Eastbourne
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-20
+21
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Chippenham
+Hungerford
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
+</td>
+<td align="center">
+4
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-6
-</td>
-<td align="center">
-8
+11
 </td>
 <td align="center">
 <font color="blue">
-14
+24
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+40
 </font>
 </td>
 <td align="center">
--6
+-16
 </td>
 <td align="center">
 <b>
-12
+14
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-21
+22
 </b>
 </font>
 </td>
@@ -931,49 +974,6 @@ Billericay
 <td align="center">
 <b>
 12
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-22
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Hungerford
-</td>
-<td align="center">
-<font color="green">
-16
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-11
-</td>
-<td align="center">
-<font color="blue">
-22
-</font>
-</td>
-<td align="center">
-<font color="red">
-40
-</font>
-</td>
-<td align="center">
--18
-</td>
-<td align="center">
-<b>
-11
 </b>
 </td>
 </tr>
