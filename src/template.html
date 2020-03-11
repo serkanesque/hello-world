@@ -883,7 +883,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
   var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeAwayTrailingPercent));
 
-if(league=="wales1" || league=="serbia1" || league=="newzealand1" || league=="luxembourg1" || league=="czechrepublic1" || league=="albania1" || league=="croatia1" || league=="bolivia1" || league=="colombia1" ||league=="chile1" || league=="france3" || league=="italy5" || league=="italy4" || league=="italy3" || league=="australia1" || league=="austria1" || league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2" || league=="egypt1" || league=="england6" || league=="england7" || league=="england8" || league=="greece1" || league=="greece2") {
+if(league=="hungary1" || league=="wales1" || league=="serbia1" || league=="newzealand1" || league=="luxembourg1" || league=="czechrepublic1" || league=="albania1" || league=="croatia1" || league=="bolivia1" || league=="colombia1" ||league=="chile1" || league=="france3" || league=="italy5" || league=="italy4" || league=="italy3" || league=="australia1" || league=="austria1" || league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2" || league=="egypt1" || league=="england6" || league=="england7" || league=="england8" || league=="greece1" || league=="greece2") {
    markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + " - " + 0 + '%</td><td>' + 0 + '</td></tr>'
 
 }else {
@@ -934,8 +934,8 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
   if(homeTeam == "Connahs Quay")  homeTeam = 'Connah\'s Quay'; 
-  console.log(homeTeam)
 
+  if(homeTeam == "Puskas Akad")  homeTeam = 'Puskas Akad.'; 
      if(homeTeam == "Spartak Sub")  homeTeam = "Spartak Sub."  
 
   if(homeTeam == "Hamilton Wand")  homeTeam = "Hamilton Wand." 
@@ -1036,7 +1036,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
 
-
+  if(awayTeam == "Puskas Akad")  awayTeam = 'Puskas Akad.'; 
   if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\'s Quay';  
 
   if(awayTeam == "Spartak Sub")  awayTeam = "Spartak Sub."  
