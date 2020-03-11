@@ -590,8 +590,9 @@ function allDone() {
 
   seasonFixtures.push(fixtureTeam);
 
- }
 
+ }
+console.log(seasonFixtures)
 
 
 
@@ -640,7 +641,7 @@ function allDone() {
 
 if(seasonFixtures2018.length > 125) clearInterval(interval);
 
-
+if(league=="newzealand1") clearInterval(interval);
 
 
 
@@ -882,7 +883,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
   var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeAwayTrailingPercent));
 
-if(league=="bolivia1" || league=="colombia1" ||league=="chile1" || league=="france3" || league=="italy5" || league=="italy4" || league=="italy3" || league=="australia1" || league=="austria1" || league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2" || league=="egypt1" || league=="england6" || league=="england7" || league=="england8" || league=="greece1" || league=="greece2") {
+if(league=="wales1" || league=="serbia1" || league=="newzealand1" || league=="luxembourg1" || league=="czechrepublic1" || league=="albania1" || league=="croatia1" || league=="bolivia1" || league=="colombia1" ||league=="chile1" || league=="france3" || league=="italy5" || league=="italy4" || league=="italy3" || league=="australia1" || league=="austria1" || league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2" || league=="egypt1" || league=="england6" || league=="england7" || league=="england8" || league=="greece1" || league=="greece2") {
    markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + " - " + 0 + '%</td><td>' + 0 + '</td></tr>'
 
 }else {
@@ -923,18 +924,31 @@ var fixture = new Object();
       var hours = parseInt(matchTime.substring(6,9));
   
     }
+
+
     homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
+     console.log(homeTeam2)
     homeTeam2 = homeTeam2.trim();
 
     if(homeTeam2.length != 0){
       homeTeam = homeTeam2;
 
+  if(homeTeam == "Connahs Quay")  homeTeam = 'Connah\'s Quay'; 
+  console.log(homeTeam)
 
+     if(homeTeam == "Spartak Sub")  homeTeam = "Spartak Sub."  
 
+  if(homeTeam == "Hamilton Wand")  homeTeam = "Hamilton Wand." 
+  if(homeTeam == "Wellington P")  homeTeam = "Wellington P." 
+
+  if(homeTeam == "Ptange")  homeTeam = "P�tange" 
+  if(homeTeam == "Vict Rosport")  homeTeam = "Vict. Rosport" 
+if(homeTeam == "Lok Zagreb")  homeTeam = "Lok. Zagreb" 
+
+if(homeTeam == "Ceske Budejov")  homeTeam = "Ceske Budejov." 
  
-
-
- 
+if(homeTeam == "Atl Palmaflor")  homeTeam = "Atl. Palmaflor" 
+ if(homeTeam == "J Wilstermann")  homeTeam = "J. Wilstermann" 
 
 if(homeTeam == "Jaguares de C")  homeTeam = "Jaguares de C." 
 if(homeTeam == "Cucuta Deport")  homeTeam = "Cucuta Deport." 
@@ -945,8 +959,7 @@ if(homeTeam == "S Wanderers")  homeTeam = "S. Wanderers"
 if(homeTeam == "U Catolica")  homeTeam = "U. Catolica" 
 if(homeTeam == "U de Chile")  homeTeam = "U. de Chile"
 if(homeTeam == "U Concepcion")  homeTeam = "U. Concepcion"
- 
-if(homeTeam == "Atl Palmaflor")  homeTeam = "Atl. Palmaflor" 
+
 
 if(homeTeam == "E Frankfurt")  homeTeam = "E. Frankfurt" 
 if(homeTeam == "Pr Munster")  homeTeam = "Pr. Munster" 
@@ -1022,9 +1035,19 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
-  
 
 
+  if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\'s Quay';  
+
+  if(awayTeam == "Spartak Sub")  awayTeam = "Spartak Sub."  
+  if(awayTeam == "Hamilton Wand")  awayTeam = "Hamilton Wand." 
+  if(awayTeam == "Wellington P")  awayTeam = "Wellington P." 
+  if(awayTeam == "Ptange")  awayTeam = "P�tange" 
+  if(awayTeam == "Vict Rosport")  awayTeam = "Vict. Rosport" 
+
+if(awayTeam == "Lok Zagreb")  awayTeam = "Lok. Zagreb" 
+if(awayTeam == "J Wilstermann")  awayTeam = "J. Wilstermann" 
+if(awayTeam == "Ceske Budejov")  awayTeam = "Ceske Budejov." 
 
 if(awayTeam == "Jaguares de C")  awayTeam = "Jaguares de C." 
 if(awayTeam == "Cucuta Deport")  awayTeam = "Cucuta Deport." 
@@ -1038,6 +1061,7 @@ if(awayTeam == "U Concepcion")  awayTeam = "U. Concepcion"
 
 
 if(awayTeam == "Atl Palmaflor")  awayTeam = "Atl. Palmaflor" 
+
 if(awayTeam == "E Frankfurt")  awayTeam = "E. Frankfurt" 
 if(awayTeam == "Pr Munster")  awayTeam = "Pr. Munster" 
 if(awayTeam == "Wurzburger K")  awayTeam = "Wurzburger K." 
@@ -1282,7 +1306,9 @@ var resultObject = new Object;
 
 resultObject.hName = fixture.hName
 resultObject.aName = fixture.aName
-//console.log(team)
+
+
+
 
 if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
 //console.log(team + " home win")
@@ -1440,7 +1466,6 @@ return resultObject
 }
 
 
-
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
@@ -1453,8 +1478,10 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
   matchResult8= determineResultHome(homeTeamFixturesArray[7], homeTeam, "home"); 
   matchResult9= determineResultHome(homeTeamFixturesArray[8], homeTeam, "home"); 
   matchResult10= determineResultHome(homeTeamFixturesArray[9], homeTeam, "home");  
+   
   matchResult11= determineResultHome(homeTeamFixturesArray[10], homeTeam, "home");  
-  matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home");  
+  matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home"); 
+
   matchResult13= determineResultHome(homeTeamFixturesArray[12], homeTeam, "home"); 
   matchResult14= determineResultHome(homeTeamFixturesArray[13], homeTeam, "home"); 
        rowClassH = "nope";
