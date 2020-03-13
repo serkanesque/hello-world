@@ -24,11 +24,8 @@ Overall
 <td align="left">
 <a href="team.asp?league=russia&amp;stats=9-akhmat-grozny" target="_top">Akhmat Grozny</a>
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-2
-</td>
-<td align="center" bgcolor="#D2FFE9">
-2-1
+<td align="center" bgcolor="#FFFFCC">
+2-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
@@ -36,8 +33,11 @@ Overall
 <td align="center" bgcolor="#FFFFCC">
 2-2
 </td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
 <td align="center" bgcolor="#FFCCCC">
-3-4
+3-5
 </td>
 <td align="center" bgcolor="#FFCCCC">
 0-2
@@ -50,16 +50,16 @@ Overall
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-1-5
+2-6
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-8-10
+9-11
 </td>
 <td align="center" bgcolor="#FFCCCC">
-6-16
+7-18
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -117,10 +117,12 @@ Overall
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+<b>
+3-0
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
@@ -128,13 +130,15 @@ Overall
 </b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-5
+<b>
+3-6
+</b>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
+<td align="center" bgcolor="#FFCCCC">
+3-4
 </td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
+<td align="center" bgcolor="#D2FFE9">
+4-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 4-2
@@ -142,30 +146,30 @@ Overall
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-14-6
+15-7
 </td>
-<td align="center" bgcolor="#FFFFCC">
-13-13
+<td align="center" bgcolor="#FFCCCC">
+14-15
 </td>
 </tr>
 <tr class="trow8" height="24">
 <td align="left">
 <a href="team.asp?league=russia&amp;stats=12-dinamo-moscow" target="_top">Dinamo Moscow</a>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 2-1
 </td>
-<td align="center" bgcolor="#FFCCCC">
-2-3
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
 3-5
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#D2FFE9">
+3-2
 </td>
 <td align="center" bgcolor="#D2FFE9">
 1-0
@@ -178,16 +182,16 @@ Overall
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-3-7
+4-8
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-10-13
+11-14
 </td>
 <td align="center" bgcolor="#FFCCCC">
-7-10
+9-11
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -214,18 +218,14 @@ Overall
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-5-1
+6-1
 </b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
 5-1
-</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-<b>
 5-1
-</b>
 </td>
 <td>
 </td>
@@ -233,7 +233,7 @@ Overall
 16-17
 </td>
 <td align="center" bgcolor="#D2FFE9">
-19-3
+20-3
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -374,11 +374,11 @@ Overall
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-0-3
+0-4
 </b>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-3-2
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
 5-6
@@ -388,24 +388,24 @@ Overall
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-5-8
+5-9
 </b>
 </td>
-<td align="center" bgcolor="#D2FFE9">
-3-1
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-5-2
+6-2
 </b>
 </td>
 <td>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-7-12
+7-14
 </td>
-<td align="center" bgcolor="#D2FFE9">
-17-16
+<td align="center" bgcolor="#FFCCCC">
+18-19
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -416,44 +416,38 @@ Overall
 2-2
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 1-4
-</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-2-0
+3-0
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+4-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 3-6
-</b>
 </td>
 <td align="center" bgcolor="#FFCCCC">
-<b>
 1-4
-</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-4-2
+5-2
 </td>
-<td align="center" bgcolor="#FFCCCC">
-1-3
+<td align="center" bgcolor="#FFFFCC">
+3-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
 <b>
-2-5
+2-6
 </b>
 </td>
 <td>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-11-11
+<td align="center" bgcolor="#D2FFE9">
+13-11
 </td>
 <td align="center" bgcolor="#FFCCCC">
-8-16
+11-17
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -468,23 +462,25 @@ Overall
 </td>
 <td align="center" bgcolor="#D2FFE9">
 <b>
-6-1
+6-2
 </b>
 </td>
-<td align="center" bgcolor="#FFFFCC">
-3-3
+<td align="center" bgcolor="#D2FFE9">
+4-3
 </td>
 <td align="center" bgcolor="#D2FFE9">
+<b>
 7-3
+</b>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-3-1
+4-1
 </td>
 <td align="center" bgcolor="#FFCCCC">
-3-5
+4-5
 </td>
-<td align="center" bgcolor="#FFFFCC">
-2-2
+<td align="center" bgcolor="#FFCCCC">
+2-3
 </td>
 <td align="center" bgcolor="#FFCCCC">
 7-9
@@ -492,10 +488,10 @@ Overall
 <td>
 </td>
 <td align="center" bgcolor="#D2FFE9">
-19-10
+20-11
 </td>
 <td align="center" bgcolor="#FFCCCC">
-16-19
+18-20
 </td>
 </tr>
 <tr class="trow8" height="24">
@@ -562,8 +558,8 @@ Overall
 <td align="center" bgcolor="#D2FFE9">
 3-2
 </td>
-<td align="center" bgcolor="#D2FFE9">
-4-3
+<td align="center" bgcolor="#FFFFCC">
+4-4
 </td>
 <td align="center" bgcolor="#FFFFCC">
 2-2
@@ -579,7 +575,7 @@ Overall
 7-11
 </td>
 <td align="center" bgcolor="#D2FFE9">
-14-10
+14-11
 </td>
 </tr>
 <tr class="trow8" height="24">

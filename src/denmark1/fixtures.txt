@@ -1,250 +1,15 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#acacac">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
-</td>
+<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
+<tr bgcolor="#f4f4f4" height="18">
+<td align="center" style="background-color:#acacac;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
+<font color="#fafafa">Home / Away</font></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=denmark&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=denmark&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun8
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Randers FC
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-73%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (63.6%)Draws: 3 (27.3%)Defeats: 1 (9.1%)"><div class="bargreen" style="width:21.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:3.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.82
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=166-14-9-2020-randers-fc-fc-midtjylland" target="_top" title="Randers FC vs FC Midtjylland">stats</a></li>
-</ul></div>
-</td>
+<tr>
+<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
+<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
+<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-FC Midtjylland
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:23.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-94%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 10 (90.9%)Draws: 1 (9.1%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:30.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.09
-</font>
-</td>
-<td align="center">
-<font color="red">
-45%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon9
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Silkeborg
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:3.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-15%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (9.1%)Draws: 2 (18.2%)Defeats: 8 (72.7%)"><div class="bargreen" style="width:3.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:24.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.27
-</font>
-</td>
-<td align="center">
-<font color="green">
-73%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=167-2-4-2020-silkeborg-agf-aarhus" target="_top" title="Silkeborg vs AGF Aarhus">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-AGF Aarhus
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:15.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-61%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (54.5%)Draws: 2 (18.2%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:18.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.45
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu12
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-AGF Aarhus
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-61%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (54.5%)Draws: 2 (18.2%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:18.0px;"></div><div class="barorange" style="width:6.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.91
-</font>
-</td>
-<td align="center">
-<font color="green">
-55%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=141-4-14-2020-agf-aarhus-randers-fc" target="_top" title="AGF Aarhus vs Randers FC">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Randers FC
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-30%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (27.3%)Draws: 1 (9.1%)Defeats: 7 (63.6%)"><div class="bargreen" style="width:9.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:21.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.18
-</font>
-</td>
-<td align="center">
-<font color="green">
-82%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>

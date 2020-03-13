@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri13
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-08:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Brisbane Roar
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-63%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (55.6%)Draws: 2 (22.2%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:18.3px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:7.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.89
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=australia&amp;stats=109-10-4-2020-brisbane-roar-central-coast" target="_top" title="Brisbane Roar vs Central Coast">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Central Coast
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:2.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-10%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (10.0%)Draws: 0 (0.0%)Defeats: 9 (90.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:29.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.60
-</font>
-</td>
-<td align="center">
-<font color="green">
-70%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Sat14
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ Sydney FC
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=australia&amp;stats=110-2-9-2020-sydney-fc-perth-glory" target="_top" title="Sydney FC vs Perth Glory">stats</a></li>
 </ul></div>
 </td>
@@ -205,7 +127,7 @@ Melbourne City
 <div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=australia&amp;stats=111-6-3-2020-melbourne-city--western-sydney-" target="_top" title="Melbourne City  vs Western Sydney ">stats</a></li>
 </ul></div>
 </td>
@@ -283,7 +205,7 @@ Wellington
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=australia&amp;stats=112-7-5-2020-wellington-melbourne-vic." target="_top" title="Wellington vs Melbourne Vic.">stats</a></li>
 </ul></div>
 </td>
@@ -320,7 +242,6 @@ Melbourne Vic.
 <div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -361,7 +282,7 @@ Adelaide Utd
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=australia&amp;stats=113-1-11-2020-adelaide-utd-newcastle-jets-" target="_top" title="Adelaide Utd vs Newcastle Jets ">stats</a></li>
 </ul></div>
 </td>
@@ -396,6 +317,85 @@ Newcastle Jets
 </td>
 <td align="left">
 <div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="6"></td></tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Wed18
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+08:45
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Sydney FC
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:22.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+89%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (88.9%)Draws: 0 (0.0%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:29.3px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:3.7px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.89
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=australia&amp;stats=99-2-7-2020-sydney-fc-wellington" target="_top" title="Sydney FC vs Wellington">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Wellington
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:10.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+41%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (33.3%)Draws: 2 (22.2%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:14.7px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.11
+</font>
+</td>
+<td align="center">
+<font color="green">
+67%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

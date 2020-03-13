@@ -86,7 +86,7 @@ Blooming
 </td>
 <td align="center">
 <font color="green">
-5
+6
 </font>
 </td>
 <td align="center">
@@ -96,7 +96,7 @@ Blooming
 1
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,11 @@ Blooming
 </td>
 <td align="center">
 <font color="red">
-9
+10
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>
@@ -172,7 +172,7 @@ Oriente
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -182,7 +182,7 @@ Oriente
 1
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -191,11 +191,11 @@ Oriente
 </td>
 <td align="center">
 <font color="red">
-16
+17
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -340,11 +340,11 @@ Real Santa Cruz
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Always Ready
+The Strongest
 </td>
 <td align="center">
 <font color="green">
-4
+5
 </font>
 </td>
 <td align="center">
@@ -354,20 +354,20 @@ Always Ready
 0
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-3
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+16
 </font>
 </td>
 <td align="center">
--3
+-6
 </td>
 <td align="center">
 <b>
@@ -379,6 +379,49 @@ Always Ready
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 9
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Always Ready
+</td>
+<td align="center">
+<font color="green">
+5
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+4
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+3
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
 </b>
 </font>
 </td>
@@ -421,7 +464,7 @@ Atl. Palmaflor
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -464,7 +507,7 @@ Nacional Potosi
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -507,7 +550,7 @@ Real Potosi
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -544,49 +587,6 @@ Guabira
 <td align="center">
 <b>
 1
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-The Strongest
-</td>
-<td align="center">
-<font color="green">
-4
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--7
-</td>
-<td align="center">
-<b>
-0
 </b>
 </td>
 </tr>
