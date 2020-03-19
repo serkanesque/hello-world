@@ -139,7 +139,7 @@ padding: 10px 0;
     font-size: 17px;
 }
 #tables #fixturesTable #grid div table th{
-  padding: 8px 0;
+  padding: 12px 0;
   background-color: #eee;
 }
 .nope {
@@ -1736,10 +1736,10 @@ homeGoalsAgainst = homeTable[j].goalsA;
 
 sixGameMarkup = '<tr id="grid"><td></td><td colspan=10><div style=display:flex;>';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6Home" style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
 
-sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 40%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td>' + homeGameTotal[h].hScore + '</td><td>' +  homeGameTotal[h].aScore  + '</td><td style="width: 40%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 40%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td>' + homeGameTotal[h].hScore + '</td><td>' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 40%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
@@ -2130,10 +2130,33 @@ fixTableTRs[j].addEventListener("click", function(e) {
 
 
 last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
-console.log(last6HomeTable)
+
 last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
+tdsArray = [];
+
+/*
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) leagueTableTRs[y].style.backgroundColor = "orangered";
+
+        if (leagueTableTRs[y].id == last6HomeOpp[p].id) {          
+
+
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
+
+
+
+        } 
+}
+}
+
+*/
 
 
 for (var j = 0; j < last6HomeTRs.length; j++) {
