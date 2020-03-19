@@ -216,7 +216,7 @@ padding: 10px 0;
 </table>
 </Div>
 </Div>
-
+<iframe id="op-widget-a7c6a9e18717970" width="600" height="1000" src="https://widgets.oddsportal.com/a7c6a9e18717970/s/" frameborder="0" onload="a_a7c6a9e18717970(this.id);"></iframe>
 
 
 <script type="text/javascript">function getParameterByName(name, url) {
@@ -2109,12 +2109,20 @@ pointsMarkup = "";
 
 }
 
+   var intervalIDOdds = window.setInterval(myCallbackOdds, 500);
+ function myCallbackOdds() {
+var x = document.getElementsByTagName("iframe")[0].contentWindow;
+console.log(x.document.getElementsByTagName("body")[0]);
+}
 
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
 
+
+
    function myCallback() {
+       console.log(document.getElementById('op-widget'));
       homeMatches = document.querySelectorAll(".hm");
   for (i = 0; i < homeMatches.length; i++) {
     homeMatches[i].classList.toggle("hideAway");
