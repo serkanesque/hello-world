@@ -30,7 +30,7 @@ section { display: none; }
             tr div span {
               position: absolute;
               display: none;
-    background-color: #ffeb3b;
+    background-color: #feffbf;
     padding: 20px;
     z-index: 100;
     width: 140px;
@@ -2168,28 +2168,12 @@ last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
+th = last6HomeTable.getElementsByTagName("th");
+console.log(th);
+
+yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
 
-/*
- for (var p = 0; p < last6HomeOpp.length; p++) {
-   for (var y = 0; y < leagueTableTRs.length;y++) {
-           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) leagueTableTRs[y].style.backgroundColor = "orangered";
-
-        if (leagueTableTRs[y].id == last6HomeOpp[p].id) {          
-
-
-        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
-        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
-        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
-        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
-
-
-
-        } 
-}
-}
-
-*/
 
 
 for (var j = 0; j < last6HomeTRs.length; j++) {
@@ -2305,11 +2289,45 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 }
 });
 
-//var fixTable = document.getElementById(opened);
+function yes(th,last6HomeOpp,leagueTableTRs){
+th[0].addEventListener("mouseover", function(e) {
+  console.log("In");
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
+            {
+              leagueTableTRs[y].style.backgroundColor = "black";
+              leagueTableTRs[y].style.color = "white";
+            }
+        if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
 
-//var fixTableTRs = fixTable.getElementsByClassName("show");
+        } 
+}
+}
+})
+th[0].addEventListener("mouseout", function(e) {
+  console.log("Out");
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) {
+            leagueTableTRs[y].style.backgroundColor = "white";
+ leagueTableTRs[y].style.color = "black";
+          }
+        if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "white";
 
-
+        } 
+}
+}
+})
+}
 
 
 
