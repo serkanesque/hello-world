@@ -2380,7 +2380,9 @@ console.log(form);
 }
 */
 var ifrm = document.getElementById('if2');
-ifrm.addEventListener('click', function(event) {
+var win = ifrm.contentWindow;
+var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
+doc.addEventListener('click', function(event) {
     console.log(this)
 })
 
