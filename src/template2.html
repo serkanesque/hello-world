@@ -2368,7 +2368,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
   }
 
  })
-
+/*
  var intervalID2 = window.setInterval(myCallback2, 500);
 
    function myCallback2() {
@@ -2378,6 +2378,11 @@ var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.documen
 var form = doc.getElementById('fixturesTable');
 console.log(form);
 }
+*/
+var ifrm = document.getElementById('if2');
+ifrm.addEventListener('click', function(event) {
+    console.log(this)
+})
 
 </script>
 </body>
