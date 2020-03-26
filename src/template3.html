@@ -2192,7 +2192,9 @@ fixTableTRs[j].addEventListener("click", function(e) {
   for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
-if(window.getComputedStyle(this.nextSibling.getPropertyValue("display") == "table-row")){
+  style = window.getComputedStyle(this.nextSibling.getPropertyValue("display"));
+  console.log(style) 
+if(style == "table-row"){
 this.nextSibling.style.display = "none";
 }else {
 this.nextSibling.style.display = "table-row";
