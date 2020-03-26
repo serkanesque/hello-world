@@ -2377,7 +2377,7 @@ var win = ifrm.contentWindow;
 var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
 var form = doc.getElementById('fixturesTable');
 console.log(form);
-if(form) clearInterval(myCallback2)
+if(form) clearInterval(intervalID2)
 doc.addEventListener('click', function(event) {
     console.log(this)
 })
