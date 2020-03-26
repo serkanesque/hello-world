@@ -2192,8 +2192,8 @@ fixTableTRs[j].addEventListener("click", function(e) {
   for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
-  style = window.getComputedStyle(this.nextSibling.getPropertyValue("display"));
-  console.log(style) 
+  style = window.getComputedStyle(this.nextSibling); 
+  console.log(style,style.getPropertyValue("display")) 
 if(style == "table-row"){
 this.nextSibling.style.display = "none";
 }else {
