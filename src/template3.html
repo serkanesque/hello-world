@@ -1711,7 +1711,7 @@ if(parseInt(fixtureDateNumber) > 15) {
 
 
 if(today == matchDate) {
-  todaysGame = "matchday"
+  displayClass = "matchday"
 
 }else {
    displayClass = "hide";
@@ -1769,7 +1769,7 @@ for(f=0;f<oddsArray.length;f++){
 
 
 if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td class='+ todaysGame +'>' + date + '</td><td id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td class="hm">';
+markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td class='+ displayClass +'>' + date + '</td><td id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td class="hm">';
 
 for(z=0;z<homeGameTotal.length;z++){
 markup = markup + '<div class='+homeGameTotal[z].class + ' id='+ homeGameTotal[z].opponent +'>'+ homeGameTotal[z].lastGame + '<span class=toolTip>' + homeGameTotal[z].score +'</span></div>'
