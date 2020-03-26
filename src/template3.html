@@ -2186,7 +2186,10 @@ console.log(fixTableTRs.length)
 fixTableTRs[j].addEventListener("click", function(e) {
   document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
-  console.log(grids);
+  for(g=0;g<grids.length;g++) {
+      grids[g].toggle('');
+  }
+
   this.nextSibling.classList.toggle('show');
   var gridTable =  this.nextSibling
 
