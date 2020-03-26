@@ -2185,6 +2185,8 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 console.log(fixTableTRs.length)
 fixTableTRs[j].addEventListener("click", function(e) {
   document.getElementById('leagueTable').classList.toggle('show');
+  grids = document.getElementById('grid');
+  console.log(grids);
   this.nextSibling.classList.toggle('show');
   var gridTable =  this.nextSibling
 
