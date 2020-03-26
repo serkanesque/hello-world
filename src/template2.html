@@ -226,7 +226,7 @@ padding: 10px 0;
 </table>
 </Div>
 <Div>
-<h1> Fixtures </h1>
+<h1 id="leagueName"></h1>
 <table id="fixturesTable">
 </table>
 </Div>
@@ -248,6 +248,7 @@ padding: 10px 0;
 }
 // Give the parameter a variable name
 var league = getParameterByName('league');
+document.getElementById("leagueName").innerHTML = league;
 var rowClass = "";
 
 
