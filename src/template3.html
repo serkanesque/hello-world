@@ -2192,8 +2192,11 @@ fixTableTRs[j].addEventListener("click", function(e) {
   for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
-
+  if(this.nextSibling.style.display == 'table-row';) {
+    this.nextSibling.style.display = 'none';
+  }else{
   this.nextSibling.style.display = 'table-row';
+}
   var gridTable =  this.nextSibling
 
 
