@@ -2189,10 +2189,10 @@ fixTableTRs[j].addEventListener("click", function(e) {
   document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
   for(g=0;g<grids.length;g++) {
-      grids[g].classList.style.display = 'none';
+      grids[g].style.display = 'none';
   }
 
-  this.nextSibling.classList.style.display = 'table-row';
+  this.nextSibling.style.display = 'table-row';
   var gridTable =  this.nextSibling
 
 
