@@ -1793,7 +1793,7 @@ homeGoalsAgainst = homeTable[j].goalsA;
 } //
 */
 
-sixGameMarkup = '<tr id="grid"><td></td><td colspan=10><div style=display:flex;>';
+sixGameMarkup = '<tr id="grid" class="g-unit"><td></td><td colspan=10><div style=display:flex;>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
@@ -2185,7 +2185,7 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 console.log(fixTableTRs.length)
 fixTableTRs[j].addEventListener("click", function(e) {
   document.getElementById('leagueTable').classList.toggle('show');
-  grids = document.getElementById('grid');
+  grids = document.getElementsByClassName('g-unit');
   console.log(grids);
   this.nextSibling.classList.toggle('show');
   var gridTable =  this.nextSibling
