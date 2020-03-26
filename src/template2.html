@@ -2368,7 +2368,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
   }
 
  })
-/*
+
  var intervalID2 = window.setInterval(myCallback2, 500);
 
    function myCallback2() {
@@ -2377,15 +2377,14 @@ var win = ifrm.contentWindow;
 var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
 var form = doc.getElementById('fixturesTable');
 console.log(form);
-}
-*/
-var ifrm = document.getElementById('if2');
-var win = ifrm.contentWindow;
-var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
-    console.log(doc)
+if(form) clearInterval(myCallback2)
 doc.addEventListener('click', function(event) {
     console.log(this)
 })
+}
+
+
+
 
 </script>
 </body>
