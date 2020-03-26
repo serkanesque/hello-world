@@ -2370,7 +2370,20 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
+ var intervalID2 = window.setInterval(myCallback2, 500);
 
+   function myCallback2() {
+var ifrm = document.getElementById('if2');
+var win = ifrm.contentWindow;
+var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
+var form = doc.getElementById('tables');
+console.log(form);
+if(form) clearInterval(intervalID2)
+doc.addEventListener('click', function(event) {
+    console.log(this);
+    ifrm.style.height = (form.clientHeight + 250) + 'px';
+})
+}
 
 
 
