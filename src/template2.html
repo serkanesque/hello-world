@@ -2384,11 +2384,11 @@ var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].con
 var form = doc.getElementById('tables');
 
 
-iframes[f].style.height = (form.clientHeight + 200) + 'px';
+iframes[f].style.height = (form.clientHeight + 300) + 'px';
 
 doc.addEventListener('click', function(event) {
 console.log(form);
-  win.frameElement.style.height = (form.clientHeight + 200) + 'px';
+  win.frameElement.style.height = (form.clientHeight + 300) + 'px';
 })
 }
 //clearInterval(intervalID2);
