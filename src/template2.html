@@ -2393,11 +2393,12 @@ if(form){
  }
 
 iframes[f].style.height = (form.clientHeight + 300) + 'px';
-
+(function() {
+var form = doc.getElementById('tables');
 form.addEventListener('click', function(event) {
   console.log(win)
-
   win.frameElement.style.height = '700px';
+})
 })
 }
 clearInterval(intervalID2);
