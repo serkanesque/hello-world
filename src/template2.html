@@ -2372,7 +2372,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
- var intervalID2 = window.setInterval(myCallback2, 500);
+ var intervalID2 = window.setInterval(myCallback2, 1000);
 
    function myCallback2() {
     iframes = document.getElementsByTagName("iframe");
@@ -2391,7 +2391,7 @@ console.log(form.clientHeight);
   win.frameElement.style.height = (form.clientHeight + 10) + 'px';
 })
 }
-clearInterval(intervalID2);
+//clearInterval(intervalID2);
 }
 
 
