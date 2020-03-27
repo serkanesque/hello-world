@@ -2395,9 +2395,8 @@ if(form){
 iframes[f].style.height = (form.clientHeight + 300) + 'px';
 
 form.addEventListener('click', function(event) {
-console.log(this.parentElement);
-console.log(this.parentElement.parentElement);
-console.log(this.parentElement.parentElement.parentElement);
+  console.log(win)
+
   win.frameElement.style.height = '700px';
 })
 }
