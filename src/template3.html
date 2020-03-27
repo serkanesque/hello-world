@@ -2188,10 +2188,13 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 fixTableTRs[j].addEventListener("click", function(e) {
   document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
+    style = window.getComputedStyle(this.nextSibling); 
 
 if(style.getPropertyValue("display") == "table-row"){
+     console.log(style.getPropertyValue("display")) 
 this.nextSibling.style.display = "none";
 }else if(style.getPropertyValue("display") == "none"){
+     console.log(style.getPropertyValue("display")) 
     for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
@@ -2200,15 +2203,12 @@ this.nextSibling.style.display = "table-row";
 
 
 
-  style = window.getComputedStyle(this.nextSibling); 
-   console.log(style.getPropertyValue("display")) 
 
-if(style.getPropertyValue("display") == "none"){
-this.nextSibling.style.display = "table-row";
-}else {
-this.nextSibling.style.display = "none";
+
+
+
 }
-   console.log(style.getPropertyValue("display")) 
+
   var gridTable =  this.nextSibling;
 
 
