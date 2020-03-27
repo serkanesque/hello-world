@@ -2377,9 +2377,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
     iframes = document.getElementsByTagName("iframe");
     console.log(iframes);
 
-var ifrm = document.getElementById('if2');
-var win = ifrm.contentWindow;
-var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
+  for (f = 0; f < iframes.length; f++) {
+var win = iframes[f].contentWindow;
+var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
 var form = doc.getElementById('tables');
 console.log(form);
 if(form) {
