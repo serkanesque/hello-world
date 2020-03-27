@@ -233,7 +233,7 @@ padding: 10px 0;
 </Div>
 </Div>
 
-<iframe scrolling="no"  style="border:none;" src="template3.html?league=germany3"></iframe>
+<iframe id="if1" scrolling="no"  style="border:none;" src="template3.html?league=germany3"></iframe>
 <iframe id="if2" scrolling="no"  style="border:none;" src="template3.html?league=portugal1"></iframe>
 
 
@@ -2374,6 +2374,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
  var intervalID2 = window.setInterval(myCallback2, 500);
 
    function myCallback2() {
+    iframes = document.getElementsByTagName("iframe");
+    console.log(iframes);
+
 var ifrm = document.getElementById('if2');
 var win = ifrm.contentWindow;
 var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
