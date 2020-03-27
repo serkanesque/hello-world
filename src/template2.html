@@ -2388,7 +2388,9 @@ iframes[f].style.height = (form.clientHeight + 350) + 'px';
 
 doc.addEventListener('click', function(event) {
 
-  console.log(this.contentWindow);
+  console.log(win);
+    console.log(doc);
+      console.log(form);
 
   iframes[f].style.height = (form.clientHeight + 350) + 'px';
 })
