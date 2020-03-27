@@ -2381,8 +2381,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
   for (f = 0; f < iframes.length; f++) {
 let iframe = iframes[f];
 let win = iframes[f].contentWindow;
-var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
-var form = doc.getElementById('tables');
+let doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
+let form = doc.getElementById('tables');
 console.log(win);
 console.log(doc);
 console.log(form);
@@ -2392,12 +2392,13 @@ if(form){
    console.log("NO");
  }
 
-iframes[f].style.height = (form.clientHeight + 300) + 'px';
+iframes[f].style.height = (form.clientHeight + 50) + 'px';
 
 form.addEventListener('click', function(event) {
   console.log(iframe);
   console.log(win);
-  iframe.style.height = '700px';
+    console.log(form);
+  iframe.style.height = (form.clientHeight + 50) + 'px';
 })
 }
 clearInterval(intervalID2);
