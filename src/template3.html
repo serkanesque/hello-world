@@ -309,7 +309,7 @@ day = day.substring(0,3);
 today = day.concat(" ",date)
 var n = d.getHours();
 var currentHours = d.getHours()
-
+var numGames = 0;
 
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
@@ -1763,6 +1763,9 @@ for(f=0;f<oddsArray.length;f++){
 
 if(rowClassH == "nope" || rowClassA == "nope" || rowClassA == "homeWin4" || rowClassH == "homeWin2" || rowClassA == "homeWin2" ) {
   displayClass = "hide";
+}else {
+  numGames ++;
+}
 }
 
 
@@ -1921,7 +1924,7 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             }
 
 
-
+console.log(numGames);
 
             var fixTable = document.getElementById('fixturesTable');
             var fixTableTRs = fixTable.getElementsByClassName("show");
