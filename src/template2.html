@@ -2387,8 +2387,8 @@ var form = doc.getElementById('tables');
 iframes[f].style.height = (form.clientHeight + 300) + 'px';
 
 doc.addEventListener('click', function(event) {
-console.log(win.frameElement.contentWindow);
-console.log(win.frameElement.contentWindow.contentDocument);
+console.log(win.frameElement);
+console.log(win.frameElement.contentDocument);
 
   win.frameElement.style.height = (form.clientHeight + 300) + 'px';
 })
