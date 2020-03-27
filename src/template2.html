@@ -2387,7 +2387,9 @@ console.log(iframes[f]);
 iframes[f].style.height = (form.clientHeight + 350) + 'px';
 
 doc.addEventListener('click', function(event) {
-  console.log(iframes[f]);
+  console.log(this);
+  console.log(this.parentElement);
+    console.log(this.parentNode);
   iframes[f].style.height = (form.clientHeight + 350) + 'px';
 })
 }
