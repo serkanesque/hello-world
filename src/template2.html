@@ -2379,12 +2379,14 @@ document.addEventListener('DOMContentLoaded', function(event) {
     console.log(iframes);
 
   for (f = 0; f < iframes.length; f++) {
+
 var win = iframes[f].contentWindow;
 var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
 var form = doc.getElementById('tables');
 console.log(win);
 console.log(doc);
 console.log(form);
+if(form) console.log("YES");
 
 iframes[f].style.height = (form.clientHeight + 300) + 'px';
 
