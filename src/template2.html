@@ -2376,21 +2376,13 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
    function myCallback2() {
     iframes = document.getElementsByTagName("iframe");
-    console.log(iframes);
-
+ 
   for (f = 0; f < iframes.length; f++) {
 let iframe = iframes[f];
 let win = iframes[f].contentWindow;
 let doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
 let form = doc.getElementById('tables');
-console.log(win);
-console.log(doc);
-console.log(form);
-if(form){
- console.log("YES");
- }else{
-   console.log("NO");
- }
+
 
 iframes[f].style.height = (form.clientHeight + 50) + 'px';
 
