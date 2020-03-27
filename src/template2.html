@@ -182,6 +182,9 @@ padding: 10px 0;
   table.show {
     display: block !important;
   }
+  body {
+    margin-bottom: 40px;
+  }
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -2386,13 +2389,13 @@ let doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].con
 let form = doc.getElementById('tables');
 
 
-iframes[f].style.height = (form.clientHeight + 50) + 'px';
+iframes[f].style.height = form.clientHeight  + 'px';
 
 form.addEventListener('click', function(event) {
   console.log(iframe);
   console.log(win);
     console.log(form);
-  iframe.style.height = (form.clientHeight + 50) + 'px';
+  iframe.style.height = form.clientHeight + 'px';
 })
 }
 clearInterval(intervalID2);
