@@ -2380,7 +2380,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   for (f = 0; f < iframes.length; f++) {
 
-var win = iframes[f].contentWindow;
+let win = iframes[f].contentWindow;
 var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
 var form = doc.getElementById('tables');
 console.log(win);
@@ -2395,7 +2395,7 @@ if(form){
 iframes[f].style.height = (form.clientHeight + 300) + 'px';
 
 form.addEventListener('click', function(event) {
-  let win = iframes[f].contentWindow;
+
   console.log(win);
   win.frameElement.style.height = '700px';
 })
