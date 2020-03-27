@@ -1923,8 +1923,10 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             document.getElementById('fixturesTable').innerHTML = markup;
             }
 
+if(numGames == 0){
+  document.body.style.display = "none";
+}
 
-console.log(numGames);
 
             var fixTable = document.getElementById('fixturesTable');
             var fixTableTRs = fixTable.getElementsByClassName("show");
