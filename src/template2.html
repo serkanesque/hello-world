@@ -2383,11 +2383,11 @@ var win = iframes[f].contentWindow;
 var doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
 var form = doc.getElementById('tables');
 
-win.frameElement.style.height = (form.clientHeight + 350) + 'px';
+win.frameElement.style.height = (form.clientHeight + 250) + 'px';
 
 doc.addEventListener('click', function(event) {
 
-  win.frameElement.style.height = (form.clientHeight + 350) + 'px';
+  win.frameElement.style.height = (form.clientHeight + 250) + 'px';
 })
 }
 clearInterval(intervalID2);
