@@ -2194,7 +2194,7 @@ pointsMarkup = "";
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
-
+var showLeague = 0;
    function myCallback() {
       homeMatches = document.querySelectorAll(".hm");
   for (i = 0; i < homeMatches.length; i++) {
@@ -2233,15 +2233,15 @@ this.nextSibling.style.display = "none";
 
  for(g=0;g<grids.length;g++) {
       if(grids[g].className == 'opened') {
-        var showLeague = true;
+         showLeague = showLeague + 1;
       }else{
-        var showLeague = false;
+     
       }   
   }
 
-
-if(showLeague == false) {
- //document.getElementById('leagueTable').classList.toggle('show');
+console.log(showLeague);
+if(showLeague>0) {
+ document.getElementById('leagueTable').classList.toggle('show');
 }
 
 
