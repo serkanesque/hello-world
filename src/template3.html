@@ -202,9 +202,7 @@ padding: 10px 0;
   .hm,.am {
      width: 146px;
   }
-  .show {
-    display: block;
-  }
+
 </style>  
 
 <div id="nav" class="nav" style="display: none;"></div>
@@ -2249,7 +2247,7 @@ if(showLeague>0) {
  document.getElementById('leagueTable').classList.add("show");
 
 }else{
-  
+   document.getElementById('leagueTable').classList.remove("show");
 
 }
 
