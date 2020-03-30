@@ -2228,6 +2228,7 @@ this.nextSibling.style.display = "none";
      console.log(style.getPropertyValue("display")) 
     for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';   
+      grids[g].classList.remove("opened");
   }
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
@@ -2245,7 +2246,6 @@ this.nextSibling.style.display = "none";
 console.log(showLeague);
 if(showLeague>0) {
  document.getElementById('leagueTable').classList.add("show");
-
 }else{
    document.getElementById('leagueTable').classList.remove("show");
  showLeague = 0;
