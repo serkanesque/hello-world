@@ -2213,15 +2213,16 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
  for (var j = 0; j < fixTableTRs.length; j++) {  
 
 fixTableTRs[j].addEventListener("click", function(e) {
-
+  console.log("OPENED");
+  document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
     style = window.getComputedStyle(this.nextSibling); 
 
 if(style.getPropertyValue("display") == "table-row"){
-
+     console.log(style.getPropertyValue("display")) 
 this.nextSibling.style.display = "none";
 }else if(style.getPropertyValue("display") == "none"){
-
+     console.log(style.getPropertyValue("display")) 
     for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
