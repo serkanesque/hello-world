@@ -2221,6 +2221,7 @@ document.getElementById('leagueTable').classList.toggle('show');
 if(style.getPropertyValue("display") == "table-row"){
      console.log(style.getPropertyValue("display")) 
 this.nextSibling.style.display = "none";
+   this.nextSibling.classList.remove("opened");
 
 }else if(style.getPropertyValue("display") == "none"){
      console.log(style.getPropertyValue("display")) 
