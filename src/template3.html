@@ -202,7 +202,7 @@ padding: 10px 0;
  #leagueTable {
    visibility: hidden;
   }
-  #legueTable.show {
+  #legueTable.visible {
     visibility: visible;
   }
 </style>  
@@ -2247,9 +2247,9 @@ this.nextSibling.style.display = "none";
 
 console.log(showLeague);
 if(showLeague>0) {
- document.getElementById('leagueTable').classList.add("show");
+ document.getElementById('leagueTable').classList.add("visible");
 }else{
-   document.getElementById('leagueTable').classList.remove("show");
+   document.getElementById('leagueTable').classList.remove("visible");
  showLeague = 0;
 }
 
