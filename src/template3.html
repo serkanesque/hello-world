@@ -2225,11 +2225,13 @@ this.nextSibling.style.display = "none";
 }else if(style.getPropertyValue("display") == "none"){
      console.log(style.getPropertyValue("display")) 
     for(g=0;g<grids.length;g++) {
-      grids[g].style.display = 'none';
-        document.getElementById('leagueTable').classList.toggle('show');
+      grids[g].style.display = 'none';   
   }
   this.nextSibling.style.display = "table-row";
 }
+
+if(showLeague == false) document.getElementById('leagueTable').classList.toggle('show');
+if(showLeague == true) document.getElementById('leagueTable').classList.toggle('show');
 
 
 
