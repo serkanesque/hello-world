@@ -1837,7 +1837,7 @@ sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan=12><div style="display
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
 
-sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 43%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td  class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 43%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '- </td><td  class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
