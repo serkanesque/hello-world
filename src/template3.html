@@ -1905,7 +1905,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
   }else{
 
 
-     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td class="am">';
+     markup = markup + '<td style="width: 150px;" id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td style="width: 150px;" class="am">';
 
 for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
