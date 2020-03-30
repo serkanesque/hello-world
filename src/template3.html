@@ -2214,7 +2214,7 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 
 fixTableTRs[j].addEventListener("click", function(e) {
   console.log("OPENED");
-
+       if(showLeague == false) document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
     style = window.getComputedStyle(this.nextSibling); 
 
@@ -2228,10 +2228,19 @@ this.nextSibling.style.display = "none";
       grids[g].style.display = 'none';   
   }
   this.nextSibling.style.display = "table-row";
+   this.nextSibling.classList.add("opened");
 }
 
-if(showLeague == false) document.getElementById('leagueTable').classList.toggle('show');
-if(showLeague == true) document.getElementById('leagueTable').classList.toggle('show');
+ for(g=0;g<grids.length;g++) {
+      if(grids[g].className == 'opened') {
+   
+      }else{
+        if(showLeague == false) document.getElementById('leagueTable').classList.toggle('show');
+      }   
+  }
+
+
+
 
 
 
