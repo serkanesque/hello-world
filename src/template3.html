@@ -2213,20 +2213,38 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
  for (var j = 0; j < fixTableTRs.length; j++) {  
 
 fixTableTRs[j].addEventListener("click", function(e) {
-  document.getElementById('leagueTable').classList.toggle('show');
+
   grids = document.getElementsByClassName('g-unit');
     style = window.getComputedStyle(this.nextSibling); 
 
 if(style.getPropertyValue("display") == "table-row"){
-     console.log(style.getPropertyValue("display")) 
+
 this.nextSibling.style.display = "none";
 }else if(style.getPropertyValue("display") == "none"){
-  
+
     for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';
   }
   this.nextSibling.style.display = "table-row";
 }
+
+
+ for (var j = 0; j < fixTableTRs.length; j++) {  
+
+  grids = document.getElementsByClassName('g-unit');
+    style = window.getComputedStyle(this.nextSibling);
+    for(g=0;g<grids.length;g++) {
+      if(grids[g].getPropertyValue("display") == "table-row") var hideLeague = true;
+    }
+  }
+
+  if(hideLeague) {
+   document.getElementById('leagueTable').classList.toggle('');
+ }else{
+   document.getElementById('leagueTable').classList.toggle('show');
+ }
+
+ 
 
 
 
