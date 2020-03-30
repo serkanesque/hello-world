@@ -2213,8 +2213,8 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
  for (var j = 0; j < fixTableTRs.length; j++) {  
 
 fixTableTRs[j].addEventListener("click", function(e) {
-  console.log("OPENED");
-document.getElementById('leagueTable').classList.toggle('shsow');
+
+document.getElementById('leagueTable').classList.toggle('show');
   grids = document.getElementsByClassName('g-unit');
     style = window.getComputedStyle(this.nextSibling); 
 
@@ -2233,14 +2233,16 @@ this.nextSibling.style.display = "none";
 
  for(g=0;g<grids.length;g++) {
       if(grids[g].className == 'opened') {
-   
+        var showLeague = true;
       }else{
-        if(showLeague == false) document.getElementById('leagueTable').classList.toggle('show');
+        var showLeague = false;
       }   
   }
 
 
-
+if(showLeague == false) {
+ document.getElementById('leagueTable').classList.toggle('show');
+}
 
 
 
