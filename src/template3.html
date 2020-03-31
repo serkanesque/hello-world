@@ -1804,9 +1804,6 @@ if(rowClassH == "nope" || rowClassA == "nope" || rowClassA == "homeWin4" || rowC
 }
 
 
-
-
-
     if(matchResult.lastGame != "D" && matchResult2.lastGame != "D" && matchResult3.lastGame != "D" && matchResult4.lastGame != "D" && matchResult5.lastGame != "D" && matchResult6.lastGame != "D" && matchResult7.lastGame != "D" && matchResult8.lastGame != "D" && matchResult9.lastGame != "D" && matchResult10.lastGame != "D" ) {
      // console.log(homeTeam)
       rowClassH ="noDraws";
@@ -1827,17 +1824,6 @@ homeGoalsAgainst = homeTable[j].goalsA;
 }
 }
 
-/*
-
-if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td class='+ todaysGame +'>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td class="hm"><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div><div class='+matchResult4.class + ' id='+ matchResult4.opponent +'>'+ matchResult4.lastGame + '<span class=toolTip>' + matchResult4.score +'</span></div><div class='+matchResult5.class + ' id='+ matchResult5.opponent +'>'+ matchResult5.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div><div class='+matchResult6.class + ' id='+ matchResult6.opponent +'>'+ matchResult6.lastGame + '<span class=toolTip>' + matchResult6.score +'</span></div><div class='+matchResult7.class + ' id='+ matchResult7.opponent +'>'+ matchResult7.lastGame + '<span class=toolTip>' + matchResult7.score +'</span></div><div class='+matchResult8.class + ' id='+ matchResult8.opponent +'>'+ matchResult8.lastGame + '<span class=toolTip>' + matchResult8.score +'</span></div><div class='+matchResult9.class + ' id='+ matchResult9.opponent +'>'+ matchResult9.lastGame + '<span class=toolTip>' + matchResult9.score +'</span></div><div class='+matchResult10.class + ' id='+ matchResult10.opponent +'>'+ matchResult10.lastGame + '<span class=toolTip>' + matchResult10.score +'</span></div><div class='+matchResult11.class + ' id='+ matchResult11.opponent +'>'+ matchResult11.lastGame + '<span class=toolTip>' + matchResult11.score +'</span></div><div class='+matchResult12.class + ' id='+ matchResult12.opponent +'>'+ matchResult12.lastGame + '<span class=toolTip>' + matchResult12.score +'</span></div><div class='+matchResult13.class + ' id='+ matchResult13.opponent +'>'+ matchResult13.lastGame + '<span class=toolTip>' + matchResult13.score +'</span></div></td>';
-// console.log(homeTable[j].name)
-homePoints = homeTable[j].points;
-homeGoalsFor = homeTable[j].goalsF;
-homeGoalsAgainst = homeTable[j].goalsA;
-}
-} //
-*/
 
 sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
 
@@ -1856,7 +1842,8 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr>';
 
-sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[0].hName +'</td><td class="score">'+ pastHomeFixture[0].hScore +'</td><td> - </td><td class="score">'+ pastHomeFixture[0].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture[0].aName +'</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[0].hName +'</td><td class="score">'+ pastHomeFixture[0].hScore +'</td><td> - </td><td class="score">'+ pastHomeFixture[0].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture[0].aName +'</td></tr><tr><td style="width: 43%;">'+ pastHomeFixture2018[0].hName +'</td><td class="score">'+ pastHomeFixture2018[0].hScore +'</td><td> - </td><td class="score">'+pastHomeFixture2018[0].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture2018[0].aName; +'</td></tr>';
+
 
 sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
 
