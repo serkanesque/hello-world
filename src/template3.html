@@ -1839,9 +1839,9 @@ homeGoalsAgainst = homeTable[j].goalsA;
 } //
 */
 
-sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="10"><div class="flex">';
+sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam +' last 6 home </th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
 
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 45%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td> - </td><td  class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 45%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
