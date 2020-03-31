@@ -1815,7 +1815,7 @@ if(rowClassH == "nope" || rowClassA == "nope" || rowClassA == "homeWin4" || rowC
 
 
 if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td style="width: 100px;" class='+ displayClass +'>' + date + '</td><td style="width: 150px;" id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td style="width: 150px;" class="hm">';
+markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td style="width: 100px font-size: 15px;" class='+ displayClass +'>' + date + '</td><td style="width: 150px;" id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td style="width: 150px;" class="hm">';
 
 for(z=0;z<homeGameTotal.length;z++){
 markup = markup + '<div class='+homeGameTotal[z].class + ' id='+ homeGameTotal[z].opponent +'>'+ homeGameTotal[z].lastGame + '<span class=toolTip>' + homeGameTotal[z].score +'</span></div>'
