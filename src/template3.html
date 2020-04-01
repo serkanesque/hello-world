@@ -1813,7 +1813,8 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td sty
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=6>' + awayTeam +' Head 2 Head </th></tr>';
+sixGameMarkup = sixGameMarkup + '<div style="flex; flex-direction: column;">';
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=6>' + awayTeam +' Head 2 Head </th></tr><tr><td>'+ title +'</td></tr>';
 
 
 for (h=0; h<pastHomeFixture2018Home.length; h++) {
@@ -1822,7 +1823,7 @@ sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture2
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr><tr><td>'+ title +'</td></tr>';
 
 
 for (h=0; h<pastHomeFixture2018.length; h++) {
@@ -1834,7 +1835,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 
 
-sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
+sixGameMarkup = sixGameMarkup + '</table></div></div><div class="flex">';
 
 
 
