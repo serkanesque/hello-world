@@ -1332,14 +1332,15 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
           const pastHomeFixture2018 =  seasonFixtures2018.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
 
-          const pastHomeFixture2018Home =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam });
-
          const thisSeassonHomeFixtures =  seasonFixtures.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam });
 
          const thisSeassonAwayFixtures =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
 
-console.log(thisSeassonHomeFixtures)
-console.log(thisSeassonAwayFixtures)
+
+          const pastHomeFixture2018Home =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam });
+
+          const pastHomeFixture2018away =  seasonFixtures2018.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
+
         
 
 if(typeof pastHomeFixture[0] === 'undefined') {
@@ -1816,18 +1817,24 @@ sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"
 for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table>';
+
+
 
 /*
+pastHomeFixture2018Home
+pastHomeFixture2018away
+thisSeassonHomeFixtures
+thisSeassonAwayFixtures
+
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr>';
 
 sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[0].hName +'</td><td class="score">'+ pastHomeFixture[0].hScore +'</td><td> - </td><td class="score">'+ pastHomeFixture[0].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture[0].aName +'</td></tr><tr><td style="width: 43%;">'+ pastHomeFixture2018[0].hName +'</td><td class="score">'+ pastHomeFixture2018[0].hScore +'</td><td> - </td><td class="score">'+pastHomeFixture2018[0].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture2018[0].aName; +'</td></tr>';
 
 
-sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
+
 */
 
-
+sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
 
 sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
@@ -1954,69 +1961,7 @@ if(numGames == 0){
 
 
 
-
-
-/*
-
-
-for (var j = 0; j < last6HomeTableTRs.length; j++) {
-    last6HomeTableTRs[j].addEventListener("mouseover", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6HomeTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-
-for (var j = 0; j < last6AwayTableTRs.length; j++) {
-    last6AwayTableTRs[j].addEventListener("mouseover", function(e) {  
-      console.log(e.currentTarget.childNodes)
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6AwayTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-*/
-
-
-
-
-
-
-
-
-       
+     
 
         for (var j = 0; j < fixTableDiv.length; j++) {
               fixTableDiv[j].addEventListener("mouseover", function(e) {   
