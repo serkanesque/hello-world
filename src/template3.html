@@ -1818,7 +1818,17 @@ for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
 
+sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
 
+sixGameMarkup = sixGameMarkup + '<div class="flex">';
+
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>This season h2h</th></tr>';
+
+for (h=0; h<pastHomeFixture2018Home.length; h++) {
+
+sixGameMarkup = sixGameMarkup + '<tr class='+ pastHomeFixture2018Home[h].class + '><td style="width: 45%;" id='+pastHomeFixture2018Home[h].hName.split(' ').join('')  +'>' +  pastHomeFixture2018Home[h].hName + '</td><td class="score">' + pastHomeFixture2018Home[h].hScore + '</td><td> - </td><td  class="score">' +  pastHomeFixture2018Home[h].aScore  + '</td><td class="oppo" style="width: 45%;" id='+pastHomeFixture2018Home[h].aName  +'>' + pastHomeFixture2018Home[h].aName + '</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table></div>';
 
 /*
 pastHomeFixture2018Home
@@ -1834,7 +1844,7 @@ sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[
 
 */
 
-sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
+
 
 sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
