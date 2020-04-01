@@ -1338,8 +1338,12 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
          const thisSeassonAwayFixtures =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
 
+
+         const thisSeassonFixturesCombi =  seasonFixtures.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam  || return team.aName == homeTeam && team.hName == awayTeam  });
+
 console.log(thisSeassonHomeFixtures)
 console.log(thisSeassonAwayFixtures)
+console.log(thisSeassonFixturesCombi)
         
 
 if(typeof pastHomeFixture[0] === 'undefined') {
