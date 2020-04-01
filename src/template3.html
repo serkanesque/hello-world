@@ -1341,6 +1341,8 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
           const pastHomeFixture2018away =  seasonFixtures2018.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
 
+          const thisSeassonH2H =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam || team.aName == homeTeam && team.hName == awayTeam  });
+
         
 
 if(typeof pastHomeFixture[0] === 'undefined') {
@@ -1824,9 +1826,9 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex">';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>This season h2h</th></tr>';
 
-for (h=0; h<pastHomeFixture2018Home.length; h++) {
+for (h=0; h<thisSeassonH2H.length; h++) {
 
-sixGameMarkup = sixGameMarkup + '<tr class='+ pastHomeFixture2018Home[h].class + '><td style="width: 45%;" id='+pastHomeFixture2018Home[h].hName.split(' ').join('')  +'>' +  pastHomeFixture2018Home[h].hName + '</td><td class="score">' + pastHomeFixture2018Home[h].hScore + '</td><td> - </td><td  class="score">' +  pastHomeFixture2018Home[h].aScore  + '</td><td class="oppo" style="width: 45%;" id='+pastHomeFixture2018Home[h].aName  +'>' + pastHomeFixture2018Home[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td style="width: 45%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 45%;" id='+thisSeassonH2H[h].aName  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table></div>';
 
