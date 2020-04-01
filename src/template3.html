@@ -1833,9 +1833,28 @@ sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture2
 sixGameMarkup = sixGameMarkup + '</table>';
 
 
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr><tr><td>'+ title +'</td></tr>';
 
 
-sixGameMarkup = sixGameMarkup + '</table></div></div><div class="flex">';
+for (h=0; h<pastHomeFixture.length; h++) {
+
+sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[h].hName +'</td><td class="score">'+ pastHomeFixture[h].hScore +'</td><td> - </td><td class="score">'+ pastHomeFixture[h].aScore +'</td><td style="width: 43%;">'+ pastHomeFixture[h].aName +'</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table>';
+
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' Head 2 Head </th></tr><tr><td>'+ title +'</td></tr>';
+
+
+for (h=0; h<pastAwayFixture.length; h++) {
+
+sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastAwayFixture[h].hName +'</td><td class="score">'+ pastAwayFixture[h].hScore +'</td><td> - </td><td class="score">'+ pastAwayFixture[h].aScore +'</td><td style="width: 43%;">'+ pastAwayFixture[h].aName +'</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table>';
+
+
+
+
+sixGameMarkup = sixGameMarkup + '</div></div><div class="flex">';
 
 
 
