@@ -1991,6 +1991,7 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
 var last6 = document.querySelector("#last6games");
 var ht = homeTeam.split(' ').join('');
 last6TDs = last6.querySelectorAll('#' + ht);
+
 last6TDs.forEach(function(td) {
   td.style.fontWeight = "500;"
 });
@@ -2000,7 +2001,7 @@ console.log(ht);
 console.log(last6TDs);
 
 
-var boldId = window.setInterval(bold, 5000);
+
 
 
 if(numGames == 0){
