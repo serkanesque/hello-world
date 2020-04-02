@@ -1987,15 +1987,18 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
 
 
 
-function bold () {
+
 var last6 = document.querySelector("#last6games");
 var ht = homeTeam.split(' ').join('');
 last6TDs = last6.querySelectorAll('#' + ht);
+last6TDs.forEach(function(td) {
+  td.style.fontWeight = "500;"
+});
+
 console.log(last6);
 console.log(ht);
 console.log(last6TDs);
-if(last6TDs.length > 0) clearInterval(boldId);
-}
+
 
 var boldId = window.setInterval(bold, 5000);
 
