@@ -1875,15 +1875,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-function bold () {
-var last6 = document.getElementById("last6games");
-var ht = homeTeam.split(' ').join('');
-last6TDs = last6.getElementsByClassName(ht);
-console.log(last6TDs);
-if(last6TDs.length > 0) clearInterval(boldId);
-}
 
-var boldId = window.setInterval(bold, 1000);
 
 /*
 var ht = homeTeam.split(' ').join('');
@@ -1991,6 +1983,20 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
 
             document.getElementById('fixturesTable').innerHTML = markup;
             }
+
+
+
+
+function bold () {
+var last6 = document.getElementById("last6games");
+var ht = homeTeam.split(' ').join('');
+last6TDs = last6.getElementsByClassName(ht);
+console.log(last6TDs);
+if(last6TDs.length > 0) clearInterval(boldId);
+}
+
+var boldId = window.setInterval(bold, 1000);
+
 
 if(numGames == 0){
   document.body.style.display = "none";
