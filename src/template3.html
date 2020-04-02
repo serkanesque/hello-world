@@ -1880,7 +1880,7 @@ var last6 = document.getElementById("last6games");
 var ht = homeTeam.split(' ').join('');
 last6TDs = last6.getElementsByClassName(ht);
 console.log(last6TDs);
-if(last6TDs) clearInterval(boldId);
+if(last6TDs.length > 0) clearInterval(boldId);
 }
 
 var boldId = window.setInterval(bold, 500);
