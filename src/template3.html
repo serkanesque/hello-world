@@ -1877,16 +1877,22 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 
 
-/*
+var last6 = document.querySelector("#last6games");
 var ht = homeTeam.split(' ').join('');
+last6TDs = last6.querySelectorAll('#' + ht);
+
+last6TDs.forEach(function(td) {
+  td.style.fontWeight = "500;"
+  console.log(td);
+});
+
 console.log(last6);
 console.log(ht);
-last6TDs = last6.getElementsByClassName(ht);
 console.log(last6TDs);
-for(k=0;k<last6TDs.length;k++){
-  last6TDs[k].style.fontWeight = "500;";
-}
-*/
+
+
+
+
 
 sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
@@ -1988,18 +1994,6 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
 
 
 
-var last6 = document.querySelector("#last6games");
-var ht = homeTeam.split(' ').join('');
-last6TDs = last6.querySelectorAll('#' + ht);
-
-last6TDs.forEach(function(td) {
-  td.style.fontWeight = "500;"
-  console.log(td);
-});
-
-console.log(last6);
-console.log(ht);
-console.log(last6TDs);
 
 
 
