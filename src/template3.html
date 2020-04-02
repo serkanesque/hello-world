@@ -1877,8 +1877,10 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 var last6 = document.getElementById("last6games");
 var ht = homeTeam.split(' ').join('');
+console.log(last6);
+console.log(ht);
 last6TDs = last6.getElementsByClassName(ht);
-
+console.log(last6TDs);
 for(k=0;k<last6TDs.length;k++){
   last6TDs[k].style.fontWeight = "500;";
 }
