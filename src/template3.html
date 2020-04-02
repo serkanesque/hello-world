@@ -1878,6 +1878,9 @@ sixGameMarkup = sixGameMarkup + '</table>';
 var last6 = document.getElementById("last6games");
 last6.getElementsByClassName(homeTeam.split(' ').join('')).style.fontWeight = "500";
 
+for(k=0;k<last6.length;k++){
+  last6[k].style.fontWeight = "500;";
+}
 
 
 sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
