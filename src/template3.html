@@ -1968,10 +1968,7 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
             document.getElementById('fixturesTable').innerHTML = markup;
             }
 
-var boldID = window.setInterval(bold, 500);
 
-
-function bold() {
 
 var last6 = document.querySelector("#last6games");
 var ht = homeTeam.split(' ').join('');
@@ -1981,11 +1978,11 @@ last6TDs.forEach(function(td) {
   td.style.fontWeight = "500;"
   console.log(td);
 });
-if(last6) clearInterval(boldID);
+
 console.log(last6);
 console.log(ht);
 console.log(last6TDs);
-}
+
 
 
 
