@@ -1991,6 +1991,7 @@ function bold () {
 var last6 = document.getElementById("last6games");
 var ht = homeTeam.split(' ').join('');
 last6TDs = last6.getElementsByClassName(ht);
+console.log(ht);
 console.log(last6TDs);
 if(last6TDs.length > 0) clearInterval(boldId);
 }
