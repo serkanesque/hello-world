@@ -1968,8 +1968,9 @@ markup = markup + '</td><td style="width: 40px;">' + ptsDiff + '</td><td style="
             document.getElementById('fixturesTable').innerHTML = markup;
             }
 
-showMatches =  document.getElementById(fixturesTable).getElementsByClassName('show');
+showMatches =  document.getElementById(fixturesTable);
 console.log(showMatches);
+console.log(showMatches.getElementsByClassName('show'));
 
 /*
 var last6 = document.querySelector("#last6games");
