@@ -1875,6 +1875,8 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
+var boldID = window.setInterval(bold, 500);
+
 
 function bold() {
 
@@ -1893,7 +1895,7 @@ console.log(last6TDs);
 }
 
 
-var boldID = window.setInterval(bold, 100);
+
 
 
 sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
