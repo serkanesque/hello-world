@@ -1875,6 +1875,16 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
+function bold () {
+var last6 = document.getElementById("last6games");
+console.log(last6);
+var ht = homeTeam.split(' ').join('');
+console.log(ht);
+last6TDs = last6.getElementsByClassName(ht);
+if(last6TDs) clearInterval(boldId);
+}
+
+var boldId = window.setInterval(bold, 100);
 
 /*
 var ht = homeTeam.split(' ').join('');
@@ -2405,18 +2415,10 @@ th[0].addEventListener("mouseout", function(e) {
 }
 
 
-var last6 = document.getElementById("last6games");
-console.log(last6);
-var ht = homeTeam.split(' ').join('');
-console.log(ht);
-last6TDs = last6.getElementsByClassName(ht);
-console.log(last6TDs);
+
 
 
 document.addEventListener('DOMContentLoaded', function(event) {
-
-
-  
   homeMatches = document.querySelectorAll(".hm");
   for (i = 0; i < homeMatches.length; i++) {
     homeMatches[i].classList.toggle("hideAway");
