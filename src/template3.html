@@ -2172,6 +2172,8 @@ pointsMarkup = "";
 }
 
 
+document.addEventListener('scroll', function() { console.log('testing') }, false);
+
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
@@ -2213,7 +2215,7 @@ this.nextSibling.style.display = "none";
   }
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
-   window.addEventListener('scroll', function() { console.log('testing') }, false);
+   //window.addEventListener('scroll', function() { console.log('testing') }, false);
 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
