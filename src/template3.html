@@ -1875,7 +1875,7 @@ sixGameMarkup = sixGameMarkup + '<tr><td style="width: 43%;">'+ pastHomeFixture[
 
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 0;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
 }
@@ -1886,7 +1886,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 0;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
