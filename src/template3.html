@@ -2207,9 +2207,17 @@ this.nextSibling.style.display = "none";
   }
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
-   console.log(this.id);
-   console.log(this.childNodes[3].id);
- //this.nextSibling.querySelectorAll("#"+)
+
+ var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
+  var awayTeam = this.nextSibling.querySelectorAll("#"+this.this.childNodes[3].id);
+
+
+    for(g=0;g<homeTeam.length;g++) {
+        homeTeam.style.fontWeight = "500;"
+      }
+          for(g=0;g<awayTeam.length;g++) {
+        homeTeam.style.fontWeight = "500;"
+      }
 
 }
 
