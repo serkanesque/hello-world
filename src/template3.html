@@ -2441,12 +2441,18 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
+window.parent.onscroll = function() {
+  let footerPos = this.scrollY + this.innerHeight - 60;
 
+    console.debug('onScroll: ', footerPos);
+
+};
 
 
 
 
 </script>
+
 </body>
 
 </html>
