@@ -2216,7 +2216,7 @@ this.nextSibling.style.display = "none";
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
 
-   var rect = document.getElementById("leagueTable").getBoundingClientRect();
+   var rect = document.getElementById("leagueTable").offset();
    console.log(rect.top);
  
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
