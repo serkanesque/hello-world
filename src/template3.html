@@ -2217,9 +2217,9 @@ this.nextSibling.style.display = "none";
    this.nextSibling.classList.add("opened");
   //var rect = parent.document.getElementById("if2").getBoundingClientRect();
 
-parent.document.addEventListener("scroll", function(e) {
-  console.log(this.scrollTop);
-})
+
+  console.log(parent.document);
+
 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
