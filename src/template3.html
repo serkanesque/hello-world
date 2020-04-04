@@ -2454,13 +2454,13 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 parent.window.addEventListener('scroll', function() {
 var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    elemRect = window.parent.document.getElementById("if1").getBoundingClientRect();
+    elemRect = window.parent.document.getElementById("if2").getBoundingClientRect();
         elemRect2 = window.parent.document.getElementById("if2").getBoundingClientRect();
 
     console.log(elemRect.top, elemRect2.top)
 
 if(elemRect.top<0){
- this.document.getElementById("if1").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + "px";
+ this.document.getElementById("if2").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + "px";
 
     console.log("YES");
 }
