@@ -2461,8 +2461,9 @@ console.log("scroll");
 parent.window.addEventListener('scroll', function() {
 var bodyRect = parent.document.documentElement.getBoundingClientRect();
     elemRect = document.getElementById("leagueTable").getBoundingClientRect();
+    console.log(bodyRect.top, elemRect.top)
     offset   = elemRect.top - bodyRect.top;
-    console.log(offset);
+    //console.log(offset);
 });
 
 </script>
