@@ -2460,8 +2460,8 @@ var bodyRect = parent.document.documentElement.getBoundingClientRect();
     console.log(elemRect.top, elemRect2.top)
 
 if(elemRect.top<0){
-  console.log(this);
-    document.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + "px";
+  console.log(document.getElementById("if1").contentDocument.getElementById("leagueTable"));
+    //document.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + "px";
     console.log("YES");
 }
 
