@@ -2215,8 +2215,11 @@ this.nextSibling.style.display = "none";
   }
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
-  var rect =parent.document.getElementById("if2").getBoundingClientRect();
-  console.log(rect.top);
+  //var rect = parent.document.getElementById("if2").getBoundingClientRect();
+
+parent.document.documentElement.addEventListener("scroll", function(e) {
+  console.log(this.scrollTop);
+}
 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
