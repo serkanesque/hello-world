@@ -2449,15 +2449,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
  })
 
 
-  document.documentElement.addEventListener("scroll", function(e) {
-console.log("scroll");
-  })
 
-  parent.document.documentElement.addEventListener("scroll", function(e) {
-console.log("scroll");
-  })
-
-console.log(parent.document.documentElement.getElementById("if1"));
+console.log(window.parent.document.getElementById('#target').getElementById("if1"));
 
 
 parent.window.addEventListener('scroll', function() {
