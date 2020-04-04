@@ -2458,11 +2458,11 @@ var bodyRect = parent.document.documentElement.getBoundingClientRect();
         elemRect2 = window.parent.document.getElementById("if2").getBoundingClientRect();
 
     console.log(elemRect.top, elemRect2.top)
-    offset   = elemRect.top - bodyRect.top;
-   // console.log(offset)
-         offset2   = elemRect2.top - bodyRect.top;
-    //console.log(offset2)
-    //console.log(offset);
+
+if(elemRect.top<0){
+    document.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top); 
+}
+
 });
 
 </script>
