@@ -2199,7 +2199,7 @@ fixTableTRs[j].addEventListener("click", function(e) {
  showLeague = 0;
 
   grids = document.getElementsByClassName('g-unit');
-  console.log(grids);
+
     style = window.getComputedStyle(this.nextSibling); 
 
 if(style.getPropertyValue("display") == "table-row"){
@@ -2218,8 +2218,13 @@ this.nextSibling.style.display = "none";
   //var rect = parent.document.getElementById("if2").getBoundingClientRect();
 
 
-  console.log(parent.document);
- console.log(parent.document.documentElement);
+  //console.log(parent.document);
+ var rect = parent.document.documentElement.getBoundingClientRect();
+ console.log(rect.top);
+
+  parent.document.documentElement.addEventListener("scroll", function(e) {
+console.log("scroll");
+  }
 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
@@ -2241,7 +2246,7 @@ this.nextSibling.style.display = "none";
 }
 
  for(g=0;g<grids.length;g++) {
-  console.log(grids[g].className)
+
       if(grids[g].className == 'g-unit opened') {
          showLeague = showLeague + 1;
       }else{
@@ -2249,7 +2254,7 @@ this.nextSibling.style.display = "none";
       }   
   }
 
-console.log(showLeague);
+
 if(showLeague>0) {
  document.getElementById('leagueTable').classList.add("visible");
 }else{
@@ -2269,7 +2274,7 @@ var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
 th = last6HomeTable.getElementsByTagName("th");
-console.log(th);
+
 
 yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
