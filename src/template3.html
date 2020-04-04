@@ -2460,7 +2460,7 @@ console.log("scroll");
   console.log(parent.window);
 parent.window.addEventListener('scroll', function() {
 var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    elemRect = document.getElementById("leagueTable").getBoundingClientRect();
+    elemRect = document.getElementById("tables").getBoundingClientRect();
     console.log(bodyRect.top, elemRect.top)
     offset   = elemRect.top - bodyRect.top;
     //console.log(offset);
