@@ -2458,7 +2458,9 @@ console.log("scroll");
   })
 
   console.log(parent.window);
-
+parent.window.addEventListener('scroll', function() {
+        console.log('scrolling');
+});
 
 </script>
 </body>
