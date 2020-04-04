@@ -2222,9 +2222,7 @@ this.nextSibling.style.display = "none";
  var rect = parent.document.documentElement.getBoundingClientRect();
  console.log(rect.top);
 
-  parent.document.documentElement.addEventListener("scroll", function(e) {
-console.log("scroll");
-  })
+
 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
@@ -2453,7 +2451,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 
 
-
+  parent.document.documentElement.addEventListener("scroll", function(e) {
+console.log("scroll");
+  })
 
 </script>
 </body>
