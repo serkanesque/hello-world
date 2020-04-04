@@ -2449,7 +2449,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
  })
 
 
-
+  document.documentElement.addEventListener("scroll", function(e) {
+console.log("scroll");
+  })
 
   parent.document.documentElement.addEventListener("scroll", function(e) {
 console.log("scroll");
