@@ -2215,8 +2215,10 @@ this.nextSibling.style.display = "none";
   }
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
-   //window.addEventListener('scroll', function() { console.log('testing') }, false);
 
+   var rect = document.getElementById("leagueTable").getBoundingClientRect()
+   console.log(rect.top, rect.right, rect.bottom, rect.left);
+ 
  var homeTeam = this.nextSibling.querySelectorAll("#"+this.id);
   var awayTeam = this.nextSibling.querySelectorAll("#"+this.childNodes[3].id);
 
