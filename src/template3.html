@@ -2459,7 +2459,10 @@ console.log("scroll");
 
   console.log(parent.window);
 parent.window.addEventListener('scroll', function() {
-        console.log('scrolling');
+var bodyRect = parent.document.documentElement.getBoundingClientRect();
+    elemRect = document.getElementById("leagueTable").getBoundingClientRect();
+    offset   = elemRect.top - bodyRect.top;
+    console.log(offset);
 });
 
 </script>
