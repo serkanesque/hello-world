@@ -2171,16 +2171,16 @@ pointsMarkup = "";
 
 }
 
-console.log(leagueName);
+console.log(league);
 function scroll() {
   var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    elemRect = window.parent.document.getElementById(leagueName).getBoundingClientRect();
-        elemRect2 = window.parent.document.getElementById(leagueName).getBoundingClientRect();
+    elemRect = window.parent.document.getElementById(league).getBoundingClientRect();
+        elemRect2 = window.parent.document.getElementById(league).getBoundingClientRect();
 
     console.log(elemRect.top, elemRect2.top)
 
 if(elemRect.top<0){
- this.document.getElementById(leagueName).contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
+ this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
     console.log("YES");
 }
 
