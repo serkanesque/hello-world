@@ -2213,14 +2213,24 @@ this.nextSibling.style.display = "none";
       grids[g].style.display = 'none';   
       grids[g].classList.remove("opened");
   }
+
+  parent.window.addEventListener('scroll', function() {
+var bodyRect = parent.document.documentElement.getBoundingClientRect();
+    elemRect = window.parent.document.getElementById("if3").getBoundingClientRect();
+        elemRect2 = window.parent.document.getElementById("if3").getBoundingClientRect();
+
+    console.log(elemRect.top, elemRect2.top)
+
+if(elemRect.top<0){
+ this.document.getElementById("if3").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
+
+    console.log("YES");
+}
+
+});
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
-  //var rect = parent.document.getElementById("if2").getBoundingClientRect();
 
-
-  //console.log(parent.document);
- var rect = parent.document.documentElement.getBoundingClientRect();
- console.log(rect.top);
 
 
 
@@ -2452,20 +2462,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 
 
-parent.window.addEventListener('scroll', function() {
-var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    elemRect = window.parent.document.getElementById("if3").getBoundingClientRect();
-        elemRect2 = window.parent.document.getElementById("if3").getBoundingClientRect();
 
-    console.log(elemRect.top, elemRect2.top)
-
-if(elemRect.top<0){
- this.document.getElementById("if3").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
-
-    console.log("YES");
-}
-
-});
 
 </script>
 </body>
