@@ -2178,7 +2178,7 @@ function scroll() {
       leagueT =  this.document.getElementById(league).contentDocument.getElementById("leagueTable");
       leagueTRect = leagueT.getBoundingClientRect();
       bottom = elemRect.bottom - leagueTRect.bottom;
-    console.log(bottom);
+    console.log(elemRect.bottom,leagueTRect.bottom,bottom);
 
 if(elemRect.top<0 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
