@@ -2180,6 +2180,10 @@ function scroll() {
       leagueTRect = leagueT.getBoundingClientRect();
       bottom = Math.round(elemRect.bottom) -  Math.round(leagueTRect.bottom);
     console.log( Math.round(elemRect.bottom), Math.round(leagueTRect.bottom),bottom);
+    iFrameHeight = Math.round(elemRect.bottom - elemRect.top);
+    tableHeight = Math.round(leagueTRect.bottom - leagueTRect.top)
+    heightDelta = iFrameHeight - tableHeight;
+    console.log("Height: " + iFrameHeight,tableHeight,heightDelta);
 
 if(elemRect.top<5 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
