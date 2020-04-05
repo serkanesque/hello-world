@@ -2179,7 +2179,11 @@ function scroll() {
       leagueT =  this.document.getElementById(league).contentDocument.getElementById("leagueTable");
       leagueTRect = leagueT.getBoundingClientRect();
       bottom = Math.round(elemRect.top) -  Math.round(leagueTRect.top);
-    console.log( Math.round(elemRect.top), Math.round(leagueTRect.top),bottom);
+    //console.log( Math.round(elemRect.top), Math.round(leagueTRect.top),bottom);
+    iFrameHeight = Math.round(elemRect.bottom - elemRect.top);
+    tableHeight = Math.return(leagueTRect.bottom - leagueTRect.top)
+    heightDelta = iFrameHeight - tableHeight;
+    console.log(iFrameHeight,tableHeight,heightDelta);
 
 if(elemRect.top<5 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
