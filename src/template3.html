@@ -2185,7 +2185,7 @@ function scroll() {
     heightDelta = iFrameHeight - tableHeight;
     console.log("Height: " + iFrameHeight,tableHeight,heightDelta);
 
-if(elemRect.top<5 && bottom > -220){
+if(elemRect.top<5 && bottom > (1- (heightDelta - 12))){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
     console.log("YES");
 }
