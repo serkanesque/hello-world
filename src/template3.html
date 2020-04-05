@@ -2178,8 +2178,8 @@ function scroll() {
     elemRect = window.parent.document.getElementById(league).getBoundingClientRect();
       leagueT =  this.document.getElementById(league).contentDocument.getElementById("leagueTable");
       leagueTRect = leagueT.getBoundingClientRect();
-      bottom = Math.round(elemRect.bottom) -  Math.round(leagueTRect.bottom);
-    console.log( Math.round(elemRect.bottom), Math.round(leagueTRect.bottom),bottom);
+      bottom = Math.round(elemRect.top) -  Math.round(leagueTRect.top);
+    console.log( Math.round(elemRect.top), Math.round(leagueTRect.top),bottom);
 
 if(elemRect.top<5 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
