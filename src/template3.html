@@ -2176,8 +2176,8 @@ pointsMarkup = "";
 function scroll() {
   var bodyRect = parent.document.documentElement.getBoundingClientRect();
     elemRect = window.parent.document.getElementById(league).getBoundingClientRect();
-        console.log(window.parent.document.getElementById(league).contentDocument);
-    console.log(window.parent.document.getElementById(league));
+        console.log(window.parent.document.getElementById(league).contentDocument.querySelector('body'));
+
       leagueT =  this.document.getElementById(league).contentDocument.getElementById("leagueTable");
       leagueTRect = leagueT.getBoundingClientRect();
       bottom = Math.round(elemRect.top) -  Math.round(leagueTRect.top);
