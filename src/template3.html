@@ -2171,7 +2171,19 @@ pointsMarkup = "";
 
 }
 
+function scroll() {
+  var bodyRect = parent.document.documentElement.getBoundingClientRect();
+    elemRect = window.parent.document.getElementById("if3").getBoundingClientRect();
+        elemRect2 = window.parent.document.getElementById("if3").getBoundingClientRect();
 
+    console.log(elemRect.top, elemRect2.top)
+
+if(elemRect.top<0){
+ this.document.getElementById("if3").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
+    console.log("YES");
+}
+
+}
 document.addEventListener('scroll', function() { console.log('testing') }, false);
 
 
@@ -2206,6 +2218,8 @@ if(style.getPropertyValue("display") == "table-row"){
 
 this.nextSibling.style.display = "none";
    this.nextSibling.classList.remove("opened");
+   
+  parent.window.removeEventListener('scroll', scroll);
 
 }else if(style.getPropertyValue("display") == "none"){
 
@@ -2214,20 +2228,8 @@ this.nextSibling.style.display = "none";
       grids[g].classList.remove("opened");
   }
 
-  parent.window.addEventListener('scroll', function() {
-var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    elemRect = window.parent.document.getElementById("if3").getBoundingClientRect();
-        elemRect2 = window.parent.document.getElementById("if3").getBoundingClientRect();
+  parent.window.addEventListener('scroll', scroll);
 
-    console.log(elemRect.top, elemRect2.top)
-
-if(elemRect.top<0){
- this.document.getElementById("if3").contentDocument.getElementById("leagueTable").style.marginTop = Math.abs(elemRect.top) + 60 + "px";
-
-    console.log("YES");
-}
-
-});
   this.nextSibling.style.display = "table-row";
    this.nextSibling.classList.add("opened");
 
