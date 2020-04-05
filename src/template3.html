@@ -2175,19 +2175,11 @@ pointsMarkup = "";
 
 function scroll() {
   var bodyRect = parent.document.documentElement.getBoundingClientRect();
-    //elemRect = window.parent.document.getElementById(league).getBoundingClientRect();
-        body = window.parent.document.getElementById(league).contentDocument.querySelector('body');
-        elemRect = body.getBoundingClientRect();
-
+    elemRect = window.parent.document.getElementById(league).getBoundingClientRect();
       leagueT =  this.document.getElementById(league).contentDocument.getElementById("leagueTable");
       leagueTRect = leagueT.getBoundingClientRect();
       bottom = Math.round(elemRect.bottom) -  Math.round(leagueTRect.bottom);
-    //console.log( Math.round(elemRect.top), Math.round(leagueTRect.top),bottom);
-    iFrameHeight = Math.round(elemRect.bottom - elemRect.top);
-    tableHeight = Math.round(leagueTRect.bottom - leagueTRect.top)
-    heightDelta = iFrameHeight - tableHeight;
-    console.log("Height: " + iFrameHeight,tableHeight,heightDelta);
-     console.log("Top: " + elemRect.bottom,leagueTRect.bottom,bottom);
+    console.log( Math.round(elemRect.bottom), Math.round(leagueTRect.bottom),bottom);
 
 if(elemRect.top<5 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
