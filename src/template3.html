@@ -2218,7 +2218,7 @@ if(style.getPropertyValue("display") == "table-row"){
 
 this.nextSibling.style.display = "none";
    this.nextSibling.classList.remove("opened");
-   
+
   parent.window.removeEventListener('scroll', scroll);
 
 }else if(style.getPropertyValue("display") == "none"){
@@ -2226,6 +2226,7 @@ this.nextSibling.style.display = "none";
     for(g=0;g<grids.length;g++) {
       grids[g].style.display = 'none';   
       grids[g].classList.remove("opened");
+      parent.window.removeEventListener('scroll', scroll);
   }
 
   parent.window.addEventListener('scroll', scroll);
