@@ -243,16 +243,16 @@ max-width: 1400px;
 </Div>
 </Div>
 <div id="container">
-<iframe id="if1" scrolling="no"  style="border:none;" src="template3.html?league=germany3"></iframe>
-<iframe id="if2" scrolling="no"  style="border:none;" src="template3.html?league=portugal1"></iframe>
+<iframe id="germany3" scrolling="no"  style="border:none;" src="template3.html?league=germany3"></iframe>
+<iframe id="portugal1" scrolling="no"  style="border:none;" src="template3.html?league=portugal1"></iframe>
 <iframe id="czechrepublic1" scrolling="no"  style="border:none;" src="template3.html?league=czechrepublic1"></iframe>
-<iframe id="if4" scrolling="no"  style="border:none;" src="template3.html?league=italy3"></iframe>
-<iframe id="if5" scrolling="no"  style="border:none;" src="template3.html?league=italy4"></iframe>
-<iframe id="if5" scrolling="no"  style="border:none;" src="template3.html?league=scotland2"></iframe>
+<iframe id="italy3" scrolling="no"  style="border:none;" src="template3.html?league=italy3"></iframe>
+<iframe id="italy4" scrolling="no"  style="border:none;" src="template3.html?league=italy4"></iframe>
+<iframe id="scotland2" scrolling="no"  style="border:none;" src="template3.html?league=scotland2"></iframe>
 
-<iframe id="if5" scrolling="no"  style="border:none;" src="template3.html?league=switzerland1"></iframe>
-<iframe id="if5" scrolling="no"  style="border:none;" src="template3.html?league=turkey2"></iframe>
-<iframe id="if5" scrolling="no"  style="border:none;" src="template3.html?league=wales1"></iframe>
+<iframe id="switzerland1" scrolling="no"  style="border:none;" src="template3.html?league=switzerland1"></iframe>
+<iframe id="turkey2" scrolling="no"  style="border:none;" src="template3.html?league=turkey2"></iframe>
+<iframe id="wales1" scrolling="no"  style="border:none;" src="template3.html?league=wales1"></iframe>
 </div>
 <script type="text/javascript">function getParameterByName(name, url) {
  if (!url) url = window.location.href;
@@ -373,43 +373,6 @@ get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt')
 interval = setInterval(allDone, 50)
 }))
 
-
-
-
-
-
-
-
-
-
-
-
-/*
-get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
- document.getElementById("homeRows").innerHTML = response;
-}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
- document.getElementById("awayRows").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
- document.getElementById("halfTime").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
- document.getElementById("halfTimeAway").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
- document.getElementById("halfTimeTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
- document.getElementById("halfTimeAwayTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
- document.getElementById("fixtures").innerHTML = response;
-}.then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeGoals.txt').then(function(response) {
- document.getElementById("homeGoals").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures.txt').then(function(response) {
- document.getElementById("seasonFixtures").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures2018.txt').then(function(response) {
- document.getElementById("seasonFixtures2018").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
- document.getElementById("nav").innerHTML = response;
-interval = setInterval(allDone, 50)
-}))
-*/
 
 
 function allDone() {
@@ -1309,39 +1272,6 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
 
 
-        /*
-var pastFixtureObject = {
- hScore: pastHomeFixture2018[0].hScore,
- aScore: pastHomeFixture2018[0].aScore,
-};
-pastFixtureObject.result = function() {
-   if(hScore > aScore) return "aw";
-   if(hScore < aScore) return "hw";
-   if(hScore == aScore) return "d";      
-  }
-
-
-console.log(pastFixtureObject.result)
-
-  const pastFixture18 = {
- hScore: pastHomeFixture2018[0].hScore,
- aScore: pastHomeFixture2018[0].aScore,
-result () {
-   if(this.hScore > this.aScore) {
-      hScore = pastHomeFixture2018[0].hScore;
-      aScore = pastHomeFixture2018[0].aScore;
-    return "aw";
-  }
-   if(this.hScore < this.aScore) return "hw";
-   if(this.hScore == this.aScore) return "d";      
-  }
-};
-
-const thisFixture = Object.create(pastFixture18);
-
-console.log(thisFixture.result())
-*/
-
 if(typeof pastHomeFixture[0] === 'undefined') {
  result = "n/a";
 
@@ -1798,17 +1728,6 @@ homeGoalsAgainst = homeTable[j].goalsA;
 }
 }
 
-/*
-
-if (homeTable[j].name == homeTeam) {
-markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td class='+ todaysGame +'>' + date + time + '</td><td id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td class="hm"><div class='+matchResult.class + ' id='+ matchResult.opponent +'>'+ matchResult.lastGame + '<span class=toolTip>' + matchResult.score +'</span></div><div class='+matchResult2.class + ' id='+ matchResult2.opponent +'>'+ matchResult2.lastGame + '<span class=toolTip>' + matchResult2.score +'</span></div><div class='+matchResult3.class + ' id='+ matchResult3.opponent +'>'+ matchResult3.lastGame + '<span class=toolTip>' + matchResult3.score +'</span></div><div class='+matchResult4.class + ' id='+ matchResult4.opponent +'>'+ matchResult4.lastGame + '<span class=toolTip>' + matchResult4.score +'</span></div><div class='+matchResult5.class + ' id='+ matchResult5.opponent +'>'+ matchResult5.lastGame + '<span class=toolTip>' + matchResult5.score +'</span></div><div class='+matchResult6.class + ' id='+ matchResult6.opponent +'>'+ matchResult6.lastGame + '<span class=toolTip>' + matchResult6.score +'</span></div><div class='+matchResult7.class + ' id='+ matchResult7.opponent +'>'+ matchResult7.lastGame + '<span class=toolTip>' + matchResult7.score +'</span></div><div class='+matchResult8.class + ' id='+ matchResult8.opponent +'>'+ matchResult8.lastGame + '<span class=toolTip>' + matchResult8.score +'</span></div><div class='+matchResult9.class + ' id='+ matchResult9.opponent +'>'+ matchResult9.lastGame + '<span class=toolTip>' + matchResult9.score +'</span></div><div class='+matchResult10.class + ' id='+ matchResult10.opponent +'>'+ matchResult10.lastGame + '<span class=toolTip>' + matchResult10.score +'</span></div><div class='+matchResult11.class + ' id='+ matchResult11.opponent +'>'+ matchResult11.lastGame + '<span class=toolTip>' + matchResult11.score +'</span></div><div class='+matchResult12.class + ' id='+ matchResult12.opponent +'>'+ matchResult12.lastGame + '<span class=toolTip>' + matchResult12.score +'</span></div><div class='+matchResult13.class + ' id='+ matchResult13.opponent +'>'+ matchResult13.lastGame + '<span class=toolTip>' + matchResult13.score +'</span></div></td>';
-// console.log(homeTable[j].name)
-homePoints = homeTable[j].points;
-homeGoalsFor = homeTable[j].goalsF;
-homeGoalsAgainst = homeTable[j].goalsA;
-}
-} //
-*/
 
 sixGameMarkup = '<tr id="grid"><td></td><td colspan=10><div style=display:flex;>';
 
@@ -1840,33 +1759,6 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-/*
-sixGameMarkup = sixGameMarkup + '<td><table style="width: 100%;"><tr><th colspan=4>Last 6 Away</th></tr>'+'<tr><td>';
-
-for (h=0; h<awayGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td>' +  awayGameTotal[h].hName + '</td><td>' + awayGameTotal[h].hScore + '</td><td>' + awayGameTotal[h].aScore + '</td><td>' +  awayGameTotal[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></td>';
-
-
-
-sixGameMarkup = sixGameMarkup + '<td colspan=2><table style="width: 100%;"><tr><th colspan=4>Last 6 games</th></tr>'+'<tr><td>';
-
-for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td>' +  last6Home[h].hName + '</td><td>' + last6Home[h].hScore + '</td><td>' + last6Home[h].aScore + '</td><td>' +  last6Home[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></td>';
-
-
-sixGameMarkup = sixGameMarkup + '<td colspan=2><table style="width: 100%;"><tr><th colspan=4>Last 6 games</th></tr>'+'<tr><td>';
-for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td>' +  last6Away[h].hName + '</td><td>' + last6Away[h].hScore + '</td><td>' + last6Away[h].aScore + '</td><td>' +  last6Away[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></div></td></tr>';
-*/
 
 
 
@@ -1882,9 +1774,8 @@ sixGameMarkup = sixGameMarkup + '</td></tr></table></div></td></tr>';
             awayGoalsAgainst = awayTable[j].goalsA;
             goalsForDelta = homeGoalsFor - awayGoalsFor;
             goalsAgainstDelta = awayGoalsAgainst - homeGoalsAgainst;
-            // console.log(awayGoalsFor);
 
-//<div class='+awayMatchResult.class + ' id='+ awayMatchResult.opponent +'>'+ awayMatchResult.lastGame + '<span class=toolTip>' + awayMatchResult.score +'</span>' + '</div><div class='+awayMatchResult2.class +' id='+ awayMatchResult2.opponent +'>'+ awayMatchResult2.lastGame + '<span class=toolTip>' + awayMatchResult2.score +'</span>' + '</div>' + '<div class='+awayMatchResult3.class +' id='+ awayMatchResult3.opponent +'>'+ awayMatchResult3.lastGame + '<span class=toolTip>' + awayMatchResult3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td>
+
  if(matchResultAwayTeam.lastGame != "D" && matchResultAwayTeam2.lastGame != "D" && matchResultAwayTeam3.lastGame != "D" && matchResultAwayTeam4.lastGame != "D" && matchResultAwayTeam5.lastGame != "D" && matchResultAwayTeam6.lastGame != "D" && matchResultAwayTeam7.lastGame != "D" && matchResultAwayTeam8.lastGame != "D" && matchResultAwayTeam9.lastGame != "D" && matchResultAwayTeam10.lastGame != "D" ) {
  
         
@@ -1912,14 +1803,6 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
 }
 
 
-/*
-     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td class="am"><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span></div><div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span>' + '</div><div class='+matchResultAwayTeam4.class +' id='+ matchResultAwayTeam4.opponent +'>'+ matchResultAwayTeam4.lastGame + '<span class=toolTip>' + matchResultAwayTeam4.score +'</span></div><div class='+matchResultAwayTeam5.class +' id='+ matchResultAwayTeam5.opponent +'>'+ matchResultAwayTeam5.lastGame + '<span class=toolTip>' + matchResultAwayTeam5.score +'</span></div><div class='+matchResultAwayTeam6.class +' id='+ matchResultAwayTeam6.opponent +'>'+ matchResultAwayTeam6.lastGame + '<span class=toolTip>' + matchResultAwayTeam6.score +'</span></div><div class='+matchResultAwayTeam7.class +' id='+ matchResultAwayTeam7.opponent +'>'+ matchResultAwayTeam7.lastGame + '<span class=toolTip>' + matchResultAwayTeam7.score +'</span></div><div class='+matchResultAwayTeam8.class +' id='+ matchResultAwayTeam8.opponent +'>'+ matchResultAwayTeam8.lastGame + '<span class=toolTip>' + matchResultAwayTeam8.score +'</span></div><div class='+matchResultAwayTeam9.class +' id='+ matchResultAwayTeam9.opponent +'>'+ matchResultAwayTeam9.lastGame + '<span class=toolTip>' + matchResultAwayTeam9.score +'</span></div><div class='+matchResultAwayTeam10.class +' id='+ matchResultAwayTeam10.opponent +'>'+ matchResultAwayTeam10.lastGame + '<span class=toolTip>' + matchResultAwayTeam10.score +'</span></div></div><div class='+matchResultAwayTeam11.class +' id='+ matchResultAwayTeam11.opponent +'>'+ matchResultAwayTeam11.lastGame + '<span class=toolTip>' + matchResultAwayTeam11.score +'</span></div></div><div class='+matchResultAwayTeam12.class +' id='+ matchResultAwayTeam12.opponent +'>'+ matchResultAwayTeam12.lastGame + '<span class=toolTip>' + matchResultAwayTeam12.score +'</span></div><div class='+matchResultAwayTeam13.class +' id='+ matchResultAwayTeam13.opponent +'>'+ matchResultAwayTeam13.lastGame + '<span class=toolTip>' + matchResultAwayTeam13.score +'</span></div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td>' + sixGameMarkup;
-
-
-  }
-
-       
-*/
 
 
 
@@ -1951,59 +1834,6 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
 
 
 
-
-/*
-
-
-for (var j = 0; j < last6HomeTableTRs.length; j++) {
-    last6HomeTableTRs[j].addEventListener("mouseover", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6HomeTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-
-for (var j = 0; j < last6AwayTableTRs.length; j++) {
-    last6AwayTableTRs[j].addEventListener("mouseover", function(e) {  
-      console.log(e.currentTarget.childNodes)
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6AwayTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-*/
 
 
 
