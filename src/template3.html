@@ -2181,7 +2181,7 @@ function scroll() {
       bottom = Math.round(elemRect.bottom) -  Math.round(leagueTRect.bottom);
     console.log( Math.round(elemRect.bottom), Math.round(leagueTRect.bottom),bottom);
 
-if(elemRect.top<0 && bottom > -220){
+if(elemRect.top<5 && bottom > -220){
  this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
     console.log("YES");
 }
