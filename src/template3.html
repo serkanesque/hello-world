@@ -1368,6 +1368,12 @@ if(thisSeassonH2H[h].hName == homeTeam) {
   if(thisSeassonH2H[h].hScore == thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "homeDraw";
   console.log(thisSeassonH2H[h].class);
 }
+if(thisSeassonH2H[h].hName == awayTeam) {
+  if(thisSeassonH2H[h].hScore > thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayLoss";
+  if(thisSeassonH2H[h].hScore < thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayWin";
+  if(thisSeassonH2H[h].hScore == thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayDraw";
+  console.log(thisSeassonH2H[h].class);
+}
 
 }
 
