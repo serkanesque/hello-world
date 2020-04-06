@@ -2322,9 +2322,8 @@ if(showLeague>0) {
   var gridTable =  this.nextSibling;
 
 
-last6HomeTable = gridTable.childNodes[0];
+last6HomeTable = gridTable.childNodes[0].childNodes[0].childNodes[0];
 
-  console.log(gridTable.childNodes[0].childNodes[0].childNodes[0]);
 last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
