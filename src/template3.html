@@ -2323,7 +2323,7 @@ if(showLeague>0) {
 
 
 last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
-
+ console.log(last6HomeTable);
 last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
@@ -2334,7 +2334,7 @@ th = last6HomeTable.getElementsByTagName("th");
 yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
 
- console.log(last6HomeTRs);
+
 
 for (var j = 0; j < last6HomeTRs.length; j++) {
     last6HomeTRs[j].addEventListener("mouseover", function(e) {  
