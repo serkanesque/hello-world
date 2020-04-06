@@ -2245,8 +2245,7 @@ var showLeague = 0;
   }
 
 
-var fixTable = document.getElementById('fixturesTable');
-var fixTableTRs = fixTable.getElementsByClassName("show");
+
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 if(fixTableTRs.length>0) clearInterval(intervalID);
@@ -2255,7 +2254,10 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 fixTableTRs[j].addEventListener("click", function(e) {
  showLeague = 0;
 
-
+var fixTable = document.getElementById('fixturesTable');
+var fixTableTRs = fixTable.getElementsByClassName("show");
+console.log(fixTable);
+console.log(fixTableTRs);
 
 for(g=0;g<leagueTableTRs.length;g++){
  if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
