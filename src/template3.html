@@ -2264,8 +2264,14 @@ console.log(leagueTable);
 console.log(leagueTableTRs);
 
 for(g=0;g<leagueTableTRs.length;g++){
- if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
-  if(leagueTableTRs[g].id == this.childNodes[3].id) leagueTableTRs[g].style.backgroundColor = "pink";
+ if(leagueTableTRs[g].id == this.childNodes[1].id) {
+  leagueTableTRs[g].style.backgroundColor = "lightgreen";
+  homeTeam = this.childNodes[1].id;
+}
+  if(leagueTableTRs[g].id == this.childNodes[3].id){
+   leagueTableTRs[g].style.backgroundColor = "pink";
+     awayTeam = this.childNodes[1].id;
+}
 }
 
 
@@ -2373,8 +2379,8 @@ for (var j = 0; j < last6HomeTRs.length; j++) {
         } 
       }
       for(g=0;g<leagueTableTRs.length;g++){
- if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
-  if(leagueTableTRs[g].id == this.childNodes[3].id) leagueTableTRs[g].style.backgroundColor = "pink";
+ if(leagueTableTRs[g].id == homeTeam) leagueTableTRs[g].style.backgroundColor = "lightgreen";
+  if(leagueTableTRs[g].id == awayTeam) leagueTableTRs[g].style.backgroundColor = "pink";
 }
     })
 };
