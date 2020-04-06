@@ -2260,17 +2260,18 @@ var fixTable = document.getElementById('fixturesTable');
 var fixTableTRs = fixTable.getElementsByClassName("show");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
-console.log(leagueTable);
-console.log(leagueTableTRs);
+
 
 for(g=0;g<leagueTableTRs.length;g++){
  if(leagueTableTRs[g].id == this.childNodes[1].id) {
   leagueTableTRs[g].style.backgroundColor = "lightgreen";
   homeTeam = this.childNodes[1].id.toString();
+  console.log(homeTeam)
 }
   if(leagueTableTRs[g].id == this.childNodes[3].id){
    leagueTableTRs[g].style.backgroundColor = "pink";
      awayTeam = this.childNodes[3].id.toString();
+      console.log(awayTeam)
 }
 }
 
@@ -2378,8 +2379,7 @@ for (var j = 0; j < last6HomeTRs.length; j++) {
         leagueTableTRs[p].style.backgroundColor = "white";
         } 
       }
-      for(g=0;g<leagueTableTRs.length;g++){
-        console.log(homeTeam,awayTeam);
+      for(g=0;g<leagueTableTRs.length;g++){  
  if(leagueTableTRs[g].id == homeTeam) leagueTableTRs[g].style.backgroundColor = "lightgreen";
   if(leagueTableTRs[g].id == awayTeam) leagueTableTRs[g].style.backgroundColor = "pink";
 }
