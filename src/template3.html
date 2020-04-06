@@ -2233,6 +2233,8 @@ if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
+   var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var showLeague = 0;
    function myCallback() {
       homeMatches = document.querySelectorAll(".hm");
@@ -2254,8 +2256,7 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 fixTableTRs[j].addEventListener("click", function(e) {
  showLeague = 0;
 
-var leagueTable = document.getElementById('leagueTable');
-var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
 
 for(g=0;g<leagueTableTRs.length;g++){
  if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
