@@ -2334,12 +2334,12 @@ th = last6HomeTable.getElementsByTagName("th");
 yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
 
-
+ console.log(last6HomeTRs);
 
 for (var j = 0; j < last6HomeTRs.length; j++) {
     last6HomeTRs[j].addEventListener("mouseover", function(e) {  
       for (var p = 0; p < leagueTableTRs.length; p++) {
-        console.log(e.currentTarget.childNodes[0].id)
+       
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
         leagueTableTRs[p].style.backgroundColor = "lightgreen";
         } 
