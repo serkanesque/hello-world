@@ -1362,7 +1362,7 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
 
 for(h=0; h<thisSeassonH2H.length;h++){
-if(thisSeassonH2H[h].hName = hometeam) {
+if(thisSeassonH2H[h].hName == homeTeam) {
   if(thisSeassonH2H[h].hScore > thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "homeWin";
   if(thisSeassonH2H[h].hScore < thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayLoss";
   if(thisSeassonH2H[h].hScore == thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "homeDraw";
