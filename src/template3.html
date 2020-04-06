@@ -2248,8 +2248,7 @@ var fixTable = document.getElementById('fixturesTable');
 var fixTableTRs = fixTable.getElementsByClassName("show");
 
 
-var leagueTable = document.getElementById('leagueTable');
-var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
 if(fixTableTRs.length>0) clearInterval(intervalID);
 
  for (var j = 0; j < fixTableTRs.length; j++) {  
@@ -2259,8 +2258,10 @@ fixTableTRs[j].addEventListener("click", function(e) {
 
 var fixTable = document.getElementById('fixturesTable');
 var fixTableTRs = fixTable.getElementsByClassName("show");
-console.log(fixTable);
-console.log(fixTableTRs);
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+console.log(leagueTable);
+console.log(leagueTableTRs);
 
 for(g=0;g<leagueTableTRs.length;g++){
  if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
