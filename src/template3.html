@@ -1374,7 +1374,20 @@ if(thisSeassonH2H[h].hName == awayTeam) {
   if(thisSeassonH2H[h].hScore == thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayDraw";
   console.log(thisSeassonH2H[h].class);
 }
-
+}
+for(h=0; h<lastSeassonH2H.length;h++){
+if(lastSeassonH2H[h].hName == homeTeam) {
+  if(lastSeassonH2H[h].hScore > lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "homeWin";
+  if(lastSeassonH2H[h].hScore < lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "awayLoss";
+  if(lastSeassonH2H[h].hScore == lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "homeDraw";
+  console.log(lastSeassonH2H[h].class);
+}
+if(lastSeassonH2H[h].hName == awayTeam) {
+  if(lastSeassonH2H[h].hScore > lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "awayLoss";
+  if(lastSeassonH2H[h].hScore < lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "awayWin";
+  if(lastSeassonH2H[h].hScore == lastSeassonH2H[h].aScore) lastSeassonH2H[h].class = "awayDraw";
+  console.log(lastSeassonH2H[h].class);
+}
 }
 
         
