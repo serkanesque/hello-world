@@ -1358,6 +1358,18 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
           const thisSeassonH2H =  seasonFixtures.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam || team.aName == homeTeam && team.hName == awayTeam  });
 
           const lastSeassonH2H =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam || team.aName == homeTeam && team.hName == awayTeam  });
+
+
+
+for(h=0; h<thisSeassonH2H.length;h++){
+if(thisSeassonH2H[h].hName = hometeam) {
+  if(thisSeassonH2H[h].hScore > thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "homeWin";
+  if(thisSeassonH2H[h].hScore < thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "awayLoss";
+  if(thisSeassonH2H[h].hScore == thisSeassonH2H[h].aScore) thisSeassonH2H[h].class = "homeDraw";
+}
+
+}
+
         
 
 if(typeof pastHomeFixture[0] === 'undefined') {
