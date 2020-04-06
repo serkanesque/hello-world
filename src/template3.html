@@ -2254,7 +2254,10 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 fixTableTRs[j].addEventListener("click", function(e) {
  showLeague = 0;
 
- console.log(this);
+for(g=0;g<leagueTableTRs.length;g++){
+ if(leagueTableTRs[g].id == this.childNodes[1].id) leagueTableTRs[g].style.backgroundColor = "lightgreen";
+}
+
 
   grids = document.getElementsByClassName('g-unit');
 
