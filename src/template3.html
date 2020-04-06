@@ -2254,6 +2254,8 @@ if(fixTableTRs.length>0) clearInterval(intervalID);
 fixTableTRs[j].addEventListener("click", function(e) {
  showLeague = 0;
 
+ console.log(this);
+
   grids = document.getElementsByClassName('g-unit');
 
     style = window.getComputedStyle(this.nextSibling); 
