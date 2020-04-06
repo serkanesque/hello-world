@@ -2366,6 +2366,7 @@ last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
 
 for (var j = 0; j < last6AwayTRs.length; j++) {
     last6AwayTRs[j].addEventListener("mouseover", function(e) {  
+              console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
         leagueTableTRs[p].style.backgroundColor = "lightgreen";
@@ -2395,6 +2396,7 @@ last6HomeAnyTRs = last6HomeAnyTable.getElementsByTagName("tr");
 
 for (var j = 0; j < last6HomeAnyTRs.length; j++) {
     last6HomeAnyTRs[j].addEventListener("mouseover", function(e) {  
+              console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
         leagueTableTRs[p].style.backgroundColor = "lightgreen";
@@ -2421,6 +2423,7 @@ last6AwayAnyTRs = last6HAwayAnyTable.getElementsByTagName("tr");
 
 for (var j = 0; j < last6AwayAnyTRs.length; j++) {
     last6AwayAnyTRs[j].addEventListener("mouseover", function(e) {  
+              console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
         leagueTableTRs[p].style.backgroundColor = "lightgreen";
