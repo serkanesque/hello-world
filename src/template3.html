@@ -2044,7 +2044,7 @@ if(numGames == 0){
      
 
         for (var j = 0; j < fixTableDiv.length; j++) {
-              fixTableDiv[j].addEventListener("mouseover", function(e) {   
+              fixTableDiv[j].addEventListener("click", function(e) {   
             for (var p = 0; p < leagueTableTRs.length; p++) {
 
             if (leagueTableTRs[p].id == e.currentTarget.id) {
@@ -2076,7 +2076,7 @@ if(numGames == 0){
 
 
             for (var j = 0; j < fixTableTRs.length; j++) {  
-            fixTableTRs[j].addEventListener("mouseover", function(e) {
+            fixTableTRs[j].addEventListener("click", function(e) {
  
 
             var homeDrawTable = document.getElementById('homeDrawTable');
