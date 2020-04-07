@@ -233,6 +233,11 @@ border: 1px solid #ccc !important
     #last6AwayTable tr td:last-child {
     font-weight: 500;
   }
+  #LTscore {
+    border-left: 0 !important;
+    border-top: 0 !important;
+        border-bottom: 0 !important;
+  }
 </style>  
 
 <div id="nav" class="nav" style="display: none;"></div>
@@ -2072,7 +2077,7 @@ if(numGames == 0){
  });
 pointsMarkup = "";
  for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore">score</td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore"></td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
 
  }
 
