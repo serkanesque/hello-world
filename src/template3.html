@@ -2405,11 +2405,13 @@ th[0].addEventListener("click", function(e) {
 
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].childNodes[0].style.backgroundColor = "pink";
         if(last6HomeOpp[p].parentNode.className == "homeWin") {
-          console.log(leagueTableTRs[y].childNodes[0].childNodes[0]);
           leagueTableTRs[y].childNodes[1].style.backgroundColor = "lightgreen";
           leagueTableTRs[y].childNodes[0].childNodes[0].style.backgroundColor = "lightgreen";
          }
-        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].childNodes[0].style.backgroundColor = "springgreen";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") {
+           leagueTableTRs[y].childNodes[1].style.backgroundColor = "springgreen";
+          leagueTableTRs[y].childNodes[0].childNodes[0].style.backgroundColor = "springgreen";
+         }
 
         } 
 }
