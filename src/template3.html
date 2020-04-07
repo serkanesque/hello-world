@@ -2482,7 +2482,7 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 
 function yes(th,last6HomeOpp,leagueTableTRs){
 th[0].addEventListener("click", function(e) {
-  state = "in";
+  console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
@@ -2500,8 +2500,9 @@ th[0].addEventListener("click", function(e) {
 }
 }
 })
-th[0].addEventListener("click", function(e) {
-if(state == "in"){
+/*
+th[0].addEventListener("mouseout", function(e) {
+  console.log("Out");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) {
@@ -2513,13 +2514,11 @@ if(state == "in"){
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "white";
         if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "white";
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "white";
+
         } 
 }
 }
-state = "out";
-}
-})
-
+})*/
 }
 
 
