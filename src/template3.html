@@ -2394,7 +2394,8 @@ th[0].addEventListener("click", function(e) {
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           LTscore = last6HomeOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeOpp[p].parentNode.childNodes[3].innerHTML;
-          leagueTableTRs[y].childNodes[0].childNode[0].innerHTML = LTscore;
+          console.log()
+          leagueTableTRs[y].childNodes[0].childNodes[0].innerHTML = LTscore;
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
 
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
