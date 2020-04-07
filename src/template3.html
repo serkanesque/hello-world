@@ -2365,7 +2365,9 @@ th[0].addEventListener("click", function(e) {
               leagueTableTRs[y].style.color = "white";
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
+          console.log(last6HomeOpp[p].parentNode)
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
         if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
