@@ -2072,7 +2072,7 @@ if(numGames == 0){
  });
 pointsMarkup = "";
  for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td>score</td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore">score</td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
 
  }
 
