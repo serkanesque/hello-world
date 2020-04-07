@@ -2365,7 +2365,7 @@ th[0].addEventListener("click", function(e) {
               leagueTableTRs[y].style.color = "white";
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
-          console.log(last6HomeOpp[p].parentNode)
+          console.log(last6HomeOpp[p].parentNode.childNodes[1] + " - " +last6HomeOpp[p].parentNode.childNodes[3])
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
 
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
