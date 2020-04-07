@@ -2096,7 +2096,7 @@ if(numGames == 0){
  });
 pointsMarkup = "";
  for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore"></td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore"><span></span></td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
 
  }
 
@@ -2390,7 +2390,7 @@ th[0].addEventListener("click", function(e) {
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           LTscore = last6HomeOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeOpp[p].parentNode.childNodes[3].innerHTML;
-          leagueTableTRs[y].childNodes[0].innerHTML = LTscore;
+          leagueTableTRs[y].childNodes[0].childNode[0].innerHTML = LTscore;
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
 
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
