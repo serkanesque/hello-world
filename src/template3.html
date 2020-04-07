@@ -2043,125 +2043,7 @@ if(numGames == 0){
 
 
      
-/*
-        for (var j = 0; j < fixTableDiv.length; j++) {
-              fixTableDiv[j].addEventListener("mouseover", function(e) {   
-            for (var p = 0; p < leagueTableTRs.length; p++) {
 
-            if (leagueTableTRs[p].id == e.currentTarget.id) {
-            
-            leagueTableTRs[p].style.backgroundColor = "red";
-            } 
-            }
-        })
-            };
-
-
-        for (var j = 0; j < fixTableDiv.length; j++) {
-              fixTableDiv[j].addEventListener("mouseout", function(e) {              
-
-            var leagueTable = document.getElementById('leagueTable');
-            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
-
-            //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
-            for (var p = 0; p < leagueTableTRs.length; p++) {
-
-            if (leagueTableTRs[p].id == e.currentTarget.id) {
-            leagueTableTRs[p].style.backgroundColor = "white";
-            } 
-            }
-        })
-            };
-
-
-
-
-            for (var j = 0; j < fixTableTRs.length; j++) {  
-            fixTableTRs[j].addEventListener("mouseover", function(e) {
- 
-
-            var homeDrawTable = document.getElementById('homeDrawTable');
-            var awayDrawTable = document.getElementById('awayDrawTable');
-            var leagueTable = document.getElementById('leagueTable');
-
-            e.currentTarget.childNodes[1].style.backgroundColor = "lightgreen"
-            e.currentTarget.childNodes[2].style.backgroundColor = "lightgreen"
-            e.currentTarget.childNodes[3].style.backgroundColor = "pink"
-            e.currentTarget.childNodes[4].style.backgroundColor = "pink"
-
-            var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
-            var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
-            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
-
-            //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
-            //console.log(leagueTableTRs.length)
-            // console.log(homeDrawTableTRs.length)
-            for (var p = 0; p < homeDrawTableTRs.length; p++) {
-
-
-       
-            if (homeDrawTableTRs[p].id == e.currentTarget.childNodes[1].id) {
-
-            homeDrawTableTRs[p].style.backgroundColor = "lightgreen";
-            }
-            if (awayDrawTableTRs[p].id == e.currentTarget.childNodes[3].id) {
-            awayDrawTableTRs[p].style.backgroundColor = "pink";
-
-            }
-            if (leagueTableTRs[p].id == e.currentTarget.childNodes[1].id) {
-                   
-           leagueTableTRs[p].style.backgroundColor = "lightgreen";
-            }
-            if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {
-            leagueTableTRs[p].style.backgroundColor = "pink";
-            }
-
-
-            }
-            })
-
-
-
-
-            fixTableTRs[j].addEventListener("mouseout", function(e) {
-
-
-
-            var homeDrawTable = document.getElementById('homeDrawTable');
-            var awayDrawTable = document.getElementById('awayDrawTable');
-            var leagueTable = document.getElementById('leagueTable');
-
-            var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
-            var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
-            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
-
-
-            e.currentTarget.childNodes[1].style.backgroundColor = "white"
-            e.currentTarget.childNodes[2].style.backgroundColor = "white"
-            e.currentTarget.childNodes[3].style.backgroundColor = "white"
-            e.currentTarget.childNodes[4].style.backgroundColor = "white"
-
-            for (var p = 0; p < homeDrawTableTRs.length; p++) {
-
-             
-
-            if (homeDrawTableTRs[p].id == e.currentTarget.childNodes[1].id) {
-            homeDrawTableTRs[p].style.backgroundColor = "white";
-            }
-            if (awayDrawTableTRs[p].id == e.currentTarget.childNodes[3].id) {
-            awayDrawTableTRs[p].style.backgroundColor = "white";
-            }
-            if (leagueTableTRs[p].id == e.currentTarget.childNodes[1].id) {
-            leagueTableTRs[p].style.backgroundColor = "white";
-            }
-            if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {
-            leagueTableTRs[p].style.backgroundColor = "white";
-            }
-            }
-            })
- }
- //
-*/
  var leagueTable = [];
  homeTable.sort(function(a, b) {
   if (a.name < b.name) return -1;
@@ -2190,7 +2072,7 @@ if(numGames == 0){
  });
 pointsMarkup = "";
  for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td>score</td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
 
  }
 
@@ -2198,13 +2080,6 @@ pointsMarkup = "";
 
 
 
-
- /*
-             document.addEventListener("mouseover", function(){
-   document.getElementById("demo").innerHTML = "Hello World";
-
- }   
- */
 
 }
 
@@ -2229,7 +2104,6 @@ if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
 }
 
 
-//document.addEventListener('scroll', function() { console.log('testing') }, false);
 
 
 document.addEventListener('DOMContentLoaded', function(event) {
