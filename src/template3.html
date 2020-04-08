@@ -2410,6 +2410,16 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 });
 
 function yes(th,last6HomeOpp,leagueTableTRs){
+
+             leagueTableTRs = leagueTable.getElementsByTagName("tr");
+             leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
+
+             last6HomeTable = document.getElementById('last6Home');
+             last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
+
+             last6AwayTable = document.getElementById('last6AwayTable');
+             last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
+  
 th[0].addEventListener("click", function(e) {
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
