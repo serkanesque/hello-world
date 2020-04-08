@@ -2277,13 +2277,15 @@ th = last6HomeTable.getElementsByTagName("th");
 
 
 last6AwayTable = gridTable.childNodes[0].childNodes[0].childNodes[1];
+
 last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
 var leagueTable2 = document.getElementById('leagueTable2');
 var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
 var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
-
-
-
+console.log(last6AwayTable);
+console.log(last6AwayTRs);
+console.log(leagueTable2TRs);
+console.log(last6AwayOpp);
 yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
 
