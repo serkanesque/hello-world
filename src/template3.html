@@ -2410,6 +2410,12 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 });
 
 function yes(th,last6HomeOpp,leagueTableTRs){
+  last6AwayTable = gridTable.childNodes[0].childNodes[0].childNodes[1];
+
+last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
+var leagueTable2 = document.getElementById('leagueTable2');
+var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
+var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
 
              leagueTableTRs = leagueTable.getElementsByTagName("tr");
              leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
@@ -2419,7 +2425,7 @@ function yes(th,last6HomeOpp,leagueTableTRs){
 
              last6AwayTable = document.getElementById('last6AwayTable');
              last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
-  
+
 th[0].addEventListener("click", function(e) {
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
