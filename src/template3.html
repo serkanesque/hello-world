@@ -2072,14 +2072,14 @@ if(numGames == 0){
             var leagueTable = document.getElementById('leagueTable');
             var leagueTable2 = document.getElementById('leagueTable2');           
 
-             leagueTableTRs = leagueTable.getElementsByTagName("tr");
-             leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
+            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+            var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
 
-             last6HomeTable = document.getElementById('last6Home');
-             last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
+            var last6HomeTable = document.getElementById('last6Home');
+            var last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
 
-             last6AwayTable = document.getElementById('last6AwayTable');
-             last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
+            var last6AwayTable = document.getElementById('last6AwayTable');
+            var last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
 
 
 
@@ -2283,7 +2283,7 @@ var leagueTable2 = document.getElementById('leagueTable2');
 var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
 var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
 
-yes(th,last6HomeOpp,leagueTableTRs);
+yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs);
 tdsArray = [];
 
 
@@ -2409,27 +2409,7 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 }
 });
 
-function yes(th,last6HomeOpp,leagueTableTRs){
-  last6AwayTable = gridTable.childNodes[0].childNodes[0].childNodes[1];
-
-last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
-var leagueTable2 = document.getElementById('leagueTable2');
-var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
-var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
-
-             leagueTableTRs = leagueTable.getElementsByTagName("tr");
-             leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
-
-             last6HomeTable = document.getElementById('last6Home');
-             last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
-
-             last6AwayTable = document.getElementById('last6AwayTable');
-             last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
-console.log(last6AwayTable);
-console.log(last6AwayTRs);
-console.log(leagueTable2TRs);
-console.log(last6AwayOpp);
-
+function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
 th[0].addEventListener("click", function(e) {
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
@@ -2453,6 +2433,7 @@ th[0].addEventListener("click", function(e) {
         } 
 }
 }
+
 
 
 
