@@ -2447,13 +2447,13 @@ th[0].addEventListener("click", function(e) {
         if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
           LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
           leagueTable2TRs[y].childNodes[0].innerHTML = LTscore;
-        if(last6AwayOpp[p].parentNode.className == "homeDraw") leagueTable2TRs[y].style.backgroundColor = "#feffbf";
-        if(last6AwayOpp[p].parentNode.className == "homeLoss") {
+        if(last6AwayOpp[p].parentNode.className == "awayDraw") leagueTable2TRs[y].style.backgroundColor = "#feffbf";
+        if(last6AwayOpp[p].parentNode.className == "awayLoss") {
         leagueTable2TRs[y].children[1].style.borderColor = "red !important";
           leagueTable2TRs[y].style.backgroundColor = "pink";
         }
-        if(last6AwayOpp[p].parentNode.className == "homeWin") leagueTable2TRs[y].style.backgroundColor = "lightgreen";
-        if(last6AwayOpp[p].parentNode.className == "homeWinDiff2") leagueTable2TRs[y].style.backgroundColor = "springgreen";
+        if(last6AwayOpp[p].parentNode.className == "awayWin") leagueTable2TRs[y].style.backgroundColor = "lightgreen";
+        if(last6AwayOpp[p].parentNode.className == "awayWinDiff2") leagueTable2TRs[y].style.backgroundColor = "springgreen";
         } 
 }
 }
