@@ -2246,7 +2246,7 @@ yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs);
 tdsArray = [];
 
 
-
+/*
 for (var j = 0; j < last6HomeTRs.length; j++) {
     last6HomeTRs[j].addEventListener("mouseover", function(e) {  
       for (var p = 0; p < leagueTableTRs.length; p++) {
@@ -2274,11 +2274,11 @@ for (var j = 0; j < last6HomeTRs.length; j++) {
 }
     })
 };
-
+*/
 
 last6AwayTable = gridTable.childNodes[1].childNodes[0].childNodes[1];
 last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
-
+/*
 for (var j = 0; j < last6AwayTRs.length; j++) {
     last6AwayTRs[j].addEventListener("mouseover", function(e) {  
               console.log(e.currentTarget.childNodes[0].id)
@@ -2303,12 +2303,11 @@ for (var j = 0; j < last6AwayTRs.length; j++) {
     })
 };
 
-
-
+*/
 
 last6HomeAnyTable = gridTable.childNodes[1].childNodes[1].childNodes[0];
 last6HomeAnyTRs = last6HomeAnyTable.getElementsByTagName("tr");
-
+/*
 for (var j = 0; j < last6HomeAnyTRs.length; j++) {
     last6HomeAnyTRs[j].addEventListener("mouseover", function(e) {  
               console.log(e.currentTarget.childNodes[0].id)
@@ -2359,7 +2358,7 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
       }
     })
 };
-
+*/
 
 
 
@@ -2369,7 +2368,7 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 });
 
 function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
-th[0].addEventListener("click", function(e) {
+
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
@@ -2424,7 +2423,7 @@ th[0].addEventListener("click", function(e) {
 
 
 
-})
+
 /*
 th[0].addEventListener("mouseout", function(e) {
   console.log("Out");
