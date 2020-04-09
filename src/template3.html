@@ -2375,7 +2375,14 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
             {
-              leagueTableTRs[y].style.backgroundColor = "black";
+              leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
+              leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";              
+              leagueTableTRs[y].style.color = "white";
+            }
+        if (leagueTableTRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
+            {
+              leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
+              leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";              
               leagueTableTRs[y].style.color = "white";
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
