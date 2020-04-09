@@ -1908,8 +1908,10 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 away </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td class="oppo" style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td> - </td><td  class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+awayGameTotal[h].opponent  +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
+
+
 
 sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padding-top: 8px !important;">';
 
