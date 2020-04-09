@@ -1906,7 +1906,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td sty
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=7>' + awayTeam +' last 6 away </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' last 6 away </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td> - </td><td  class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+awayGameTotal[h].opponent  +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
@@ -2407,7 +2407,6 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
 
  for (var p = 0; p < last6AwayOpp.length; p++) {
    for (var y = 0; y < leagueTable2TRs.length;y++) {
-console.log(last6AwayOpp[p].id);
            if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
             {
               leagueTable2TRs[y].style.backgroundColor = "black";
