@@ -2375,16 +2375,18 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
             {
+              //leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
+            //  leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";              
+              //leagueTableTRs[y].style.color = "white";
+            }
+            /*
+        if (leagueTableTRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
+            {
               leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
               leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";              
               leagueTableTRs[y].style.color = "white";
             }
-        if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
-            {
-              leagueTable2TRs[y].childNodes[1].style.backgroundColor = "black";
-              leagueTable2TRs[y].childNodes[2].style.backgroundColor = "black";              
-              leagueTable2TRs[y].style.color = "white";
-            }
+            */
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           LTscore = last6HomeOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeOpp[p].parentNode.childNodes[3].innerHTML;
           leagueTableTRs[y].childNodes[0].innerHTML = LTscore;
@@ -2405,11 +2407,13 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
 
  for (var p = 0; p < last6AwayOpp.length; p++) {
    for (var y = 0; y < leagueTable2TRs.length;y++) {
+
            if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
             {
               leagueTable2TRs[y].style.backgroundColor = "black";
               leagueTable2TRs[y].style.color = "white";
             }
+
         if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
           LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
           console.log(LTscore);
