@@ -2409,7 +2409,8 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
    for (var y = 0; y < leagueTable2TRs.length;y++) {
            if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
             {
-              leagueTable2TRs[y].style.backgroundColor = "black";
+              leagueTable2TRs[y].childNodes[1].style.backgroundColor = "black";
+              leagueTable2TRs[y].childNodes[2].style.backgroundColor = "black";              
               leagueTable2TRs[y].style.color = "white";
             }
 
