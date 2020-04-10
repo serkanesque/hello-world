@@ -1932,7 +1932,7 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 104%; margin-right: 20px;"><tr><th colspan=6>This season h2h</th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>This season h2h</th></tr>';
 
 for (h=0; h<thisSeassonH2H.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
@@ -1941,7 +1941,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td st
 sixGameMarkup = sixGameMarkup + '</table>';
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 104%; margin-right: 20px;"><tr><th colspan=6>Last season h2h</th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%;"><tr><th colspan=6>Last season h2h</th></tr>';
 
 for (h=0; h<lastSeassonH2H.length; h++) {
 
