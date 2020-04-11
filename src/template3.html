@@ -2410,6 +2410,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
         leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";
                 leagueTableTRs[y].childNodes[1].style.color = "#fff";
                  leagueTableTRs[y].childNodes[2].style.color = "#fff";
+
       }
 
   if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
@@ -2420,7 +2421,8 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
    leagueTableTRs[y].children[1].style.backgroundColor = "#FFFFBF";
    leagueTableTRs[y].children[2].style.backgroundColor = "#FFFFBF";   
       leagueTableTRs[y].children[1].style.color = "#000";   
-      leagueTableTRs[y].children[2].style.color = "#000";   
+      leagueTableTRs[y].children[2].style.color = "#000";  
+           leagueTableTRs[y].children[2].style.fontWeight = "500";   
 }
   if(last6HomeOpp[p].parentNode.className == "homeLoss") {
    leagueTableTRs[y].children[0].style.backgroundColor = "#ffc6c6";
@@ -2429,7 +2431,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
       leagueTableTRs[y].children[1].style.borderLeft = "1px solid red !important";
             leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000";   
-
+           leagueTableTRs[y].children[2].style.fontWeight = "500";  
   }
 
   if(last6HomeOpp[p].parentNode.className == "homeWin")
@@ -2439,7 +2441,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
    leagueTableTRs[y].children[2].style.backgroundColor = "#afff9c";
          leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000";    
-
+           leagueTableTRs[y].children[2].style.fontWeight = "500";  
  }
   if(last6HomeOpp[p].parentNode.className == "homeWinDiff2"){
    leagueTableTRs[y].children[0].style.backgroundColor = "springgreen";
@@ -2447,6 +2449,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
    leagueTableTRs[y].children[2].style.backgroundColor = "springgreen"; 
          leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000";   
+                 leagueTableTRs[y].children[2].style.fontWeight = "500";  
   } 
 }
 }
@@ -2469,14 +2472,16 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
     leagueTableTRs[y].children[2].style.backgroundColor = "#FFFFBF";
       leagueTableTRs[y].children[3].style.backgroundColor = "#FFFFBF";
             leagueTableTRs[y].children[1].style.color = "#000";   
-      leagueTableTRs[y].children[2].style.color = "#000";   
+      leagueTableTRs[y].children[2].style.color = "#000";  
+                 leagueTableTRs[y].children[2].style.fontWeight = "500";   
 
     }
   if(last6HomeGamesOpp[p].parentNode.className == "awayLoss") {
     leagueTableTRs[y].children[1].style.backgroundColor = "#ffc6c6";
         leagueTableTRs[y].children[2].style.backgroundColor = "#ffc6c6";
             leagueTableTRs[y].children[3].style.backgroundColor = "#ffc6c6";            leagueTableTRs[y].children[1].style.color = "#000";   
-      leagueTableTRs[y].children[2].style.color = "#000";     
+      leagueTableTRs[y].children[2].style.color = "#000";
+                 leagueTableTRs[y].children[2].style.fontWeight = "500";       
   }
 
   if(last6HomeGamesOpp[p].parentNode.className == "awayWin")
@@ -2485,12 +2490,14 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
         leagueTableTRs[y].children[2].style.backgroundColor = "#afff9c";
             leagueTableTRs[y].children[3].style.backgroundColor = "#afff9c";                leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000";   
+                 leagueTableTRs[y].children[2].style.fontWeight = "500";  
 
 }
  if(last6HomeGamesOpp[p].parentNode.className == "awayWinDiff2") {    leagueTableTRs[y].children[1].style.backgroundColor = "springgreen";
         leagueTableTRs[y].children[2].style.backgroundColor = "springgreen";
             leagueTableTRs[y].children[3].style.backgroundColor = "springgreen";                leagueTableTRs[y].children[1].style.color = "#000";   
-      leagueTableTRs[y].children[2].style.color = "#000";   
+      leagueTableTRs[y].children[2].style.color = "#000"; 
+                 leagueTableTRs[y].children[2].style.fontWeight = "500";    
     }
   } 
 }
