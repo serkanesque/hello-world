@@ -2409,8 +2409,8 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
         if(last6HomeOpp[p].parentNode.className == "homeLoss") {
           leagueTableTRs[y].style.backgroundColor = "yellow";
           console.log(leagueTableTRs[y].childNodes[1]);
-         leagueTableTRs[y].childNodes[1].style.borderLeft = "red !important";
-         leagueTableTRs[y].childNodes[1].style.borderRight = "red !important";         
+         leagueTableTRs[y].childNodes[1].style.borderLeft = "1px solid red !important";
+         leagueTableTRs[y].childNodes[1].style.borderRight = "1px solid red !important";         
         }
         if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
