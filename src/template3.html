@@ -2116,8 +2116,8 @@ function scroll() {
    console.log( Math.round(elemRect.top),bottom);
 
 if(elemRect.top<-164 && bottom > (1- (heightDelta - 75))){
- this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
-  this.document.getElementById(league).contentDocument.getElementById("leagueTable2").style.top = Math.abs(Math.round(elemRect.top)) + "px";
+ this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.round(elemRect.top) + "px";
+  this.document.getElementById(league).contentDocument.getElementById("leagueTable2").style.top = Math.round(elemRect.top) + "px";
 }
 
 }
