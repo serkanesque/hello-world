@@ -2408,6 +2408,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
         if(last6HomeOpp[p].parentNode.className == "homeLoss") {
           leagueTableTRs[y].style.backgroundColor = "yellow";
+          console.log(leagueTableTRs[y].childNodes[1]);
          leagueTableTRs[y].childNodes[1].borderLeft = "red !important";
          leagueTableTRs[y].childNodes[1].borderRight = "red !important";         
         }
