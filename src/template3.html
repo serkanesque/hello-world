@@ -228,7 +228,7 @@ border: 0 !important
    height: 10px;
    width: 198px;
    margin-right: 20px;
-   margin-top: 164px;
+   margin-top: 69px;
    position: relative;
    font-size: 14px;
    border-left: 0 !important;
@@ -2113,10 +2113,10 @@ function scroll() {
     tableHeight = Math.round(leagueTRect.bottom - leagueTRect.top)
     heightDelta = iFrameHeight - tableHeight;
    // console.log("Height: " + iFrameHeight,tableHeight,heightDelta);
-console.log(Math.round(elemRect.top));
-if(elemRect.top<-160 && bottom > (1- (heightDelta - 75))){
- this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.round(elemRect.top)+ "px";
-  this.document.getElementById(league).contentDocument.getElementById("leagueTable2").style.top =Math.round(elemRect.top) + "px";
+
+if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
+ this.document.getElementById(league).contentDocument.getElementById("leagueTable").style.top = Math.abs(Math.round(elemRect.top)) + "px";
+  this.document.getElementById(league).contentDocument.getElementById("leagueTable2").style.top = Math.abs(Math.round(elemRect.top)) + "px";
 }
 
 }
@@ -2407,10 +2407,8 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
           leagueTableTRs[y].childNodes[0].innerHTML = LTscore;
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
         if(last6HomeOpp[p].parentNode.className == "homeLoss") {
-          leagueTableTRs[y].style.backgroundColor = "yellow";
-          console.log(leagueTableTRs[y].childNodes[1]);
-         leagueTableTRs[y].childNodes[1].style.borderLeft = "1px solid red !important";
-         leagueTableTRs[y].childNodes[1].style.borderRight = "1px solid red !important";         
+        leagueTableTRs[y].children[1].style.borderColor = "red !important";
+          leagueTableTRs[y].style.backgroundColor = "pink";
         }
         if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
