@@ -2487,10 +2487,11 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
       leagueTableTRs[y].children[2].style.color = "#000";   
 
 }
- if(last6HomeGamesOpp[p].parentNode.className == "awayWinDiff2")     leagueTableTRs[y].children[1].style.backgroundColor = "springgreen";
+ if(last6HomeGamesOpp[p].parentNode.className == "awayWinDiff2") {    leagueTableTRs[y].children[1].style.backgroundColor = "springgreen";
         leagueTableTRs[y].children[2].style.backgroundColor = "springgreen";
             leagueTableTRs[y].children[3].style.backgroundColor = "lightgreen";                leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000";   
+    }
   } 
 }
 }
