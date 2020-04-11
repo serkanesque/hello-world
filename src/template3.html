@@ -2416,7 +2416,9 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs){
         }
         if(last6HomeOpp[p].parentNode.className == "homeWin") {leagueTableTRs[y].style.backgroundColor = "lightgreen";
         console.log(leagueTableTRs[y].children[1]);
-          leagueTableTRs[y].children[1].style.border = "0 !important";
+          leagueTableTRs[y].children[1].style.borderLeft = "0 !important";
+     leagueTableTRs[y].children[1].style.borderRight = "0 !important";
+
       }
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") {leagueTableTRs[y].style.backgroundColor = "springgreen";
                 leagueTableTRs[y].children[1].style.border = "0 !important";
