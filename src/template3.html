@@ -2444,7 +2444,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
 
 
   if (leagueTableTRs[y].id == last6HomeGamesOpp[p].id) { 
-    L6score = last6HomeGamesOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeGamesOpp[p].parentNode.childNodes[3].innerHTML;
+    L6score = last6HomeGamesOpp[p].parentNode.childNodes[3].innerHTML + " - " +last6HomeGamesOpp[p].parentNode.childNodes[1].innerHTML;
     leagueTableTRs[y].childNodes[3].innerHTML = L6score;
   if(last6HomeGamesOpp[p].parentNode.className == "awayDraw") 
     {
