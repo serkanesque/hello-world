@@ -2445,7 +2445,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
     console.log(last6HomeOpp[p].parentNode.parentNode.parentNode)
-     if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
+     if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.nextSibling.className) 
       {
         leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
         leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";
