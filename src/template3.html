@@ -2551,7 +2551,7 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
   if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
     LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
     leagueTable2TRs[y].childNodes[0].innerHTML = LTscore;
-  if(last6AwayOpp[p].parentNode.className == "homeDraw"){
+  if(last6AwayOpp[p].parentNode.className == "awayDraw"){
    leagueTable2TRs[y].children[0].style.backgroundColor = "#fcfc9b";
    leagueTable2TRs[y].children[1].style.backgroundColor = "#FFFFBF";
    leagueTable2TRs[y].children[2].style.backgroundColor = "#FFFFBF";   
@@ -2560,7 +2560,7 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
      leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
 leagueTable2TRs[y].children[2].style.fontWeight = "500";       
 }
-  if(last6AwayOpp[p].parentNode.className == "homeLoss") {
+  if(last6AwayOpp[p].parentNode.className == "awayLoss") {
    leagueTable2TRs[y].children[0].style.backgroundColor = "#fab2b2";
    leagueTable2TRs[y].children[1].style.backgroundColor = "#ffc6c6";
    leagueTable2TRs[y].children[2].style.backgroundColor = "#ffc6c6"; 
@@ -2571,7 +2571,7 @@ leagueTable2TRs[y].children[2].style.fontWeight = "500";
 leagueTable2TRs[y].children[2].style.fontWeight = "500";      
   }
 
-  if(last6AwayOpp[p].parentNode.className == "homeWin")
+  if(last6AwayOpp[p].parentNode.className == "awayWin")
   {
    leagueTable2TRs[y].children[0].style.backgroundColor = "#9aff82";
    leagueTable2TRs[y].children[1].style.backgroundColor = "#afff9c";
@@ -2581,7 +2581,7 @@ leagueTable2TRs[y].children[2].style.fontWeight = "500";
      leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
 leagueTable2TRs[y].children[2].style.fontWeight = "500";      
  }
-  if(last6AwayOpp[p].parentNode.className == "homeWinDiff2"){
+  if(last6AwayOpp[p].parentNode.className == "awayWinDiff2"){
    leagueTable2TRs[y].children[0].style.backgroundColor = "#00e873";
    leagueTable2TRs[y].children[1].style.backgroundColor = "springgreen";
    leagueTable2TRs[y].children[2].style.backgroundColor = "springgreen"; 
