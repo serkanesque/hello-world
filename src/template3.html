@@ -1971,7 +1971,7 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 0;width: 100%;margin-right: 20px;"><tr><th colspan=6>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '>';
-if(last6Home[h].class == "awayLoss" || "awayWin" || "awayDraw") {
+if(last6Home[h].class == "awayLoss" || last6Home[h].class == "awayWin" ||last6Home[h].class == "awayDraw" ||last6Home[h].class == "awayWinDiff2") {
   console.log(last6Home[h].class);
 sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+last6Home[h].hName.split(' ').join('')  +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td> - </td><td  class="score">' +  last6Home[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Home[h].opponent  +'>' + last6Home[h].aName + '</td></tr>';
 }else {
