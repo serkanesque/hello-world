@@ -2537,7 +2537,62 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
 }
 
 
+ for (var p = 0; p < last6AwayOpp.length; p++) {
+   for (var y = 0; y < leagueTable2TRs.length;y++) {
+     if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
+      {
+        leagueTable2TRs[y].childNodes[1].style.backgroundColor = "black";
+        leagueTable2TRs[y].childNodes[2].style.backgroundColor = "black";
+                leagueTable2TRs[y].childNodes[1].style.color = "#fff";
+                 leagueTable2TRs[y].childNodes[2].style.color = "#fff";
 
+      }
+
+  if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
+    LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
+    leagueTable2TRs[y].childNodes[0].innerHTML = LTscore;
+  if(last6AwayOpp[p].parentNode.className == "homeDraw"){
+   leagueTable2TRs[y].children[0].style.backgroundColor = "#fcfc9b";
+   leagueTable2TRs[y].children[1].style.backgroundColor = "#FFFFBF";
+   leagueTable2TRs[y].children[2].style.backgroundColor = "#FFFFBF";   
+      leagueTable2TRs[y].children[1].style.color = "#000";   
+      leagueTable2TRs[y].children[2].style.color = "#000";  
+     leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
+leagueTable2TRs[y].children[2].style.fontWeight = "500";       
+}
+  if(last6AwayOpp[p].parentNode.className == "homeLoss") {
+   leagueTable2TRs[y].children[0].style.backgroundColor = "#fab2b2";
+   leagueTable2TRs[y].children[1].style.backgroundColor = "#ffc6c6";
+   leagueTable2TRs[y].children[2].style.backgroundColor = "#ffc6c6"; 
+      leagueTable2TRs[y].children[1].style.borderLeft = "1px solid red !important";
+            leagueTable2TRs[y].children[1].style.color = "#000";   
+      leagueTable2TRs[y].children[2].style.color = "#000";   
+       leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
+leagueTable2TRs[y].children[2].style.fontWeight = "500";      
+  }
+
+  if(last6AwayOpp[p].parentNode.className == "homeWin")
+  {
+   leagueTable2TRs[y].children[0].style.backgroundColor = "#9aff82";
+   leagueTable2TRs[y].children[1].style.backgroundColor = "#afff9c";
+   leagueTable2TRs[y].children[2].style.backgroundColor = "#afff9c";
+         leagueTable2TRs[y].children[1].style.color = "#000";   
+      leagueTable2TRs[y].children[2].style.color = "#000";    
+     leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
+leagueTable2TRs[y].children[2].style.fontWeight = "500";      
+ }
+  if(last6AwayOpp[p].parentNode.className == "homeWinDiff2"){
+   leagueTable2TRs[y].children[0].style.backgroundColor = "#00e873";
+   leagueTable2TRs[y].children[1].style.backgroundColor = "springgreen";
+   leagueTable2TRs[y].children[2].style.backgroundColor = "springgreen"; 
+         leagueTable2TRs[y].children[1].style.color = "#000";   
+      leagueTable2TRs[y].children[2].style.color = "#000";   
+     leagueTable2TRs[y].children[1].style.fontWeight = "500"; 
+leagueTable2TRs[y].children[2].style.fontWeight = "500";      
+  } 
+}
+}
+}
 
 
 
