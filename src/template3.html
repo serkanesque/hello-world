@@ -2479,8 +2479,12 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
 
 
   if (leagueTableTRs[y].id == last6HomeGamesOpp[p].id) { 
+     for (var k = 0; k < last6HomeOpp.length; k++) {
+if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[0].innerHTML && last6HomeOpp[p].parentNode.childNodes[4].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[4].innerHTML) {
     L6score = last6HomeGamesOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeGamesOpp[p].parentNode.childNodes[3].innerHTML;
     leagueTableTRs[y].childNodes[3].innerHTML = L6score;
+
+
   if(last6HomeGamesOpp[p].parentNode.className == "awayDraw") 
     {
 
@@ -2517,7 +2521,9 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
      leagueTableTRs[y].children[1].style.fontWeight = "500"; 
 leagueTableTRs[y].children[2].style.fontWeight = "500";    
     }
+  }
   } 
+}
 }
 }
 
