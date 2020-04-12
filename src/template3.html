@@ -125,9 +125,12 @@ td.homeWin2 {
 .homeLossDiff2 {
   background-color: orangered;
 }
+.awayLossDiff2 {
+  background-color: orangered;
+}
 .awayWinDiff2 {
     background-color: #65fc91;
-    border-radius: 50%;
+
 }
 
 .pp {
@@ -1603,7 +1606,7 @@ resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
 scoreDiff = fixture.aScore - fixture.hScore;
-//if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
+if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
 if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 last6Home.push(resultObject);
 }
@@ -1619,6 +1622,8 @@ resultObject.hName = fixture.hName;
 resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
+if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
 last6Home.push(resultObject);
 }
 
@@ -1713,6 +1718,8 @@ resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
 last6Away.push(resultObject);
+scoreDiff = fixture.hScore - fixture.aScore;
+if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
 }
 
 
@@ -1726,6 +1733,8 @@ resultObject.hName = fixture.hName;
 resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
+scoreDiff = fixture.hScore - fixture.aScore;
+if(scoreDiff > 1) resultObject.class = "awayLossDiff2";
 
 if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 last6Away.push(resultObject);
@@ -2485,6 +2494,15 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
      leagueTableTRs[y].children[1].style.fontWeight = "500"; 
 leagueTableTRs[y].children[2].style.fontWeight = "500";      
   } 
+    if(last6HomeOpp[p].parentNode.className == "homeLossDiff2"){
+   leagueTableTRs[y].children[0].style.backgroundColor = "orangered";
+   leagueTableTRs[y].children[1].style.backgroundColor = "orangered";
+   leagueTableTRs[y].children[2].style.backgroundColor = "orangered"; 
+         leagueTableTRs[y].children[1].style.color = "#000";   
+      leagueTableTRs[y].children[2].style.color = "#000";   
+     leagueTableTRs[y].children[1].style.fontWeight = "500"; 
+leagueTableTRs[y].children[2].style.fontWeight = "500";      
+  } 
 }
 }
 }
@@ -2542,6 +2560,15 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
          leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0"; leagueTableTRs[y].children[1].style.backgroundColor = "#65fc91";
         leagueTableTRs[y].children[2].style.backgroundColor = "#65fc91";
             leagueTableTRs[y].children[3].style.backgroundColor = "#65fc91";                leagueTableTRs[y].children[1].style.color = "#000";   
+      leagueTableTRs[y].children[2].style.color = "#000"; 
+     leagueTableTRs[y].children[1].style.fontWeight = "500"; 
+leagueTableTRs[y].children[2].style.fontWeight = "500";    
+    }
+     if(last6HomeGamesOpp[p].parentNode.className == "awayLossDiff2") {  
+     leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px"; 
+         leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0"; leagueTableTRs[y].children[1].style.backgroundColor = "orangered";
+        leagueTableTRs[y].children[2].style.backgroundColor = "orangered";
+            leagueTableTRs[y].children[3].style.backgroundColor = "orangered";                leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000"; 
      leagueTableTRs[y].children[1].style.fontWeight = "500"; 
 leagueTableTRs[y].children[2].style.fontWeight = "500";    
