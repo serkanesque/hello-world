@@ -2457,8 +2457,8 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
       }
      if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.nextSibling.className) 
       {
-        leagueTableTRs[y].childNodes[1].style.backgroundColor = "orangered";
-        leagueTableTRs[y].childNodes[2].style.backgroundColor = "orangered";
+        leagueTableTRs[y].childNodes[1].style.backgroundColor = "tomato";
+        leagueTableTRs[y].childNodes[2].style.backgroundColor = "tomato";
                 leagueTableTRs[y].childNodes[1].style.color = "#000";
                  leagueTableTRs[y].childNodes[2].style.color = "#000";
 
@@ -2591,7 +2591,16 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
                  leagueTable2TRs[y].childNodes[2].style.color = "#fff";
 
       }
+     if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.nextSibling.className) 
+      {
+        leagueTable2TRs[y].childNodes[1].style.backgroundColor = "tomato";
+        leagueTable2TRs[y].childNodes[2].style.backgroundColor = "tomato";
+        leagueTable2TRs[y].childNodes[1].style.borderRadius = "50px 0 0  50px";
+        leagueTable2TRs[y].childNodes[2].style.borderRadius = "0 50px 50px 0"; 
+                leagueTable2TRs[y].childNodes[1].style.color = "#000";
+                 leagueTable2TRs[y].childNodes[2].style.color = "#000";
 
+      }
   if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
     LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
     leagueTable2TRs[y].childNodes[0].innerHTML = LTscore;
