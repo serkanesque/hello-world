@@ -2506,6 +2506,8 @@ if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].pa
   if(last6HomeGamesOpp[p].parentNode.className == "awayDraw") 
     {
 
+    leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px";
+        leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0";
     leagueTableTRs[y].children[1].style.backgroundColor = "#FFFFBF";
     leagueTableTRs[y].children[2].style.backgroundColor = "#FFFFBF";
       leagueTableTRs[y].children[3].style.backgroundColor = "#FFFFBF";
@@ -2515,6 +2517,8 @@ if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].pa
 leagueTableTRs[y].children[2].style.fontWeight = "500";    
     }
   if(last6HomeGamesOpp[p].parentNode.className == "awayLoss") {
+        leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px";
+            leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0";
     leagueTableTRs[y].children[1].style.backgroundColor = "#ffc6c6";
         leagueTableTRs[y].children[2].style.backgroundColor = "#ffc6c6";
             leagueTableTRs[y].children[3].style.backgroundColor = "#ffc6c6";            leagueTableTRs[y].children[1].style.color = "#000";   
@@ -2523,7 +2527,8 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
 leagueTableTRs[y].children[2].style.fontWeight = "500";      }
 
   if(last6HomeGamesOpp[p].parentNode.className == "awayWin")
-  { 
+  {     leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px";
+    leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0";
     leagueTableTRs[y].children[1].style.backgroundColor = "#afff9c";
         leagueTableTRs[y].children[2].style.backgroundColor = "#afff9c";
             leagueTableTRs[y].children[3].style.backgroundColor = "#afff9c";                leagueTableTRs[y].children[1].style.color = "#000";   
@@ -2532,7 +2537,9 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";      }
 leagueTableTRs[y].children[2].style.fontWeight = "500";      
 
 }
- if(last6HomeGamesOpp[p].parentNode.className == "awayWinDiff2") {    leagueTableTRs[y].children[1].style.backgroundColor = "springgreen";
+ if(last6HomeGamesOpp[p].parentNode.className == "awayWinDiff2") {  
+     leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px"; 
+         leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0"; leagueTableTRs[y].children[1].style.backgroundColor = "springgreen";
         leagueTableTRs[y].children[2].style.backgroundColor = "springgreen";
             leagueTableTRs[y].children[3].style.backgroundColor = "springgreen";                leagueTableTRs[y].children[1].style.color = "#000";   
       leagueTableTRs[y].children[2].style.color = "#000"; 
