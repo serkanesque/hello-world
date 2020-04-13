@@ -236,7 +236,7 @@ border: 0 !important
    visibility: hidden;
    display: block;
    height: 10px;
-   width: 240px;
+   width: 245px;
    margin-right: 20px;
    margin-top: 69px;
    position: relative;
@@ -318,7 +318,7 @@ color: #555;
     border-top: 1px solid #ccc !important;
 }
 */
-#last6games td,#last6gamesAway td   {
+#last6games td,#last6gamesAway #td   {
   font-weight: 600 !important;
       text-transform: uppercase;
       font-size: 13px !important;
@@ -2471,9 +2471,9 @@ leagueTableTRs[y].childNodes[1].style.fontWeight = "500";
       {
         leagueTableTRs[y].childNodes[1].style.backgroundColor = "tomato";
         leagueTableTRs[y].childNodes[2].style.backgroundColor = "tomato";
-                leagueTableTRs[y].childNodes[1].style.color = "#000";
-                 leagueTableTRs[y].childNodes[2].style.color = "#000";
-                   leagueTableTRs[y].childNodes[1].style.textTransform = "uppercase";   
+    leagueTableTRs[y].childNodes[1].style.color = "#000";
+     leagueTableTRs[y].childNodes[2].style.color = "#000";
+       leagueTableTRs[y].childNodes[1].style.textTransform = "uppercase";   
    leagueTableTRs[y].childNodes[1].style.fontSize = "13px";  
 leagueTableTRs[y].childNodes[1].style.fontWeight = "500";  
 
@@ -2604,9 +2604,9 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
         leagueTable2TRs[y].childNodes[2].style.borderRadius = "0 50px 50px 0"; 
                 leagueTable2TRs[y].childNodes[1].style.color = "#fff";
                  leagueTable2TRs[y].childNodes[2].style.color = "#fff";
-                   leagueTableTRs[y].childNodes[1].style.textTransform = "uppercase";   
-   leagueTableTRs[y].childNodes[1].style.fontSize = "13px";  
-leagueTableTRs[y].childNodes[1].style.fontWeight = "500";  
+                   leagueTable2TRs[y].childNodes[1].style.textTransform = "uppercase";   
+   leagueTable2TRs[y].childNodes[1].style.fontSize = "13px";  
+leagueTable2TRs[y].childNodes[1].style.fontWeight = "500";  
 
       }
      if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.previousSibling.className) 
@@ -2618,8 +2618,8 @@ leagueTableTRs[y].childNodes[1].style.fontWeight = "500";
                 leagueTable2TRs[y].childNodes[1].style.color = "#000";
                  leagueTable2TRs[y].childNodes[2].style.color = "#000";
                    leagueTableTRs[y].childNodes[1].style.textTransform = "uppercase";   
-   leagueTableTRs[y].childNodes[1].style.fontSize = "13px";  
-leagueTableTRs[y].childNodes[1].style.fontWeight = "500";  
+   leagueTabl2eTRs[y].childNodes[1].style.fontSize = "13px";  
+leagueTable2TRs[y].childNodes[1].style.fontWeight = "500";  
 
       }
   if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
