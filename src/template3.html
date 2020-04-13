@@ -328,13 +328,13 @@ color: #555;
         text-transform: capitalize;
             font-size: 14px !important;
 }
- #grid div:nth-of-type(2) table td {
+ #grid div:nth-of-type(2) table td, #grid div:nth-of-type(2) table:nth-of-type(2) td {
     font-weight: 600;
     text-transform: uppercase;
     font-size: 13px !important;
 
   }
- #grid div:nth-of-type(2) table td.oppo {
+ #grid div:nth-of-type(2) table td.oppo,#grid div:nth-of-type(2) table:nth-of-type(2) td.oppo {
   font-weight: 400;
         text-transform: capitalize;
             font-size: 14px !important;
@@ -1989,7 +1989,7 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>This season h2h</th></tr>';
 
 for (h=0; h<thisSeassonH2H.length; h++) {
-  console.log(homeTeam.split(' ').join(''))
+
   if(homeTeam.split(' ').join('') == thisSeassonH2H[h].hName.split(' ').join('') ) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
   } else {
@@ -2004,7 +2004,11 @@ sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' 
 
 for (h=0; h<lastSeassonH2H.length; h++) {
 
+  if(homeTeam.split(' ').join('') == thisSeassonH2H[h].hName.split(' ').join('') ) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
+}else {
+sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
+}
 }
 
 sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padding-top: 8px !important;">';
