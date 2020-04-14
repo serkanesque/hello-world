@@ -2169,10 +2169,11 @@ if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
 }
 
 
-
+console.log(seasonFixtures.length);
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
+   console.log(seasonFixtures.length);
 var showLeague = 0;
    function myCallback() {
       homeMatches = document.querySelectorAll(".hm");
@@ -2314,7 +2315,7 @@ var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
  //console.log(awayInnerDivs.length);
 //seasonLength = (awayInnerDivs.length*2)-2;
 
-console.log(seasonFixtures.length);
+
 
 yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6HomeGamesOpp,last6AwayGamesOpp);
 tdsArray = [];
