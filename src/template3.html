@@ -347,12 +347,20 @@ color: #555;
       padding: 0 6px !important;
 }
 */
+h1 {
+      font-size: 15px;
+    width: 100%;
+    margin: 20px 0 12px 0;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+}
 h1 span {
   font-weight: 400;
     font-size: 14px;
     color: #333;
-
 }
+
 </style>  
 
 <div id="nav" class="nav" style="display: none;"></div>
@@ -1448,7 +1456,7 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
 console.log(homeTeamFixturesArray.length)
 
-document.getElementById("leagueName").innerHTML = leagueName + '<span> - ' + (homeTeamFixturesArray.length + 1) + ' of ' + ((homeTable.length*2)-2) +'</span>';
+document.getElementById("leagueName").innerHTML = leagueName + '<span>' + (homeTeamFixturesArray.length + 1) + ' of ' + ((homeTable.length*2)-2) +'</span>';
 
 
 for(h=0; h<thisSeassonH2H.length;h++){
