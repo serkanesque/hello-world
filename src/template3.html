@@ -930,7 +930,7 @@ if(league=="newzealand1") clearInterval(interval);
  markup = "";
  var awayContainerDiv = document.getElementById("homeRows");
  var awayInnerDivs = awayContainerDiv.getElementsByClassName("odd");
- console.log(awayInnerDivs,awayInnerDivs.length);
+
  homeTable = [];
  var totalDrawn = 0;
  var totalPlayed = 0;
@@ -966,8 +966,6 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
   //  console.log(team)
  }
-
-
 
 
 
@@ -2135,7 +2133,7 @@ if(numGames == 0){
   if (a.points > b.points) return -1;
   if (a.points < b.points) return 1;
  });
-pointsMarkup = "";
+pointsMarkup = '<tr id="round"></tr>';
  for (var i = 0; i < leagueTable.length; i++) {
   var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td id="LTscore"></td><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td><td id="L6score"></td></tr>';
 
@@ -2143,6 +2141,7 @@ pointsMarkup = "";
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
   document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+
 
 
 
@@ -2309,6 +2308,12 @@ last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
 var leagueTable2 = document.getElementById('leagueTable2');
 var leagueTable2TRs = leagueTable2.getElementsByTagName("tr");
 var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
+
+
+//homeTable
+ //console.log(awayInnerDivs.length);
+seasonLength = (awayInnerDivs.length*2)-2;
+console.log(homeTeamFixturesArray.length);
 
 yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6HomeGamesOpp,last6AwayGamesOpp);
 tdsArray = [];
