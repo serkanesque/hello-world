@@ -1415,7 +1415,7 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
             const awayTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == awayTeam || team.aName == awayTeam});
 
 
-
+console.log(homeTeamFixturesArray.length,awayTeamFixturesArray.length )
             const pastHomeFixture =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
 
 
@@ -2169,11 +2169,10 @@ if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
 }
 
 
-console.log(seasonFixtures.length);
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
-   console.log(seasonFixtures.length);
+
 var showLeague = 0;
    function myCallback() {
       homeMatches = document.querySelectorAll(".hm");
