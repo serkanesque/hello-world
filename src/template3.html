@@ -323,9 +323,9 @@ color: #555;
       text-transform: uppercase;
       font-size: 13px !important;
 }
-#last6games .oppo,#last6gamesAway .oppo {
+#fixturesTable #last6games tr td.oppo,#fixturesTable #last6gamesAway tr td.oppo  {
   font-weight: 400 !important;
-        text-transform: capitalize;
+        text-transform: capitalize !important;
             font-size: 14px !important;
 }
  #grid div:nth-of-type(2) table td, #grid div:nth-of-type(2) table:nth-of-type(2) td {
@@ -918,43 +918,6 @@ if(league=="newzealand1") clearInterval(interval);
  var fix2ContainerDiv = document.getElementById("fixtures");
  var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("trow2");
  if(fix2InnerDivs.length == 0 ) var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
-
-
-
-
-
-
-/*
-            time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
-            fixture = fixturesInnerDivs[i].childNodes[3].textContent;            
-            fixture = fixture.trim();
-            fixture = fixture.split(' - ');
-            homeTeam = fixture[0].trim();
-            awayTeam = fixture[1].trim();
- 
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
