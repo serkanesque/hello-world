@@ -1969,7 +1969,7 @@ homeGoalsAgainst = homeTable[j].goalsA;
 hgWins = 0;
 hgLost = 0;
 hgDrawn = 0;
-for(y=0;y<last6Home;y++){
+for(y=0;y<last6Home.length;y++){
   if(last6Home[y].class == "homeWin" || last6Home[y].class  == "homeWinDiff2") hgWins = hgWins + 1;
   if(last6Home[y].class == "homeLoss") hgLost = hgLost + 1;
   if(last6Home[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
