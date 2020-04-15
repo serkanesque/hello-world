@@ -1977,7 +1977,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td sty
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away </th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away' + '<span></span> </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+awayGameTotal[h].opponent  +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
@@ -2018,7 +2018,7 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 0;width: 100%;margin-right: 20px;"><tr><th colspan=6>' + homeTeam +' last 6</th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6games" style="margin-top: 0;width: 100%;margin-right: 20px;"><tr><th colspan=6>' + homeTeam +' last 6' + '<span></span></th></tr>';
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '>';
 if(last6Home[h].class == "awayLoss" || last6Home[h].class == "awayWin" ||last6Home[h].class == "awayDraw" ||last6Home[h].class == "awayWinDiff2") {
@@ -2036,7 +2036,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 
 
-sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 0;width: 100%;"><tr><th colspan=6>' + awayTeam +' last 6</th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6gamesAway" style="margin-top: 0;width: 100%;"><tr><th colspan=6>' + awayTeam +' last 6' + '<span></span></th></tr>';
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '>';
 if(last6Away[h].class == "awayLoss" || last6Away[h].class == "awayWin" ||last6Away[h].class == "awayDraw" ||last6Away[h].class == "awayWinDiff2") {
