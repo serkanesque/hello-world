@@ -1986,11 +1986,12 @@ for(y=0;y<last6Home.length;y++){
 
 sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
 
-sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6><div><span class="dot"></span><span>' + homeTeam + ' home </span><span>'  + hgWins + 'W' + " " + hgLost + 'L' +" " + hgDrawn + 'D'  + '</span></div></th></tr>';
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6><div><span class="dot"></span><span>' + homeTeam + ' home </span></div></th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
 
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6"><span>'  + hgWins +  '</span><span>' + hgLost + '</span><span>' + hgDrawn + '</span></td><tr>';
 sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away' + '<span></span> </th></tr>';
