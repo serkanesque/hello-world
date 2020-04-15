@@ -2024,6 +2024,8 @@ for(y=0;y<last6Home.length;y++){
   if(last6Home[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
 }
 
+
+
 sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
 
 //sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6><div><span class="dot"></span><span>' + homeTeam + ' home </span><span>'  + hgWins + 'W' + " " + hgLost + 'L' +" " + hgDrawn + 'D'  + '</span></div></th></tr>';
@@ -2543,6 +2545,7 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
    for (var y = 0; y < leagueTableTRs.length;y++) {
      if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
       {
+ leagueTableTRs[y].childNodes[0].innerHTML = y;
         leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
         leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";
                 leagueTableTRs[y].childNodes[1].style.color = "#fff";
