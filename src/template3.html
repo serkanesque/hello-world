@@ -1966,13 +1966,11 @@ homeGoalsAgainst = homeTable[j].goalsA;
 }
 }
 
-hgWon = 0;
-hgLost = 0;
-hgDrawn = 0;
+
 for(y=0;y<homeGameTotal;y++){
-  if(homeGameTotal[y] == "homeWin" || homeGameTotal[y] == "homeWinDiff2") hgWins = hgWins + 1;
-  if(homeGameTotal[y] == "homeLoss") hgLost = hgLost + 1;
-  if(homeGameTotal[y] == "homeDraw") hgDrawn = hgDrawn + 1;
+  if(homeGameTotal[y].class == "homeWin" || homeGameTotal[y] == "homeWinDiff2") hgWins = hgWins + 1;
+  if(homeGameTotal[y].class == "homeLoss") hgLost = hgLost + 1;
+  if(homeGameTotal[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
 }
 
 sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
