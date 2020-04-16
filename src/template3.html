@@ -2057,11 +2057,12 @@ homeGoalsAgainst = homeTable[j].goalsA;
 hgWins = 0;
 hgLost = 0;
 hgDrawn = 0;
+  console.log(last6Home.length)
 for(y=0;y<last6Home.length;y++){
   if(last6Home[y].class == "homeWin" || last6Home[y].class  == "homeWinDiff2") hgWins = hgWins + 1;
   if(last6Home[y].class == "homeLoss") hgLost = hgLost + 1;
   if(last6Home[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
-  console.log(last6Home.length)
+
 }
 
 hgWinsP = (100/6)*hgWins;
