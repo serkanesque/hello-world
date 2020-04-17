@@ -2654,19 +2654,17 @@ function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6Ho
    for (var y = 0; y < leagueTableTRs.length;y++) {
      if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
       {
-    leagueTableTRs[y].childNodes[0].innerHTML =  y + '.';
-    leagueTableTRs[y].childNodes[0].style.fontStyle = "italic";
-    leagueTableTRs[y].childNodes[0].style.backgroundColor = "black";
+    leagueTableTRs[y].childNodes[0].innerHTML =  y;
+    leagueTableTRs[y].childNodes[0].style.backgroundColor = "#e91e63";
     leagueTableTRs[y].childNodes[0].style.color = "#fff";
     leagueTableTRs[y].childNodes[1].style.backgroundColor = "black";
     leagueTableTRs[y].childNodes[2].style.backgroundColor = "black";
     leagueTableTRs[y].childNodes[1].style.color = "#fff";
     leagueTableTRs[y].childNodes[2].style.color = "#fff";
     leagueTableTRs[y].childNodes[1].style.textTransform = "uppercase";   
-    leagueTableTRs[y].childNodes[1].style.fontSize = "13px";  
+    leagueTableTRs[y].childNodes[1].style.fontSize = "12px";  
     leagueTableTRs[y].childNodes[1].style.fontWeight = "500";  
-    leagueTableTRs[y].childNodes[0].style.borderRadius = "50px 0 0  50px";
-    leagueTableTRs[y].childNodes[2].style.borderRadius = "0 50px 50px 0"; 
+
 
       }
      if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.nextSibling.className) 
@@ -2805,8 +2803,7 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
       {
         leagueTable2TRs[y].childNodes[1].style.backgroundColor = "black";
         leagueTable2TRs[y].childNodes[2].style.backgroundColor = "black";
-        leagueTable2TRs[y].childNodes[1].style.borderRadius = "50px 0 0  50px";
-        leagueTable2TRs[y].childNodes[2].style.borderRadius = "0 50px 50px 0"; 
+
                 leagueTable2TRs[y].childNodes[1].style.color = "#fff";
                  leagueTable2TRs[y].childNodes[2].style.color = "#fff";
                    leagueTable2TRs[y].childNodes[1].style.textTransform = "uppercase";   
@@ -2818,8 +2815,7 @@ leagueTable2TRs[y].childNodes[1].style.fontWeight = "500";
       {
         leagueTable2TRs[y].childNodes[1].style.backgroundColor = "#005ae8";
         leagueTable2TRs[y].childNodes[2].style.backgroundColor = "#005ae8";
-        leagueTable2TRs[y].childNodes[1].style.borderRadius = "50px 0 0  50px";
-        leagueTable2TRs[y].childNodes[2].style.borderRadius = "0 50px 50px 0"; 
+
                 leagueTable2TRs[y].childNodes[1].style.color = "#000";
                  leagueTable2TRs[y].childNodes[2].style.color = "#000";
                    leagueTable2TRs[y].childNodes[1].style.textTransform = "uppercase";   
