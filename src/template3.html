@@ -2090,12 +2090,12 @@ if(agDrawn==0) agDtotalsClass = "hide";
 if(agLost==0) agLtotalsClass = "hide";
 
 
-hgWinsP = (100/6)*hgWins;
-hgLostP = (100/6)*hgLost;
-hgDrawnP = (100/6)*hgDrawn;
-agWinsP = (100/6)*agWins;
-agLostP = (100/6)*agLost;
-agDrawnP = (100/6)*agDrawn;
+hgWinsP = Math.round((100/6)*hgWins);
+hgLostP = Math.round((100/6)*hgLost);
+hgDrawnP = Math.round((100/6)*hgDrawn);
+agWinsP = Math.round((100/6)*agWins);
+agLostP = Math.round((100/6)*agLost);
+agDrawnP = Math.round((100/6)*agDrawn);
 
 sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex">';
 
