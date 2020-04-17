@@ -2053,18 +2053,18 @@ homeGoalsFor = homeTable[j].goalsF;
 homeGoalsAgainst = homeTable[j].goalsA;
 }
 }
- console.log("1. " + last6Home.length)
+ console.log("1. " + hgWins)
 var hgWins = 0;
 var hgLost = 0;
 var hgDrawn = 0;
- console.log("2. " + last6Home.length)
+ console.log("2. " + hgWins)
 for(y=0;y<last6Home.length;y++){
   if(last6Home[y].class == "homeWin") hgWins = hgWins + 1;
   if(last6Home[y].class == "homeWinDiff2") hgWins = hgWins + 1;
   if(last6Home[y].class == "homeLoss") hgLost = hgLost + 1;
   if(last6Home[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
 }
-  console.log("3. " + last6Home.length)
+  console.log("3. " + hgWins)
 
 hgWinsP = (100/6)*hgWins;
 hgLostP = (100/6)*hgLost;
