@@ -2136,7 +2136,7 @@ sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex"
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam + ' home</th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
 sixGameMarkup = sixGameMarkup + '</table>';
@@ -2145,7 +2145,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away <span></span> </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+awayGameTotal[h].opponent  +'>' + awayGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+awayGameTotal[h].opponent  +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
 
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+agWtotalsClass+' style="width:'+agWinsP+'%"><i>' + agWins + '</i> Win</span><span class='+agDtotalsClass+' style="width:'+agDrawnP+'%"><i>' + agDrawn + '</i> Draw</span><span class='+agLtotalsClass+' style="width:'+agLostP+'%"><i>' + agLost + '</i> Lost</span></td></tr>';
@@ -2160,9 +2160,9 @@ sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' 
 for (h=0; h<thisSeassonH2H.length; h++) {
 
   if(homeTeam.split(' ').join('') == thisSeassonH2H[h].hName.split(' ').join('') ) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
   } else {
-sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td  style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ thisSeassonH2H[h].class + '><td class="oppo" style="text-align: right; width: 46%;padding-right: 6%;" id='+thisSeassonH2H[h].hName.split(' ').join('')  +'>' +  thisSeassonH2H[h].hName + '</td><td class="score">' + thisSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  thisSeassonH2H[h].aScore  + '</td><td  style="width: 46%;text-align: left;padding-left: 4%;" id='+thisSeassonH2H[h].opponent  +'>' + thisSeassonH2H[h].aName + '</td></tr>';
 }
 }
 
@@ -2174,9 +2174,9 @@ sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' 
 for (h=0; h<lastSeassonH2H.length; h++) {
 
   if(homeTeam.split(' ').join('') == lastSeassonH2H[h].hName.split(' ').join('') ) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
 }else {
-sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ lastSeassonH2H[h].class + '><td class="oppo" style="text-align: right; width: 46%;padding-right: 6%;" id='+lastSeassonH2H[h].hName.split(' ').join('')  +'>' +  lastSeassonH2H[h].hName + '</td><td class="score">' + lastSeassonH2H[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  lastSeassonH2H[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+lastSeassonH2H[h].opponent  +'>' + lastSeassonH2H[h].aName + '</td></tr>';
 }
 }
 
@@ -2190,10 +2190,10 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '>';
 if(last6Home[h].class == "awayLoss" || last6Home[h].class == "awayWin" ||last6Home[h].class == "awayDraw" ||last6Home[h].class == "awayWinDiff2") {
 
-sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+last6Home[h].hName.split(' ').join('')  +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  last6Home[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Home[h].opponent  +'>' + last6Home[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; width: 46%;padding-right: 6%;" id='+last6Home[h].hName.split(' ').join('')  +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  last6Home[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Home[h].opponent  +'>' + last6Home[h].aName + '</td></tr>';
 }else {
 
-  sixGameMarkup = sixGameMarkup + '<td style="text-align: right; width: 46%;padding-right: 4%;" id='+last6Home[h].hName.split(' ').join('')  +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  last6Home[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Home[h].opponent  +'>' + last6Home[h].aName + '</td></tr>';
+  sixGameMarkup = sixGameMarkup + '<td style="text-align: right; width: 46%;padding-right: 6%;" id='+last6Home[h].hName.split(' ').join('')  +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score"> - </td><td  class="score">' +  last6Home[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Home[h].opponent  +'>' + last6Home[h].aName + '</td></tr>';
 }
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+sixWtotalsClass+' style="width:'+sixWinsP+'%"><i>' + sixWins + '</i> Win</span><span class='+sixDtotalsClass+' style="width:'+sixDrawnP+'%"><i>' + sixDrawn + '</i> Draw</span><span class='+sixLtotalsClass+' style="width:'+sixLostP+'%"><i>' + sixLost + '</i> Lost</span></td></tr>';
@@ -2210,10 +2210,10 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '>';
 if(last6Away[h].class == "awayLoss" || last6Away[h].class == "awayWin" ||last6Away[h].class == "awayDraw" ||last6Away[h].class == "awayWinDiff2") {
 
-sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; width: 46%;padding-right: 4%;" id='+last6Away[h].hName.split(' ').join('')  +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td> - </td><td  class="score">' +  last6Away[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Away[h].opponent  +'>' + last6Away[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; width: 46%;padding-right: 6%;" id='+last6Away[h].hName.split(' ').join('')  +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td> - </td><td  class="score">' +  last6Away[h].aScore  + '</td><td style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Away[h].opponent  +'>' + last6Away[h].aName + '</td></tr>';
 }else {
 
-  sixGameMarkup = sixGameMarkup + '<td style="text-align: right; width: 46%;padding-right: 4%;" id='+last6Away[h].hName.split(' ').join('')  +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td> - </td><td  class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Away[h].opponent  +'>' + last6Away[h].aName + '</td></tr>';
+  sixGameMarkup = sixGameMarkup + '<td style="text-align: right; width: 46%;padding-right: 6%;" id='+last6Away[h].hName.split(' ').join('')  +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td> - </td><td  class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+last6Away[h].opponent  +'>' + last6Away[h].aName + '</td></tr>';
 }
 }
 sixGameMarkup = sixGameMarkup + '</table></div>';
