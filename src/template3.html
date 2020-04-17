@@ -26,7 +26,7 @@ table {
 
 section { display: none; }
 .nav a { display: inline-block; margin-right: 20px; }
-.hw {background-color: lightgreen;}
+.hw {background-color: #afff9b;}
 .aw {background-color: pink;}
 .d {background-color: lightgray;}
 .d {background-color: lightgray;}
@@ -76,14 +76,14 @@ background-color: pink;
 min-width: 15px;
 }
 .homeWin, .awayWin{
-background-color: lightgreen;
+background-color: #afff9b;
 }
 
 tr.homeWin td:nth-child(2),tr.homeWin td:nth-child(3),tr.homeWin td:nth-child(4){
-background-color: lightgreen;
+background-color: #afff9b;
 }
 tr.awayWin td:nth-child(2),tr.awayWin td:nth-child(3),tr.awayWin td:nth-child(4){
-background-color: lightgreen;
+background-color: #afff9b;
 }
 tr.homeLoss td:nth-child(2),tr.homeLoss td:nth-child(3),tr.homeLoss td:nth-child(4){
 background-color: #ffc6c6;
@@ -451,7 +451,7 @@ font-style: normal;
 }
 .flex table tr td span:nth-of-type(1) {
 
-    background-color: lightgreen;
+    background-color: #afff9b;
 }
 
 .flex table tr td span:nth-of-type(3) {
@@ -2083,7 +2083,6 @@ sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex"
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam + ' home</th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
-
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
@@ -2471,7 +2470,7 @@ for (var j = 0; j < last6HomeTRs.length; j++) {
       for (var p = 0; p < leagueTableTRs.length; p++) {
        
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        leagueTableTRs[p].style.backgroundColor = "#afff9b";
         } 
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[4].id) {            
         leagueTableTRs[p].style.backgroundColor = "pink";
@@ -2481,7 +2480,7 @@ for (var j = 0; j < last6HomeTRs.length; j++) {
         last6HomeTRs[j].addEventListener("mouseout", function(e) {  
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        leagueTableTRs[p].style.backgroundColor = "#afff9b";
         } 
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[4].id) {            
         leagueTableTRs[p].style.backgroundColor = "white";
@@ -2505,7 +2504,7 @@ for (var j = 0; j < last6AwayTRs.length; j++) {
               console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        leagueTableTRs[p].style.backgroundColor = "#afff9b";
         } 
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
         leagueTableTRs[p].style.backgroundColor = "pink";
@@ -2534,7 +2533,7 @@ for (var j = 0; j < last6HomeAnyTRs.length; j++) {
               console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        leagueTableTRs[p].style.backgroundColor = "#afff9b";
         } 
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
         leagueTableTRs[p].style.backgroundColor = "pink";
@@ -2561,7 +2560,7 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
               console.log(e.currentTarget.childNodes[0].id)
       for (var p = 0; p < leagueTableTRs.length; p++) {
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        leagueTableTRs[p].style.backgroundColor = "#afff9b";
         } 
         if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
         leagueTableTRs[p].style.backgroundColor = "pink";
