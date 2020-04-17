@@ -2059,13 +2059,16 @@ var hgLost = 0;
 var hgDrawn = 0;
 
 for(y=0;y<homeGameTotal.length;y++){
-   console.log(homeTeam,homeGameTotal[y].class)
+  
   if(homeGameTotal[y].class == "homeWin") hgWins = hgWins + 1;
   if(homeGameTotal[y].class == "homeWinDiff2") hgWins = hgWins + 1;
   if(homeGameTotal[y].class == "homeLoss") hgLost = hgLost + 1;
   if(homeGameTotal[y].class == "homeDraw") hgDrawn = hgDrawn + 1;
 }
-  console.log("3. " + hgWins)
+
+if(hgWins==0) totalsClass = "hide";
+if(hgDrawn==0) totalsClass = "hide";
+if(hgLost==0) totalsClass = "hide";
 
 hgWinsP = (100/6)*hgWins;
 hgLostP = (100/6)*hgLost;
@@ -2080,7 +2083,7 @@ for (h=0; h<homeGameTotal.length; h++) {
 
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 4%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 4%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Wins</span><span style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draws</span><span style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+totalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Wins</span><span class='+totalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draws</span><span class='+totalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
 sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away' + '<span></span> </th></tr>';
