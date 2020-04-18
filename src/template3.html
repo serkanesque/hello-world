@@ -2142,9 +2142,9 @@ if(agLost==0) agLtotalsClass = "hide";
 if(sixWins==0) sixWtotalsClass = "hide";
 if(sixDrawn==0) sixDtotalsClass = "hide";
 if(sixLost==0) sixLtotalsClass = "hide";
-if(sixWinsAway==0) sixWtotalsClass = "hide";
-if(sixDrawnAway==0) sixDtotalsClass = "hide";
-if(sixLostAway==0) sixLtotalsClass = "hide";
+if(sixWinsAway==0) sixWtotalsAwayClass = "hide";
+if(sixDrawnAway==0) sixDtotalsAwayClass = "hide";
+if(sixLostAway==0) sixLtotalsAwayClass = "hide";
 
 hgWinsP = (100/6)*hgWins;
 hgLostP = (100/6)*hgLost;
@@ -2245,7 +2245,7 @@ sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; widt
   sixGameMarkup = sixGameMarkup + '<td style="text-align: right; width: 46%;padding-right: 6%;" id='+last6Away[h].hName.split(' ').join('')  +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td> - </td><td  class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 6%;" id='+last6Away[h].opponent  +'>' + last6Away[h].aName + '</td></tr>';
 }
 }
-sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+sixWtotalsClassAway+' style="width:'+sixWinsAwayP+'%"><i>' + sixWinsAway + '</i> Win</span><span class='+sixDtotalsClassAway+' style="width:'+sixDrawnAwayP+'%"><i>' + sixDrawnAway + '</i> Draw</span><span class='+sixLtotalsClassAway+' style="width:'+sixLostAwayP+'%"><i>' + sixLostAway + '</i> Lost</span></td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+sixWtotalsAwayClass+' style="width:'+sixWinsAwayP+'%"><i>' + sixWinsAway + '</i> Win</span><span class='+sixDtotalsAwayClass+' style="width:'+sixDrawnAwayP+'%"><i>' + sixDrawnAway + '</i> Draw</span><span class='+sixLtotalsAwaClassy+' style="width:'+sixLostAwayP+'%"><i>' + sixLostAway + '</i> Lost</span></td></tr>';
 
 
 sixGameMarkup = sixGameMarkup + '</table></div>';
