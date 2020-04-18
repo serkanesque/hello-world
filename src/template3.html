@@ -2679,11 +2679,30 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 
 function yes(th,last6HomeOpp,leagueTableTRs,last6AwayOpp,leagueTable2TRs,last6HomeGamesOpp,last6AwayGamesOpp){
 
+     for (var y = 0; y < leagueTableTRs.length;y++) {
+    //clear
+leagueTableTRs[y].childNodes[1].style.backgroundColor = "#f3f3f3";
+    leagueTableTRs[y].childNodes[2].style.backgroundColor = "#f3f3f3";
+    leagueTableTRs[y].childNodes[1].style.color = "#999";
+    leagueTableTRs[y].childNodes[2].style.color = "#999";
+    leagueTableTRs[y].childNodes[1].style.textTransform = "capitalize";   
+    leagueTableTRs[y].childNodes[1].style.fontSize = "13px";  
+    leagueTableTRs[y].childNodes[1].style.fontWeight = "400";  
+       leagueTableTRs[y].childNodes[1].style.borderRadius = "0";
+   leagueTableTRs[y].childNodes[2].style.borderRadius = "0";
+       leagueTableTRs[y].childNodes[2].style.fontSize = "13px";  
+    leagueTableTRs[y].childNodes[2].style.fontWeight = "400";  
+  }
+
 
 
   //console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
+    //clear
+
+
+
      if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
       {
     //leagueTableTRs[y].childNodes[0].innerHTML =  y;
@@ -2774,6 +2793,8 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
 
 
 
+
+
  for (var p = 0; p < last6HomeGamesOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
 
@@ -2834,6 +2855,23 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
 }
 }
 }
+
+
+
+     for (var y = 0; y < leagueTable2TRs.length;y++) {
+    //clear
+leagueTable2TRs[y].childNodes[1].style.backgroundColor = "#f3f3f3";
+    leagueTable2TRs[y].childNodes[2].style.backgroundColor = "#f3f3f3";
+    leagueTable2TRs[y].childNodes[1].style.color = "#999";
+    leagueTable2TRs[y].childNodes[2].style.color = "#999";
+    leagueTable2TRs[y].childNodes[1].style.textTransform = "capitalize";   
+    leagueTable2TRs[y].childNodes[1].style.fontSize = "13px";  
+    leagueTable2TRs[y].childNodes[1].style.fontWeight = "400";  
+       leagueTable2TRs[y].childNodes[1].style.borderRadius = "0";
+   leagueTable2TRs[y].childNodes[2].style.borderRadius = "0";
+       leagueTable2TRs[y].childNodes[2].style.fontSize = "13px";  
+    leagueTable2TRs[y].childNodes[2].style.fontWeight = "400";  
+  }
 
 
  for (var p = 0; p < last6AwayOpp.length; p++) {
