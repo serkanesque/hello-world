@@ -2376,6 +2376,8 @@ var pointsMarkup =  '<tr id="round"></tr>';
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
   document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+  document.getElementById("leagueTable").deleteRow(0);
+document.getElementById("leagueTable2").deleteRow(0);
 
 
 
@@ -2406,8 +2408,7 @@ if(elemRect.top<5 && bottom > (1- (heightDelta - 75))){
 
 }
 
-document.getElementById("leagueTable").deleteRow(0);
-document.getElementById("leagueTable2").deleteRow(0);
+
 
 document.addEventListener('DOMContentLoaded', function(event) {
    var intervalID = window.setInterval(myCallback, 50);
