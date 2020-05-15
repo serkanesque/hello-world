@@ -548,6 +548,8 @@ background-color: #FFFFBF;
 // Give the parameter a variable name
 var league = getParameterByName('league');
 var leagueName  = league;
+if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
+if(leagueName == "germany2") leagueName = "Germany - Bundesliga 2";
 if(leagueName == "germany3") leagueName = "Germany - Liga";
 if(leagueName == "portugal1") leagueName = "Portugal - Primeira Liga"; 
  if(leagueName == "scotland2") leagueName = "Scotland - Championship"; 
