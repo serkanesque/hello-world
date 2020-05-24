@@ -949,6 +949,7 @@ oddsArray = [];
     fixture = oddsTRs[i].childNodes[3].textContent.trim();
     teams = fixture.split(' - ');
     drawOdds = oddsTRs[i].childNodes[7].textContent.trim();
+    console.log(oddsObject.hName);
     oddsObject.hName = teams[0];
     if(oddsObject.hName == "Central Coast Mariners") oddsObject.hName = "Central Coast";
     if(oddsObject.hName == "WS Wanderers") oddsObject.hName = "Western Sydney";
