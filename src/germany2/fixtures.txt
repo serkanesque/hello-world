@@ -1,713 +1,98 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+27</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri22
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-FC Nurnberg
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Fri. 22 May.
+</font><font color="green" size="1">17:30</font></td>
+<td> FC Nurnberg - Erzgebirge Aue</td>
 <td align="center">
-<span title="Wins: 3 (23.1%)Draws: 5 (38.5%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
+<b>1 - 1</b></td>
 <td align="center">
-<font color="green">
-2.85
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=236-8-10-2020-fc-nurnberg-erzgebirge-aue" target="_top" title="FC Nurnberg vs Erzgebirge Aue">stats</a></li>
-</ul></div>
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Erzgebirge Aue
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:4.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-18%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Fri. 22 May.
+</font><font color="green" size="1">17:30</font></td>
+<td> Heidenheim - Wehen Wiesbaden</td>
 <td align="center">
-<span title="Wins: 1 (7.7%)Draws: 4 (30.8%)Defeats: 8 (61.5%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:20.3px;"></div></span>
-</td>
+<b>1 - 0</b></td>
 <td align="center">
-<font color="green">
-2.54
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri22
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Heidenheim
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-64%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 23 May.
+</font><font color="green" size="1">12:00</font></td>
+<td> Darmstadt - Sankt Pauli</td>
 <td align="center">
-<span title="Wins: 7 (53.8%)Draws: 4 (30.8%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:17.8px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:5.1px;"></div></span>
-</td>
+<b>4 - 0</b></td>
 <td align="center">
-<font color="green">
-2.54
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=242-14-15-2020-heidenheim-wehen-wiesbaden" target="_top" title="Heidenheim vs Wehen Wiesbaden">stats</a></li>
-</ul></div>
+(1-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Wehen Wiesbaden
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-38%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 23 May.
+</font><font color="green" size="1">12:00</font></td>
+<td> Osnabruck - Hannover 96</td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 3 (23.1%)Defeats: 6 (46.2%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:15.2px;"></div></span>
-</td>
+<b>2 - 4</b></td>
 <td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+(1-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Darmstadt
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-51%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 23 May.
+</font><font color="green" size="1">12:00</font></td>
+<td> Sandhausen - Regensburg</td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 8 (61.5%)Defeats: 1 (7.7%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:20.3px;"></div><div class="barred" style="width:2.5px;"></div></span>
-</td>
+<b>0 - 0</b></td>
 <td align="center">
-<font color="red">
-2.46
-</font>
-</td>
-<td align="center">
-<font color="red">
-38%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=238-4-6-2020-darmstadt-sankt-pauli" target="_top" title="Darmstadt vs Sankt Pauli">stats</a></li>
-</ul></div>
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Sankt Pauli
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-22%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 24 May.
+</font><font color="green" size="1">12:30</font></td>
+<td> Hamburger SV - Bielefeld</td>
 <td align="center">
-<span title="Wins: 1 (8.3%)Draws: 5 (41.7%)Defeats: 6 (50.0%)"><div class="bargreen" style="width:2.8px;"></div><div class="barorange" style="width:13.8px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
+<b><a href="h2h.asp?league=germany2&amp;t1id=3&amp;t2id=5&amp;ly=2020" target="_top" title="Hamburger SV vs Bielefeld"><img alt="stats" src="img/staticon.png"/></a></b></td>
 <td align="center">
-<font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Osnabruck
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 24 May.
+</font><font color="green" size="1">12:30</font></td>
+<td> Holstein Kiel - Stuttgart</td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
+<b><a href="h2h.asp?league=germany2&amp;t1id=17&amp;t2id=1&amp;ly=2020" target="_top" title="Holstein Kiel vs Stuttgart"><img alt="stats" src="img/staticon.png"/></a></b></td>
 <td align="center">
-<font color="green">
-2.62
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=241-13-2-2020-osnabruck-hannover-96" target="_top" title="Osnabruck vs Hannover 96">stats</a></li>
-</ul></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Hannover 96
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:12.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-49%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 24 May.
+</font><font color="green" size="1">12:30</font></td>
+<td> Karlsruher SC - Bochum</td>
 <td align="center">
-<span title="Wins: 6 (46.2%)Draws: 1 (7.7%)Defeats: 6 (46.2%)"><div class="bargreen" style="width:15.2px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:15.2px;"></div></span>
-</td>
+<b><a href="h2h.asp?league=germany2&amp;t1id=16&amp;t2id=12&amp;ly=2020" target="_top" title="Karlsruher SC vs Bochum"><img alt="stats" src="img/staticon.png"/></a></b></td>
 <td align="center">
-<font color="green">
-2.85
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sandhausen
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Tue. 9 Jun.
+</font><font color="green" size="1">17:30</font></td>
+<td> Dynamo Dresden - Greuther Furth</td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 6 (46.2%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:15.2px;"></div><div class="barred" style="width:7.6px;"></div></span>
-</td>
+<b><a href="h2h.asp?league=germany2&amp;t1id=7&amp;t2id=9&amp;ly=2020" target="_top" title="Dynamo Dresden vs Greuther Furth"><img alt="stats" src="img/staticon.png"/></a></b></td>
 <td align="center">
-<font color="green">
-2.62
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=240-18-11-2020-sandhausen-regensburg" target="_top" title="Sandhausen vs Regensburg">stats</a></li>
-</ul></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Regensburg
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (23.1%)Draws: 3 (23.1%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:17.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.23
-</font>
-</td>
-<td align="center">
-<font color="green">
-62%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Dynamo Dresden
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (38.5%)Draws: 2 (15.4%)Defeats: 6 (46.2%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:15.2px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.62
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=239-7-9-2020-dynamo-dresden-greuther-furth" target="_top" title="Dynamo Dresden vs Greuther Furth">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Greuther Furth
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (23.1%)Draws: 5 (38.5%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.77
-</font>
-</td>
-<td align="center">
-<font color="red">
-38%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Hamburger SV
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:19.4px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-78%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (75.0%)Draws: 1 (8.3%)Defeats: 2 (16.7%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:2.8px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=235-3-5-2020-hamburger-sv-bielefeld" target="_top" title="Hamburger SV vs Bielefeld">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Bielefeld
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:17.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-72%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 8 (61.5%)Draws: 4 (30.8%)Defeats: 1 (7.7%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:2.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.23
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Holstein Kiel
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-39%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (25.0%)Draws: 5 (41.7%)Defeats: 4 (33.3%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:13.8px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.67
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=243-17-1-2020-holstein-kiel-stuttgart" target="_top" title="Holstein Kiel vs Stuttgart">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Stuttgart
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (23.1%)Draws: 5 (38.5%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.77
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun24
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-12:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Karlsruher SC
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.23
-</font>
-</td>
-<td align="center">
-<font color="red">
-38%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany2&amp;stats=237-16-12-2020-karlsruher-sc-bochum" target="_top" title="Karlsruher SC vs Bochum">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Bochum
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (25.0%)Draws: 3 (25.0%)Defeats: 6 (50.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
