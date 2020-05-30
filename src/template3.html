@@ -624,7 +624,7 @@ today = day.concat(" ",date)
 var n = d.getHours();
 var currentHours = d.getHours()
 var numGames = 0;
-var fixturesLoaded = false;
+var fixturesLoaded = "false";
 
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
@@ -1579,13 +1579,13 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
 
 console.log(fixturesLoaded);
-if(fixturesLoaded == false) {
+if(fixturesLoaded == "false") {
 console.log(fixturesLoaded);
 
             const homeTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
          
 if(league == "israel1") console.log(homeTeam, homeTeamFixturesArray)
-  fixturesLoaded = true;
+  fixturesLoaded = "true";
 }
 
             const awayTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == awayTeam || team.aName == awayTeam});
