@@ -39,30 +39,30 @@ Pts
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Slavia Prague
+Jihlava
 </td>
 <td align="center">
 <font color="green">
-13
+10
 </font>
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
-3
+0
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 <font color="blue">
-20
+27
 </font>
 </td>
 <td align="center">
 <font color="red">
-5
+12
 </font>
 </td>
 <td align="center">
@@ -82,21 +82,21 @@ Slavia Prague
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Viktoria Plzen
+FK Pardubice
 </td>
 <td align="center">
 <font color="green">
-12
+9
 </font>
 </td>
 <td align="center">
-6
+8
 </td>
 <td align="center">
-4
+0
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,97 @@ Viktoria Plzen
 </td>
 <td align="center">
 <font color="red">
-11
+4
 </font>
 </td>
 <td align="center">
-+8
++15
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Zbrojovka Brno
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++16
+</td>
+<td align="center">
+<b>
+23
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Viktoria Zizkov
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++10
 </td>
 <td align="center">
 <b>
@@ -120,82 +206,125 @@ Viktoria Plzen
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-3
+5
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Banik Ostrava
+FK Dukla Praha
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
 </td>
 <td align="center">
-5
+7
 </td>
 <td align="center">
-3
+0
 </td>
 <td align="center">
-5
+2
 </td>
 <td align="center">
 <font color="blue">
-12
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+11
 </font>
 </td>
 <td align="center">
--4
++10
 </td>
 <td align="center">
 <b>
-18
+21
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
+6
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Jablonec
+Hradec Kralove
 </td>
 <td align="center">
 <font color="green">
-13
+10
 </font>
 </td>
 <td align="center">
-4
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+FK Slavoj Vyseh
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-4
+2
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 <font color="blue">
-15
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+14
 </font>
 </td>
 <td align="center">
--8
++5
 </td>
 <td align="center">
 <b>
@@ -206,164 +335,78 @@ Jablonec
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Ceske Budejov.
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-21
-</font>
-</td>
-<td align="center">
-<font color="red">
-24
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Slovan Liberec
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Slovacko
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--8
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 8
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Sparta Prague
+SK Prostejov
 </td>
 <td align="center">
 <font color="green">
-12
+10
 </font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
 <font color="blue">
-14
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+10
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+MFK Chrudim
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
 </font>
 </td>
 <td align="center">
@@ -371,50 +414,7 @@ Sparta Prague
 </td>
 <td align="center">
 <b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Sigma Olomouc
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
 16
-</font>
-</td>
-<td align="center">
-<font color="red">
-19
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-12
 </b>
 </td>
 </tr>
@@ -426,38 +426,38 @@ Sigma Olomouc
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Karvina
+SK Lisen
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-7
+2
 </td>
 <td align="center">
 <font color="blue">
-9
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-21
+14
 </font>
 </td>
 <td align="center">
--12
++5
 </td>
 <td align="center">
 <b>
-10
+13
 </b>
 </td>
 </tr>
@@ -469,64 +469,64 @@ Karvina
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Teplice
+Trinec
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-24
-</font>
-</td>
-<td align="center">
--16
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Mlada Boleslav
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
 2
 </td>
 <td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Usti nad Labem
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
 3
 </td>
 <td align="center">
-8
+3
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -535,15 +535,15 @@ Mlada Boleslav
 </td>
 <td align="center">
 <font color="red">
-29
+9
 </font>
 </td>
 <td align="center">
--17
++3
 </td>
 <td align="center">
 <b>
-9
+12
 </b>
 </td>
 </tr>
@@ -555,38 +555,38 @@ Mlada Boleslav
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Zlin
+Varnsdorf
 </td>
 <td align="center">
 <font color="green">
-12
+9
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-8
+3
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 <font color="blue">
-8
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+15
 </font>
 </td>
 <td align="center">
--14
+0
 </td>
 <td align="center">
 <b>
-6
+12
 </b>
 </td>
 </tr>
@@ -598,38 +598,38 @@ Zlin
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Opava
+Vlasim
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-9
+1
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 <font color="blue">
-4
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-26
+12
 </font>
 </td>
 <td align="center">
--22
+-3
 </td>
 <td align="center">
 <b>
-6
+10
 </b>
 </td>
 </tr>
@@ -641,21 +641,21 @@ Opava
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Bohemians
+Vitkovice
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-10
+3
+</td>
+<td align="center">
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -664,15 +664,15 @@ Bohemians
 </td>
 <td align="center">
 <font color="red">
-30
+13
 </font>
 </td>
 <td align="center">
--18
+-1
 </td>
 <td align="center">
 <b>
-5
+9
 </b>
 </td>
 </tr>
@@ -684,38 +684,38 @@ Bohemians
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Pribram
+Sokolov
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-0
+3
 </td>
 <td align="center">
-12
+4
 </td>
 <td align="center">
 <font color="blue">
-5
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-35
+13
 </font>
 </td>
 <td align="center">
--30
+-3
 </td>
 <td align="center">
 <b>
-3
+9
 </b>
 </td>
 </tr>
