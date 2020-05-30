@@ -1969,7 +1969,7 @@ return resultObject
 
 console.log(homeTeamFixturesArray);
 
-
+if(homeTeamFixturesArray.length>0){
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
@@ -1993,7 +1993,7 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
  //  if(leagueName=="israel1") console.log(matchResult.lastGame,matchResult2.lastGame,matchResult3.lastGame,matchResult4.lastGame,matchResult5.lastGame,matchResult6.lastGame,matchResult7.lastGame,matchResult8.lastGame,matchResult9.lastGame,matchResult10.lastGame)
           
 }
-
+}
 
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
