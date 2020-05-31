@@ -2239,8 +2239,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
- var intervalID2 = window.setInterval(myCallback2, 1000);
-
+ var intervalID2 = window.setInterval(myCallback2, 500);
+var loop = 0;
    function myCallback2() {
     iframes = document.getElementsByTagName("iframe");
  
@@ -2260,7 +2260,8 @@ document.addEventListener('click', function(event) {
 })
 }
 //clearInterval(intervalID2);
-  console.log("Loop")
+loop++;
+  console.log(loop)
 }
 
 
