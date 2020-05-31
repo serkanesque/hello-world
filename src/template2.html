@@ -2239,7 +2239,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
- var intervalID2 = window.setInterval(myCallback2, 500);
+ var intervalID2 = window.setInterval(myCallback2, 1000);
 var loop = 0;
    function myCallback2() {
     iframes = document.getElementsByTagName("iframe");
@@ -2253,11 +2253,13 @@ let form = doc.getElementById('tables');
 
 iframes[f].style.height = form.clientHeight + 10 + 'px';
 
-document.addEventListener('click', function(event) {
+form.addEventListener('click', function(event) {
+ // console.log(iframe);
+ // console.log(win);
+ //   console.log(form);
   iframe.style.height = form.clientHeight + 10 + 'px';
 })
 }
-
 loop++;
   console.log(loop)
   if(loop>9)  clearInterval(intervalID2);
