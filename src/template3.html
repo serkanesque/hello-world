@@ -625,8 +625,7 @@ var n = d.getHours();
 var currentHours = d.getHours()
 var numGames = 0;
 var fixturesLoaded = "false";
-
-
+var numMatches = 0;
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
 
  document.getElementById("homeRows").innerHTML = response;
@@ -2100,6 +2099,10 @@ if(parseInt(fixtureDateNumber) < 3) {
 }
 
 console.log(fixtureDateNumber);
+if(fixtureDateNumber>0 && fixtureDateNumber<10) {
+  numMatches++;
+}
+console.log(numMatches);
 
     if(matchResult.lastGame != "D" && matchResult2.lastGame != "D" && matchResult3.lastGame != "D" && matchResult4.lastGame != "D" && matchResult5.lastGame != "D" && matchResult6.lastGame != "D" && matchResult7.lastGame != "D" && matchResult8.lastGame != "D" && matchResult9.lastGame != "D" && matchResult10.lastGame != "D" ) {
      // console.log(homeTeam)
