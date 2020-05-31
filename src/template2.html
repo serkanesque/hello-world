@@ -2257,9 +2257,10 @@ document.addEventListener('click', function(event) {
   iframe.style.height = form.clientHeight + 10 + 'px';
 })
 }
-//clearInterval(intervalID2);
+
 loop++;
   console.log(loop)
+  if(loop>5)  clearInterval(intervalID2);
 }
 
 
