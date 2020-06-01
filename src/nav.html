@@ -34,8 +34,11 @@ iframe {
 <script>
 function change(day) {
 	console.log(day);
-	if (day =='today') document.getElementById('iframe').src = 'home.html?league=germany1';
+	if (day =='today') {
+		document.getElementById('iframe').src = 'home.html?league=germany1';
+	} else {
 if (day =='tomorrow') document.getElementById('iframe').src = 'homeTomorrow.html?league=germany1';
+}
 }
 
 	</script>
