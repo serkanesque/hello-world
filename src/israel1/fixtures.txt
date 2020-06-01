@@ -13,42 +13,37 @@
 <tr><td colspan="11"></td></tr>
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Tue2
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:45
+<td align="left" height="20"><font color="#666666" size="1">
+&nbsp;away
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
+<td align="right">
 FC Ashdod
- </td>
-<td align="left" width="30">
--
+&nbsp;</td>
+<td align="left">
+<div class="graphwide"><div style="width:1.3px;" class="bargray"></div></div>
 </td>
 <td align="left">
-<font color="#666666" size="1">
--%
+<font size="1" color="#666666">
+5%
 </font>
 </td>
 <td align="center">
--
+<span title="Wins: 0 (0.0%)
+Draws: 2 (15.4%)
+Defeats: 11 (84.6%)"><div style="width:0.0px;" class="bargreen"></div><div style="width:5.1px;" class="barorange"></div><div style="width:27.9px;" class="barred"></div></span>
 </td>
 <td align="center">
--
+<font color="green">
+3.08
+</font>
 </td>
 <td align="center">
--%
+<font color="green">
+69%
+</font>
 </td>
 <td align="left">
-<div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=216-16-10-2020-fc-ashdod-hapoel-raanana" target="_top" title="FC Ashdod vs Hapoel Raanana">stats</a></li>
-</ul></div>
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr class="trow2">
@@ -67,7 +62,9 @@ Hapoel Raanana
 </font>
 </td>
 <td align="center">
-<span title="Wins: 0 (0.0%)Draws: 2 (15.4%)Defeats: 11 (84.6%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:27.9px;"></div></span>
+<span title="Wins: 0 (0.0%)
+Draws: 2 (15.4%)
+Defeats: 11 (84.6%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:27.9px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -107,7 +104,9 @@ Maccabi Netanya
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
+<span title="Wins: 5 (38.5%)
+Draws: 3 (23.1%)
+Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -144,7 +143,9 @@ Ironi Kiryat
 </font>
 </td>
 <td align="center">
-<span title="Wins: 1 (7.7%)Draws: 3 (23.1%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:22.8px;"></div></span>
+<span title="Wins: 1 (7.7%)
+Draws: 3 (23.1%)
+Defeats: 9 (69.2%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:22.8px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -184,7 +185,9 @@ Hapoel Tel Aviv
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 4 (30.8%)Defeats: 4 (30.8%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:10.2px;"></div></span>
+<span title="Wins: 5 (38.5%)
+Draws: 4 (30.8%)
+Defeats: 4 (30.8%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:10.2px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -221,7 +224,9 @@ B. Jerusalem
 </font>
 </td>
 <td align="center">
-<span title="Wins: 8 (61.5%)Draws: 2 (15.4%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:7.6px;"></div></span>
+<span title="Wins: 8 (61.5%)
+Draws: 2 (15.4%)
+Defeats: 3 (23.1%)"><div class="bargreen" style="width:20.3px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:7.6px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -262,7 +267,9 @@ Hapoel Hadera
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
+<span title="Wins: 5 (38.5%)
+Draws: 3 (23.1%)
+Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -299,7 +306,9 @@ Sektzia Nes
 </font>
 </td>
 <td align="center">
-<span title="Wins: 1 (7.7%)Draws: 5 (38.5%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:17.8px;"></div></span>
+<span title="Wins: 1 (7.7%)
+Draws: 5 (38.5%)
+Defeats: 7 (53.8%)"><div class="bargreen" style="width:2.5px;"></div><div class="barorange" style="width:12.7px;"></div><div class="barred" style="width:17.8px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -340,7 +349,9 @@ Hapoel Haifa
 </font>
 </td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
+<span title="Wins: 5 (38.5%)
+Draws: 3 (23.1%)
+Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -377,7 +388,9 @@ H. Beer Sheva
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (28.6%)Draws: 5 (35.7%)Defeats: 5 (35.7%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:11.8px;"></div></span>
+<span title="Wins: 4 (28.6%)
+Draws: 5 (35.7%)
+Defeats: 5 (35.7%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:11.8px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -417,7 +430,9 @@ M. Tel Aviv
 </font>
 </td>
 <td align="center">
-<span title="Wins: 9 (64.3%)Draws: 5 (35.7%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:21.2px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:0.0px;"></div></span>
+<span title="Wins: 9 (64.3%)
+Draws: 5 (35.7%)
+Defeats: 0 (0.0%)"><div class="bargreen" style="width:21.2px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:0.0px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -454,7 +469,9 @@ Maccabi Haifa
 </font>
 </td>
 <td align="center">
-<span title="Wins: 9 (69.2%)Draws: 2 (15.4%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:22.8px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:5.1px;"></div></span>
+<span title="Wins: 9 (69.2%)
+Draws: 2 (15.4%)
+Defeats: 2 (15.4%)"><div class="bargreen" style="width:22.8px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:5.1px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -495,7 +512,9 @@ Bnei Yehuda
 </font>
 </td>
 <td align="center">
-<span title="Wins: 2 (14.3%)Draws: 4 (28.6%)Defeats: 8 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
+<span title="Wins: 2 (14.3%)
+Draws: 4 (28.6%)
+Defeats: 8 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
@@ -532,7 +551,9 @@ Hapoel Hadera
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
+<span title="Wins: 4 (30.8%)
+Draws: 4 (30.8%)
+Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
 </td>
 <td align="center">
 <font color="red">
