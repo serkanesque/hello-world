@@ -2253,7 +2253,12 @@ let form = doc.getElementById('tables');
 
 iframes[f].style.height = form.clientHeight + 10 + 'px';
 
-console.log(iframes[f].style.height) 
+
+if(iframes[f].style.height == "89px"){
+  console.log(iframes[f].style.height) 
+ var frame =  document.getElementById(iframes[f]);
+  frame.parentNode.removeChild(frame);
+}
 
 form.addEventListener('click', function(event) {
  // console.log(iframe);
