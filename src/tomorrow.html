@@ -2085,11 +2085,6 @@ if(rowClassH == "nope" || rowClassA == "nope" || rowClassH == "homeWin2" || rowC
 if(parseInt(fixtureDateNumber) == d.getDate()) {
   displayClass = "hide";
 }
-console.log(fixtureDateNumber,d.getDate(),d.getDate() + 1)
-
-if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
-  displayClass = "show";
-}
 if(parseInt(fixtureDateNumber) < d.getDate()) {
   displayClass = "hide";
 }
@@ -2098,6 +2093,9 @@ if(parseInt(fixtureDateNumber) > 25) {
   displayClass = "hide";
 }
 
+if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+  displayClass = "show";
+}
 
 
 
