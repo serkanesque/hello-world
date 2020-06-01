@@ -2256,10 +2256,10 @@ iframes[f].style.height = form.clientHeight + 10 + 'px';
 
 if(iframes[f].style.height == "89px"){
   console.log(iframes[f].style.height) 
-  // var frame =  document.getElementById(iframes[f]);
-    console.log(iframes[f]);
+   var frame =  document.getElementById(iframes[f].id);
+    console.log(frame);
 
-  //frame.parentNode.removeChild(frame);
+  frame.parentNode.removeChild(frame);
 
 }
 
