@@ -8,7 +8,7 @@
 </head>
 
 
-<body>
+<body onload="getParameterByName()">
 <style>
 
 /*
@@ -541,26 +541,19 @@ background-color: #FFFFBF;
 
 <script type="text/javascript">
 
-
-function GetURLParameter(sParam) {
-    var sPageURL = window.location.search.substring(1);
-
-    var sURLVariables = sPageURL.split('&');
-
-    for (var i = 0; i < sURLVariables.length; i++) {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) {
-            return sParameterName[1];
-        }
-    }
+  function getParameterByName(name, url) {
+ if (!url) url = window.location.href;
+ name = name.replace(/[\[\]]/g, "\\$&");
+ var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+  results = regex.exec(url);
+ if (!results) return null;
+ if (!results[2]) return '';
+ return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
-
-
-
-var tech = GetURLParameter('technology');
-var blog = GetURLParameter('blog');
-
-console.log(tech,blog);
+// Give the parameter a variable name
+var league = getParameterByName('league');
+var date = getParameterByName('date');
+console.log(date);
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
 if(leagueName == "germany2") leagueName = "Germany - Bundesliga 2";
