@@ -23,13 +23,21 @@ iframe {
 
 
 <ul>
-	<li><a href="">Today</a></li>
-	<li><a href="">Tomorrow</a></li>
+	<li><a onclick="change('today')" href="">Today</a></li>
+	<li><a onclick="change('tomorrow')"  href="">Tomorrow</a></li>
 </ul>
 
 <div>
-	<iframe scrolling="no" style="border:none;" src="template2.html?league=germany1"></iframe>
+	<iframe id="iframe" scrolling="no" style="border:none;" src="template2.html?league=germany1"></iframe>
 </div>
+
+<script>
+function change(day) {
+	if (day =='today') document.getElementById('iframe').src = 'template2.html?league=germany1';
+if (day =='tomorrow') document.getElementById('iframe').src = 'template4.html?league=germany1';
+}
+
+	</script>
 </body>
 
 </html>
