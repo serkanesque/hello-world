@@ -541,19 +541,24 @@ background-color: #FFFFBF;
 
 <script type="text/javascript">
 
-  function getParameterByName(name, url) {
- if (!url) url = window.location.href;
- name = name.replace(/[\[\]]/g, "\\$&");
- var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-  results = regex.exec(url);
- if (!results) return null;
- if (!results[2]) return '';
- return decodeURIComponent(results[2].replace(/\+/g, " "));
-}
-// Give the parameter a variable name
-var league = getParameterByName('league');
-var date = getParameterByName('date');
-console.log(date);
+
+var qs = (function(a) {
+    if (a == "") return {};
+    var b = {};
+    for (var i = 0; i < a.length; ++i)
+    {
+        var p=a[i].split('=', 2);
+        if (p.length == 1)
+            b[p[0]] = "";
+        else
+            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+    }
+    return b;
+})(window.location.search.substr(1).split('&'));
+
+var league = qs["league"]; 
+console.log(league);
+
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
 if(leagueName == "germany2") leagueName = "Germany - Bundesliga 2";
