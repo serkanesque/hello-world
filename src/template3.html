@@ -8,7 +8,7 @@
 </head>
 
 
-<body>
+<body onload="GetURLParameter(sParam)">
 <style>
 
 /*
@@ -542,20 +542,22 @@ background-color: #FFFFBF;
 <script type="text/javascript">
 
 
-  var getUrlParameter = function getUrlParameter(sParam) {
-    var sPageURL = window.location.search.substring(1),
-        sURLVariables = sPageURL.split('&'),
-        sParameterName,
-        i;
+function GetURLParameter(sParam)
+{
+    var sPageURL = window.location.search.substring(1);
 
-    for (i = 0; i < sURLVariables.length; i++) {
-        sParameterName = sURLVariables[i].split('=');
+    var sURLVariables = sPageURL.split('&');
 
-        if (sParameterName[0] === sParam) {
-            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+    for (var i = 0; i < sURLVariables.length; i++)
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam)
+        {
+            return sParameterName[1];
         }
     }
-};
+}​
+
 
   /*
   function getParameterByName(name, url) {
@@ -571,9 +573,8 @@ background-color: #FFFFBF;
 
 
 
-
-var league = getUrlParameter('league');
-var date = getUrlParameter('date');
+var league = GetURLParameter('league');
+var date = GetURLParameter('date');
 console.log(date);
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
