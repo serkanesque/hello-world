@@ -150,6 +150,11 @@ font-weight: 500;
     background-color: #2196F3;
     color: white;
 }
+#fixturesTable td.tomorrow {
+font-weight: 500;
+    background-color: #607d8b;
+    color: white;
+}
 .hide {
   display: none !important;
 }
@@ -2066,6 +2071,10 @@ if(parseInt(fixtureDateNumber) == d.getDate()) {
 } else{
    var dClass = "";
 }
+
+if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+  var dClass = "tomorrow";
+} 
 
 
 var homeDraw = 0;
