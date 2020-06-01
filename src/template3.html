@@ -557,9 +557,10 @@ function GetURLParameter(sParam) {
 
 
 
-var league = GetURLParameter('league');
-var day = GetURLParameter('day');
-console.log(league,day);
+var tech = GetURLParameter('technology');
+var blog = GetURLParameter('blog');
+
+console.log(tech,blog);
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
 if(leagueName == "germany2") leagueName = "Germany - Bundesliga 2";
