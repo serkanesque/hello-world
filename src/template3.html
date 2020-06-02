@@ -2949,10 +2949,10 @@ leagueTableTRs[y].childNodes[1].style.fontWeight = "500";
 
  for (var p = 0; p < last6HomeGamesOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
-
+// Last 6 games
 
   if (leagueTableTRs[y].id == last6HomeGamesOpp[p].id) { 
-     console.log(last6HomeGamesOpp[p].id)
+
      for (var k = 0; k < last6HomeOpp.length; k++) {
 
 if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[0].innerHTML && last6HomeOpp[p].parentNode.childNodes[4].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[4].innerHTML) {
@@ -3005,6 +3005,9 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
      leagueTableTRs[y].children[1].style.fontWeight = "500"; 
 leagueTableTRs[y].children[2].style.fontWeight = "500";    
     }
+
+ leagueTableTRs[y].children[1].style.backgroundColor = "#f44336";
+        leagueTableTRs[y].children[2].style.backgroundColor = "#f44336";
   }
   } 
 }
