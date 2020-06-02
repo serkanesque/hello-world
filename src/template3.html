@@ -3005,9 +3005,8 @@ leagueTableTRs[y].children[2].style.fontWeight = "500";
      leagueTableTRs[y].children[1].style.fontWeight = "500"; 
 leagueTableTRs[y].children[2].style.fontWeight = "500";    
     }
-console.log(last6AwayOpp[p].parentNode)
-//console.log(last6AwayOpp[p].parentNode.parentNode)
-if(typeof last6AwayOpp[p].parentNode.parentNode.parentNode === 'object') {
+
+if(typeof last6AwayOpp[p].parentNode === 'object') {
          if(last6AwayOpp[p].parentNode.parentNode.parentNode.className== last6HomeGamesOpp[p].id) {
           leagueTableTRs[y].children[1].style.backgroundColor = "#f44336";
         leagueTableTRs[y].children[2].style.backgroundColor = "#f44336";
