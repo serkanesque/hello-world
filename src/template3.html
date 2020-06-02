@@ -2035,9 +2035,11 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
           
 }
 
-
+  if(awayTeam == "FC Ashdod") awayTeam = "Ashdod";
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
+
+
   if(league == "israel1")console.log(awayTeam)
     matchResultAwayTeam = determineResultAway(awayTeamFixturesArray[0], awayTeam, "away");
     matchResultAwayTeam2 = determineResultAway(awayTeamFixturesArray[1], awayTeam, "away");
