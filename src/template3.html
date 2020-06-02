@@ -2012,6 +2012,7 @@ return resultObject
 
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
+  console.log(homeTeam)
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
   matchResult2 = determineResultHome(homeTeamFixturesArray[1], homeTeam, "home");
   matchResult3= determineResultHome(homeTeamFixturesArray[2], homeTeam, "home");
@@ -2037,7 +2038,7 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
 
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
-
+console.log(awayTeam)
     matchResultAwayTeam = determineResultAway(awayTeamFixturesArray[0], awayTeam, "away");
     matchResultAwayTeam2 = determineResultAway(awayTeamFixturesArray[1], awayTeam, "away");
      matchResultAwayTeam3 = determineResultAway(awayTeamFixturesArray[2], awayTeam, "away");
