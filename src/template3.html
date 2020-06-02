@@ -563,7 +563,7 @@ var qs = (function(a) {
 
 var league = qs["league"]; 
 var day = qs["day"]; 
-console.log(league, day);
+
 
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
@@ -3056,7 +3056,7 @@ leagueTable2TRs[y].childNodes[1].style.fontWeight = "500";
       }
 
               if(league == "israel1") console.log(last6AwayOpp[p].parentNode.parentNode.parentNode.previousSibling.className);
-              
+
   if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
     LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
     leagueTable2TRs[y].childNodes[0].innerHTML = LTscore;
