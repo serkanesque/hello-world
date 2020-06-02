@@ -1589,13 +1589,7 @@ if(awayTeam == "Bowers  P")  awayTeam =  "Bowers & P."
                if(awayTeam == "BourgPeronnas")  awayTeam =  "Bourg-Peronnas" 
       if(awayTeam == "JuventusU23")  awayTeam =  "Juventus-U23" 
       if(awayTeam == "V Francavilla")  awayTeam =  "V. Francavilla" 
-/*
-if (awayTeam[awayTeam.length-1] === ".") {
-  console.log(awayTeam);
-  awayTeam = awayTeam.slice(0,-1);
-console.log(awayTeam);
-  }
-  */
+
   } 
 
 
@@ -2280,7 +2274,11 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td sty
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
 sixGameMarkup = sixGameMarkup + '</table>';
 
-
+if (awayTeam[awayTeam.length-1] === ".") {
+  console.log(awayTeam);
+  awayTeam = awayTeam.name.slice(0,-1);
+console.log(awayTeam);
+  }
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away <span></span> </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
