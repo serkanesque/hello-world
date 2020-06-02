@@ -3023,7 +3023,7 @@ leagueTable2TRs[y].childNodes[1].style.backgroundColor = "#f3f3f3";
  for (var p = 0; p < last6AwayOpp.length; p++) {
    for (var y = 0; y < leagueTable2TRs.length;y++) {
 
-      console.log(last6AwayOpp[p].parentNode.parentNode.parentNode.previousSibling.className)
+      console.log(last6AwayOpp[p].parentNode.parentNode.parentNode.className)
 
      if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
       {
@@ -3058,7 +3058,7 @@ leagueTable2TRs[y].childNodes[1].style.fontWeight = "500";
 
       }
 
-              if(league == "israel1") console.log(last6AwayOpp[p].parentNode.parentNode.parentNode.previousSibling.className);
+    
 
   if (leagueTable2TRs[y].id == last6AwayOpp[p].id) { 
     LTscore = last6AwayOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6AwayOpp[p].parentNode.childNodes[3].innerHTML;
