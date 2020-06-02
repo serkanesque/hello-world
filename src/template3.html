@@ -2128,7 +2128,7 @@ if(rowClassH == "nope" || rowClassA == "nope" || rowClassH == "homeWin2" || rowC
 
 if(parseInt(fixtureDateNumber) == d.getDate()) {
   displayClass = "show";
-  todaysGames++;
+
 }
 
 if(parseInt(fixtureDateNumber) > d.getDate()) {
@@ -2426,7 +2426,7 @@ if(numGames == 0){
   document.body.style.display = "none";
 }
 */
-console.log(todaysGames);
+console.log(document.getElementById("fixturesTable").getElementsByClassName("matchday"));
 
             var fixTable = document.getElementById('fixturesTable');
             var fixTableTRs = fixTable.getElementsByClassName("show");
