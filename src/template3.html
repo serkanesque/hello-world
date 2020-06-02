@@ -1480,8 +1480,6 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
       if(homeTeam == "JuventusU23")  homeTeam =  "Juventus-U23" 
       if(homeTeam == "V Francavilla")  homeTeam =  "V. Francavilla" 
 
-
-
     }     
   }
   i++;
@@ -1590,11 +1588,6 @@ if(awayTeam == "Bowers  P")  awayTeam =  "Bowers & P."
       if(awayTeam == "JuventusU23")  awayTeam =  "Juventus-U23" 
       if(awayTeam == "V Francavilla")  awayTeam =  "V. Francavilla" 
 
-if (awayTeam[awayTeam.length-1] === ".") {
-  console.log(awayTeam);
-  awayTeam = awayTeam.slice(0,-1);
-console.log(awayTeam);
-  }
   } 
 
 
@@ -2010,8 +2003,8 @@ resultObject.class = "pp";
 return resultObject
 }
 
-console.log(homeTeamFixturesArray[0].hName);
-if(homeTeamFixturesArray[0].hName == "Hapoel Petah T.") homeTeamFixturesArray[0].hName = "Hapoel Petah T";
+
+
 
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
@@ -2037,7 +2030,6 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
           
 }
 
-if(awayTeamFixturesArray[0].hName == "Hapoel Petah T.") awayTeamFixturesArray[0].hName = "Hapoel Petah T";
 
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
@@ -2280,11 +2272,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td sty
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
 sixGameMarkup = sixGameMarkup + '</table>';
 
-if (awayTeam[awayTeam.length-1] === ".") {
-  console.log(awayTeam);
-  awayTeam = awayTeam.slice(0,-1);
-console.log(awayTeam);
-  }
+
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=7>' + awayTeam +' away <span></span> </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
@@ -2397,11 +2385,6 @@ if(typeof pastHomeFixture[0] === 'undefined') {
 //<td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td>
   }else{
 
-if (awayTable[j].name[awayTable[j].name.length-1] === ".") {
-  console.log(awayTable[j].name);
-  awayTable[j].name = awayTable[j].name.slice(0,-1);
-console.log(awayTable[j].name);
-  }
 
      markup = markup + '<td style="width: 130px;" id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td style="width: 150px;" class="am">';
 
