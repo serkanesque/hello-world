@@ -624,9 +624,7 @@ function get(url) {
 }
 
 var todaysGames = 0;
-var data = { foo: 'bar' }
-var event = new CustomEvent('myCustomEvent', { detail: data })
-window.parent.document.dispatchEvent(event);
+
 
 var d = new Date();
 var weekday = new Array(7);
@@ -2427,6 +2425,17 @@ if(numGames == 0){
 }
 */
 console.log(document.getElementById("fixturesTable").getElementsByClassName("matchday"));
+
+todaysMatches = document.getElementById("fixturesTable").getElementsByClassName("matchday";
+
+if(todaysMatches.length == 0) {
+  console.log(Window.frameElement);
+  /*
+  var data = { foo: 'bar' }
+var event = new CustomEvent('myCustomEvent', { detail: data })
+window.parent.document.dispatchEvent(event);
+*/
+}
 
             var fixTable = document.getElementById('fixturesTable');
             var fixTableTRs = fixTable.getElementsByClassName("show");
