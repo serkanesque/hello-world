@@ -623,6 +623,9 @@ function get(url) {
  });
 }
 
+
+console.log(window.parent)
+
 var d = new Date();
 var weekday = new Array(7);
 weekday[0] = "Sunday";
@@ -2954,18 +2957,14 @@ leagueTableTRs[y].childNodes[1].style.fontWeight = "500";
 // Last 6 games
 
   if (leagueTableTRs[y].id == last6HomeGamesOpp[p].id) { 
-
      for (var k = 0; k < last6HomeOpp.length; k++) {
-
+      
 if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[0].innerHTML && last6HomeOpp[p].parentNode.childNodes[4].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[4].innerHTML) {
-
     L6score = last6HomeGamesOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeGamesOpp[p].parentNode.childNodes[3].innerHTML;
     leagueTableTRs[y].childNodes[0].innerHTML = L6score;
 
-
   if(last6HomeGamesOpp[p].parentNode.className == "awayDraw") 
     {
-
    // leagueTableTRs[y].children[1].style.borderRadius = "15px 0 0 15px";
     //    leagueTableTRs[y].children[3].style.borderRadius = "0 15px 15px 0";
     leagueTableTRs[y].children[0].style.backgroundColor = "#FFFFBF";
