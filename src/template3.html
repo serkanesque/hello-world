@@ -624,7 +624,9 @@ function get(url) {
 }
 
 
-console.log(window.parent.document.talk())
+var data = { foo: 'bar' }
+var event = new CustomEvent('myCustomEvent', { detail: data })
+window.parent.document.dispatchEvent(event);
 
 var d = new Date();
 var weekday = new Array(7);

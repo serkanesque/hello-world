@@ -345,8 +345,9 @@ today = day.concat(" ",date)
 var n = d.getHours();
 var currentHours = d.getHours()
 
-function talk() {
-  alert("hi there");
+window.document.addEventListener('myCustomEvent', handleEvent, false)
+function handleEvent(e) {
+  alert(e.detail) // outputs: {foo: 'bar'}
 }
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
