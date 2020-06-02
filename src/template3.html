@@ -2427,8 +2427,8 @@ if(numGames == 0){
 
 
 todaysMatches = document.getElementById("fixturesTable").getElementsByClassName("matchday");
-
-if(todaysMatches.length == 0) {
+tomorrowsMatches = document.getElementById("fixturesTable").getElementsByClassName("tomorrow");
+if(todaysMatches.length == 0 && tomorrowsMatches == 0) {
 
   var data = { league: league}
 var event = new CustomEvent('myCustomEvent', { detail: data })
