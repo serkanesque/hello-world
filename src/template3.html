@@ -623,7 +623,7 @@ function get(url) {
  });
 }
 
-
+var todaysGames = 0;
 var data = { foo: 'bar' }
 var event = new CustomEvent('myCustomEvent', { detail: data })
 window.parent.document.dispatchEvent(event);
@@ -2081,12 +2081,6 @@ if(parseInt(fixtureDateNumber) == d.getDate()) {
    var dClass = "";
 }
 
-var n = d.getHours();
-if(n>18) {
-if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
-  var dClass = "tomorrow";
-} 
-}
 
 
 var homeDraw = 0;
@@ -2134,6 +2128,7 @@ if(rowClassH == "nope" || rowClassA == "nope" || rowClassH == "homeWin2" || rowC
 
 if(parseInt(fixtureDateNumber) == d.getDate()) {
   displayClass = "show";
+  todaysGames++;
 }
 
 if(parseInt(fixtureDateNumber) > d.getDate()) {
@@ -2146,9 +2141,15 @@ if(parseInt(fixtureDateNumber) < d.getDate()) {
 if(parseInt(fixtureDateNumber) > 25) {
   displayClass = "hide";
 }
+var n = d.getHours();
+if(n>18) {
+if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+  var dClass = "tomorrow";
+} 
+}
 
 
-
+console.log(todaysGames);
 
 
     if(matchResult.lastGame != "D" && matchResult2.lastGame != "D" && matchResult3.lastGame != "D" && matchResult4.lastGame != "D" && matchResult5.lastGame != "D" && matchResult6.lastGame != "D" && matchResult7.lastGame != "D" && matchResult8.lastGame != "D" && matchResult9.lastGame != "D" && matchResult10.lastGame != "D" ) {
