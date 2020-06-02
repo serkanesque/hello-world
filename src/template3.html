@@ -2385,6 +2385,11 @@ if(typeof pastHomeFixture[0] === 'undefined') {
 //<td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td>
   }else{
 
+if (awayTable[j].name[awayTable[j].name.length-1] === ".") {
+  console.log(awayTable[j].name);
+  awayTable[j].name = awayTable[j].name.slice(0,-1);
+console.log(awayTable[j].name);
+  }
 
      markup = markup + '<td style="width: 130px;" id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td style="width: 150px;" class="am">';
 
