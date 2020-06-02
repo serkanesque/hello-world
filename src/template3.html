@@ -2001,7 +2001,7 @@ resultObject.class = "pp";
 return resultObject
 }
 
- if(leagueName == "israel1") console.log(homeTeamFixturesArray[0]);
+
 
 
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
@@ -2945,7 +2945,7 @@ leagueTableTRs[y].childNodes[1].style.fontWeight = "500";
 
   if (leagueTableTRs[y].id == last6HomeGamesOpp[p].id) { 
      for (var k = 0; k < last6HomeOpp.length; k++) {
-      console.log(last6HomeOpp[p].parentNode.childNodes[0].innerHTML,last6HomeOpp[p].parentNode.childNodes[4].innerHTML)
+
 if(last6HomeOpp[p].parentNode.childNodes[0].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[0].innerHTML && last6HomeOpp[p].parentNode.childNodes[4].innerHTML != last6HomeGamesOpp[p].parentNode.childNodes[4].innerHTML) {
 
     L6score = last6HomeGamesOpp[p].parentNode.childNodes[1].innerHTML + " - " +last6HomeGamesOpp[p].parentNode.childNodes[3].innerHTML;
@@ -3022,6 +3022,9 @@ leagueTable2TRs[y].childNodes[1].style.backgroundColor = "#f3f3f3";
 
  for (var p = 0; p < last6AwayOpp.length; p++) {
    for (var y = 0; y < leagueTable2TRs.length;y++) {
+
+      console.log(last6AwayOpp[p].parentNode.parentNode.parentNode.previousSibling.className)
+
      if (leagueTable2TRs[y].id == last6AwayOpp[p].parentNode.parentNode.parentNode.className) 
       {
         leagueTable2TRs[y].childNodes[1].style.backgroundColor = "black";
