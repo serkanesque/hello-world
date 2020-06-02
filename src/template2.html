@@ -347,7 +347,7 @@ var currentHours = d.getHours()
 
 window.document.addEventListener('myCustomEvent', handleEvent, false)
 function handleEvent(e) {
-  console.log(e.detail) // outputs: {foo: 'bar'}
+document.getElementById(e.detail.league).style.displayClass = "none";
 }
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
