@@ -2152,6 +2152,13 @@ if(parseInt(fixtureDateNumber) > 25) {
 
 
 if (homeTable[j].name == homeTeam) {
+
+
+if (homeTable[j].name[homeTable[j].name.length-1] === ".") {
+    //str = str.slice(0,-1);
+console.log(homeTable[j].name);
+  }
+
 markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td style="width: 100px; font-size: 14px;" class='+ dClass +'>' + date + '</td><td style="width: 130px;" id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td style="width: 150px;" class="hm">';
 
 for(z=0;z<homeGameTotal.length;z++){
