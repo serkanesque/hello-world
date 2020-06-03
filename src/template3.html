@@ -2288,7 +2288,9 @@ for (h=0; h<homeGameTotal.length; h++) {
    goalsAgainst += parseInt(homeGameTotal[h].aScore);
  }
 
-
+var gdTotal = goalsFor + goalsAgainst;
+var goalsForWidth = (100/gdTotal)*goalsFor;
+var goalsAgainstWidth = (100/gdTotal)*goalsAgainst;
 
 
 
@@ -2299,6 +2301,9 @@ for (h=0; h<homeGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 6%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
+
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+goalsForWidth+'%"><i>' + goalsFor + '</i> Goals F</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + goalsAgainst + '</i> Goals A </span></td></tr>';
+
 sixGameMarkup = sixGameMarkup + '</table>';
 
 
