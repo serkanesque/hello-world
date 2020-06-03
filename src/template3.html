@@ -2318,6 +2318,9 @@ var goalsAgainstWidth = (100/gdTotal)*goalsAgainst;
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam + ' home</th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
+      if(league=="germany2") {
+      console.log(homeGameTotal);
+    }
 
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 6%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
