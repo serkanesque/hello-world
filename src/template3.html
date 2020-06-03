@@ -2382,18 +2382,24 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 var goalsFor = 0;
 var goalsAgainst = 0;
 for (h=0; h<last6Home.length; h++) {
-  if(league=="germany2") {
-    console.log(last6Home[h].hName,homeTeam)
+
+
 if(last6Home[h].hName == homeTeam){
+    if(league=="germany2") {
+      console.log(last6Home[h].hName,homeTeam)
+    }
    goalsFor += parseInt(last6Home[h].hScore);
    goalsAgainst += parseInt(last6Home[h].aScore);
  }
  if(last6Home[h].aName == homeTeam){
+  if(league=="germany2") {
+      console.log(last6Home[a].hName,homeTeam)
+    }
    goalsFor += parseInt(last6Home[h].aScore);
    goalsAgainst += parseInt(last6Home[h].hScore);
  }
 }
-}
+
 
 var gdTotal = goalsFor + goalsAgainst;
 var goalsForWidth = (100/gdTotal)*goalsFor;
