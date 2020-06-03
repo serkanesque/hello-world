@@ -1921,14 +1921,23 @@ if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)
 resultObject.lastGame = "W";
 resultObject.opponent =  resultObject.aName.split(' ').join('');
 resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+
 resultObject.class = "homeWin";
 resultObject.type = "home";
 resultObject.hName = fixture.hName;
 resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
+scoreDiff = fixture.hScore - fixture.aScore;
+if(scoreDiff > 1) resultObject.class = "HomeWinDiff2";
 last6Away.push(resultObject);
 }
+
+
+
+
+
+
 
 if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
 //console.log(team + " home loss")
