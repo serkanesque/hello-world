@@ -1964,6 +1964,8 @@ resultObject.hName = fixture.hName;
 resultObject.aName= fixture.aName;
 resultObject.hScore = fixture.hScore;
 resultObject.aScore= fixture.aScore;
+scoreDiff = fixture.hScore - fixture.aScore;
+if(scoreDiff > 1) resultObject.class = "awayLossDiff2";
 
 if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
 last6Away.push(resultObject);
