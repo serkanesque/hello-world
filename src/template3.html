@@ -2284,8 +2284,8 @@ sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex"
 var goalsFor = 0;
 var goalsAgainst = 0;
 for (h=0; h<homeGameTotal.length; h++) {
-   goalsFor += homeGameTotal[h].hScore;
-   goalsAgainst += homeGameTotal[h].aScore;
+   goalsFor += parseInt(homeGameTotal[h].hScore);
+   goalsAgainst += parseInt(homeGameTotal[h].aScore);
  }
 
 
