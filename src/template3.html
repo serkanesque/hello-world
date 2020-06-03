@@ -2318,8 +2318,8 @@ sixGameMarkup = sixGameMarkup + '</table>';
 var goalsFor = 0;
 var goalsAgainst = 0;
 for (h=0; h<awayGameTotal.length; h++) {
-   goalsFor += parseInt(awayGameTotal[a].hScore);
-   goalsAgainst += parseInt(awayGameTotal[a].aScore);
+   goalsFor += parseInt(awayGameTotal[h].aScore);
+   goalsAgainst += parseInt(awayGameTotal[h].hScore);
  }
 
 var gdTotal = goalsFor + goalsAgainst;
