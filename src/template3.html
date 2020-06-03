@@ -2418,7 +2418,24 @@ sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div cla
 
 sixGameMarkup = sixGameMarkup + '</table>';
 
+var goalsFor = 0;
+var goalsAgainst = 0;
+for (h=0; h<6; h++) {
 
+if(last6Away[h].hName == homeTeam){
+   goalsFor += parseInt(last6Away[h].hScore);
+   goalsAgainst += parseInt(last6Away[h].aScore);
+ }
+ if(last6Away[h].aName == homeTeam){
+   goalsFor += parseInt(last6Away[h].aScore);
+   goalsAgainst += parseInt(last6Away[h].hScore);
+ }
+}
+
+
+var gdTotal = goalsFor + goalsAgainst;
+var goalsForWidth = (100/gdTotal)*goalsFor;
+var goalsAgainstWidth = (100/gdTotal)*goalsAgainst;
 
 
 
@@ -2436,6 +2453,7 @@ sixGameMarkup = sixGameMarkup + '<td class="oppo" style="text-align: right; widt
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+sixWtotalsAwayClass+' style="width:'+sixWinsAwayP+'%"><i>' + sixWinsAway + '</i> Win</span><span class='+sixDtotalsAwayClass+' style="width:'+sixDrawnAwayP+'%"><i>' + sixDrawnAway + '</i> Draw</span><span class='+sixLtotalsAwayClass+' style="width:'+sixLostAwayP+'%"><i>' + sixLostAway + '</i> Lost</span></td></tr>';
 
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class="goalsFor" style="width:'+Math.round(goalsForWidth)+'%"><i>' + goalsFor + '</i> GF</span><span class="goalsAgainst" style="width:'+Math.floor(goalsAgainstWidth)+'%"><i>' + goalsAgainst + '</i> GA </span></td></tr>';
 
 sixGameMarkup = sixGameMarkup + '</table></div>';
 
