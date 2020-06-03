@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed3
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Salzburg
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:21.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-85%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (81.8%)Draws: 1 (9.1%)Defeats: 1 (9.1%)"><div class="bargreen" style="width:27.0px;"></div><div class="barorange" style="width:3.0px;"></div><div class="barred" style="width:3.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-5.36
-</font>
-</td>
-<td align="center">
-<font color="green">
-91%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=austria&amp;stats=139-2-1-2020-salzburg-rapid-wien" target="_top" title="Salzburg vs Rapid Wien">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Rapid Wien
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:18.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-73%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (63.6%)Draws: 3 (27.3%)Defeats: 1 (9.1%)"><div class="bargreen" style="width:21.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:3.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.55
-</font>
-</td>
-<td align="center">
-<font color="green">
-82%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Sat6
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ Admira
 <div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=austria&amp;stats=142-3-9-2020-admira-mattersburg" target="_top" title="Admira vs Mattersburg">stats</a></li>
 </ul></div>
 </td>
@@ -205,7 +127,7 @@ Altach
 <div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=austria&amp;stats=140-8-5-2020-altach-wsg-tirol" target="_top" title="Altach vs WSG Tirol">stats</a></li>
 </ul></div>
 </td>
@@ -282,7 +204,7 @@ St. Poelten
 <div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=austria&amp;stats=141-12-6-2020-st.-poelten-austria-wien" target="_top" title="St. Poelten vs Austria Wien">stats</a></li>
 </ul></div>
 </td>
@@ -319,7 +241,6 @@ Austria Wien
 <div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
@@ -361,7 +282,7 @@ Hartberg
 <div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=austria&amp;stats=144-10-2-2020-hartberg-salzburg" target="_top" title="Hartberg vs Salzburg">stats</a></li>
 </ul></div>
 </td>
@@ -398,6 +319,7 @@ Salzburg
 <div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
+<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -438,7 +360,7 @@ Wolfsberger AC
 <div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=austria&amp;stats=143-4-7-2020-wolfsberger-ac-lask-linz" target="_top" title="Wolfsberger AC vs LASK Linz">stats</a></li>
 </ul></div>
 </td>
@@ -473,6 +395,83 @@ LASK Linz
 </td>
 <td align="left">
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sun7
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+18:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Rapid Wien
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:12.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+48%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (36.4%)Draws: 4 (36.4%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:12.0px;"></div><div class="barorange" style="width:12.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.09
+</font>
+</td>
+<td align="center">
+<font color="green">
+55%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=austria&amp;stats=133-1-11-2020-rapid-wien-sturm-graz" target="_top" title="Rapid Wien vs Sturm Graz">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Sturm Graz
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:13.6px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+55%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (45.5%)Draws: 3 (27.3%)Defeats: 3 (27.3%)"><div class="bargreen" style="width:15.0px;"></div><div class="barorange" style="width:9.0px;"></div><div class="barred" style="width:9.0px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.09
+</font>
+</td>
+<td align="center">
+<font color="red">
+45%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">
