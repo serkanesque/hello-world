@@ -2179,7 +2179,7 @@ if (homeTable[j].name[homeTable[j].name.length-1] === ".") {
   }
 
 markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td style="width: 100px; font-size: 14px;" class='+ dClass +'>' + date + '</td><td style="width: 130px;" id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td style="width: 150px;" class="hm">';
-if(league == "israel1") console.log(homeTable[j].name, homeGameTotal);
+
 
 for(z=0;z<homeGameTotal.length;z++){
 markup = markup + '<div class='+homeGameTotal[z].class + ' id='+ homeGameTotal[z].opponent +'>'+ homeGameTotal[z].lastGame + '<span class=toolTip>' + homeGameTotal[z].score +'</span></div>'
@@ -2284,6 +2284,7 @@ sixGameMarkup = '<tr id="grid" class="g-unit"><td colspan="12"><div class="flex"
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam + ' home</th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
+  if(league == "israel1") console.log(homeGameTotal[h].hName, homeGameTotal[h].hScore);
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 6%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
