@@ -2318,9 +2318,7 @@ var goalsAgainstWidth = (100/gdTotal)*goalsAgainst;
 
 sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=6>' + homeTeam + ' home</th></tr>';
 for (h=0; h<homeGameTotal.length; h++) {
-      if(league=="germany2") {
-      console.log(homeGameTotal);
-    }
+
 
 sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="text-align: right; width: 46%;padding-right: 6%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td class="score"> - </td><td class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 46%;text-align: left;padding-left: 6%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
 }
@@ -2384,22 +2382,13 @@ sixGameMarkup = sixGameMarkup + '</table></div><div class="flex" style="    padd
 
 var goalsFor = 0;
 var goalsAgainst = 0;
-for (h=0; h<last6Home.length; h++) {
-    if(league=="germany2") {
-      console.log(last6Home);
-    }
+for (h=0; h<6; h++) {
 
 if(last6Home[h].hName == homeTeam){
-    if(league=="germany2") {
-      console.log(last6Home[h].hName,homeTeam)
-    }
    goalsFor += parseInt(last6Home[h].hScore);
    goalsAgainst += parseInt(last6Home[h].aScore);
  }
  if(last6Home[h].aName == homeTeam){
-  if(league=="germany2") {
-      console.log(last6Home[h].aName,homeTeam)
-    }
    goalsFor += parseInt(last6Home[h].aScore);
    goalsAgainst += parseInt(last6Home[h].hScore);
  }
