@@ -2303,7 +2303,7 @@ sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td sty
 }
 sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+hgWinsP+'%"><i>' + hgWins + '</i> Win</span><span class='+hgDtotalsClass+' style="width:'+hgDrawnP+'%"><i>' + hgDrawn + '</i> Draw</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + hgLost + '</i> Lost</span></td></tr>';
 
-sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+goalsForWidth+'%"><i>' + goalsFor + '</i> Goals F</span><span class='+hgLtotalsClass+' style="width:'+hgLostP+'%"><i>' + goalsAgainst + '</i> Goals A </span></td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr><td colspan="6" style="padding:0;"><div class="totals"><span class='+hgWtotalsClass+' style="width:'+goalsForWidth.toFixed(1)+'%"><i>' + goalsFor + '</i> Goals F</span><span class='+hgLtotalsClass+' style="width:'+goalsAgainstWidth.toFixed(1)+'%"><i>' + goalsAgainst + '</i> Goals A </span></td></tr>';
 
 sixGameMarkup = sixGameMarkup + '</table>';
 
