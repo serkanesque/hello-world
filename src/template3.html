@@ -2384,10 +2384,10 @@ var goalsAgainst = 0;
 for (h=0; h<last6Home.length; h++) {
 if(last6Home[h].hName == homeTeam){
    goalsFor += parseInt(last6Home[h].aScore);
-   goalsAgainst += parseInt(last6Home[h].hScore);
+   goalsAgainst += parseInt(last6Home[a].hScore);
  }
  if(last6Home[h].aName == homeTeam){
-   goalsFor += parseInt(last6Home[h].aScore);
+   goalsFor += parseInt(last6Home[a].aScore);
    goalsAgainst += parseInt(last6Home[h].hScore);
  }
 }
