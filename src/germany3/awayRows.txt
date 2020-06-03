@@ -33,7 +33,7 @@ Pts
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
-<font color="#444444"><b> 
+<font color="#444444"><b>
 1
 </b>
 </font>
@@ -43,11 +43,11 @@ Mannheim
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 7
@@ -57,7 +57,7 @@ Mannheim
 </td>
 <td align="center">
 <font color="blue">
-24
+25
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Mannheim
 </font>
 </td>
 <td align="center">
-+12
++13
 </td>
 <td align="center">
 <b>
-28
+31
 </b>
 </td>
 </tr>
@@ -211,6 +211,49 @@ Meppen
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+FC Ingolstadt
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Wurzburger K.
 </td>
 <td align="center">
@@ -249,7 +292,50 @@ Wurzburger K.
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Braunschweig
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
 6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+8
 </b>
 </font>
 </td>
@@ -292,7 +378,7 @@ Bayern Munich B
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+9
 </b>
 </font>
 </td>
@@ -329,92 +415,6 @@ Kaiserslautern
 <td align="center">
 <b>
 20
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-FC Ingolstadt
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-19
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Braunschweig
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-19
 </b>
 </td>
 </tr>
@@ -817,7 +817,7 @@ Pr. Munster
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -827,20 +827,20 @@ Pr. Munster
 4
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-18
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+28
 </font>
 </td>
 <td align="center">
--7
+-8
 </td>
 <td align="center">
 <b>
@@ -860,26 +860,26 @@ Carl Zeiss Jena
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 9
 </td>
 <td align="center">
 <font color="blue">
-16
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-36
+37
 </font>
 </td>
 <td align="center">
@@ -887,7 +887,7 @@ Carl Zeiss Jena
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>

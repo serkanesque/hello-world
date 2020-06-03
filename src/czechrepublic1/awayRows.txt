@@ -43,11 +43,11 @@ Slavia Prague
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 3
@@ -57,7 +57,7 @@ Slavia Prague
 </td>
 <td align="center">
 <font color="blue">
-20
+21
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Slavia Prague
 </font>
 </td>
 <td align="center">
-+15
++16
 </td>
 <td align="center">
 <b>
-27
+30
 </b>
 </td>
 </tr>
@@ -86,11 +86,11 @@ Viktoria Plzen
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 4
@@ -100,7 +100,7 @@ Viktoria Plzen
 </td>
 <td align="center">
 <font color="blue">
-19
+21
 </font>
 </td>
 <td align="center">
@@ -109,11 +109,11 @@ Viktoria Plzen
 </font>
 </td>
 <td align="center">
-+8
++10
 </td>
 <td align="center">
 <b>
-22
+25
 </b>
 </td>
 </tr>
@@ -305,7 +305,7 @@ Ceske Budejov.
 </font>
 </td>
 <td align="center">
-5
+5
 </td>
 <td align="center">
 1
@@ -387,7 +387,7 @@ Sigma Olomouc
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Sigma Olomouc
 6
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Sigma Olomouc
 </td>
 <td align="center">
 <font color="red">
-19
+21
 </font>
 </td>
 <td align="center">
--3
+-5
 </td>
 <td align="center">
 <b>
@@ -430,7 +430,7 @@ Karvina
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -440,7 +440,7 @@ Karvina
 4
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -449,11 +449,11 @@ Karvina
 </td>
 <td align="center">
 <font color="red">
-21
+23
 </font>
 </td>
 <td align="center">
--12
+-14
 </td>
 <td align="center">
 <b>
@@ -555,6 +555,49 @@ Mlada Boleslav
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Bohemians
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+30
+</font>
+</td>
+<td align="center">
+-17
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Zlin
 </td>
 <td align="center">
@@ -593,7 +636,7 @@ Zlin
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-14
+15
 </b>
 </font>
 </td>
@@ -630,49 +673,6 @@ Opava
 <td align="center">
 <b>
 7
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Bohemians
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-30
-</font>
-</td>
-<td align="center">
--18
-</td>
-<td align="center">
-<b>
-5
 </b>
 </td>
 </tr>
