@@ -1,555 +1,73 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+26</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td width="11%"></td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 29 Feb.
+</font><font color="green" size="1">14:00</font></td>
+<td> Hapoel Kfar - Hapoel Raanana</td>
+<td align="center">
+<b>3 - 0</b></td>
+<td align="center">
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed3
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Hapoel Haifa
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 29 Feb.
+</font><font color="green" size="1">16:15</font></td>
+<td> Maccabi Netanya - M. Tel Aviv</td>
 <td align="center">
-<span title="Wins: 5 (38.5%)Draws: 3 (23.1%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:7.6px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
+<b>0 - 1</b></td>
 <td align="center">
-<font color="green">
-2.69
-</font>
-</td>
-<td align="center">
-<font color="green">
-62%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=187-6-2-2020-hapoel-haifa-h.-beer-sheva" target="_top" title="Hapoel Haifa vs H. Beer Sheva">stats</a></li>
-</ul></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-H. Beer Sheva
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-40%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 29 Feb.
+</font><font color="green" size="1">18:50</font></td>
+<td> Bnei Yehuda - Hapoel Haifa</td>
 <td align="center">
-<span title="Wins: 4 (28.6%)Draws: 5 (35.7%)Defeats: 5 (35.7%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:11.8px;"></div></span>
-</td>
+<b>0 - 0</b></td>
 <td align="center">
-<font color="red">
-1.93
-</font>
-</td>
-<td align="center">
-<font color="red">
-36%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed3
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-M. Tel Aviv
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:19.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-76%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 29 Feb.
+</font><font color="green" size="1">18:50</font></td>
+<td> Hapoel Tel Aviv - Hapoel Hadera</td>
 <td align="center">
-<span title="Wins: 9 (64.3%)Draws: 5 (35.7%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:21.2px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
+<b>2 - 1</b></td>
 <td align="center">
-<font color="red">
-1.79
-</font>
-</td>
-<td align="center">
-<font color="red">
-36%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=188-12-9-2020-m.-tel-aviv-maccabi-haifa" target="_top" title="M. Tel Aviv vs Maccabi Haifa">stats</a></li>
-</ul></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Maccabi Haifa
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:18.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-74%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 1 Mar.
+</font><font color="green" size="1">18:00</font></td>
+<td> Sektzia Nes - Ironi Kiryat</td>
 <td align="center">
-<span title="Wins: 9 (69.2%)Draws: 2 (15.4%)Defeats: 2 (15.4%)"><div class="bargreen" style="width:22.8px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:5.1px;"></div></span>
-</td>
+<b>1 - 0</b></td>
 <td align="center">
-<font color="red">
-2.23
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat6
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Bnei Yehuda
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:6.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-24%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 1 Mar.
+</font><font color="green" size="1">19:00</font></td>
+<td> B. Jerusalem - Ashdod</td>
 <td align="center">
-<span title="Wins: 2 (14.3%)Draws: 4 (28.6%)Defeats: 8 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
-</td>
+<b>2 - 1</b></td>
 <td align="center">
-<font color="red">
-1.79
-</font>
-</td>
-<td align="center">
-<font color="red">
-36%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=220-13-3-2020-bnei-yehuda-hapoel-hadera" target="_top" title="Bnei Yehuda vs Hapoel Hadera">stats</a></li>
-</ul></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Hapoel Hadera
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 1 Mar.
+</font><font color="green" size="1">19:15</font></td>
+<td> Maccabi Haifa - H. Beer Sheva</td>
 <td align="center">
-<span title="Wins: 4 (30.8%)Draws: 4 (30.8%)Defeats: 5 (38.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:12.7px;"></div></span>
-</td>
+<b>4 - 0</b></td>
 <td align="center">
-<font color="red">
-1.77
-</font>
-</td>
-<td align="center">
-<font color="red">
-31%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat6
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Ironi Kiryat
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-41%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (38.5%)Draws: 1 (7.7%)Defeats: 7 (53.8%)"><div class="bargreen" style="width:12.7px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:17.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.08
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=218-14-16-2020-ironi-kiryat-fc-ashdod" target="_top" title="Ironi Kiryat vs FC Ashdod">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-FC Ashdod
- </td>
-<td align="left">
--
-</td>
-<td align="left">
-<font color="#666666" size="1">
--%
-</font>
-</td>
-<td align="center">
--
-</td>
-<td align="center">
--
-</td>
-<td align="center">
--%
-</td>
-<td align="left">
-<div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat6
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:15
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Hapoel Kfar
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:5.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-21%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (15.4%)Draws: 2 (15.4%)Defeats: 9 (69.2%)"><div class="bargreen" style="width:5.1px;"></div><div class="barorange" style="width:5.1px;"></div><div class="barred" style="width:22.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.15
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=217-5-10-2020-hapoel-kfar-hapoel-raanana" target="_top" title="Hapoel Kfar vs Hapoel Raanana">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Hapoel Raanana
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:1.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-5%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 0 (0.0%)Draws: 2 (14.3%)Defeats: 12 (85.7%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:28.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.21
-</font>
-</td>
-<td align="center">
-<font color="green">
-71%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat6
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-H. Beer Sheva
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:17.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-72%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (69.2%)Draws: 1 (7.7%)Defeats: 3 (23.1%)"><div class="bargreen" style="width:22.8px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:7.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.38
-</font>
-</td>
-<td align="center">
-<font color="green">
-54%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=191-2-7-2020-h.-beer-sheva-hapoel-tel-aviv" target="_top" title="H. Beer Sheva vs Hapoel Tel Aviv">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Hapoel Tel Aviv
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (50.0%)Draws: 1 (7.1%)Defeats: 6 (42.9%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:2.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="green">
-71%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun7
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sektzia Nes
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (30.8%)Draws: 1 (7.7%)Defeats: 8 (61.5%)"><div class="bargreen" style="width:10.2px;"></div><div class="barorange" style="width:2.5px;"></div><div class="barred" style="width:20.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.23
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=israel&amp;stats=219-11-8-2020-sektzia-nes-maccabi-netanya" target="_top" title="Sektzia Nes vs Maccabi Netanya">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Maccabi Netanya
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (23.1%)Draws: 4 (30.8%)Defeats: 6 (46.2%)"><div class="bargreen" style="width:7.6px;"></div><div class="barorange" style="width:10.2px;"></div><div class="barred" style="width:15.2px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.85
-</font>
-</td>
-<td align="center">
-<font color="red">
-46%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
