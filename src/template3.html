@@ -2178,9 +2178,14 @@ var n = d.getHours();
 
 
 if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+  if(hours>21){
+  var dClass = "tomorrow";
+    displayClass = "hide";
+  }else {
   var dClass = "tomorrow";
     displayClass = "show";
 } 
+
 if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
 if(hours>0 && hours< 5) {
  var dClass = "matchday";
@@ -2548,13 +2553,18 @@ tomorrowsMatches = document.getElementById("fixturesTable").getElementsByClassNa
 
 console.log(league,leagueName,todaysMatches.length,tomorrowsMatches.length)
 
-if(todaysMatches.length == 0 && tomorrowsMatches.length == 0) {
-
+if(todaysMatches.length == 0) {
   var data = { league: league}
 var event = new CustomEvent('myCustomEvent', { detail: data })
-//console.log(event.detail)
 window.parent.document.dispatchEvent(event);
+}
 
+if(hours>21) {
+if(todaysMatches.length == 0 && tomorrowsMatches.length == 0) {
+  var data = { league: league}
+var event = new CustomEvent('myCustomEvent', { detail: data })
+window.parent.document.dispatchEvent(event);
+}
 }
 
             var fixTable = document.getElementById('fixturesTable');
