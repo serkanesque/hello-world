@@ -2177,19 +2177,20 @@ if(parseInt(fixtureDateNumber) > 25) {
 var n = d.getHours();
 
 
-
+if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+  if(n<21){
+  var dClass = "tomorrow";
+    displayClass = "hide";
+  }else {
+  var dClass = "tomorrow";
+    displayClass = "show";
+} 
+}
 
 if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
 if(hours>0 && hours< 5) {
  var dClass = "matchday";
 }
-}
-
-
-if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
-
-  var dClass = "tomorrow";
-    displayClass = "show";
 }
 
 /*
@@ -2552,7 +2553,7 @@ todaysMatches = document.getElementById("fixturesTable").getElementsByClassName(
 tomorrowsMatches = document.getElementById("fixturesTable").getElementsByClassName("tomorrow");
 
 console.log(league,leagueName,todaysMatches.length,tomorrowsMatches.length)
-if(n<21){
+if(n<20){
 if(todaysMatches.length == 0) {
   var data = { league: league}
 var event = new CustomEvent('myCustomEvent', { detail: data })
@@ -2560,7 +2561,7 @@ window.parent.document.dispatchEvent(event);
 }
 }
 
-if(n>21) {
+if(n>20) {
 if(todaysMatches.length == 0 && tomorrowsMatches.length == 0) {
   var data = { league: league}
 var event = new CustomEvent('myCustomEvent', { detail: data })
