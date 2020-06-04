@@ -2177,20 +2177,19 @@ if(parseInt(fixtureDateNumber) > 25) {
 var n = d.getHours();
 
 
-if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
-  if(n<21){
-  var dClass = "tomorrow";
-    displayClass = "hide";
-  }else {
-  var dClass = "tomorrow";
-    displayClass = "show";
-} 
-}
+
 
 if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
 if(hours>0 && hours< 5) {
  var dClass = "matchday";
 }
+}
+
+
+if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
+
+  var dClass = "tomorrow";
+    displayClass = "show";
 }
 
 /*
