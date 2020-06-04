@@ -1672,8 +1672,8 @@ delta70minScore = homeTeamScored70 - awayTeamScored70;
 
           const lastSeassonH2H =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam || team.aName == homeTeam && team.hName == awayTeam  });
 
-
-
+if (league="costarica1")
+console.log(homeTeamFixturesArray.length)
 
 document.getElementById("leagueName").innerHTML = leagueName + '<span>Round ' + (homeTeamFixturesArray.length + 1) + ' of ' + ((homeTable.length*2)-2) +'</span>';
 
@@ -2182,6 +2182,10 @@ if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
   var dClass = "tomorrow";
     displayClass = "show";
 } 
+if(hours>0 && hours< 5) {
+ var dClass = "matchday";
+}
+
 /*
 if(parseInt(fixtureDateNumber) == d.getDate()) {
     console.log(hours+2)
