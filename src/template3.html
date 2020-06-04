@@ -576,7 +576,7 @@ var qs = (function(a) {
 
 var league = qs["league"]; 
 var day = qs["day"]; 
-
+console.log(league)
 
 var leagueName  = league;
 if(leagueName == "germany1") leagueName = "Germany - Bundesliga";
@@ -2546,7 +2546,9 @@ if(numGames == 0){
 
 todaysMatches = document.getElementById("fixturesTable").getElementsByClassName("matchday");
 tomorrowsMatches = document.getElementById("fixturesTable").getElementsByClassName("tomorrow");
+
 console.log(league,todaysMatches.length,tomorrowsMatches.length)
+
 if(todaysMatches.length == 0 && tomorrowsMatches.length == 0) {
 
   var data = { league: league}
