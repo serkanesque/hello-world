@@ -346,10 +346,16 @@ today = day.concat(" ",date)
 var n = d.getHours();
 var currentHours = d.getHours()
 
+
+
 window.document.addEventListener('myCustomEvent', handleEvent, false)
 function handleEvent(e) {
 document.getElementById(e.detail.league).style.display = "none";
 }
+
+
+
+
 
 get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
 
