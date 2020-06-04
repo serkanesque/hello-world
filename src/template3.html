@@ -2178,7 +2178,7 @@ var n = d.getHours();
 
 
 if(parseInt(fixtureDateNumber) == d.getDate() + 1) {
-  if(hours>21){
+  if(hours<21){
   var dClass = "tomorrow";
     displayClass = "hide";
   }else {
