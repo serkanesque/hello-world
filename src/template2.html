@@ -351,6 +351,7 @@ var currentHours = d.getHours()
 
 window.document.addEventListener('myCustomEvent', handleEvent, false)
 function handleEvent(e) {
+  console.log(e.detail.league)
 document.getElementById(e.detail.league).style.display = "none";
 }
 
