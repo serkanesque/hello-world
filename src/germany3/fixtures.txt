@@ -14,84 +14,6 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri5
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Magdeburg
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-43%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (35.7%)Draws: 3 (21.4%)Defeats: 6 (42.9%)"><div class="bargreen" style="width:11.8px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-43%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany3&amp;stats=297-13-17-2020-magdeburg-kfc-uerdingen" target="_top" title="Magdeburg vs KFC Uerdingen">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-KFC Uerdingen
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-56%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (46.7%)Draws: 4 (26.7%)Defeats: 4 (26.7%)"><div class="bargreen" style="width:15.4px;"></div><div class="barorange" style="width:8.8px;"></div><div class="barred" style="width:8.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.40
-</font>
-</td>
-<td align="center">
-<font color="red">
-47%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
 Sat6
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
@@ -128,7 +50,7 @@ Sat6
 <div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=292-1-9-2020-1860-munchen-wurzburger-k." target="_top" title="1860 Munchen vs Wurzburger K.">stats</a></li>
 </ul></div>
 </td>
@@ -205,7 +127,7 @@ Braunschweig
 <div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=293-14-10-2020-braunschweig-bayern-munich-b" target="_top" title="Braunschweig vs Bayern Munich B">stats</a></li>
 </ul></div>
 </td>
@@ -282,7 +204,7 @@ Mannheim
 <div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=295-16-8-2020-mannheim-viktoria-koln" target="_top" title="Mannheim vs Viktoria Koln">stats</a></li>
 </ul></div>
 </td>
@@ -319,7 +241,6 @@ Viktoria Koln
 <div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -360,7 +281,7 @@ Meppen
 <div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=300-11-7-2020-meppen-hansa-rostock" target="_top" title="Meppen vs Hansa Rostock">stats</a></li>
 </ul></div>
 </td>
@@ -397,6 +318,7 @@ Hansa Rostock
 <div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 </tr>
+<tr><td colspan="11" height="6"></td></tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
@@ -437,7 +359,7 @@ MSV Duisburg
 <div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=291-3-15-2020-msv-duisburg-chemnitzer" target="_top" title="MSV Duisburg vs Chemnitzer">stats</a></li>
 </ul></div>
 </td>
@@ -514,7 +436,7 @@ Zwickau
 <div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=299-12-18-2020-zwickau-hallescher-fc" target="_top" title="Zwickau vs Hallescher FC">stats</a></li>
 </ul></div>
 </td>
@@ -592,7 +514,7 @@ Pr. Munster
 <div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=294-2-6-2020-pr.-munster-unterhaching" target="_top" title="Pr. Munster vs Unterhaching">stats</a></li>
 </ul></div>
 </td>
@@ -669,7 +591,7 @@ Carl Zeiss Jena
 <div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=298-19-5-2020-carl-zeiss-jena-kaiserslautern" target="_top" title="Carl Zeiss Jena vs Kaiserslautern">stats</a></li>
 </ul></div>
 </td>
@@ -746,7 +668,7 @@ FC Ingolstadt
 <div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
 <a href="pmatch.asp?league=germany3&amp;stats=296-20-4-2020-fc-ingolstadt-sonnenhof" target="_top" title="FC Ingolstadt vs Sonnenhof">stats</a></li>
 </ul></div>
 </td>
@@ -781,6 +703,84 @@ Sonnenhof
 </td>
 <td align="left">
 <div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12"></td></tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Tue9
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+18:00
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Bayern Munich B
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:15.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+60%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (53.3%)Draws: 3 (20.0%)Defeats: 4 (26.7%)"><div class="bargreen" style="width:17.6px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:8.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.67
+</font>
+</td>
+<td align="center">
+<font color="green">
+73%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany3&amp;stats=307-10-12-2020-bayern-munich-b-zwickau" target="_top" title="Bayern Munich B vs Zwickau">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Zwickau
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:7.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+31%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 3 (20.0%)Draws: 5 (33.3%)Defeats: 7 (46.7%)"><div class="bargreen" style="width:6.6px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:15.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.93
+</font>
+</td>
+<td align="center">
+<font color="green">
+60%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

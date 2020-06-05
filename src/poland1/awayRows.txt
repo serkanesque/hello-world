@@ -129,8 +129,11 @@ Lechia Gdansk
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 5
@@ -139,16 +142,13 @@ Lechia Gdansk
 4
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
 <font color="blue">
-18
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+22
 </font>
 </td>
 <td align="center">
@@ -156,7 +156,7 @@ Lechia Gdansk
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>
@@ -211,6 +211,49 @@ Lech Poznan
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Piast Gliwice
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Slask Wroclaw
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Slask Wroclaw
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Jagiellonia
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,7 +378,7 @@ Wisla Plock
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
@@ -378,7 +421,7 @@ KS Cracovia
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -407,49 +450,6 @@ Zaglebie Lubin
 <td align="center">
 <font color="red">
 23
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Piast Gliwice
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
 </font>
 </td>
 <td align="center">
