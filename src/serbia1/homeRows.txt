@@ -120,7 +120,7 @@ Partizan
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-3
+3
 </b>
 </font>
 </td>
@@ -426,6 +426,49 @@ Mladost Lucani
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Proleter
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Radnik
 </td>
 <td align="center">
@@ -458,49 +501,6 @@ Radnik
 <td align="center">
 <b>
 19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Proleter
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-18
 </b>
 </td>
 </tr>
@@ -602,7 +602,7 @@ Rad Belgrade
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -612,7 +612,7 @@ Rad Belgrade
 3
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -621,11 +621,11 @@ Rad Belgrade
 </td>
 <td align="center">
 <font color="red">
-21
+23
 </font>
 </td>
 <td align="center">
--4
+-6
 </td>
 <td align="center">
 <b>
