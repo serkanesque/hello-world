@@ -43,7 +43,7 @@ Red Star
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -53,20 +53,20 @@ Red Star
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
-31
+32
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+10
 </font>
 </td>
 <td align="center">
-+23
++22
 </td>
 <td align="center">
 <b>
@@ -86,7 +86,7 @@ Vojvodina
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -96,7 +96,7 @@ Vojvodina
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,11 @@ Vojvodina
 </td>
 <td align="center">
 <font color="red">
-13
+15
 </font>
 </td>
 <td align="center">
-+6
++4
 </td>
 <td align="center">
 <b>
@@ -211,6 +211,49 @@ Backa Topola
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Radnicki Nis
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Vozdovac
 </td>
 <td align="center">
@@ -249,50 +292,50 @@ Vozdovac
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Radnicki Nis
+Spartak Sub.
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
-6
+8
 </td>
 <td align="center">
 <font color="blue">
-15
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+31
 </font>
 </td>
 <td align="center">
-0
+-13
 </td>
 <td align="center">
 <b>
-16
+17
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -301,7 +344,7 @@ Mladost Lucani
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -311,7 +354,7 @@ Mladost Lucani
 1
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
@@ -320,58 +363,15 @@ Mladost Lucani
 </td>
 <td align="center">
 <font color="red">
-23
+24
 </font>
 </td>
 <td align="center">
--12
+-13
 </td>
 <td align="center">
 <b>
 16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Cukaricki
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-23
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-14
 </b>
 </td>
 </tr>
@@ -383,34 +383,34 @@ Cukaricki
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Spartak Sub.
+Cukaricki
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
-2
+5
 </td>
 <td align="center">
-8
+7
 </td>
 <td align="center">
 <font color="blue">
-14
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-30
+27
 </font>
 </td>
 <td align="center">
--16
+-8
 </td>
 <td align="center">
 <b>
@@ -473,26 +473,26 @@ Radnik
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 9
 </td>
 <td align="center">
 <font color="blue">
-11
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-21
+22
 </font>
 </td>
 <td align="center">
@@ -500,7 +500,7 @@ Radnik
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -688,7 +688,7 @@ Rad Belgrade
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -698,7 +698,7 @@ Rad Belgrade
 0
 </td>
 <td align="center">
-14
+15
 </td>
 <td align="center">
 <font color="blue">
@@ -707,11 +707,11 @@ Rad Belgrade
 </td>
 <td align="center">
 <font color="red">
-38
+40
 </font>
 </td>
 <td align="center">
--32
+-34
 </td>
 <td align="center">
 <b>

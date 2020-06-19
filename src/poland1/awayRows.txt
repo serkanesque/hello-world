@@ -43,7 +43,7 @@ Legia Warsaw
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -53,7 +53,7 @@ Legia Warsaw
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -62,11 +62,11 @@ Legia Warsaw
 </td>
 <td align="center">
 <font color="red">
-15
+17
 </font>
 </td>
 <td align="center">
-+6
++4
 </td>
 <td align="center">
 <b>
@@ -125,30 +125,116 @@ Pogon Szczecin
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Lechia Gdansk
+Lech Poznan
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+24
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++6
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Lechia Gdansk
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
 5
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-20
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+23
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+21
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Piast Gliwice
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
 </font>
 </td>
 <td align="center">
@@ -163,50 +249,7 @@ Lechia Gdansk
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Lech Poznan
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-21
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Slask Wroclaw
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Jagiellonia
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,49 +378,6 @@ KS Cracovia
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Piast Gliwice
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 9
 </b>
 </font>
@@ -387,26 +387,26 @@ Wisla Plock
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-27
+28
 </font>
 </td>
 <td align="center">
@@ -414,7 +414,7 @@ Wisla Plock
 </td>
 <td align="center">
 <b>
-16
+17
 </b>
 </td>
 </tr>
@@ -430,7 +430,7 @@ Zaglebie Lubin
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -440,20 +440,20 @@ Zaglebie Lubin
 2
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-18
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+25
 </font>
 </td>
 <td align="center">
--5
+-6
 </td>
 <td align="center">
 <b>
@@ -559,14 +559,14 @@ Wisla Krakow
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 9
@@ -586,7 +586,7 @@ Wisla Krakow
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -688,7 +688,7 @@ LKS Lodz
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -698,7 +698,7 @@ LKS Lodz
 3
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 <font color="blue">
@@ -707,15 +707,58 @@ LKS Lodz
 </td>
 <td align="center">
 <font color="red">
-27
+31
 </font>
 </td>
 <td align="center">
--17
+-21
 </td>
 <td align="center">
 <b>
 6
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Zag. Sosnowiec
+</td>
+<td align="center">
+<font color="green">
+0
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+0
+</font>
+</td>
+<td align="center">
+<font color="red">
+0
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+0
 </b>
 </td>
 </tr>

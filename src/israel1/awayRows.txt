@@ -125,7 +125,7 @@ Maccabi Haifa
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-B. Jerusalem
+Bnei Yehuda
 </td>
 <td align="center">
 <font color="green">
@@ -136,7 +136,50 @@ B. Jerusalem
 8
 </td>
 <td align="center">
+4
+</td>
+<td align="center">
 2
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++8
+</td>
+<td align="center">
+<b>
+28
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+B. Jerusalem
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 4
@@ -156,50 +199,7 @@ B. Jerusalem
 </td>
 <td align="center">
 <b>
-26
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Bnei Yehuda
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-25
+27
 </b>
 </td>
 </tr>
@@ -215,7 +215,7 @@ Hapoel Tel Aviv
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -225,7 +225,7 @@ Hapoel Tel Aviv
 2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -234,11 +234,11 @@ Hapoel Tel Aviv
 </td>
 <td align="center">
 <font color="red">
-25
+29
 </font>
 </td>
 <td align="center">
--12
+-16
 </td>
 <td align="center">
 <b>
@@ -258,26 +258,26 @@ Hapoel Haifa
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-11
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -285,7 +285,7 @@ Hapoel Haifa
 </td>
 <td align="center">
 <b>
-20
+21
 </b>
 </td>
 </tr>
@@ -301,14 +301,14 @@ Hapoel Kfar
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 5
@@ -328,7 +328,7 @@ Hapoel Kfar
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>
@@ -344,26 +344,26 @@ H. Beer Sheva
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-13
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -371,7 +371,7 @@ H. Beer Sheva
 </td>
 <td align="center">
 <b>
-18
+19
 </b>
 </td>
 </tr>
@@ -426,6 +426,49 @@ Hapoel Hadera
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Maccabi Netanya
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Ashdod
 </td>
 <td align="center">
@@ -464,93 +507,7 @@ Ashdod
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Maccabi Netanya
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
--9
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Sektzia Nes
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-23
-</font>
-</td>
-<td align="center">
--14
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
 </b>
 </font>
 </td>
@@ -559,11 +516,11 @@ Ironi Kiryat
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 3
@@ -573,7 +530,7 @@ Ironi Kiryat
 </td>
 <td align="center">
 <font color="blue">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -582,11 +539,54 @@ Ironi Kiryat
 </font>
 </td>
 <td align="center">
--12
+-11
 </td>
 <td align="center">
 <b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Sektzia Nes
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
 6
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+25
+</font>
+</td>
+<td align="center">
+-16
+</td>
+<td align="center">
+<b>
+9
 </b>
 </td>
 </tr>
@@ -602,7 +602,7 @@ Hapoel Raanana
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -612,20 +612,20 @@ Hapoel Raanana
 2
 </td>
 <td align="center">
-13
+14
 </td>
 <td align="center">
 <font color="blue">
-11
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-36
+38
 </font>
 </td>
 <td align="center">
--25
+-26
 </td>
 <td align="center">
 <b>
