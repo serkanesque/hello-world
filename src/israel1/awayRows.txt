@@ -43,11 +43,11 @@ M. Tel Aviv
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
-11
+13
 </td>
 <td align="center">
 3
@@ -57,7 +57,7 @@ M. Tel Aviv
 </td>
 <td align="center">
 <font color="blue">
-27
+32
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ M. Tel Aviv
 </font>
 </td>
 <td align="center">
-+22
++27
 </td>
 <td align="center">
 <b>
-36
+42
 </b>
 </td>
 </tr>
@@ -86,11 +86,11 @@ Maccabi Haifa
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
-9
+11
 </td>
 <td align="center">
 2
@@ -100,20 +100,20 @@ Maccabi Haifa
 </td>
 <td align="center">
 <font color="blue">
-22
+26
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+10
 </font>
 </td>
 <td align="center">
-+13
++16
 </td>
 <td align="center">
 <b>
-29
+35
 </b>
 </td>
 </tr>
@@ -129,14 +129,14 @@ Bnei Yehuda
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 2
@@ -156,7 +156,7 @@ Bnei Yehuda
 </td>
 <td align="center">
 <b>
-28
+29
 </b>
 </td>
 </tr>
@@ -172,26 +172,26 @@ B. Jerusalem
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-26
+28
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+16
 </font>
 </td>
 <td align="center">
@@ -199,7 +199,7 @@ B. Jerusalem
 </td>
 <td align="center">
 <b>
-27
+28
 </b>
 </td>
 </tr>
@@ -207,6 +207,49 @@ B. Jerusalem
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Hapoel Kfar
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+23
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Hapoel Tel Aviv
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -286,49 +329,6 @@ Hapoel Haifa
 <td align="center">
 <b>
 21
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Hapoel Kfar
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-20
 </b>
 </td>
 </tr>
@@ -387,11 +387,11 @@ Hapoel Hadera
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 4
@@ -401,7 +401,7 @@ Hapoel Hadera
 </td>
 <td align="center">
 <font color="blue">
-10
+13
 </font>
 </td>
 <td align="center">
@@ -410,11 +410,11 @@ Hapoel Hadera
 </font>
 </td>
 <td align="center">
--8
+-5
 </td>
 <td align="center">
 <b>
-16
+19
 </b>
 </td>
 </tr>
@@ -430,11 +430,11 @@ Maccabi Netanya
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 4
@@ -444,20 +444,20 @@ Maccabi Netanya
 </td>
 <td align="center">
 <font color="blue">
-10
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-18
+20
 </font>
 </td>
 <td align="center">
--8
+-6
 </td>
 <td align="center">
 <b>
-16
+19
 </b>
 </td>
 </tr>
@@ -516,14 +516,14 @@ Ironi Kiryat
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 10
@@ -543,7 +543,7 @@ Ironi Kiryat
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>
@@ -645,26 +645,26 @@ FC Ashdod
 </td>
 <td align="center">
 <font color="green">
-1
+2
 </font>
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
 <font color="blue">
-0
+3
 </font>
 </td>
 <td align="center">
 <font color="red">
-3
+6
 </font>
 </td>
 <td align="center">
@@ -672,7 +672,7 @@ FC Ashdod
 </td>
 <td align="center">
 <b>
-0
+1
 </b>
 </td>
 </tr>

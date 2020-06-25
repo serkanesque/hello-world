@@ -39,6 +39,49 @@ Pts
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Zbrojovka Brno
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Pardubice
 </td>
 <td align="center">
@@ -77,49 +120,6 @@ Pardubice
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-2
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Zbrojovka Brno
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-22
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-21
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 3
 </b>
 </font>
@@ -129,14 +129,14 @@ Hradec Kralove
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 3
@@ -156,7 +156,7 @@ Hradec Kralove
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -168,18 +168,61 @@ Hradec Kralove
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Viktoria Zizkov
+Dukla Prague
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-1
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Viktoria Zizkov
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 6
@@ -199,14 +242,14 @@ Viktoria Zizkov
 </td>
 <td align="center">
 <b>
-16
+17
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -215,14 +258,14 @@ Lisen
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 5
@@ -242,50 +285,7 @@ Lisen
 </td>
 <td align="center">
 <b>
-15
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Dukla Prague
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-19
-</font>
-</td>
-<td align="center">
-<font color="red">
-21
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-14
+16
 </b>
 </td>
 </tr>
@@ -301,26 +301,26 @@ Usti nad Labem
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
 <font color="blue">
-17
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+27
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Usti nad Labem
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
@@ -383,11 +383,54 @@ Trinec
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Jihlava
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
+-5
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Chrudim
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -397,20 +440,20 @@ Chrudim
 2
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-12
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-22
+25
 </font>
 </td>
 <td align="center">
--10
+-11
 </td>
 <td align="center">
 <b>
@@ -421,7 +464,7 @@ Chrudim
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -464,7 +507,7 @@ Vlasim
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -507,49 +550,6 @@ Prostejov
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Jihlava
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--7
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 13
 </b>
 </font>
@@ -559,7 +559,7 @@ Varnsdorf
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -569,20 +569,20 @@ Varnsdorf
 3
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-14
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-34
+36
 </font>
 </td>
 <td align="center">
--20
+-21
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ Slavoj Vysehrad
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -612,7 +612,7 @@ Slavoj Vysehrad
 2
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
@@ -621,11 +621,11 @@ Slavoj Vysehrad
 </td>
 <td align="center">
 <font color="red">
-21
+25
 </font>
 </td>
 <td align="center">
--10
+-14
 </td>
 <td align="center">
 <b>
@@ -645,11 +645,11 @@ Sokolov
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 2
@@ -659,20 +659,20 @@ Sokolov
 </td>
 <td align="center">
 <font color="blue">
-7
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
-27
+28
 </font>
 </td>
 <td align="center">
--20
+-18
 </td>
 <td align="center">
 <b>
-2
+5
 </b>
 </td>
 </tr>
@@ -688,7 +688,7 @@ Vitkovice
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -698,7 +698,7 @@ Vitkovice
 1
 </td>
 <td align="center">
-11
+12
 </td>
 <td align="center">
 <font color="blue">
@@ -707,11 +707,11 @@ Vitkovice
 </td>
 <td align="center">
 <font color="red">
-34
+38
 </font>
 </td>
 <td align="center">
--26
+-30
 </td>
 <td align="center">
 <b>

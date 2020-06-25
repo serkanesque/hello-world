@@ -14,7 +14,7 @@
 <tr><td colspan="11" height="6"></td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
+Sat27
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 14:30
@@ -23,35 +23,35 @@ Sat20
  home
 </font></td>
 <td align="right" width="120">
-Bayern Munich
+Dortmund
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:19.8px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-79%
+75%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 12 (75.0%)Draws: 2 (12.5%)Defeats: 2 (12.5%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:4.1px;"></div></span>
+<span title="Wins: 11 (68.8%)Draws: 3 (18.8%)Defeats: 2 (12.5%)"><div class="bargreen" style="width:22.7px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:4.1px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-4.00
+3.69
 </font>
 </td>
 <td align="center">
 <font color="green">
-81%
+69%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
 <div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=292-1-13-2020-bayern-munich-freiburg" target="_top" title="Bayern Munich vs Freiburg">stats</a></li>
+<a href="pmatch.asp?league=germany&amp;stats=299-5-4-2020-dortmund-hoffenheim" target="_top" title="Dortmund vs Hoffenheim">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -60,38 +60,38 @@ Bayern Munich
  away
 </font></td>
 <td align="right">
-Freiburg
+Hoffenheim
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:14.1px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-40%
+56%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (25.0%)Draws: 7 (43.8%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:14.4px;"></div><div class="barred" style="width:10.3px;"></div></span>
+<span title="Wins: 7 (43.8%)Draws: 6 (37.5%)Defeats: 3 (18.8%)"><div class="bargreen" style="width:14.4px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:6.2px;"></div></span>
 </td>
 <td align="center">
-<font color="green">
-3.19
+<font color="red">
+2.44
 </font>
 </td>
 <td align="center">
-<font color="green">
-62%
+<font color="red">
+44%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
+Sat27
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 14:30
@@ -100,9 +100,200 @@ Sat20
  home
 </font></td>
 <td align="right" width="120">
-Dusseldorf
+E. Frankfurt
  </td>
 <td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+52%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 7 (43.8%)Draws: 4 (25.0%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:14.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:10.3px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.63
+</font>
+</td>
+<td align="center">
+<font color="green">
+75%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=298-3-12-2020-e.-frankfurt-paderborn" target="_top" title="E. Frankfurt vs Paderborn">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Paderborn
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:6.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+25%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 2 (12.5%)Draws: 6 (37.5%)Defeats: 8 (50.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.44
+</font>
+</td>
+<td align="center">
+<font color="red">
+38%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+FC Augsburg
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+42%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (31.3%)Draws: 5 (31.3%)Defeats: 6 (37.5%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:10.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.38
+</font>
+</td>
+<td align="center">
+<font color="green">
+75%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=305-6-18-2020-fc-augsburg-rb-leipzig" target="_top" title="FC Augsburg vs RB Leipzig">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+RB Leipzig
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:17.7px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+71%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 10 (62.5%)Draws: 4 (25.0%)Defeats: 2 (12.5%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:4.1px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.50
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Freiburg
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:13.5px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+54%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 8 (50.0%)Draws: 2 (12.5%)Defeats: 6 (37.5%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.25
+</font>
+</td>
+<td align="center">
+<font color="red">
+44%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=303-13-10-2020-freiburg-schalke-04" target="_top" title="Freiburg vs Schalke 04">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Schalke 04
+ </td>
+<td align="left">
 <div class="graphwide"><div class="bargray" style="width:8.9px;"></div></div>
 </td>
 <td align="left">
@@ -115,276 +306,7 @@ Dusseldorf
 </td>
 <td align="center">
 <font color="green">
-2.75
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=293-8-6-2020-dusseldorf-fc-augsburg" target="_top" title="Dusseldorf vs FC Augsburg">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-FC Augsburg
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (25.0%)Draws: 3 (18.8%)Defeats: 9 (56.3%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:18.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.06
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-FC Koln
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (37.5%)Draws: 3 (18.8%)Defeats: 7 (43.8%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:14.4px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.31
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=289-16-3-2020-fc-koln-e.-frankfurt" target="_top" title="FC Koln vs E. Frankfurt">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-E. Frankfurt
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (31.3%)Draws: 1 (6.3%)Defeats: 10 (62.5%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:2.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.38
-</font>
-</td>
-<td align="center">
-<font color="green">
-81%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-FSV Mainz
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-29%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (25.0%)Draws: 2 (12.5%)Defeats: 10 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.69
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=294-14-7-2020-fsv-mainz-werder-bremen" target="_top" title="FSV Mainz vs Werder Bremen">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Werder Bremen
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (37.5%)Draws: 4 (25.0%)Defeats: 6 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.50
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Hertha Berlin
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.4px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-38%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (31.3%)Draws: 3 (18.8%)Defeats: 8 (50.0%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.31
-</font>
-</td>
-<td align="center">
-<font color="green">
-75%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=291-2-11-2020-hertha-berlin-leverkusen" target="_top" title="Hertha Berlin vs Leverkusen">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Leverkusen
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-67%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 10 (62.5%)Draws: 2 (12.5%)Defeats: 4 (25.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.06
+2.81
 </font>
 </td>
 <td align="center">
@@ -393,14 +315,14 @@ Leverkusen
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr><td colspan="11" height="12">
 </td></tr>
 <tr class="trow2">
 <td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
+Sat27
 </b></td>
 <td align="center" rowspan="2" valign="middle"><font color="green" size="1">
 14:30
@@ -409,35 +331,35 @@ Sat20
  home
 </font></td>
 <td align="right" width="120">
-Hoffenheim
+Leverkusen
  </td>
 <td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.9px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-40%
+58%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 6 (37.5%)Draws: 1 (6.3%)Defeats: 9 (56.3%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:2.1px;"></div><div class="barred" style="width:18.6px;"></div></span>
+<span title="Wins: 8 (50.0%)Draws: 4 (25.0%)Defeats: 4 (25.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:8.3px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-3.69
+3.31
 </font>
 </td>
 <td align="center">
 <font color="green">
-81%
+62%
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=295-4-17-2020-hoffenheim-union-berlin" target="_top" title="Hoffenheim vs Union Berlin">stats</a></li>
+<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=302-11-14-2020-leverkusen-fsv-mainz" target="_top" title="Leverkusen vs FSV Mainz">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -446,62 +368,22 @@ Hoffenheim
  away
 </font></td>
 <td align="right">
-Union Berlin
+FSV Mainz
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-29%
+42%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 4 (25.0%)Draws: 2 (12.5%)Defeats: 10 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
+<span title="Wins: 6 (37.5%)Draws: 2 (12.5%)Defeats: 8 (50.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
-3.19
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Paderborn
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-17%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (12.5%)Draws: 2 (12.5%)Defeats: 12 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.94
+3.81
 </font>
 </td>
 <td align="center">
@@ -510,11 +392,51 @@ Paderborn
 </font>
 </td>
 <td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Monchengladbach
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:18.2px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+73%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 11 (68.8%)Draws: 2 (12.5%)Defeats: 3 (18.8%)"><div class="bargreen" style="width:22.7px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:6.2px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.63
+</font>
+</td>
+<td align="center">
+<font color="green">
+81%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=296-12-9-2020-paderborn-monchengladbach" target="_top" title="Paderborn vs Monchengladbach">stats</a></li>
+<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=301-9-2-2020-monchengladbach-hertha-berlin" target="_top" title="Monchengladbach vs Hertha Berlin">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -523,9 +445,49 @@ Paderborn
  away
 </font></td>
 <td align="right">
-Monchengladbach
+Hertha Berlin
  </td>
 <td align="left">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+42%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 5 (31.3%)Draws: 5 (31.3%)Defeats: 6 (37.5%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:10.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.06
+</font>
+</td>
+<td align="center">
+<font color="green">
+75%
+</font>
+</td>
+<td align="left">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Union Berlin
+ </td>
+<td align="left" width="30">
 <div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
 </td>
 <td align="left">
@@ -542,56 +504,16 @@ Monchengladbach
 </font>
 </td>
 <td align="center">
-<font color="green">
-56%
+<font color="red">
+38%
 </font>
 </td>
 <td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-RB Leipzig
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:15.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-60%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (43.8%)Draws: 8 (50.0%)Defeats: 1 (6.3%)"><div class="bargreen" style="width:14.4px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:2.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.56
-</font>
-</td>
-<td align="center">
-<font color="green">
-69%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
+<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
 <td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=297-18-5-2020-rb-leipzig-dortmund" target="_top" title="RB Leipzig vs Dortmund">stats</a></li>
+<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=306-17-8-2020-union-berlin-dusseldorf" target="_top" title="Union Berlin vs Dusseldorf">stats</a></li>
 </ul></div>
 </td>
 </tr>
@@ -600,18 +522,172 @@ RB Leipzig
  away
 </font></td>
 <td align="right">
-Dortmund
+Dusseldorf
  </td>
 <td align="left">
-<div class="graphwide"><div class="bargray" style="width:15.6px;"></div></div>
+<div class="graphwide"><div class="bargray" style="width:6.3px;"></div></div>
 </td>
 <td align="left">
 <font color="#666666" size="1">
-62%
+25%
 </font>
 </td>
 <td align="center">
-<span title="Wins: 9 (56.3%)Draws: 3 (18.8%)Defeats: 4 (25.0%)"><div class="bargreen" style="width:18.6px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:8.3px;"></div></span>
+<span title="Wins: 2 (12.5%)Draws: 6 (37.5%)Defeats: 8 (50.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.38
+</font>
+</td>
+<td align="center">
+<font color="green">
+69%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Werder Bremen
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:3.1px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+12%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 1 (6.3%)Draws: 3 (18.8%)Defeats: 12 (75.0%)"><div class="bargreen" style="width:2.1px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+2.75
+</font>
+</td>
+<td align="center">
+<font color="green">
+56%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=300-7-16-2020-werder-bremen-fc-koln" target="_top" title="Werder Bremen vs FC Koln">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+FC Koln
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+29%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (25.0%)Draws: 2 (12.5%)Defeats: 10 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
+</td>
+<td align="center">
+<font color="green">
+3.63
+</font>
+</td>
+<td align="center">
+<font color="green">
+75%
+</font>
+</td>
+<td align="left">
+<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="12">
+</td></tr>
+<tr class="trow2">
+<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
+Sat27
+</b></td>
+<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
+14:30
+</font></td>
+<td align="left" height="20" width="25"><font color="#666666" size="1">
+ home
+</font></td>
+<td align="right" width="120">
+Wolfsburg
+ </td>
+<td align="left" width="30">
+<div class="graphwide"><div class="bargray" style="width:9.9px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+40%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 4 (25.0%)Draws: 7 (43.8%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:14.4px;"></div><div class="barred" style="width:10.3px;"></div></span>
+</td>
+<td align="center">
+<font color="red">
+2.38
+</font>
+</td>
+<td align="center">
+<font color="red">
+44%
+</font>
+</td>
+<td align="left">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
+<a href="pmatch.asp?league=germany&amp;stats=304-15-1-2020-wolfsburg-bayern-munich" target="_top" title="Wolfsburg vs Bayern Munich">stats</a></li>
+</ul></div>
+</td>
+</tr>
+<tr class="trow2">
+<td align="left" height="20"><font color="#666666" size="1">
+ away
+</font></td>
+<td align="right">
+Bayern Munich
+ </td>
+<td align="left">
+<div class="graphwide"><div class="bargray" style="width:19.8px;"></div></div>
+</td>
+<td align="left">
+<font color="#666666" size="1">
+79%
+</font>
+</td>
+<td align="center">
+<span title="Wins: 12 (75.0%)Draws: 2 (12.5%)Defeats: 2 (12.5%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:4.1px;"></div></span>
 </td>
 <td align="center">
 <font color="green">
@@ -625,83 +701,6 @@ Dortmund
 </td>
 <td align="left">
 <div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat20
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-14:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Schalke 04
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (31.3%)Draws: 7 (43.8%)Defeats: 4 (25.0%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:14.4px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.63
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=germany&amp;stats=290-10-15-2020-schalke-04-wolfsburg" target="_top" title="Schalke 04 vs Wolfsburg">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Wolfsburg
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:14.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-56%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 8 (50.0%)Draws: 3 (18.8%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:6.2px;"></div><div class="barred" style="width:10.3px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.94
-</font>
-</td>
-<td align="center">
-<font color="green">
-56%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

@@ -129,34 +129,34 @@ H. Beer Sheva
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
 9
-</td>
-<td align="center">
-2
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
+4
+</td>
+<td align="center">
 <font color="blue">
-22
+24
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+12
 </font>
 </td>
 <td align="center">
-+13
++12
 </td>
 <td align="center">
 <b>
-29
+30
 </b>
 </td>
 </tr>
@@ -211,11 +211,11 @@ B. Jerusalem
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Hapoel Tel Aviv
+Hapoel Haifa
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
@@ -225,20 +225,20 @@ Hapoel Tel Aviv
 4
 </td>
 <td align="center">
-4
+6
 </td>
 <td align="center">
 <font color="blue">
-16
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+22
 </font>
 </td>
 <td align="center">
-+4
+0
 </td>
 <td align="center">
 <b>
@@ -254,11 +254,11 @@ Hapoel Tel Aviv
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Hapoel Haifa
+Hapoel Tel Aviv
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -268,20 +268,20 @@ Hapoel Haifa
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-22
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+17
 </font>
 </td>
 <td align="center">
-+3
+0
 </td>
 <td align="center">
 <b>
@@ -383,38 +383,38 @@ Hapoel Hadera
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Ironi Kiryat
+Sektzia Nes
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-16
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+20
 </font>
 </td>
 <td align="center">
-+2
+-7
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>
@@ -426,7 +426,7 @@ Ironi Kiryat
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Sektzia Nes
+Ironi Kiryat
 </td>
 <td align="center">
 <font color="green">
@@ -444,16 +444,16 @@ Sektzia Nes
 </td>
 <td align="center">
 <font color="blue">
-13
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+17
 </font>
 </td>
 <td align="center">
--7
+-1
 </td>
 <td align="center">
 <b>
@@ -512,34 +512,34 @@ Ashdod
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Hapoel Raanana
+Bnei Yehuda
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
-2
+3
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
 <font color="blue">
-11
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+20
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -555,7 +555,7 @@ Hapoel Raanana
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Bnei Yehuda
+Hapoel Raanana
 </td>
 <td align="center">
 <font color="green">
@@ -563,13 +563,13 @@ Bnei Yehuda
 </font>
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-4
+2
 </td>
 <td align="center">
 8
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -578,15 +578,15 @@ Bnei Yehuda
 </td>
 <td align="center">
 <font color="red">
-17
+18
 </font>
 </td>
 <td align="center">
--4
+-5
 </td>
 <td align="center">
 <b>
-13
+14
 </b>
 </td>
 </tr>
@@ -602,14 +602,14 @@ Hapoel Kfar
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 9
@@ -629,7 +629,7 @@ Hapoel Kfar
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -645,7 +645,7 @@ FC Ashdod
 </td>
 <td align="center">
 <font color="green">
-2
+3
 </font>
 </td>
 <td align="center">
@@ -655,20 +655,20 @@ FC Ashdod
 0
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 <font color="blue">
-5
+7
 </font>
 </td>
 <td align="center">
 <font color="red">
-2
+5
 </font>
 </td>
 <td align="center">
-+3
++2
 </td>
 <td align="center">
 <b>

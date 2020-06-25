@@ -43,11 +43,11 @@ Red Star
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-13
+14
 </td>
 <td align="center">
 1
@@ -57,20 +57,20 @@ Red Star
 </td>
 <td align="center">
 <font color="blue">
-34
+36
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+8
 </font>
 </td>
 <td align="center">
-+27
++28
 </td>
 <td align="center">
 <b>
-40
+43
 </b>
 </td>
 </tr>
@@ -125,6 +125,49 @@ Partizan
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Cukaricki
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+12
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+37
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 Backa Topola
 </td>
 <td align="center">
@@ -163,49 +206,6 @@ Backa Topola
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Cukaricki
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-11
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-+12
-</td>
-<td align="center">
-<b>
-34
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 5
 </b>
 </font>
@@ -215,11 +215,11 @@ Vojvodina
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 3
@@ -229,7 +229,7 @@ Vojvodina
 </td>
 <td align="center">
 <font color="blue">
-27
+28
 </font>
 </td>
 <td align="center">
@@ -238,11 +238,11 @@ Vojvodina
 </font>
 </td>
 <td align="center">
-+15
++16
 </td>
 <td align="center">
 <b>
-30
+33
 </b>
 </td>
 </tr>
@@ -258,11 +258,11 @@ Radnicki Nis
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 0
@@ -272,20 +272,20 @@ Radnicki Nis
 </td>
 <td align="center">
 <font color="blue">
-29
+32
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+20
 </font>
 </td>
 <td align="center">
-+10
++12
 </td>
 <td align="center">
 <b>
-30
+33
 </b>
 </td>
 </tr>
@@ -301,7 +301,7 @@ Spartak Sub.
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -311,7 +311,7 @@ Spartak Sub.
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -320,11 +320,11 @@ Spartak Sub.
 </td>
 <td align="center">
 <font color="red">
-15
+17
 </font>
 </td>
 <td align="center">
-+13
++11
 </td>
 <td align="center">
 <b>
@@ -426,11 +426,54 @@ Vozdovac
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Proleter
+Javor Ivanjica
 </td>
 <td align="center">
 <font color="green">
 15
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+25
+</font>
+</td>
+<td align="center">
+<font color="red">
+26
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Proleter
+</td>
+<td align="center">
+<font color="green">
+15
 </font>
 </td>
 <td align="center">
@@ -464,7 +507,7 @@ Proleter
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -507,7 +550,7 @@ Radnik
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -550,7 +593,7 @@ Indija
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-13
+14
 </b>
 </font>
 </td>
@@ -583,49 +626,6 @@ Napredak
 </td>
 <td align="center">
 -1
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Javor Ivanjica
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-26
-</font>
-</td>
-<td align="center">
--6
 </td>
 <td align="center">
 <b>
