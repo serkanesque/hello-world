@@ -43,11 +43,11 @@ Salzburg
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
-11
+13
 </td>
 <td align="center">
 2
@@ -57,20 +57,20 @@ Salzburg
 </td>
 <td align="center">
 <font color="blue">
-52
+60
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+19
 </font>
 </td>
 <td align="center">
-+35
++41
 </td>
 <td align="center">
 <b>
-35
+41
 </b>
 </td>
 </tr>
@@ -82,11 +82,140 @@ Salzburg
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Wolfsberger AC
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+37
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+26
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Rapid Wien
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+31
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+25
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Austria Wien
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+22
+</font>
+</td>
+<td align="center">
+<font color="red">
+21
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+25
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 LASK Linz
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
@@ -96,7 +225,7 @@ LASK Linz
 3
 </td>
 <td align="center">
-4
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -105,93 +234,7 @@ LASK Linz
 </td>
 <td align="center">
 <font color="red">
-18
-</font>
-</td>
-<td align="center">
-+14
-</td>
-<td align="center">
-<b>
-24
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Wolfsberger AC
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-34
-</font>
-</td>
-<td align="center">
-<font color="red">
 22
-</font>
-</td>
-<td align="center">
-+12
-</td>
-<td align="center">
-<b>
-23
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Rapid Wien
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-26
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
 </font>
 </td>
 <td align="center">
@@ -199,50 +242,7 @@ Rapid Wien
 </td>
 <td align="center">
 <b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Austria Wien
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-19
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-22
+24
 </b>
 </td>
 </tr>
@@ -258,7 +258,7 @@ Altach
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -268,20 +268,20 @@ Altach
 5
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-26
+27
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+27
 </font>
 </td>
 <td align="center">
-+1
+0
 </td>
 <td align="center">
 <b>
@@ -301,26 +301,26 @@ Hartberg
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
 <font color="blue">
-22
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-32
+35
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Hartberg
 </td>
 <td align="center">
 <b>
-18
+19
 </b>
 </td>
 </tr>
@@ -336,49 +336,6 @@ Hartberg
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Sturm Graz
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-24
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
 </b>
 </font>
 </td>
@@ -387,11 +344,11 @@ St. Poelten
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 6
@@ -401,7 +358,7 @@ St. Poelten
 </td>
 <td align="center">
 <font color="blue">
-15
+17
 </font>
 </td>
 <td align="center">
@@ -410,11 +367,54 @@ St. Poelten
 </font>
 </td>
 <td align="center">
--20
+-18
 </td>
 <td align="center">
 <b>
-12
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Sturm Graz
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+31
+</font>
+</td>
+<td align="center">
+-10
+</td>
+<td align="center">
+<b>
+14
 </b>
 </td>
 </tr>
@@ -426,38 +426,38 @@ St. Poelten
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Admira
+Mattersburg
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
-9
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+33
 </font>
 </td>
 <td align="center">
--15
+-14
 </td>
 <td align="center">
 <b>
-10
+12
 </b>
 </td>
 </tr>
@@ -469,38 +469,38 @@ Admira
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Mattersburg
+Admira
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
-14
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-30
+27
 </font>
 </td>
 <td align="center">
--16
+-18
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>
@@ -516,17 +516,17 @@ WSG Tirol
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -535,15 +535,15 @@ WSG Tirol
 </td>
 <td align="center">
 <font color="red">
-33
+34
 </font>
 </td>
 <td align="center">
--21
+-22
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>

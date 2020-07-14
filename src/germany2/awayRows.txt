@@ -62,7 +62,7 @@ Bielefeld
 </td>
 <td align="center">
 <font color="red">
-18
+18
 </font>
 </td>
 <td align="center">
@@ -168,15 +168,55 @@ Holstein Kiel
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
+Darmstadt
+</td>
+<td align="center">
+<font color="green">
+17
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+25
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
 FC Nurnberg
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
-</td>
-<td align="center">
-5
 </td>
 <td align="center">
 5
@@ -185,13 +225,16 @@ FC Nurnberg
 6
 </td>
 <td align="center">
+6
+</td>
+<td align="center">
 <font color="blue">
-29
+30
 </font>
 </td>
 <td align="center">
 <font color="red">
-26
+27
 </font>
 </td>
 <td align="center">
@@ -199,14 +242,14 @@ FC Nurnberg
 </td>
 <td align="center">
 <b>
-20
+21
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Hamburger SV
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Greuther Furth
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,16 +378,16 @@ Stuttgart
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Bochum
+Sandhausen
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -354,16 +397,16 @@ Bochum
 5
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
-16
+23
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+26
 </font>
 </td>
 <td align="center">
@@ -378,23 +421,23 @@ Bochum
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Darmstadt
+Bochum
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 7
@@ -406,22 +449,22 @@ Darmstadt
 </td>
 <td align="center">
 <font color="red">
-24
+21
 </font>
 </td>
 <td align="center">
--8
+-5
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -448,55 +491,12 @@ Wehen Wiesbaden
 </font>
 </td>
 <td align="center">
-<font color="red">
+<font color="red"> 
 27
 </font>
 </td>
 <td align="center">
 -2
-</td>
-<td align="center">
-<b>
-18
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Heidenheim
-</td>
-<td align="center">
-<font color="green">
-16
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--7
 </td>
 <td align="center">
 <b>
@@ -516,26 +516,26 @@ Osnabruck
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-18
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-21
+23
 </font>
 </td>
 <td align="center">
@@ -543,7 +543,7 @@ Osnabruck
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -555,38 +555,38 @@ Osnabruck
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Sandhausen
+Heidenheim
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
 <font color="blue">
-18
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-25
+23
 </font>
 </td>
 <td align="center">
--7
+-10
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -594,6 +594,49 @@ Sandhausen
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
 14
+</b>
+</font>
+</td>
+<td height="20" style="padding-left:4px;">
+Karlsruher SC
+</td>
+<td align="center">
+<font color="green">
+17
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+29
+</font>
+</td>
+<td align="center">
+-10
+</td>
+<td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="center" bgcolor="#dddddd">
+<font color="#444444"><b>
+15
 </b>
 </font>
 </td>
@@ -636,7 +679,7 @@ Regensburg
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-15
+16
 </b>
 </font>
 </td>
@@ -679,69 +722,26 @@ Dynamo Dresden
 <tr class="odd" height="22">
 <td align="center" bgcolor="#dddddd">
 <font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Karlsruher SC
+Erzgebirge Aue
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-6
+5
 </td>
 <td align="center">
-8
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-28
-</font>
-</td>
-<td align="center">
--11
-</td>
-<td align="center">
-<b>
-12
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Sankt Pauli
-</td>
-<td align="center">
-<font color="green">
-16
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -750,15 +750,15 @@ Sankt Pauli
 </td>
 <td align="center">
 <font color="red">
-31
+30
 </font>
 </td>
 <td align="center">
--17
+-16
 </td>
 <td align="center">
 <b>
-9
+11
 </b>
 </td>
 </tr>
@@ -770,38 +770,38 @@ Sankt Pauli
 </font>
 </td>
 <td height="20" style="padding-left:4px;">
-Erzgebirge Aue
+Sankt Pauli
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 10
 </td>
 <td align="center">
 <font color="blue">
-12
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-29
+36
 </font>
 </td>
 <td align="center">
--17
+-19
 </td>
 <td align="center">
 <b>
-8
+9
 </b>
 </td>
 </tr>

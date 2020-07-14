@@ -1,482 +1,82 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+26</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri26
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-AGF Aarhus
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-64%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Aalborg BK - AGF Aarhus</td>
 <td align="center">
-<span title="Wins: 8 (57.1%)Draws: 3 (21.4%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:7.1px;"></div></span>
-</td>
+<b>2 - 3</b></td>
 <td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=205-4-8-2020-agf-aarhus-aalborg-bk" target="_top" title="AGF Aarhus vs Aalborg BK">stats</a></li>
-</ul></div>
+(0-1)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Aalborg BK
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> AC Horsens - Brondby IF</td>
 <td align="center">
-<span title="Wins: 4 (28.6%)Draws: 3 (21.4%)Defeats: 7 (50.0%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
+<b>3 - 2</b></td>
 <td align="center">
-<font color="green">
-2.86
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+(0-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat27
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-SonderjyskE
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-48%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> FC Kobenhavn - Randers FC</td>
 <td align="center">
-<span title="Wins: 5 (35.7%)Draws: 5 (35.7%)Defeats: 4 (28.6%)"><div class="bargreen" style="width:11.8px;"></div><div class="barorange" style="width:11.8px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
+<b>2 - 1</b></td>
 <td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=232-13-2-2020-sonderjyske-silkeborg" target="_top" title="SonderjyskE vs Silkeborg">stats</a></li>
-</ul></div>
+(2-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Silkeborg
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.4px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-21%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Hobro IK - Lyngby</td>
 <td align="center">
-<span title="Wins: 1 (7.1%)Draws: 6 (42.9%)Defeats: 7 (50.0%)"><div class="bargreen" style="width:2.4px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
+<b>2 - 2</b></td>
 <td align="center">
-<font color="green">
-3.21
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
+(0-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun28
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-13:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Randers FC
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:16.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-64%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Nordsjaelland - FC Midtjylland</td>
 <td align="center">
-<span title="Wins: 8 (57.1%)Draws: 3 (21.4%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:7.1px;"></div></span>
-</td>
+<b>0 - 1</b></td>
 <td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="green">
-57%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=243-14-5-2020-randers-fc-ac-horsens" target="_top" title="Randers FC vs AC Horsens">stats</a></li>
-</ul></div>
+(0-1)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-AC Horsens
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-38%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Odense BK - Esbjerg</td>
 <td align="center">
-<span title="Wins: 4 (28.6%)Draws: 4 (28.6%)Defeats: 6 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
+<b>3 - 1</b></td>
 <td align="center">
-<font color="red">
-2.36
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+(3-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun28
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-15:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Hobro IK
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:7.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 7 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> SonderjyskE - Silkeborg</td>
 <td align="center">
-<span title="Wins: 1 (7.1%)Draws: 10 (71.4%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:2.4px;"></div><div class="barorange" style="width:23.6px;"></div><div class="barred" style="width:7.1px;"></div></span>
-</td>
+<b>2 - 2</b></td>
 <td align="center">
-<font color="red">
-2.21
-</font>
-</td>
-<td align="center">
-<font color="red">
-29%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=244-3-10-2020-hobro-ik-esbjerg" target="_top" title="Hobro IK vs Esbjerg">stats</a></li>
-</ul></div>
+(1-1)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Esbjerg
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-14%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (7.1%)Draws: 3 (21.4%)Defeats: 10 (71.4%)"><div class="bargreen" style="width:2.4px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="green">
-57%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun28
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Nordsjaelland
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:14.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-60%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (50.0%)Draws: 4 (28.6%)Defeats: 3 (21.4%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:7.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.64
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=206-6-1-2020-nordsjaelland-brondby-if" target="_top" title="Nordsjaelland vs Brondby IF">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Brondby IF
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-36%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (28.6%)Draws: 3 (21.4%)Defeats: 7 (50.0%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:7.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.86
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun28
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-FC Kobenhavn
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:22.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-88%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 12 (85.7%)Draws: 1 (7.1%)Defeats: 1 (7.1%)"><div class="bargreen" style="width:28.3px;"></div><div class="barorange" style="width:2.4px;"></div><div class="barred" style="width:2.4px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.00
-</font>
-</td>
-<td align="center">
-<font color="green">
-71%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=denmark&amp;stats=204-12-9-2020-fc-kobenhavn-fc-midtjylland" target="_top" title="FC Kobenhavn vs FC Midtjylland">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-FC Midtjylland
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:23.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-95%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 13 (92.9%)Draws: 1 (7.1%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:30.6px;"></div><div class="barorange" style="width:2.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.00
-</font>
-</td>
-<td align="center">
-<font color="red">
-36%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
