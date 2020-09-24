@@ -1,73 +1,15 @@
-<table id="btable">
-<tr class="even">
-<td height="25" width="27%"> <b>
-Round
-26</b></td>
-<td width="51%"></td>
-<td width="11%"></td>
-<td width="11%"></td>
+<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
+<tr bgcolor="#f4f4f4" height="18">
+<td align="center" style="background-color:#999999;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
+<font color="#fafafa">Home / Away</font></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=israel&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=israel&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sat. 29 Feb.
-</font><font color="green" size="1">14:00</font></td>
-<td> H. Kfar Saba - Hapoel Raanana</td>
-<td align="center">
-<b>3 - 0</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sat. 29 Feb.
-</font><font color="green" size="1">16:15</font></td>
-<td> Maccabi Netanya - M. Tel Aviv</td>
-<td align="center">
-<b>0 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sat. 29 Feb.
-</font><font color="green" size="1">18:50</font></td>
-<td> Bnei Yehuda - Hapoel Haifa</td>
-<td align="center">
-<b>0 - 0</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sat. 29 Feb.
-</font><font color="green" size="1">18:50</font></td>
-<td> Hapoel Tel Aviv - Hapoel Hadera</td>
-<td align="center">
-<b>2 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar.
-</font><font color="green" size="1">18:00</font></td>
-<td> Nes Tziona - Ironi Kiryat</td>
-<td align="center">
-<b>1 - 0</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar.
-</font><font color="green" size="1">19:00</font></td>
-<td> B. Jerusalem - Ashdod</td>
-<td align="center">
-<b>2 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar.
-</font><font color="green" size="1">19:15</font></td>
-<td> Maccabi Haifa - H. Beer Sheva</td>
-<td align="center">
-<b>4 - 0</b></td>
-<td align="center">
-</td>
+<tr>
+<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
+<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
+<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
 </tr>
 </table>

@@ -1,82 +1,15 @@
-<table id="btable">
-<tr class="even">
-<td height="25" width="27%"> <b>
-Round
-30</b></td>
-<td width="51%"></td>
-<td width="11%"></td>
-<td width="11%"></td>
+<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
+<tr bgcolor="#f4f4f4" height="18">
+<td align="center" style="background-color:#999999;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
+<font color="#fafafa">Home / Away</font></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=israel2&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
+<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
+<a class="horiz" href="leaguepreviews.asp?league=israel2&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:00</font></td>
-<td> H. Ashkelon - Bnei Sakhnin</td>
-<td align="center">
-<b>2 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:00</font></td>
-<td> H. Bnei Lod - H. Petah Tikva</td>
-<td align="center">
-<b>1 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:00</font></td>
-<td> Hapoel Afula - Beitar Tel Aviv</td>
-<td align="center">
-<b>0 - 0</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:00</font></td>
-<td> Hapoel Katamon - H. Nof Hagalil</td>
-<td align="center">
-<b>0 - 2</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:00</font></td>
-<td> M. Petah Tikva - Hapoel Akko</td>
-<td align="center">
-<b>1 - 0</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:15</font></td>
-<td> H. Umm al-Fahm - H. Ironi Rishon</td>
-<td align="center">
-<b>1 - 1</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:15</font></td>
-<td> M. A. Nazareth - Kfar Qasim</td>
-<td align="center">
-<b>2 - 4</b></td>
-<td align="center">
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Thu. 4 Jun.
-</font><font color="green" size="1">18:15</font></td>
-<td> Ramat Hasharon - H. Ramat Gan</td>
-<td align="center">
-<b>0 - 2</b></td>
-<td align="center">
-</td>
+<tr>
+<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
+<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
+<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
 </tr>
 </table>
