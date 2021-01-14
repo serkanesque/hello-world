@@ -1,0 +1,99 @@
+.accordionjs {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+      border-top: 1px solid;
+
+}
+.accordionjs .acc_section {
+
+  position: relative;
+  z-index: 10;
+
+  overflow: hidden;
+  border-bottom: 1px solid;
+}
+.accordionjs .acc_section .acc_head {
+  position: relative;
+  background: #fff;
+  padding: 20px 0 20px;
+  display: block;
+  cursor: pointer;
+    font-family: neue-haas-grotesk-display;
+    font-weight: 600;
+    font-size: 17px;
+letter-spacing: 0em;
+
+
+
+
+}
+.accordionjs .acc_section .acc_head h3 {
+  line-height: 1;
+  margin: 5px 0;
+}
+.accordionjs .acc_section .acc_content {
+  padding: 0;
+}
+.accordionjs .acc_section .acc_content p:last-of-type{
+    padding-bottom: 80px;
+}
+.accordionjs .acc_section:first-of-type,
+.accordionjs .acc_section:first-of-type .acc_head {
+
+}
+.accordionjs .acc_section:last-of-type,
+.accordionjs .acc_section:last-of-type .acc_content {
+
+}
+.accordionjs .acc_section.acc_active > .acc_content {
+  display: block;
+}
+.accordionjs .acc_section.acc_active > .acc_head {
+
+}
+
+
+#faqs .accordionjs .acc_section {
+ border-bottom: none;
+}
+#faqs .accordionjs {
+  border-top: none;
+  margin: 0;
+}
+
+#faqs .accordionjs .acc_section .acc_content {
+   background-color: #fff;
+}
+
+#faqs .accordionjs .acc_head {
+  box-sizing: border-box;
+     padding-left: 30px !important;
+} 
+
+#faqs .accordionjs .acc_section.acc_active {
+  margin-top: 20px;
+}
+
+#faqs .accordionjs .acc_section.acc_active:before {
+    background-color: blue;
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 3px;
+    height: calc(100% - 16px);
+    z-index: 10;
+}
+
+#faqs .accordionjs p {
+margin-top: 0;
+max-width: 100%;
+max-width: 600px;
+padding-left: 30px;
+padding-top: 10px;
+}
+

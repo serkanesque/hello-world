@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+
+<link rel="stylesheet" href="styles/structure.css">
+<link rel="stylesheet" type="text/css" href="styles/hamburger/dist/hamburgers.css"/>
+<link rel="stylesheet" href="https://use.typekit.net/wvw1yyb.css">
+<link rel="stylesheet" type="text/css" href="js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="js/slick/slick-theme.css"/>
+<link rel="stylesheet" href="js/accordion/accordion.css" />
+
+</head>
+
+<body>
+<div id="main" class="">
+    <div id="logo">
+      
+<picture class="white">   
+<source media="(max-width: 1080px)" srcset="imgs/logo.svg">
+  <source media="(min-width: 1401px)" srcset="imgs/logo.svg"> 
+  <source media="(max-width: 1400px)" srcset="imgs/logo-small.svg">
+
+  <img src="imgs/logo.svg">
+</picture>
+
+<picture class="blue">
+<source media="(max-width: 1080px)" srcset="imgs/logo-blue.svg">  
+  <source media="(max-width: 1400px)" srcset="imgs/logo-blue-small.svg">
+  <source media="(min-width: 1401px)" srcset="imgs/logo-blue.svg">
+  <img src="imgs/logo-blue.svg">
+</picture>
+    
+    </div>
+  <nav>   
+
+  <ul>
+  <li><a href="">Who we are</a></li>
+  <li><a href="">How we work</a></li>
+  <li><a href="">What we do</a></li>
+  <li class="dropdown">
+      <a href="">Our impact</a>
+        <div class="dropdown-content">
+      <a href="#">Mission & Values</a>
+      <a href="#">History</a>
+      <a href="#">Leadership</a>
+    </div>
+</li>
+    <li><a href="">Newsroom</a></li>
+    <li><a href="">Contact us</a></li>  
+
+</ul>
+      
+  </nav>
+  <nav>
+    <ul>
+      <li><a href="">Grantholders</a></li>
+    </ul>
+  </nav>
+
+  <div class="bmenu">
+    <button class="hamburger hamburger--collapse" type="button">
+    <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+    </span>
+    </button>
+  </div>
+  <div id="nav-drawer">
+    <a href=""><div class="item">Who we are</div></a> 
+    <a href=""><div class="item">How we work</div></a>  
+    <a href=""><div class="item">What we do</div></a> 
+    <a href=""><div class="item">Our impact</div></a>
+    <a href=""><div class="item">Newsroom</div></a> 
+    <a href=""><div class="item">Contact us</div></a> 
+    <a href=""><div class="item">Grantholders</div></a> 
+  </div>  
+
+
+</div>
+
+
+
+  <section id="hero" class="sub-page">    
+    <div class="bg-img">
+      <div class="hero-img" data-parallax="scroll" data-image-src="imgs/homepage-hero.png"></div> 
+      <div class="hero-img"></div>    
+      <div class="content">
+      <span>Latest news</span>
+        <h1>Newsroom</h1>
+      </div>  
+    </div>
+  </section>
+
+
+
+<div id="priorities" class="newsroom">
+<div class="wrapper">
+
+
+<div><a href="">
+<img src="imgs/priorities.png"> 
+<span>Posted on 07.10.19</span>
+<h6>Children and young people</h6>
+<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+</a>
+</div>	
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+</div>
+</div>
+</body>
+
+
+
+
+
+
+<script type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="js/slick/slick.min.js"></script>
+  <script type="text/javascript" src="js/tabslet/jquery.tabslet.min.js"></script>
+  <script src="js/accordion/accordion.min.js"></script>
+  <script type="text/javascript" src="js/parallax/parallax.js"></script>
+<script type="text/javascript" src="js/sticky/jquery.sticky.js"></script>
+  <script>
+  $(document).ready(function(){
+$("#jump").sticky({ 
+  topSpacing: 71,
+  bottomSpacing: 0,
+  className: 'is-sticky',
+  wrapperClassName: 'sticky-wrapper',
+  center: false,
+  getWidthFrom: '',
+  widthFromWrapper: false, // works only when .getWidthFrom is empty
+  responsiveWidth: false,
+  zIndex: 'inherit'
+});
+  });
+</script>
+
+
+
+<script>
+
+$(window).on('resize', function(){
+      var win = $(this);
+      if (win.width() >= 1080) {
+    $("body").removeClass("lock");  
+    $("#nav-drawer").removeClass("active");  
+    $(".hamburger").removeClass("is-active");       
+       }
+});
+
+  var $hamburger = $(".hamburger");
+  
+
+  $hamburger.on("click", function(e) {
+    $hamburger.toggleClass("is-active");
+       $("#nav-drawer").toggleClass("active");  
+       $("body").toggleClass("lock");   
+   
+  });
+</script>
+ <script type="text/javascript">
+
+$(function() {
+    //caches a jQuery object containing the header element
+    var header = $("#main");
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 64) {
+            header.addClass("on-scroll");
+        } else {
+            header.removeClass("on-scroll");
+        }
+    });
+});
+</script>
+<script>
+    jQuery(document).ready(function ($){
+        $("#my-accordion").accordionjs({
+        activeIndex : false,
+
+        // Callback when a section is open
+        openSection: function( section ){},
+
+        // Callback before a section is open
+        beforeOpenSection: function( section ){},
+    });
+    });
+</script>
+
+<script>
+
+    $(document).ready(function(){
+      $('.your-class').slick({ 
+        dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 4,
+  slidesToScroll: 4,  
+  draggable: true,
+   responsive: [
+    {
+      breakpoint: 1080,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        dots: true
+      }
+    },
+      {
+      breakpoint: 800,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        dots: true
+      }
+    }
+
+  ]
+})
+      });
+
+     $('.tabs').tabslet();
+
+ </script>
+
+
+</body>
+
+</html>  
