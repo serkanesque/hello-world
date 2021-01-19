@@ -23,9 +23,11 @@
   display: block;
   cursor: pointer;
     font-family: neue-haas-grotesk-display;
-    font-weight: 600;
-    font-size: 17px;
-letter-spacing: 0em;
+font-weight: 600;
+font-size: calc(15px + (18 - 15) * ((100vw - 300px) / (1800 - 300)));
+    letter-spacing: 0.02em;
+    color: #1B2764;
+    line-height: 150%;
 
 
 
@@ -39,7 +41,7 @@ letter-spacing: 0em;
   padding: 0;
 }
 .accordionjs .acc_section .acc_content p:last-of-type{
-    padding-bottom: 80px;
+    /*padding-bottom: 80px;*/
 }
 .accordionjs .acc_section:first-of-type,
 .accordionjs .acc_section:first-of-type .acc_head {
@@ -72,6 +74,10 @@ letter-spacing: 0em;
 #faqs .accordionjs .acc_head {
   box-sizing: border-box;
      padding-left: 30px !important;
+         padding-right: 75px;
+} 
+#faqs .accordionjs .acc_head:hover {
+text-decoration: underline;
 } 
 
 #faqs .accordionjs .acc_section.acc_active {

@@ -25,6 +25,8 @@ function load_scripts() {
 
     add_action('wp_enqueue_scripts', 'load_scripts');
     add_theme_support( 'post-thumbnails' );
+    set_post_thumbnail_size( 678, 380);
+    add_image_size( 'single-post-thumbnail', 1200, 687 );
     add_post_type_support( 'page', 'excerpt' );
 
     ?>

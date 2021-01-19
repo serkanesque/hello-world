@@ -19,48 +19,8 @@ Template Name: Front page
 <body>
 	<div id="main" class="">
 		<?php get_header('logo'); ?>
-	<nav>		
+		<?php get_header('nav'); ?>
 
-	<ul>
-	<li><a href="">Who we are</a></li>
-	<li><a href="">How we work</a></li>
-	<li><a href="">What we do</a></li>
-	<li class="dropdown">
-			<a href="">Our impact</a>
-		    <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-		<li><a href="">Newsroom</a></li>
-		<li><a href="">Contact us</a></li>	
-
-</ul>
-			
-	</nav>
-	<nav>
-		<ul>
-			<li><a href="">Grantholders</a></li>
-		</ul>
-	</nav>
-
-	<div class="bmenu">
-		<button class="hamburger hamburger--collapse" type="button">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	<div id="nav-drawer">
-		<a href=""><div class="item">Who we are</div></a>	
-		<a href=""><div class="item">How we work</div></a>	
-		<a href=""><div class="item">What we do</div></a>	
-		<a href=""><div class="item">Our impact</div></a>
-		<a href=""><div class="item">Newsroom</div></a>	
-		<a href=""><div class="item">Contact us</div></a>	
-		<a href=""><div class="item">Grantholders</div></a>	
-	</div>	
 
 
 </div>
@@ -70,10 +30,10 @@ Template Name: Front page
 	<section id="hero">
 
 		<div class="news-banner">
-			<a href="">Read our Covid-19 operational update</a>
+			<a href="http://localhost/newsroom/covid-19-operational-update/">Read our Covid-19 operational update</a>
 		</div>
 		<div class="bg-img">
-			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.png"></div>		
+			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.jpg"></div>		
 			<div class="content">
 			<span>The Monday Charitable Trust</span>
 				<h1>We work to improve<br /> life chances</h1>
@@ -85,11 +45,11 @@ Template Name: Front page
 
 		</div>
 		<div class="card">
-			<a href="">
+			<a href="http://localhost/newsroom/covid-19-operational-update/">
 				<div><img src="<?php echo get_template_directory_uri()?>/imgs/news-card.png"></div>
 				<div class="headline">
-					<span>News</span>
-					<span>Read our Covid-19 operational update</span>
+				
+					<span>Read our Covid-19 operational update 	&#x2192;</span>
 				</div>
 			</a>
 		</div>
@@ -108,7 +68,7 @@ Template Name: Front page
 <div class="wrapper">
 <div class="image-wrapper">
 <div class="image">
-<img src="https://www.sw.co.uk/wp-content/uploads/2019/09/SWLeedsNov2018-707-8in-885x605.jpg">
+<img src="<?php echo get_template_directory_uri()?>/imgs/hp-intro-1.jpg">
 </div>	
 </div>
 	<div class="content">
@@ -119,7 +79,7 @@ Template Name: Front page
 			<p class="blue67">
 				Whilst we will continue to support direct service provision to help those in need, we are increasingly interested in funding programmes which address or seek to identify the root causes of issues.
 			</p>
-			<a href="" class="button"><img src="<?php echo get_template_directory_uri()?>/imgs/arrow.svg" />Learn more</a>
+			<a href="/newsroom" class="button"><img src="<?php echo get_template_directory_uri()?>/imgs/arrow.svg" />Learn more</a>
 		</div>
 	</div>
 </div>
@@ -140,7 +100,7 @@ Template Name: Front page
 	</div>
 	<div class="image-wrapper">
 <div class="image">
-<img src="https://www.sw.co.uk/wp-content/uploads/2019/09/SWLeedsNov2018-707-8in-885x605.jpg">
+<img src="<?php echo get_template_directory_uri()?>/imgs/hp-intro-2.jpg">
 </div>	
 </div>
 </div>
@@ -168,64 +128,64 @@ Template Name: Front page
     <div class="carousel-item">
     	<span>Homelessness</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.jpg">
     	<div class="hide">
     		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<p>We fund charities that work with homeless people is to support services that help people out of homelessness, by providing for immediate needs and long term accommodation and rehabilitation.</p>
     	</div>
     </div>
     <div class="carousel-item">
-    	<span>Education and training</span>
+    	<span>Children and the young</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/children.jpg">
     	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<h5>Children and the young</h5>
+    		<p>We fund charities that work with children and young people to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+    	</div>
+    </div>
+        <div class="carousel-item">
+    	<span>Disability</span>
+    	<div class="carousel-expand"></div>
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/disability.jpg">
+    	<div class="hide">
+    		<h5>Disability</h5>
+    		<p>We fund charities that work with disability to support excellent care and good quality accommodation.</p>
     	</div>
     </div>
         <div class="carousel-item">
     	<span>Hospice care</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/hospice.jpg">
     	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<h5>Hospice care</h5>
+    		<p>We fund charities that work for Hospices to support excellent care and good quality accommodation and to provide information so that people know what benefits they are entitled to receive.</p>
     	</div>
     </div>
         <div class="carousel-item">
-    	<span>Homelessness</span>
+    	<span>Social mobility</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/mobility.jpg">
     	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<h5>Social mobility</h5>
+    		<p>We fund charities that work to increase life chances by developing life skills and emotional resilience.</p>
     	</div>
     </div>
         <div class="carousel-item">
-    	<span>Homelessness</span>
+    	<span>Mental health</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/mental-health.jpg">
     	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<h5>Mental health</h5>
+    		<p>We make grants to a range of projects in support people with mental health problems to see that they get the support they need, when they need it.</p>
     	</div>
     </div>
         <div class="carousel-item">
-    	<span>Homelessness</span>
+    	<span>Prisoner welfare</span>
     	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
+    	<img src="<?php echo get_template_directory_uri()?>/imgs/prisoners.jpg">
     	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
-    	</div>
-    </div>
-        <div class="carousel-item">
-    	<span>Homelessness</span>
-    	<div class="carousel-expand"></div>
-    	<img src="<?php echo get_template_directory_uri()?>/imgs/homelessness.png">
-    	<div class="hide">
-    		<h5>Homelessness</h5>
-    		<p>We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
+    		<h5>Prisoner welfare</h5>
+    		<p>We fund charities that work for prisoners’ welfare is to encourage rehabilitation and prevent reoffending for the benefit of themselves, their families and society as a whole. </p>
     	</div>
     </div>              
   </div>
@@ -239,30 +199,29 @@ Template Name: Front page
  		<div>
  			<div class="figures">
  				<span>£</span>
-	 			<h3>95.6</h3>	 		
+	 			<h3>95.6<span style="font-family: Ivar; font-size: 24px;">m</span></h3>	 		
  			</div>
  			<span class="figure-caption">Trust investments</span>
  		</div>
   		<div>
  			<div class="figures">
  				<span>£</span>
-	 			<h3>95.6</h3>	 		
+	 			<h3>3.7<span style="font-family: Ivar; font-size: 24px;">m</span></h3>	  		
  			</div>
- 			<span class="figure-caption">Trust investments</span>
+ 			<span class="figure-caption">Funds distributed</span>
  		</div>
  		 		<div>
  			<div class="figures">
  				<span>£</span>
-	 			<h3>95.6</h3>	 		
+	 			<h3>1.87<span style="font-family: Ivar; font-size: 24px;">m</span></h3>	  		
  			</div>
- 			<span class="figure-caption">Trust investments</span>
+ 			<span class="figure-caption">Funds for Covid grants</span>
  		</div>
  		 		<div>
- 			<div class="figures">
- 				<span>£</span>
-	 			<h3>95.6</h3>	 		
+ 			<div class="figures"> 				
+	 			<h3>27</h3>	 		
  			</div>
- 			<span class="figure-caption">Trust investments</span>
+ 			<span class="figure-caption" style="margin-left: 0;">Initiatives supported</span>
  		</div>	 		 		
 </div>
  	</div>
@@ -305,24 +264,24 @@ Template Name: Front page
 			<span>Grant programme</span>
 		</div>
 		<div>
-			<span>£500,000</span>
+			<span>£800,000</span>
 			<span>Total funding</span>
 		</div>
 		<div>
-			<span>6 years</span>
+			<span>3 years</span>
 			<span>Funding duration</span>
 		</div>
 		</div>
 	</div>
-	<div class="charity-imagery"><div class="logo"></div></div>
+	<div id="thamesReach"class="charity-imagery"><div class="logo"></div></div>
 </div>
 </div>
 
  <div class="carousel-item">	
  	<div class="wrapper">
 	<div class="charity">
-		<h3>Thames Reach</h3>
-		<p>Thames Reach’s mission is to help homeless and vulnerable men and women to find decent homes, build supportive relationships and lead fulfilling lives</p>
+		<h2 class="white">St Basils</h2>
+		<p class="white87">St Basils works with young people to enable them to find and keep a home, grow their confidence, develop their skills, increase opportunities and prevent homelessness.</p>
 			<h5>Funding</h5>
 	<div class="funding">	
 
@@ -331,18 +290,48 @@ Template Name: Front page
 			<span>Grant programme</span>
 		</div>
 		<div>
-			<span>Strategic</span>
-			<span>Grant programme</span>
+			<span>£936,000</span>
+			<span>Total funding</span>
 		</div>
+		<div>
+			<span>3 years</span>
+			<span>Funding duration</span>
+		</div>
+		</div>
+	</div>
+	<div id="stBasils"class="charity-imagery"><div class="logo"></div></div>
+</div>
+</div>
+
+
+ <div class="carousel-item">	
+ 	<div class="wrapper">
+	<div class="charity">
+		<h2 class="white">Sutton Trust</h2>
+		<p class="white87">The Sutton Trust is an educational charity in the United Kingdom which aims to improve social mobility and address educational disadvantage.</p>
+			<h5>Funding</h5>
+	<div class="funding">	
+
+		
 		<div>
 			<span>Strategic</span>
 			<span>Grant programme</span>
 		</div>
+		<div>
+			<span>£900,000</span>
+			<span>Total funding</span>
+		</div>
+		<div>
+			<span>3 years</span>
+			<span>Funding duration</span>
+		</div>
 		</div>
 	</div>
-	<div class="charity-imagery"><div class="logo"></div></div>
+	<div id="suttonTrust"class="charity-imagery"><div class="logo"></div></div>
 </div>
 </div>
+
+
 </div>
 
 <div class="news">
@@ -353,32 +342,12 @@ Template Name: Front page
 	<h1>Latest news</h1>
 </div>
 
-<div>
-	
-<?php
-    $args = array(
-        'post_type' => 'post',
-        'posts_per_page' => 4,
-        'category_name' => 'news'
-    );
 
-$loop = new wp_Query($args);
 
-while($loop->have_posts()) : $loop->the_post();
-    echo '<a href="'.get_permalink().'">';
-    echo get_the_post_thumbnail($post->ID, 'category-thumb');
-    the_title( '<h6>', '</h6>' );
-    echo '</a>';
-endwhile;
-
-wp_reset_query(); ?>
-	
-</div>
-<!--
 		<div>
-			<a class="block" href="">
+			<a class="block" href="/newsroom/covid-19-operational-update/">
 			<div class="image">
-				<img src="<?php echo get_template_directory_uri()?>/imgs/news-image.png">
+				<img src="<?php echo get_template_directory_uri()?>/imgs/covid-news.jpg">
 			</div>
 			<div class="content">
 				<div class="info">
@@ -395,9 +364,9 @@ wp_reset_query(); ?>
 		</div>
 
 		<div>
-			<a class="block" href="">
+			<a class="block" href="/newsroom/covid-19-operational-update/">
 			<div class="image">
-				<img src="<?php echo get_template_directory_uri()?>/imgs/news-image.png">
+				<img src="<?php echo get_template_directory_uri()?>/imgs/annual-report2020.jpg">
 			</div>
 			<div class="content">
 				<div class="info">
@@ -414,7 +383,7 @@ wp_reset_query(); ?>
 		</a>
 		</div>
 
--->
+
 	</div>
 </div>
 

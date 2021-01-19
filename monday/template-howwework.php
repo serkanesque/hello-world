@@ -21,48 +21,7 @@ Template Name: How we work
 <body>
 	<div id="main" class="">
 <?php get_header('logo'); ?>
-	<nav>		
-
-	<ul>
-	<li><a href="">Who we are</a></li>
-	<li><a href="">How we work</a></li>
-	<li><a href="">What we do</a></li>
-	<li class="dropdown">
-			<a href="">Our impact</a>
-		    <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-		<li><a href="">Newsroom</a></li>
-		<li><a href="">Contact us</a></li>	
-
-</ul>
-			
-	</nav>
-	<nav>
-		<ul>
-			<li><a href="">Grantholders</a></li>
-		</ul>
-	</nav>
-
-	<div class="bmenu">
-		<button class="hamburger hamburger--collapse" type="button">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	<div id="nav-drawer">
-		<a href=""><div class="item">Who we are</div></a>	
-		<a href=""><div class="item">How we work</div></a>	
-		<a href=""><div class="item">What we do</div></a>	
-		<a href=""><div class="item">Our impact</div></a>
-		<a href=""><div class="item">Newsroom</div></a>	
-		<a href=""><div class="item">Contact us</div></a>	
-		<a href=""><div class="item">Grantholders</div></a>	
-	</div>	
+		<?php get_header('nav'); ?>
 
 
 </div>
@@ -71,7 +30,7 @@ Template Name: How we work
 
 	<section id="hero" class="sub-page">		
 		<div class="bg-img">
-			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.png"></div>	
+			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/how-we-work-hero.jpg"></div>	
 			<div class="hero-img"></div>		
 			<div class="content">
 			<span>For the public benefit</span>
@@ -88,13 +47,13 @@ Template Name: How we work
 	
 		</span>
 		<ul class="page-links">
-			<li><a href="">Our process</a></li>
-			<li><a href="">Grant programmes</a></li>
-			<li><a href="">Grantmaking FAQs</a></li>			
+			<li><a href="#process">Our process</a></li>
+			<li><a href="#programmes">Grant programmes</a></li>
+			<li><a href="#faqs">Grantmaking FAQs</a></li>			
 		</ul>
 	</div>
 
-
+<a name="process"></a>
 <div id="aims">
 
 	<div class="wrapper">		
@@ -103,13 +62,13 @@ Template Name: How we work
 			<p class="fs21 lh180">We map our grants and social investments against our funding priorities. This helps us monitor and learn from our funding over time. It allows us to spot and understand emerging trends in the underlying sector and will also help guide our decisions around exit.</p>
 		</div>
 		<div class="right">
-      <img src="<?php echo get_template_directory_uri()?>/imgs/dummy2.png" />   
+      <img src="<?php echo get_template_directory_uri()?>/imgs/how-we-work-intro1.jpg" /> 	  
 		</div>
 	</div>
 
 	<div class="wrapper flip">		
 		<div class="left">
-			<img src="<?php echo get_template_directory_uri()?>/imgs/dummy3.png" />				
+      <img src="<?php echo get_template_directory_uri()?>/imgs/how-we-work-intro2.jpg" /> 			
 		</div>
 		<div class="right">
 			<h6>The public benefit</h6>
@@ -118,7 +77,7 @@ Template Name: How we work
 		</div>
 	</div>
 </div>
-
+<a name="programmes"></a>
 <div id="grants">
 		<div class="heading">
 	<span class="subhead">GRANT PROGRAMMES</span>
@@ -139,7 +98,7 @@ Template Name: How we work
 	</div>
 	<div class="image-wrapper">
 <div class="image">
-<img src="https://www.sw.co.uk/wp-content/uploads/2019/09/SWLeedsNov2018-707-8in-885x605.jpg">
+      <img src="<?php echo get_template_directory_uri()?>/imgs/strategic-grants.jpg" /> 
 </div>	
 </div>
 </div>
@@ -147,7 +106,7 @@ Template Name: How we work
 <div class="wrapper middle">
 <div class="image-wrapper">
 <div class="image">
-<img src="https://www.sw.co.uk/wp-content/uploads/2019/09/SWLeedsNov2018-707-8in-885x605.jpg">
+      <img src="<?php echo get_template_directory_uri()?>/imgs/intermediate-grants.jpg" /> 
 </div>	
 </div>
 	<div class="content">
@@ -180,13 +139,12 @@ Template Name: How we work
 	</div>
 	<div class="image-wrapper">
 <div class="image">
-<img src="https://www.sw.co.uk/wp-content/uploads/2019/09/SWLeedsNov2018-707-8in-885x605.jpg">
-</div>	
+      <img src="<?php echo get_template_directory_uri()?>/imgs/discretionary-grants.jpg" /> </div>	
 </div>
 </div>
 </div>
 
-
+<a name="faqs"></a>
 <div id="faqs">
 			<div class="heading">
 
@@ -204,19 +162,33 @@ Template Name: How we work
     <li>
         <div>Does the Charity accept applications by email?<span class="carousel-expand"></span></div>
         <div>	
-		<p>MCT is a charitable company limited by guarantee, incorporated on 17 August 2017 (company registration number 10910936) and registered with the Charity Commissioners as a charity (charity registration number 1174232). MCT’s governing document is the Articles of Association dated 17 August 2017, as amended by Special Resolution dated 23 April 2019.</p>     
+		<p>If a charity is invited to apply for funding for a discretionary grant there is a form which must be used for this application <a href="">(Discretionary grant aplication form)</a>. The Board member who has proposed the recipient must be mentioned in the application. The form can be submitted by email and or by post to the Charity Administrator.</p>     
         </div>
     </li>
     <li>
-        <div>Investment policy<span class="carousel-expand"></span></div>
-        <div>
+        <div>What types of project are considered for Intermediate or Strategic Grants?<span class="carousel-expand"></span></div>
+        <div>	
+		<p>Intermediate or Strategic Grants are generally for particular projects. At least one trustee will make contact with the recipient and would normally visit the proposed project too. The proposed recipient would be asked to provide a full written application, by email and or post, setting out the proposal and use of the funds requested over the period of the grant. The timing for the receipt of the proposal will be agreed so that it can be considered by the Board. </p>     
         </div>
     </li>
     <li>
-        <div>Remuneration<span class="carousel-expand"></span></div>
-        <div>
+        <div>When are proposals considered by the Board?<span class="carousel-expand"></span></div>
+        <div>	
+		<p>All proposals are considered by the Board at their meetings, usually in the Autumn.  Following this, the proposed recipients will be invited in to present their application to the Board.  If they are successful applicants will be informed and any paperwork will be circulated for completion. </p>     
         </div>
-    </li>    
+    </li>
+        <li>
+        <div>Does the Charity mind being acknowledged by successful applicants in publications?<span class="carousel-expand"></span></div>
+        <div>	
+		<p>The Charity is happy to be included in publications and if needed the appropriate logo for this can be requested from the General Manager or Administrator and the details of the use of the logo can be found on our <a href="">Grantholders page</a></p>     
+        </div>
+    </li>  
+            <li>
+        <div>What commitment is given to grantees by the Charity?<span class="carousel-expand"></span></div>
+        <div>	
+		<p>Trustees will normally follow up an Intermediate or Strategic Grant with at least one visit to the project and encourage recipients to remain in contact throughout the term of the project. </p>     
+        </div>
+    </li>  
 </ul>
     </div>
 	</div>
@@ -354,7 +326,11 @@ $(function() {
   });
 
  </script>
+<script>
 
+$(".how-we-work").addClass("active");
+
+</script>
 
 </body>
 

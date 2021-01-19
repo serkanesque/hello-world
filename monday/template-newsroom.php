@@ -1,7 +1,7 @@
 <?php
 
 /*
-Template Name: Grantholders
+Template Name: Newsroom
 */
 
 ?>
@@ -17,48 +17,7 @@ Template Name: Grantholders
 <body>
 <div id="main" class="">
  <?php get_header('logo'); ?>
-  <nav>   
-
-  <ul>
-  <li><a href="">Who we are</a></li>
-  <li><a href="">How we work</a></li>
-  <li><a href="">What we do</a></li>
-  <li class="dropdown">
-      <a href="">Our impact</a>
-        <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-    <li><a href="">Newsroom</a></li>
-    <li><a href="">Contact us</a></li>  
-
-</ul>
-      
-  </nav>
-  <nav>
-    <ul>
-      <li><a href="">Grantholders</a></li>
-    </ul>
-  </nav>
-
-  <div class="bmenu">
-    <button class="hamburger hamburger--collapse" type="button">
-    <span class="hamburger-box">
-    <span class="hamburger-inner"></span>
-    </span>
-    </button>
-  </div>
-  <div id="nav-drawer">
-    <a href=""><div class="item">Who we are</div></a> 
-    <a href=""><div class="item">How we work</div></a>  
-    <a href=""><div class="item">What we do</div></a> 
-    <a href=""><div class="item">Our impact</div></a>
-    <a href=""><div class="item">Newsroom</div></a> 
-    <a href=""><div class="item">Contact us</div></a> 
-    <a href=""><div class="item">Grantholders</div></a> 
-  </div>  
+    <?php get_header('nav'); ?>
 
 
 </div>
@@ -70,98 +29,57 @@ Template Name: Grantholders
       <div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.png"></div> 
       <div class="hero-img"></div>    
       <div class="content">
-      <span>RESOURCES FOR GRANTEES</span>
-        <h1>Grantholders</h1>
+      <span>Latest news</span>
+        <h1>Newsroom</h1>
       </div>  
     </div>
   </section>
 
 
+<div id="priorities" class="newsroom">
+<div class="wrapper">
 
-<div id="priorities">
-<div class="wrapper grantholders">
+  <?php
+        // the query
+        $the_query = new WP_Query(array(
+            'category_name' => 'news',
+            'post_status' => 'publish',
+            'posts_per_page' => 6,
+        ));
+        ?>
 
-<p class="grant-intro">This page provides information for current grantholders on reporting and about using our logo and acknowledging our funding.</p>
+        <?php if ($the_query->have_posts()) : ?>
+            <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
+           
+              <div><a href="<?php the_permalink(); ?>">
+                <img src=<?php the_post_thumbnail(); ?>
+                <span>Posted on 07.10.19</span>
+                <h6><?php the_title(); ?></h6>
+                <p><?php the_excerpt(); ?></p>
+               
+               
+      </a>
+            </div>
+            <?php endwhile; ?>
+            <?php wp_reset_postdata(); ?>
 
-<div>
-<h1>Applications</h1>
+        <?php else : ?>
+            <p><?php __('No News'); ?></p>
+        <?php endif; ?>
 
+<!--
+<img src="imgs/priorities.png"> 
+<span>Posted on 07.10.19</span>
 
-<div>
-<h6>Proposal for grants to be made from the Discretionary Fund</h6>
-
-<a href="">Download application</a>
-</div>
-</div>
-
-
-<div>
-<h1>Reporting</h1>
-<div>
-<h6>Annual reporting template</h6>
-<p>This reporting form helps the Monday Charitable Trust (MCT) to track the progress of grants and understand the impact its funding has had.</p>
-<a href="">Download template</a>
-</div>
-<div>
-<h6>Annual reporting for intermediate grant recipients</h6>
-<p>This reporting form helps the Monday Charitable Trust (MCT) to track the progress of intermediate grants and understand the impact its funding has had.</p>
-<a href="">Download template</a>
-</div>
-<div>
-<h6>Half year update template</h6>
-<p>The Monday Charitable Trust (MCT) requires a brief update on grantee progress at the mid-point in each year of the grants it makes.</p>
-<a href="">Download template</a>
-</div>
-</div>
-
-<div>
-<h1>Acknowledgements</h1>
+<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+</a>
+</div>  
+-->
 
 
-<div>
-<h6>Grant acknowledgement</h6>
-<p>Credit or acknowledgement for the grant received any acknowledgement should be shared with the Monday Charitable Trust prior to publication for approval.</p>
-<p>These requests should be set to the General Manager and Administrator:</p>
-<ul style="list-style-type: none;">
-  <li><a href="mailto:stephen.lewin@mondaycharity.org.uk">stephen.lewin@mondaycharity.org.uk</a></li>
-     <li><a href="mailto:helendmonte@bdbpitmans.com">helendmonte@bdbpitmans.com</a></li>
-</ul>
 
 </div>
 </div>
-
-
-
-
-
-<div>
-<h6>Logo guidelines</h6>
-<p>The Monday Charitable Trust logo provided in various formats (eps, jpeg, png and ai) and in CMYK (for print) and RGB (for digital).</p>
-
-
-
-
-<ul style="list-style-type: none;">
- <li>The logo must always be displayed at a size large enough to read</li>
-<li>Our logo is best used against a clear, lightbackground or overlaid onto a suitably
-clear photographic background.</li>
- <li>Do not stretch or distort the logo</li>
-</ul>
-<p>Logo requests should be set to the General Manager and Administrator:</p>
-<ul style="list-style-type: none;">
-  <li><a href="mailto:stephen.lewin@mondaycharity.org.uk">stephen.lewin@mondaycharity.org.uk</a></li>
-     <li><a href="mailto:helendmonte@bdbpitmans.com">helendmonte@bdbpitmans.com</a></li>
-</ul>
-</div>
-</div>
-
-
-
-   
-</div>
-
-
-
 
 
 
@@ -263,7 +181,11 @@ $(function() {
 
  </script>
 
+<script>
 
+$(".newsroom").addClass("active");
+
+</script>
 </body>
 
 </html>  

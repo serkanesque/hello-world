@@ -14,49 +14,7 @@
 		<div id="logo">
 			<?php get_header('logo'); ?>
 		</div>
-	<nav>		
-
-	<ul>
-	<li><a href="">Who we are</a></li>
-	<li><a href="">How we work</a></li>
-	<li><a href="">What we do</a></li>
-	<li class="dropdown">
-			<a href="">Our impact</a>
-		    <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-		<li><a href="">Newsroom</a></li>
-		<li><a href="">Contact us</a></li>	
-
-</ul>
-			
-	</nav>
-	<nav>
-		<ul>
-			<li><a href="">Grantholders</a></li>
-		</ul>
-	</nav>
-
-	<div class="bmenu">
-		<button class="hamburger hamburger--collapse" type="button">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	<div id="nav-drawer">
-		<a href=""><div class="item">Who we are</div></a>	
-		<a href=""><div class="item">How we work</div></a>	
-		<a href=""><div class="item">What we do</div></a>	
-		<a href=""><div class="item">Our impact</div></a>
-		<a href=""><div class="item">Newsroom</div></a>	
-		<a href=""><div class="item">Contact us</div></a>	
-		<a href=""><div class="item">Grantholders</div></a>	
-	</div>	
-
+		<?php get_header('nav'); ?>
 
 </div>
 
@@ -66,8 +24,8 @@
 <div id="news-article">
 <div class="wrapper">
 	<span class="article">News <span>|</span> 07.10.20</span>
-	<h1>Covid-19 operational update</h1>
-<img src="imgs/news.png" />
+	<h1><?php the_title(); ?></h1>
+<?php the_post_thumbnail('single-post-thumbnail'); ?>
 <div class="news-content">
 <p>As the Trustees became aware of the crisis created by the Covid-19 pandemic, they convened an emergency meeting to review funds available for emergency grants.</p> 
 <p>After consideration of the crisis, the Trustees decided to make several emergency Grants falling into the following categories:</p>

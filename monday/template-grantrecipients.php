@@ -18,48 +18,7 @@ Template Name: Grant recipients
 <body style="background-color: var(--grey);">
 	<div id="main" class="">
 			<?php get_header('logo'); ?>
-	<nav>		
-
-	<ul>
-	<li><a href="">Who we are</a></li>
-	<li><a href="">How we work</a></li>
-	<li><a href="">What we do</a></li>
-	<li class="dropdown">
-			<a href="">Our impact</a>
-		    <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-		<li><a href="">Newsroom</a></li>
-		<li><a href="">Contact us</a></li>	
-
-</ul>
-			
-	</nav>
-	<nav>
-		<ul>
-			<li><a href="">Grantholders</a></li>
-		</ul>
-	</nav>
-
-	<div class="bmenu">
-		<button class="hamburger hamburger--collapse" type="button">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	<div id="nav-drawer">
-		<a href=""><div class="item">Who we are</div></a>	
-		<a href=""><div class="item">How we work</div></a>	
-		<a href=""><div class="item">What we do</div></a>	
-		<a href=""><div class="item">Our impact</div></a>
-		<a href=""><div class="item">Newsroom</div></a>	
-		<a href=""><div class="item">Contact us</div></a>	
-		<a href=""><div class="item">Grantholders</div></a>	
-	</div>	
+	<?php get_header('nav'); ?>
 
 
 </div>
@@ -68,7 +27,7 @@ Template Name: Grant recipients
 
 	<section id="hero" class="sub-page">		
 		<div class="bg-img">
-			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.png"></div>	
+			<div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/grant-rec-hero.jpg"></div>	
 			<div class="hero-img"></div>		
 			<div class="content">	
 				<h1>Grant recipients</h1>
@@ -261,7 +220,11 @@ if($("#expanded").attr('class') == "show")
 });
 </script>
 
+<script>
 
+$(".ourimpact").addClass("active");
+
+</script>
 
 </body>
 

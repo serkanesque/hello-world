@@ -431,11 +431,22 @@ background-color: #2F80ED;
 
 }
 
-nav  li:hover:after {
+nav li:hover:after {
     opacity: 1;
     width: 100%;
-
     transition: width 0.25s, opacity 0.1s ;
+}
+
+nav li.active:after {
+background-color: #2F80ED;
+    content: "";
+    bottom: -1px;
+    left: 0;
+    position: absolute;
+    height: 4px;    
+    opacity: 1;
+    transition: width 0s, opacity 0s;    
+     width: 100%;
 }
 
 
@@ -798,12 +809,14 @@ background-color:var(--lightblue);
   color: #fff;
   line-height: 100%;
 }
+/*
 .in-numbers .stats span{
     font-size: calc(14px + (25 - 14) * ((100vw - 300px) / (1600 - 300)));
     margin-top: 5px;
     display: block;
     margin-right: 7px;
 }
+*/
 
 .note {
      font-family: neue-haas-grotesk-display;
@@ -1159,6 +1172,11 @@ display: block;
   display: flex;
   text-decoration: none;
 }
+#hero .card a:hover{
+text-decoration: underline;
+color: var(--darkblue);
+}
+
 #hero .card .headline {
   display: flex;
   flex-direction: column;
@@ -1167,7 +1185,17 @@ display: block;
 }
 #hero .card .headline span {
 width: 65%;
+    letter-spacing: 0.03em;
+    font-size: 20px;
+    color: var(--darkblue);
 }
+#hero .card .headline  a{
+color: var(--lightblue);
+}
+#hero .card .headline  a:visited{
+color: var(--lightblue);
+}
+/*
 #hero .card .headline:after {
 
     content: "";
@@ -1182,7 +1210,7 @@ width: 65%;
     background-position: center;
 
 }
-
+*/
 .news-banner {
     width: 100%;
     height: 60px;
@@ -1363,7 +1391,7 @@ img {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: blue;
+    background-color: rgb(27 39 100 / .95);
 }
 
 .your-class .carousel-expand {
@@ -1556,7 +1584,7 @@ bottom: 0px;
   }
 
 .support .charity-imagery {
-  background-image: url("imgs/thames-reach.png");
+
     height: 100vh;
     background-size: cover;
     display: flex;
@@ -1564,14 +1592,36 @@ bottom: 0px;
     max-height: 800px;
     justify-content: center;
 }
+
+.support #thamesReach.charity-imagery {
+  background-image: url("imgs/thames-reach.jpg");
+}
+.support #stBasils.charity-imagery {
+  background-image: url("imgs/st-basils.jpg");
+}
+.support #suttonTrust.charity-imagery {
+  background-image: url("imgs/sutton-trust.jpg");
+}
+
 .support .logo {
 height: 210px;
 width: 210px;
 background-color: #fff;
 border-radius: 50%;
-  background-image: url("imgs/thames-reach-logo.png");
+
   background-position: 50%;
   background-repeat: no-repeat;
+}
+
+.support #thamesReach .logo {
+  background-image: url("imgs/thames-reach-logo.png");
+}
+.support #stBasils .logo {
+  background-image: url("imgs/st-basils-logo.jpg");
+}
+.support #suttonTrust .logo {
+  background-image: url("imgs/sutton-trust-logo.jpg");
+      background-size: 40%;
 }
 
 .support .funding {
@@ -1918,7 +1968,7 @@ padding-left: 40px;
 
 
 #news-article:before {
-    background-color: darkblue;
+    background-color: var(--darkblue);
     content: "";
     top: 0;
     left: 0;
@@ -2549,6 +2599,7 @@ flex-direction: column;
 
 #grants .wrapper.top {
       padding-top: 0;
+          background-color: #f3f4f6 !important;
         
 }
 
@@ -2581,6 +2632,8 @@ flex-direction: column;
   width: 100%;
   margin-bottom: 120px;
     font-family: neue-haas-grotesk-display;
+        background-color: #fff;
+        padding-top: 100px;
  
 }
 #priorities a {
@@ -2609,6 +2662,9 @@ margin-top: 32px;
 
 #governance.investment  {
 background-color: #F3F4F6;
+}
+#governance.whatwedo  {
+background-color: #fff;
 }
 
 #governance.investment .wrapper {
@@ -2640,6 +2696,18 @@ letter-spacing: 0.02em;
 #governance.investment .tabs-wide:before {
 
     background-color: #fff;
+    content: "";
+    top: 0;
+    left: -25%;
+    position: absolute;
+    width: 125%;
+    height: calc(100% + 100px);
+    z-index: -1;
+
+}
+#governance.whatwedo .tabs-wide:before {
+
+    background-color: #f3f4f6;
     content: "";
     top: 0;
     left: -25%;
@@ -3075,6 +3143,7 @@ margin: 0;
   background-image: url("https://www.bdbpitmans.com/wp-content/uploads/BRINSDEN-Jonathan-cropped-440x437.jpg");
   background-size: cover;
   border-radius: 50%;
+  background-position: 50%;
 }
 #leadership .info {
     position: absolute;
@@ -3679,6 +3748,10 @@ footer .col ul li a {
     font-size: 15px;
         letter-spacing: 0.02em;
 }
+
+footer .col ul li a:hover {
+  text-decoration: underline;
+}
 footer a span{
     text-decoration: none;
     color: var(--white);
@@ -3850,7 +3923,7 @@ footer .col ul li {
 }
 
 #priorities.newsroom {
-  margin-top: 120px;
+  margin-top: 0;
 }
 #priorities.newsroom span{
   color: #aaa;
@@ -4077,7 +4150,7 @@ font-size: 20px !important;
     margin-bottom: 60px !important;
 }
 
-.wrapper.grantholders ul {
+.wrapper.grantholders ul,.tab ul,.acc_content ul {
   list-style: none; /* Remove default bullets */
   font-family: neue-haas-grotesk-display;
     font-size: 18px;
@@ -4088,13 +4161,16 @@ font-size: 20px !important;
     font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1800 - 300)));
     position: relative;
 }
+.acc_content ul {
+  margin-left: 30px;
+}
 .wrapper.grantholders ul li a {
   display: inline-block !important;
 }
-.wrapper.grantholders ul li {
+.wrapper.grantholders ul li, .tab ul li,.acc_content ul li  {
   margin-left: 1em; /* Also needed for space (tweak if needed) */
 }
-.wrapper.grantholders ul li::before {
+.wrapper.grantholders ul li::before,.tab ul li::before,.acc_content ul li::before  {
   content: "\2022";  
   color: var(--lightblue); 
   font-weight: bold;
@@ -4103,6 +4179,167 @@ font-size: 20px !important;
   margin-left: -1em; 
 }
 
+
+.tab ul  {
+      width: 100% !important;
+      max-width: 100% !important;
+ 
+
+}
+.tab ul li {
+      border-bottom: none !important;
+    padding: 5px 0 !important;
+ 
+
+}
+
 .wrapper.grantholders a {
     margin-top: 20px !important;
+}
+.your-class .show h5 {
+  font-size: 18px;
+}
+.your-class .show p {
+  font-size: 17px;
+}
+.your-class .show h5, .your-class .show p{
+  color: #fff !important;
+
+}
+
+.fancybox-content p {
+  line-height: 165%;
+}
+
+
+  .controls {
+      width: 100% !important;
+      display: flex;
+   margin-top: 40px;
+          align-items: center;
+      flex-direction: column;
+      max-width: 400px;
+          margin: 30px auto 40px auto;
+    }
+
+    .inNumbers {
+          display: flex;
+    position: relative;
+    margin-top: 140px;
+    z-index: 1;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: 0 auto;
+    }
+ul.tabs {
+  list-style-type: none;
+    display: flex;
+  width: 100%; 
+  max-width: 400px;
+  justify-content: space-between;
+  border: 1px solid var(--lightblue);
+  border-radius: 2px;
+      margin: 30px auto 50px auto;
+ 
+}
+ul.tabs li {
+display: flex;
+align-items: center;
+width: 100%;
+
+justify-content: center;
+padding: 7px 5px;
+font-size: 15px;
+cursor: pointer;
+color: var(--lightblue);
+}
+ul.tabs  li:nth-of-type(2) {
+border-left:1px solid var(--lightblue);
+border-right:1px solid var(--lightblue);
+}
+ul.tabs li.active  {
+  background-color: var(--lightblue);
+
+} 
+ul.tabs li.active a {
+
+  color: #fff;
+} 
+ul.tabs li a {
+
+  color: var(--lightblue);
+} 
+
+div.tab-1,div.tab-2,div.tab-3 {
+  width: 100% !important;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.impact-panel {
+  background-color: #fff;
+  width: 100% !important;
+      margin-bottom: 60px;
+}
+
+.impact-panel h5 {
+width: 100%;
+text-align: center;
+
+    font-family: neue-haas-grotesk-display;
+    font-size: 28px;
+    margin-top: 120px;
+    margin-bottom: 25px;
+    letter-spacing: 0.03em;
+}
+.table {
+  margin-top: 80px;
+}
+.table table {
+  width: 100%;  
+    font-family: neue-haas-grotesk-display;
+     letter-spacing: 0.03em;
+     color: #1b2967;
+}
+tr.head {
+  background-color: #495485;
+  color: #fff;
+  font-size: 13px;
+ 
+}
+tr.total {
+font-weight: 600;
+ 
+}
+td {
+  padding: 10px;
+}
+tr:nth-child(even) {background: #f8f8f8};
+tr:nth-child(odd) {background: #FFF};
+
+.tabs {
+  width: 100%;
+}
+.tabs a {
+  text-decoration: none;
+
+}
+.tabs a:hover {
+  text-decoration: underline;
+}
+
+.contact-details a {
+  color: var(--lightblue);
+    text-decoration: none;
+}
+.contact-details a:hover {
+  text-decoration: underline;
+}
+
+a.pointer {
+  cursor: context-menu;
 }

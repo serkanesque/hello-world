@@ -16,49 +16,7 @@ Template Name: What we do
 <body>
 <div id="main" class="">
  <?php get_header('logo'); ?>
-  <nav>   
-
-  <ul>
-  <li><a href="">Who we are</a></li>
-  <li><a href="">How we work</a></li>
-  <li><a href="">What we do</a></li>
-  <li class="dropdown">
-      <a href="">Our impact</a>
-        <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-    <li><a href="">Newsroom</a></li>
-    <li><a href="">Contact us</a></li>  
-
-</ul>
-      
-  </nav>
-  <nav>
-    <ul>
-      <li><a href="">Grantholders</a></li>
-    </ul>
-  </nav>
-
-  <div class="bmenu">
-    <button class="hamburger hamburger--collapse" type="button">
-    <span class="hamburger-box">
-    <span class="hamburger-inner"></span>
-    </span>
-    </button>
-  </div>
-  <div id="nav-drawer">
-    <a href=""><div class="item">Who we are</div></a> 
-    <a href=""><div class="item">How we work</div></a>  
-    <a href=""><div class="item">What we do</div></a> 
-    <a href=""><div class="item">Our impact</div></a>
-    <a href=""><div class="item">Newsroom</div></a> 
-    <a href=""><div class="item">Contact us</div></a> 
-    <a href=""><div class="item">Grantholders</div></a> 
-  </div>  
-
+    <?php get_header('nav'); ?>
 
 </div>
 
@@ -66,7 +24,7 @@ Template Name: What we do
 
   <section id="hero" class="sub-page">    
     <div class="bg-img">
-      <div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/homepage-hero.png"></div> 
+      <div class="hero-img" data-parallax="scroll" data-image-src="<?php echo get_template_directory_uri()?>/imgs/what-we-do-hero.jpg"></div> 
       <div class="hero-img"></div>    
       <div class="content">
       <span>Supporting UK charities</span>
@@ -83,13 +41,13 @@ Template Name: What we do
   
     </span>
     <ul class="page-links">
-      <li><a href="">Our process</a></li>
-      <li><a href="">Grant programmes</a></li>
-      <li><a href="">Grantmaking FAQs</a></li>      
+      <li><a href="#aims">Our aims</a></li>
+      <li><a href="#priorities">Our priorities</a></li>
+      <li><a href="#social">Social investment</a></li>      
     </ul>
   </div>
 
-
+<a name="aims"></a>
 <div id="aims">
 	<div class="wrapper">		
 		<div class="left">
@@ -97,13 +55,13 @@ Template Name: What we do
 			<p class="fs21 lh180">We aim to improve life chances of disadvantaged and often marginalised groups. We do this by supporting UK registered charities that work to tackle disadvantage. We make grants to a range of projects in support of young people, people with mental health problems, homeless people and others suffering disadvantage.</p>
 		</div>
 		<div class="right">
-      <img src="<?php echo get_template_directory_uri()?>/imgs/dummy2.png" />   
+      <img src="<?php echo get_template_directory_uri()?>/imgs/what-we-do-intro1.jpg" />   
 		</div>
 	</div>
 
 	<div class="wrapper flip">		
 		<div class="left">
-			<img src="<?php echo get_template_directory_uri()?>/imgs/dummy3.png" />			
+			<img src="<?php echo get_template_directory_uri()?>/imgs/what-we-do-intro2.jpg" />			
 		</div>
 		<div class="right">
 			<h6>Understanding the charities we support</h6>
@@ -113,6 +71,7 @@ Template Name: What we do
 	</div>
 </div>
 
+<!--
 <div id="focus">
 <h1>Our areas of focus</h1>
  <div class="your-class">
@@ -153,35 +112,39 @@ Template Name: What we do
     </div>              
   </div>
 </div>
-
-<div id="priorities">
+-->
+<a name="priorities"></a>
+<div id="priorities" style="background-color: #F3F4F6;padding-bottom: 80px; margin-bottom: 0;">
 <div class="wrapper">
-<h1>Our priorities</h1>
+<h1 style="margin-bottom:90px;">Our priorities</h1>
 <div>
-<img src="<?php echo get_template_directory_uri()?>/imgs/priorities.png"> 
+<img src="<?php echo get_template_directory_uri()?>/imgs/p-children.jpg"> 
 <h6>Children and young people</h6>
-<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+<p>Our priority for funding charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility. 
+</p>
 <a href="#">View grant recipients</a>
 </div>	
 
 <div>
-<img src="<?php echo get_template_directory_uri()?>/imgs/priorities.png"> 
-<h6>Children and young people</h6>
-<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+<img src="<?php echo get_template_directory_uri()?>/imgs/p-homelessness.jpg"> 
+<h6>Homelessness</h6>
+<p>Our priority for funding charities that work with homeless people is to support services that help people out of homelessness, by providing for immediate needs and long term accommodation and rehabilitation. 
+</p>
 <a href="#">View grant recipients</a>
 </div>	
 
 <div>
-<img src="<?php echo get_template_directory_uri()?>/imgs/priorities.png"> 
-<h6>Children and young people</h6>
-<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+<img src="<?php echo get_template_directory_uri()?>/imgs/p-prisoners.jpg"> 
+<h6>Prisoners’ welfare</h6>
+<p>Our priority for funding charities that work for prisoners’ welfare is to encourage rehabilitation and prevent reoffending for the benefit of themselves, their families and society as a whole.  This may be achieved by helping offenders stay in touch with their families or undertaking training and art activities to develop skills and self-esteem. </p>
 <a href="#">View grant recipients</a>
 </div>	
 
 <div>
-<img src="<?php echo get_template_directory_uri()?>/imgs/priorities.png"> 
-<h6>Children and young people</h6>
-<p>We fund charities that work with children and young people is to increase life chances by developing life skills, emotional resilience and mental well-being and by promoting social mobility.</p>
+<img src="<?php echo get_template_directory_uri()?>/imgs/p-armed-forces.jpg"> 
+<h6>Hospices, Armed services personnel and other welfare</h6>
+<p>Our priority for funding charities that work for Hospices, Armed services personnel and other welfare is to support excellent care and good quality accommodation and to provide information so that people know what benefits they are entitled to receive.
+</p>
 <a href="#">View grant recipients</a>
 </div>	
 
@@ -189,8 +152,8 @@ Template Name: What we do
 </div>
 
 
-
-<div id="governance" class="investment">
+<a name="social"></a>
+<div id="governance" class="investment whatwedo">
 	<div class="wrapper"> 
 	<div class="intro">  
 <h1>Social investment</h2>
@@ -204,61 +167,146 @@ Template Name: What we do
                 <li><a href="#tab-1">What form can PRI take?</a></li>
                 <li><a href="#tab-2">Social investments we have made</a></li>
                 <li><a href="#tab-3">Geographic areas</a></li>
-                <li><a href="#tab-3">Risk</a></li>
-                <li><a href="#tab-3">Conclusions</a></li>
-                <li><a href="#tab-3">Initiatives we support</a></li>
+                <li><a href="#tab-4">Risk</a></li>
+                <li><a href="#tab-5">Conclusions</a></li>
                </ul>
               <div id='tab-1' class="tab">
               		<h2>What form can PRI take?</h2>	
-		<p>MCT is a charitable company limited by guarantee, incorporated on 17 August 2017 (company registration number 10910936) and registered with the Charity Commissioners as a charity (charity registration number 1174232). MCT’s governing document is the Articles of Association dated 17 August 2017, as amended by Special Resolution dated 23 April 2019.</p>
-		<p>The minimum number of trustees required by the Articles is three and the maximum is eight. The four original trustees are the Founder Trustees and serve an indefinite term based on their relative experience and contribution to MCT as a whole. </p>
-		<p>New trustees are Elected Trustees and serve a term of three years. They are appointed by ordinary resolution and may serve a maximum of two terms. They may thereafter be reappointed annually if the recommended by the Chair.</p>
+		<p>Provided we have satisfied ourselves that the proposed arrangement may be treated as a PRI and falls within the social sectors supported by the Charity  we will have broad discretion regarding the nature of investment.</p>
+    <p>We may invest in any form of legal entity (e.g. a housing association, a charity, a community interest company, a private company, an investment fund etc) and the investment may take the form of:</p>
+    <ul>
+      <li>Secured loans</li>
+      <li>Unsecured loans</li>
+      <li>Equity</li>
+      <li>Social impact bonds</li> 
+      <li>Quasi-equity</li>                        
+    </ul>
            </div>
-              <div id='tab-2' class="tab"><span>Tab 2</span></div>
-              <div id='tab-3' class="tab"><span>Tab 3</span></div>
+              <div id='tab-2' class="tab">
+                                <h2>Social investments we have made so far</h2>  
+    <ul>
+      <li>Thera Trust: investment in a bond for the provision of homes for people with learning difficulties and complex needs</li>
+      <li>Bobath Centre: provision of a bridging loan to enable this charity to move premises</li>
+      <li>Commonweal: provision of secured finance for properties used by it in its ‘Peer Landlord’ scheme</li>
+      <li>Thames Reach: provision of secured finance for properties used by it in its ‘Peer Landlord’ scheme.</li> 
+                      
+    </ul>
+
+
+              </div>
+ 
+              <div id='tab-3' class="tab">
+                                <h2>Geographic areas</h2>
+                                <p>Great Britain and Northern Ireland.</p>  
+
+
+              </div>
+
+                            <div id='tab-4' class="tab">
+                                <h2>Risk</h2>
+                                <p>In procedural terms, when deciding to make a PRI we would satisfy ourselves in each case that:</p>  
+    <ul>
+      <li>the PRI falls within the social sectors supported by the Charity</li>
+      <li>the PRI is an appropriate and effective way of utilising the Charity’s assets to advance our charitable aims in terms of expediency and risk</li>
+      <li>appropriate legal documentation is in place to safeguard the PRI to ensure the PRI is not used for a purpose which does not advance our charitable aims</li>
+      <li>the PRI does not confer an unacceptable private benefit</li> 
+       <li>the PRI will not give rise to adverse reputational issues for the Charity (e.g. which may arise by virtue of any ancillary private benefit centred on a non-charitable co-investor)</li> 
+                      
+    </ul>
+
+
+              </div>
+
+                                          <div id='tab-5' class="tab">
+                                <h2>Conclusions</h2>
+                                <p>In procedural terms, when deciding to make a PRI we would satisfy ourselves in each case that:</p>  
+    <ul>
+      <li>Impact and effectiveness: we are developing an impact and effectiveness framework. This will be proportional and light touch so that it recognises some of the complexities and ambiguities of the work we fund</li>
+      <li>Grantee outcomes:  we ask grantees to identify three outcomes associated with the funding they receive and agree indicators associated with progress against each grantee outcome</li>
+     
+                      
+    </ul>
+
+
+              </div>
+
             </div>
         </div>
 
-        <div id="faqs" class="accordion">
+
+
+
+
+
+
+
+
+
+
+
+        <div id="faqs" class="accordion" style="background-color: #fff;">
 <ul id="my-accordion" class="accordionjs">
     <li>
         <div>What form can PRI take?<span class="carousel-expand"></span></div>
         <div>	
-		<p>MCT is a charitable company limited by guarantee, incorporated on 17 August 2017 (company registration number 10910936) and registered with the Charity Commissioners as a charity (charity registration number 1174232). MCT’s governing document is the Articles of Association dated 17 August 2017, as amended by Special Resolution dated 23 April 2019.</p>
-		<p>The minimum number of trustees required by the Articles is three and the maximum is eight. The four original trustees are the Founder Trustees and serve an indefinite term based on their relative experience and contribution to MCT as a whole. </p>
-		<p>New trustees are Elected Trustees and serve a term of three years. They are appointed by ordinary resolution and may serve a maximum of two terms. They may thereafter be reappointed annually if the recommended by the Chair.</p>   
+	   <p>Provided we have satisfied ourselves that the proposed arrangement may be treated as a PRI and falls within the social sectors supported by the Charity  we will have broad discretion regarding the nature of investment.</p>
+    <p>We may invest in any form of legal entity (e.g. a housing association, a charity, a community interest company, a private company, an investment fund etc) and the investment may take the form of:</p>
+    <ul>
+      <li>Secured loans</li>
+      <li>Unsecured loans</li>
+      <li>Equity</li>
+      <li>Social impact bonds</li> 
+      <li>Quasi-equity</li>                        
+    </ul>
         </div>
     </li>
     <li>
         <div>Social investments we have made<span class="carousel-expand"></span></div>
         <div>	
-		<p>MCT is a charitable company limited by guarantee, incorporated on 17 August 2017 (company registration number 10910936) and registered with the Charity Commissioners as a charity (charity registration number 1174232). MCT’s governing document is the Articles of Association dated 17 August 2017, as amended by Special Resolution dated 23 April 2019.</p>
-		<p>The minimum number of trustees required by the Articles is three and the maximum is eight. The four original trustees are the Founder Trustees and serve an indefinite term based on their relative experience and contribution to MCT as a whole. </p>
-		<p>New trustees are Elected Trustees and serve a term of three years. They are appointed by ordinary resolution and may serve a maximum of two terms. They may thereafter be reappointed annually if the recommended by the Chair.</p>      
+    <ul>
+      <li>Thera Trust: investment in a bond for the provision of homes for people with learning difficulties and complex needs</li>
+      <li>Bobath Centre: provision of a bridging loan to enable this charity to move premises</li>
+      <li>Commonweal: provision of secured finance for properties used by it in its ‘Peer Landlord’ scheme</li>
+      <li>Thames Reach: provision of secured finance for properties used by it in its ‘Peer Landlord’ scheme.</li> 
+                      
+    </ul>   
         </div>
     </li>
     <li>
         <div>Geographic areas<span class="carousel-expand"></span></div>
         <div>
+          <p>Great Britain and Northern Ireland.</p>
         </div>
     </li>
     <li>
         <div>Risk<span class="carousel-expand"></span></div>
         <div>
+           <p>In procedural terms, when deciding to make a PRI we would satisfy ourselves in each case that:</p>  
+    <ul>
+      <li>the PRI falls within the social sectors supported by the Charity</li>
+      <li>the PRI is an appropriate and effective way of utilising the Charity’s assets to advance our charitable aims in terms of expediency and risk</li>
+      <li>appropriate legal documentation is in place to safeguard the PRI to ensure the PRI is not used for a purpose which does not advance our charitable aims</li>
+      <li>the PRI does not confer an unacceptable private benefit</li> 
+       <li>the PRI will not give rise to adverse reputational issues for the Charity (e.g. which may arise by virtue of any ancillary private benefit centred on a non-charitable co-investor)</li> 
+                      
+    </ul>
         </div>
     </li>
 
         <li>
         <div>Conclusions<span class="carousel-expand"></span></div>
         <div>
+          <p>In procedural terms, when deciding to make a PRI we would satisfy ourselves in each case that:</p>  
+    <ul>
+      <li>Impact and effectiveness: we are developing an impact and effectiveness framework. This will be proportional and light touch so that it recognises some of the complexities and ambiguities of the work we fund</li>
+      <li>Grantee outcomes:  we ask grantees to identify three outcomes associated with the funding they receive and agree indicators associated with progress against each grantee outcome</li>
+     
+                      
+    </ul>
         </div>
     </li> 
 
-        <li>
-        <div>Initiatives we support<span class="carousel-expand"></span></div>
-        <div>
-        </div>
-    </li> 
+    
 </ul>
     </div>
 
@@ -417,7 +465,11 @@ $(function() {
      $('.tabs').tabslet();
 
  </script>
+<script>
 
+$(".what-we-do").addClass("active");
+
+</script>
 
 </body>
 

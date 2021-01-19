@@ -16,48 +16,7 @@ Template Name: Contact us
 <body style="background-color: var(--grey);">
 	<div id="main" class="">
 		 <?php get_header('logo'); ?>
-	<nav>		
-
-	<ul>
-	<li><a href="">Who we are</a></li>
-	<li><a href="">How we work</a></li>
-	<li><a href="">What we do</a></li>
-	<li class="dropdown">
-			<a href="">Our impact</a>
-		    <div class="dropdown-content">
-      <a href="#">Mission & Values</a>
-      <a href="#">History</a>
-      <a href="#">Leadership</a>
-    </div>
-</li>
-		<li><a href="">Newsroom</a></li>
-		<li><a href="">Contact us</a></li>	
-
-</ul>
-			
-	</nav>
-	<nav>
-		<ul>
-			<li><a href="">Grantholders</a></li>
-		</ul>
-	</nav>
-
-	<div class="bmenu">
-		<button class="hamburger hamburger--collapse" type="button">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	<div id="nav-drawer">
-		<a href=""><div class="item">Who we are</div></a>	
-		<a href=""><div class="item">How we work</div></a>	
-		<a href=""><div class="item">What we do</div></a>	
-		<a href=""><div class="item">Our impact</div></a>
-		<a href=""><div class="item">Newsroom</div></a>	
-		<a href=""><div class="item">Contact us</div></a>	
-		<a href=""><div class="item">Grantholders</div></a>	
-	</div>	
+	<?php get_header('nav'); ?>
 
 
 </div>
@@ -109,12 +68,12 @@ Template Name: Contact us
 		<span>One Bartholomew Close London EC1A 7BL</span>		
 	</div>
 	<div>
-		<span><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" />Registered office</span>
-		<span>One Bartholomew Close London EC1A 7BL</span>		
+		<span><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" />Email us</span>
+		<span><a href="mailto:info@mondaycharity.org.uk">info@mondaycharity.org.uk</a></span>		
 	</div>
 	<div>
-		<span><img src="<?php echo get_template_directory_uri()?>/imgs/phone.svg" />Registered office</span>
-		<span>One Bartholomew Close London EC1A 7BL</span>		
+		<span><img src="<?php echo get_template_directory_uri()?>/imgs/phone.svg" />Call us</span>
+		<span>+44 (0)844 414 8526</span>		
 	</div>
 
 </div>
@@ -131,7 +90,7 @@ Template Name: Contact us
 			<h3>Stephen Lewin</h3>
 			<span>General manager</span>
 			<span><img src="<?php echo get_template_directory_uri()?>/imgs/phone.svg" />M +44 (0)7885 905211</span>
-			<span><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" /><a href="mailto:">Email</a></span>
+			<span><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" /><a href="mailto:stephen.lewin@mondaycharity.org.uk">Email</a></span>
 		</div>
 	</div>
 		<div class="card">
@@ -139,10 +98,11 @@ Template Name: Contact us
 			<div class="staff-avatar"></div>
 		</div>
 		<div class="details">
-			<h3>Stephen Lewin</h3>
-			<span>General manager</span>
-			<span><img src="<?php echo get_template_directory_uri()?>/imgs/phone.svg" />M +44 (0)7885 905211</span>
-			<span><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" /><a href="mailto:">Email</a></span>
+			<h3>Helen D’Monte</h3>
+			<span>Charity Administrator</span>
+			<span><img src="<?php echo get_template_directory_uri()?>/imgs/phone.svg" />T +44 (0)20 7783 3685</span>
+			<span style="margin-left:28px; color: var(--darkblue)">M +44 (0)7973 268946</span>
+			<span style="margin-left: 25px; margin-top: 10px;color: var(--darkblue);"><img src="<?php echo get_template_directory_uri()?>/imgs/email.svg" /><a href="mailto:helendmonte@bdbpitmans.com">Email</a></span>
 		</div>
 	</div>
 </div>
@@ -199,7 +159,11 @@ $(function() {
     });
 });
 </script>
+<script>
 
+$(".contactus").addClass("active");
+
+</script>
 </body>
 
 </html>  
