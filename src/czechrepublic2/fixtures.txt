@@ -1,15 +1,82 @@
-<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
-<tr bgcolor="#f4f4f4" height="18">
-<td align="center" style="background-color:#999999;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
-<font color="#fafafa">Home / Away</font></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=czechrepublic2&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=czechrepublic2&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+29</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td width="11%"></td>
 </tr>
-<tr>
-<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
-<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
-<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Dukla Prague - Varnsdorf</td>
+<td align="center">
+<b>2 - 1</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Lisen - Trinec</td>
+<td align="center">
+<b>6 - 2</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Pardubice - Slavoj Vysehrad</td>
+<td align="center">
+<b>4 - 1</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Prostejov - Zbrojovka Brno</td>
+<td align="center">
+<b>0 - 0</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Sokolov - Chrudim</td>
+<td align="center">
+<b>3 - 0</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Usti nad Labem - Viktoria Zizkov</td>
+<td align="center">
+<b>1 - 0</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Vitkovice - Hradec Kralove</td>
+<td align="center">
+<b>1 - 4</b></td>
+<td align="center">
+</td>
+</tr>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sat. 11 Jul.
+</font><font color="green" size="1">16:00</font></td>
+<td> Vlasim - Jihlava</td>
+<td align="center">
+<b>2 - 3</b></td>
+<td align="center">
+</td>
 </tr>
 </table>

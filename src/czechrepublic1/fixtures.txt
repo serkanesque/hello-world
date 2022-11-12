@@ -1,480 +1,92 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
- 
+<table id="btable">
+<tr class="even">
+<td height="25" width="27%"> <b>
+Round
+30</b></td>
+<td width="51%"></td>
+<td width="11%"></td>
+<td align="center" width="11%">
+HT
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Opava
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-35%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Bohemians - Jablonec</td>
 <td align="center">
-<span title="Wins: 4 (25.0%)Draws: 5 (31.3%)Defeats: 7 (43.8%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:10.3px;"></div><div class="barred" style="width:14.4px;"></div></span>
-</td>
+<b>3 - 0</b></td>
 <td align="center">
-<font color="red">
-1.69
-</font>
-</td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=261-10-8-2020-opava-sigma-olomouc" target="_top" title="Opava vs Sigma Olomouc">stats</a></li>
-</ul></div>
+(2-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Sigma Olomouc
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Karvina - Mlada Boleslav</td>
 <td align="center">
-<span title="Wins: 3 (18.8%)Draws: 6 (37.5%)Defeats: 7 (43.8%)"><div class="bargreen" style="width:6.2px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:14.4px;"></div></span>
-</td>
+<b>2 - 2</b></td>
 <td align="center">
-<font color="green">
-2.56
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+(2-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Pribram
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Opava - Ceske Budejov.</td>
 <td align="center">
-<span title="Wins: 5 (31.3%)Draws: 6 (37.5%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:10.3px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:10.3px;"></div></span>
-</td>
+<b>2 - 0</b></td>
 <td align="center">
-<font color="red">
-1.88
-</font>
-</td>
-<td align="center">
-<font color="red">
-31%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=259-5-6-2020-pribram-teplice" target="_top" title="Pribram vs Teplice">stats</a></li>
-</ul></div>
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Teplice
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-23%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Sigma Olomouc - Viktoria Plzen</td>
 <td align="center">
-<span title="Wins: 2 (12.5%)Draws: 5 (31.3%)Defeats: 9 (56.3%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:10.3px;"></div><div class="barred" style="width:18.6px;"></div></span>
-</td>
+<b>0 - 1</b></td>
 <td align="center">
-<font color="red">
-2.44
-</font>
-</td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+(0-1)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu23
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Zlin
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.7px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-51%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Slavia Prague - Zlin</td>
 <td align="center">
-<span title="Wins: 8 (47.1%)Draws: 2 (11.8%)Defeats: 7 (41.2%)"><div class="bargreen" style="width:15.5px;"></div><div class="barorange" style="width:3.9px;"></div><div class="barred" style="width:13.6px;"></div></span>
-</td>
+<b>1 - 0</b></td>
 <td align="center">
-<font color="red">
-2.41
-</font>
-</td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=260-15-12-2020-zlin-karvina" target="_top" title="Zlin vs Karvina">stats</a></li>
-</ul></div>
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Karvina
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:4.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-20%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Slovacko - Sparta Prague</td>
 <td align="center">
-<span title="Wins: 2 (11.8%)Draws: 4 (23.5%)Defeats: 11 (64.7%)"><div class="bargreen" style="width:3.9px;"></div><div class="barorange" style="width:7.8px;"></div><div class="barred" style="width:21.4px;"></div></span>
-</td>
+<b>0 - 2</b></td>
 <td align="center">
-<font color="red">
-2.47
-</font>
-</td>
-<td align="center">
-<font color="red">
-47%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+(0-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun26
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-16:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Karvina
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-35%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Slovan Liberec - Banik Ostrava</td>
 <td align="center">
-<span title="Wins: 3 (18.8%)Draws: 8 (50.0%)Defeats: 5 (31.3%)"><div class="bargreen" style="width:6.2px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:10.3px;"></div></span>
-</td>
+<b>0 - 0</b></td>
 <td align="center">
-<font color="red">
-1.81
-</font>
-</td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=267-12-5-2020-karvina-pribram" target="_top" title="Karvina vs Pribram">stats</a></li>
-</ul></div>
+(0-0)
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Pribram
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:2.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-8%
-</font>
-</td>
+<tr class="odd" height="22">
+<td align="right"><font color="gray" size="1">Sun. 14 Jun.
+</font><font color="green" size="1">16:00</font></td>
+<td> Teplice - Pribram</td>
 <td align="center">
-<span title="Wins: 1 (5.9%)Draws: 1 (5.9%)Defeats: 15 (88.2%)"><div class="bargreen" style="width:1.9px;"></div><div class="barorange" style="width:1.9px;"></div><div class="barred" style="width:29.1px;"></div></span>
-</td>
+<b>4 - 0</b></td>
 <td align="center">
-<font color="green">
-2.71
-</font>
-</td>
-<td align="center">
-<font color="green">
-53%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+(2-0)
 </td>
 </tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun26
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-16:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sigma Olomouc
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-49%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (35.3%)Draws: 7 (41.2%)Defeats: 4 (23.5%)"><div class="bargreen" style="width:11.6px;"></div><div class="barorange" style="width:13.6px;"></div><div class="barred" style="width:7.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.24
-</font>
-</td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=265-8-15-2020-sigma-olomouc-zlin" target="_top" title="Sigma Olomouc vs Zlin">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Zlin
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-15%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (6.3%)Draws: 4 (25.0%)Defeats: 11 (68.8%)"><div class="bargreen" style="width:2.1px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:22.7px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.56
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun26
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-16:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Teplice
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (41.2%)Draws: 6 (35.3%)Defeats: 4 (23.5%)"><div class="bargreen" style="width:13.6px;"></div><div class="barorange" style="width:11.6px;"></div><div class="barred" style="width:7.8px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.88
-</font>
-</td>
-<td align="center">
-<font color="green">
-53%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=czechrepublic&amp;stats=266-6-10-2020-teplice-opava" target="_top" title="Teplice vs Opava">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Opava
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-16%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (5.9%)Draws: 5 (29.4%)Defeats: 11 (64.7%)"><div class="bargreen" style="width:1.9px;"></div><div class="barorange" style="width:9.7px;"></div><div class="barred" style="width:21.4px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.35
-</font>
-</td>
-<td align="center">
-<font color="red">
-41%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
