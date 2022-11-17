@@ -331,7 +331,7 @@ get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt')
 
 })).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
  document.getElementById("nav").innerHTML = response;
-interval = setInterval(allDone, 50)
+interval = setInterval(allDone, 500)
 }))
 
 
@@ -684,10 +684,11 @@ oddsArray = [];
 
  var seasonFixtures2018ContainerDiv = document.getElementById("seasonFixtures2018");
  var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
-
+/*
  if(seasonFixtures2018InnerDivs.length==0) {
   var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
 }
+*/
  if(seasonFixtures2018InnerDivs.length==0) {
    console.log("No historical data");
    clearInterval(interval)
@@ -727,7 +728,7 @@ oddsArray = [];
 
  }
 
-
+console.log("seasonFixtures2018.length",seasonFixtures2018.length)
 if(seasonFixtures2018.length > 125) clearInterval(interval);
 
 if(league=="newzealand1") clearInterval(interval);
