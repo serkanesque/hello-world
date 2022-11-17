@@ -680,7 +680,7 @@ oddsArray = [];
 
 
  var seasonFixtures2018ContainerDiv = document.getElementById("seasonFixtures2018");
- var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("trow3");
+ var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
 
  if(seasonFixtures2018InnerDivs.length==0) {
   var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
@@ -697,8 +697,8 @@ oddsArray = [];
 
  for (var i = 0; i < seasonFixtures2018InnerDivs.length; i++) {
   var fixtureTeam = new Object();
-  fixture = seasonFixtures2018InnerDivs[i].childNodes[5].textContent;
-  score = seasonFixtures2018InnerDivs[i].childNodes[7].textContent;
+  //fixture = seasonFixtures2018InnerDivs[i].childNodes[5].textContent;
+  score = seasonFixtures2018InnerDivs[i].childNodes[2].textContent;
 
 
   fixture = fixture.trim();
@@ -706,8 +706,8 @@ oddsArray = [];
   score = score.trim();
   score = score.split(' - ');
 
-  fixtureTeam.hName = fixture[0];
-  fixtureTeam.aName = fixture[1];
+  fixtureTeam.hName = seasonFixtures2018InnerDivs[i].childNodes[1].textContent;
+  fixtureTeam.aName = seasonFixtures2018InnerDivs[i].childNodes[3].textContent;
 /*
   for (var t = 0; t < xmlTeamsFrom.length; t++) {
    if (fixtureTeam.hName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.hName = xmlTeamsTo[t].childNodes[0].nodeValue;
