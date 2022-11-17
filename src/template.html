@@ -715,12 +715,7 @@ oddsArray = [];
 
   fixtureTeam.hName = hName.replace(/�/g, '');
   fixtureTeam.aName = aName.replace(/�/g, '');
-/*
-  for (var t = 0; t < xmlTeamsFrom.length; t++) {
-   if (fixtureTeam.hName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.hName = xmlTeamsTo[t].childNodes[0].nodeValue;
-   if (fixtureTeam.aName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.aName = xmlTeamsTo[t].childNodes[0].nodeValue
-  }
-*/
+
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
 
@@ -738,39 +733,6 @@ if(league=="newzealand1") clearInterval(interval);
  var fix2ContainerDiv = document.getElementById("fixtures");
  var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("trow2");
  if(fix2InnerDivs.length == 0 ) var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
-
-
-
-
-
-
-/*
-            time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
-            fixture = fixturesInnerDivs[i].childNodes[3].textContent;            
-            fixture = fixture.trim();
-            fixture = fixture.split(' - ');
-            homeTeam = fixture[0].trim();
-            awayTeam = fixture[1].trim();
- 
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -816,6 +778,7 @@ if(league=="newzealand1") clearInterval(interval);
 var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2);
 
   homeTable.push(team);
+  console.log("home", team);
   document.getElementById("draw%").innerHTML = "League draw " + ((totalDrawn / totalPlayed) * 100).toFixed(2) + "% -" + fixtureDrawsPerRound.toFixed(2) +  " matches are drawn every round";
 
 
@@ -933,6 +896,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
  
   awayTable.push(team);
+  console.log("away",team);
  }
   //
 
