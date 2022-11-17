@@ -1,862 +1,856 @@
 <table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
+<tr class="trow3">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
 <td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
+<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
+<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
+<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
+<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
+<td align="right" width="50">
  
 </td>
 </tr>
 <tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun12
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:45
+<tr><td colspan="11" height="9"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 18 Nov<font color="green" style="font-size:11px;">
+20:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Real Zaragoza
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.3px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Granada
 </td>
-<td align="left">
-<font color="#666666" size="1">
-49%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:20.2px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 8 (42.1%)Draws: 4 (21.1%)Defeats: 7 (36.8%)"><div class="bargreen" style="width:13.9px;"></div><div class="barorange" style="width:6.9px;"></div><div class="barred" style="width:12.2px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+81%
 </td>
-<td align="center">
-<font color="green">
-2.53
-</font>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 5 (71.4%)Draws: 2 (28.6%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:23.6px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
 </td>
-<td align="center">
-<font color="red">
-42%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=430-3-6-2020-real-zaragoza-real-oviedo" target="_top" title="Real Zaragoza vs Real Oviedo">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Real Oviedo
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-32%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (26.3%)Draws: 3 (15.8%)Defeats: 11 (57.9%)"><div class="bargreen" style="width:8.7px;"></div><div class="barorange" style="width:5.2px;"></div><div class="barred" style="width:19.1px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.58
-</font>
-</td>
-<td align="center">
-<font color="green">
-53%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon13
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Almeria
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (47.4%)Draws: 3 (15.8%)Defeats: 7 (36.8%)"><div class="bargreen" style="width:15.6px;"></div><div class="barorange" style="width:5.2px;"></div><div class="barred" style="width:12.2px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.32
-</font>
-</td>
-<td align="center">
-<font color="red">
-42%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=433-11-1-2020-almeria-rayo-vallecano" target="_top" title="Almeria vs Rayo Vallecano">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Rayo Vallecano
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-37%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (15.8%)Draws: 12 (63.2%)Defeats: 4 (21.1%)"><div class="bargreen" style="width:5.2px;"></div><div class="barorange" style="width:20.8px;"></div><div class="barred" style="width:6.9px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.74
-</font>
-</td>
-<td align="center">
-<font color="red">
-42%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon13
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-18:30
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Sporting Gijon
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:14.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-56%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (47.4%)Draws: 5 (26.3%)Defeats: 5 (26.3%)"><div class="bargreen" style="width:15.6px;"></div><div class="barorange" style="width:8.7px;"></div><div class="barred" style="width:8.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.16
-</font>
-</td>
-<td align="center">
-<font color="red">
-26%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=438-10-20-2020-sporting-gijon-malaga" target="_top" title="Sporting Gijon vs Malaga">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Malaga
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-33%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 3 (15.8%)Draws: 10 (52.6%)Defeats: 6 (31.6%)"><div class="bargreen" style="width:5.2px;"></div><div class="barorange" style="width:17.4px;"></div><div class="barred" style="width:10.4px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.16
-</font>
-</td>
-<td align="center">
-<font color="red">
-5%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon13
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Alcorcon
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-35%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 5 (26.3%)Draws: 5 (26.3%)Defeats: 9 (47.4%)"><div class="bargreen" style="width:8.7px;"></div><div class="barorange" style="width:8.7px;"></div><div class="barred" style="width:15.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.68
-</font>
-</td>
-<td align="center">
-<font color="green">
-53%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=434-18-4-2020-alcorcon-tenerife" target="_top" title="Alcorcon vs Tenerife">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Tenerife
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.5px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-42%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (36.8%)Draws: 3 (15.8%)Defeats: 9 (47.4%)"><div class="bargreen" style="width:12.2px;"></div><div class="barorange" style="width:5.2px;"></div><div class="barred" style="width:15.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.47
-</font>
-</td>
-<td align="center">
-<font color="red">
-47%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Mon13
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:45
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Elche
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:11.4px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-46%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 6 (31.6%)Draws: 8 (42.1%)Defeats: 5 (26.3%)"><div class="bargreen" style="width:10.4px;"></div><div class="barorange" style="width:13.9px;"></div><div class="barred" style="width:8.7px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.11
-</font>
-</td>
-<td align="center">
-<font color="red">
-16%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer61"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=432-7-12-2020-elche-albacete" target="_top" title="Elche vs Albacete">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Albacete
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:11.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-44%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (36.8%)Draws: 4 (21.1%)Defeats: 8 (42.1%)"><div class="bargreen" style="width:12.2px;"></div><div class="barorange" style="width:6.9px;"></div><div class="barred" style="width:13.9px;"></div></span>
-</td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
 2.00
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-26%
+43%
 </font>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Granada vs Albacete" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-18" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Granada" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Albacete" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=416-14-20-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Granada vs Albacete">stats</a>
+</div>
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
 Albacete
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:8.8px;"></div></div>
 </td>
-<td align="left">
-<font color="#666666" size="1">
-35%
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.57
 </font>
 </td>
-<td align="center">
-<span title="Wins: 4 (20.0%)Draws: 9 (45.0%)Defeats: 7 (35.0%)"><div class="bargreen" style="width:6.6px;"></div><div class="barorange" style="width:14.9px;"></div><div class="barred" style="width:11.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.80
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+71%
 </font>
 </td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer71"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=449-12-3-2020-albacete-real-zaragoza" target="_top" title="Albacete vs Real Zaragoza">stats</a></li>
-</ul></div>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 19 Nov<font color="green" style="font-size:11px;">
+15:15</font>
 </font></td>
-<td align="right">
-Real Zaragoza
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:14.2px;"></div></div>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Ponferradina
 </td>
-<td align="left">
-<font color="#666666" size="1">
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+2.29
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
 57%
 </font>
 </td>
-<td align="center">
-<span title="Wins: 9 (45.0%)Draws: 7 (35.0%)Defeats: 4 (20.0%)"><div class="bargreen" style="width:14.9px;"></div><div class="barorange" style="width:11.6px;"></div><div class="barred" style="width:6.6px;"></div></span>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
 </td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="black">
-50%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Ponferradina vs Real Oviedo" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-19" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Ponferradina" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Real Oviedo" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=415-22-17-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Ponferradina vs Real Oviedo">stats</a>
+</div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Real Oviedo
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 3 (42.9%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.43
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 19 Nov<font color="green" style="font-size:11px;">
+17:30</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Extremadura
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:7.9px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Sporting Gijon
 </td>
-<td align="left">
-<font color="#666666" size="1">
-32%
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+67%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (57.1%)Draws: 2 (28.6%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.86
 </font>
 </td>
-<td align="center">
-<span title="Wins: 5 (25.0%)Draws: 4 (20.0%)Defeats: 11 (55.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:6.6px;"></div><div class="barred" style="width:18.2px;"></div></span>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+57%
+</font>
 </td>
-<td align="center">
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Sporting Gijon vs Leganes" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-19" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sporting Gijon" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Leganes" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=413-6-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sporting Gijon vs Leganes">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Leganes
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 0 (0.0%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:23.6px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
 <font color="red">
-2.25
+1.71
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-bottom:1px solid #dddd;">
 <font color="red">
-45%
+29%
 </font>
 </td>
-<td align="left">
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 19 Nov<font color="green" style="font-size:11px;">
+17:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Tenerife
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.86
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+14%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Tenerife vs Huesca" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-19" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Tenerife" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Huesca" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=411-4-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Tenerife vs Huesca">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Huesca
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 3 (42.9%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.43
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 19 Nov<font color="green" style="font-size:11px;">
+20:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Real Zaragoza
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:10.7px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+43%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 3 (42.9%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.57
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Real Zaragoza vs Malaga" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-19" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Real Zaragoza" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Malaga" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=414-10-16-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Real Zaragoza vs Malaga">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Malaga
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 1 (12.5%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.88
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+38%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+13:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Villarreal B
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:17.9px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+71%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (57.1%)Draws: 3 (42.9%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.71
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+71%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Villarreal B vs UD Ibiza" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Villarreal B" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="UD Ibiza" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=412-12-13-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Villarreal B vs UD Ibiza">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+UD Ibiza
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+19%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+43%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+15:15</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+FC Andorra
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (57.1%)Draws: 0 (0.0%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.86
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
 <div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer81"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=451-16-10-2020-extremadura-sporting-gijon" target="_top" title="Extremadura vs Sporting Gijon">stats</a></li>
-</ul></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="FC Andorra vs Lugo" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="FC Andorra" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Lugo" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=406-18-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="FC Andorra vs Lugo">stats</a>
+</div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="right">
-Sporting Gijon
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.9px;"></div></div>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Lugo
 </td>
-<td align="left">
-<font color="#666666" size="1">
-32%
-</font>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:6.0px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 4 (20.0%)Draws: 7 (35.0%)Defeats: 9 (45.0%)"><div class="bargreen" style="width:6.6px;"></div><div class="barorange" style="width:11.6px;"></div><div class="barred" style="width:14.9px;"></div></span>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+24%
 </td>
-<td align="center">
-<font color="red">
-1.55
-</font>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 2 (28.6%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
 </td>
-<td align="center">
-<font color="red">
-15%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Fuenlabrada
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 8 (40.0%)Draws: 8 (40.0%)Defeats: 4 (20.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:13.2px;"></div><div class="barred" style="width:6.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.30
-</font>
-</td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer91"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=450-8-7-2020-fuenlabrada-elche" target="_top" title="Fuenlabrada vs Elche">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Elche
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:12.1px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-48%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 8 (40.0%)Draws: 5 (25.0%)Defeats: 7 (35.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:11.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.35
-</font>
-</td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Girona
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-73%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 13 (65.0%)Draws: 5 (25.0%)Defeats: 2 (10.0%)"><div class="bargreen" style="width:21.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:3.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.95
-</font>
-</td>
-<td align="center">
-<font color="red">
-25%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer101"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=445-9-21-2020-girona-cadiz" target="_top" title="Girona vs Cadiz">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Cadiz
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-55%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 9 (45.0%)Draws: 6 (30.0%)Defeats: 5 (25.0%)"><div class="bargreen" style="width:14.9px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.90
-</font>
-</td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Huesca
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-75%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 14 (70.0%)Draws: 3 (15.0%)Defeats: 3 (15.0%)"><div class="bargreen" style="width:23.1px;"></div><div class="barorange" style="width:5.0px;"></div><div class="barred" style="width:5.0px;"></div></span>
-</td>
-<td align="center">
-<font color="black">
-2.50
-</font>
-</td>
-<td align="center">
-<font color="red">
-45%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer111"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=447-14-17-2020-huesca-numancia" target="_top" title="Huesca vs Numancia">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Numancia
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:5.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-20%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 2 (10.0%)Draws: 6 (30.0%)Defeats: 12 (60.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:19.8px;"></div></span>
-</td>
-<td align="center">
+<td style="text-align:center;border-bottom:1px solid #dddd;">
 <font color="green">
-2.85
+3.14
 </font>
 </td>
-<td align="center">
-<font color="black">
-50%
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+57%
 </font>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
+<tr><td colspan="11" height="20">
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Wed15
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-01:00
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+18:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Malaga
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Eibar
 </td>
-<td align="left">
-<font color="#666666" size="1">
-50%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:20.2px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 7 (35.0%)Draws: 9 (45.0%)Defeats: 4 (20.0%)"><div class="bargreen" style="width:11.6px;"></div><div class="barorange" style="width:14.9px;"></div><div class="barred" style="width:6.6px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+81%
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 5 (71.4%)Draws: 2 (28.6%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:23.6px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-2.05
+2.00
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-30%
+43%
 </font>
 </td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
 </td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer121"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=spain2&amp;stats=443-20-18-2020-malaga-alcorcon" target="_top" title="Malaga vs Alcorcon">stats</a></li>
-</ul></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Eibar vs Alaves" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Eibar" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Alaves" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=408-3-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Eibar vs Alaves">stats</a>
+</div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="right">
-Alcorcon
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.8px;"></div></div>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Alaves
 </td>
-<td align="left">
-<font color="#666666" size="1">
-55%
-</font>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 7 (35.0%)Draws: 12 (60.0%)Defeats: 1 (5.0%)"><div class="bargreen" style="width:11.6px;"></div><div class="barorange" style="width:19.8px;"></div><div class="barred" style="width:1.7px;"></div></span>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
 </td>
-<td align="center">
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
 <font color="red">
-2.35
+2.29
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-bottom:1px solid #dddd;">
 <font color="red">
-35%
+43%
 </font>
 </td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+18:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Racing
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 4 (57.1%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:18.9px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.14
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+0%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Racing vs Burgos" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Racing" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Burgos" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=409-11-15-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Racing vs Burgos">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Burgos
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+48%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 4 (57.1%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:18.9px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+0.71
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+0%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+20:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Levante
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:15.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+62%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (57.1%)Draws: 1 (14.3%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.86
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Levante vs Las Palmas" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Levante" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Las Palmas" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=spain2&amp;stats=407-1-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Levante vs Las Palmas">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Las Palmas
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.14
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">
