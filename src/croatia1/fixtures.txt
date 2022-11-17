@@ -1,323 +1,856 @@
 <table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
+<tr class="trow3">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
 <td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
+<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
+<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
+<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
+<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
+<td align="right" width="50">
  
 </td>
 </tr>
 <tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sun12
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:05
+<tr><td colspan="11" height="9"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 21 Jan<font color="green" style="font-size:11px;">
+00:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
 Dinamo Zagreb
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:22.9px;"></div></div>
 </td>
-<td align="left">
-<font color="#666666" size="1">
-92%
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+100%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 8 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+4.75
 </font>
 </td>
-<td align="center">
-<span title="Wins: 14 (87.5%)Draws: 2 (12.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:28.9px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-2.25
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+100%
 </font>
 </td>
-<td align="center">
-<font color="red">
-38%
-</font>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=croatia&amp;stats=167-5-7-2020-dinamo-zagreb-hajduk-split" target="_top" title="Dinamo Zagreb vs Hajduk Split">stats</a></li>
-</ul></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Dinamo Zagreb vs Gorica" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-21" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Dinamo Zagreb" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Gorica" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=88-1-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Dinamo Zagreb vs Gorica">stats</a>
+</div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="right">
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Gorica
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:2.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+8%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 2 (25.0%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 21 Jan<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
 Hajduk Split
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:7.8px;"></div></div>
 </td>
-<td align="left">
-<font color="#666666" size="1">
-31%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:20.8px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 3 (18.8%)Draws: 6 (37.5%)Defeats: 7 (43.8%)"><div class="bargreen" style="width:6.2px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:14.4px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+83%
 </td>
-<td align="center">
-<font color="red">
-2.25
-</font>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 6 (75.0%)Draws: 2 (25.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:0.0px;"></div></span>
 </td>
-<td align="center">
-<font color="red">
-44%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri17
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-19:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Slaven Belupo
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.2px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-53%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 7 (41.2%)Draws: 6 (35.3%)Defeats: 4 (23.5%)"><div class="bargreen" style="width:13.6px;"></div><div class="barorange" style="width:11.6px;"></div><div class="barred" style="width:7.8px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.88
-</font>
-</td>
-<td align="center">
-<font color="red">
-41%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=croatia&amp;stats=171-4-2-2020-slaven-belupo-inter-zapresic" target="_top" title="Slaven Belupo vs Inter Zapresic">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Inter Zapresic
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:3.9px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-16%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (5.9%)Draws: 5 (29.4%)Defeats: 11 (64.7%)"><div class="bargreen" style="width:1.9px;"></div><div class="barorange" style="width:9.7px;"></div><div class="barred" style="width:21.4px;"></div></span>
-</td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
-2.88
+3.50
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
-53%
+75%
 </font>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Hajduk Split vs Sibenik" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-21" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Hajduk Split" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sibenik" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=87-10-5-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Hajduk Split vs Sibenik">stats</a>
+</div>
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Sibenik
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 7 (87.5%)Defeats: 1 (12.5%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:28.9px;"></div><div class="barred" style="width:4.1px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.38
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-17:55
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 21 Jan<font color="green" style="font-size:11px;">
+00:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Varazdin
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.8px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Istra
 </td>
-<td align="left">
-<font color="#666666" size="1">
-39%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 5 (29.4%)Draws: 5 (29.4%)Defeats: 7 (41.2%)"><div class="bargreen" style="width:9.7px;"></div><div class="barorange" style="width:9.7px;"></div><div class="barred" style="width:13.6px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-2.00
+1.71
 </font>
 </td>
-<td align="center">
-<font color="red">
-35%
-</font>
-</td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=croatia&amp;stats=173-10-3-2020-varazdin-osijek" target="_top" title="Varazdin vs Osijek">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Osijek
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-37%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (23.5%)Draws: 7 (41.2%)Defeats: 6 (35.3%)"><div class="bargreen" style="width:7.8px;"></div><div class="barorange" style="width:13.6px;"></div><div class="barred" style="width:11.6px;"></div></span>
-</td>
-<td align="center">
-<font color="red">
-1.88
-</font>
-</td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
 29%
 </font>
 </td>
-<td align="left">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Istra vs Slaven Belupo" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-21" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Istra" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Slaven Belupo" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=90-9-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Istra vs Slaven Belupo">stats</a>
+</div>
 </td>
 </tr>
-<tr><td colspan="11" height="12">
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Slaven Belupo
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+58%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 2 (25.0%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.25
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-20:05
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 21 Jan<font color="green" style="font-size:11px;">
+00:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Istra
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Osijek
 </td>
-<td align="left">
-<font color="#666666" size="1">
-37%
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+75%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 5 (62.5%)Draws: 3 (37.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+2.50
 </font>
 </td>
-<td align="center">
-<span title="Wins: 4 (23.5%)Draws: 7 (41.2%)Defeats: 6 (35.3%)"><div class="bargreen" style="width:7.8px;"></div><div class="barorange" style="width:13.6px;"></div><div class="barred" style="width:11.6px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.59
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
 </font>
 </td>
-<td align="center">
-<font color="red">
-47%
-</font>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer51"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=croatia&amp;stats=174-8-5-2020-istra-dinamo-zagreb" target="_top" title="Istra vs Dinamo Zagreb">stats</a></li>
-</ul></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Osijek vs Rijeka" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-21" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Osijek" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Rijeka" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=86-3-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Osijek vs Rijeka">stats</a>
+</div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="right">
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Rijeka
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 1 (12.5%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 21 Jan<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Varazdin
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.4px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 3 (37.5%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.75
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Varazdin vs Lok. Zagreb" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-21" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Varazdin" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Lok. Zagreb" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=89-7-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Varazdin vs Lok. Zagreb">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Lok. Zagreb
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 1 (12.5%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.38
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 28 Jan<font color="green" style="font-size:11px;">
+14:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
 Dinamo Zagreb
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:15.7px;"></div></div>
 </td>
-<td align="left">
-<font color="#666666" size="1">
-63%
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+100%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 8 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+4.75
 </font>
 </td>
-<td align="center">
-<span title="Wins: 10 (58.8%)Draws: 2 (11.8%)Defeats: 5 (29.4%)"><div class="bargreen" style="width:19.4px;"></div><div class="barorange" style="width:3.9px;"></div><div class="barred" style="width:9.7px;"></div></span>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+100%
+</font>
 </td>
-<td align="center">
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Dinamo Zagreb vs Lok. Zagreb" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-28" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Dinamo Zagreb" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Lok. Zagreb" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=92-1-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Dinamo Zagreb vs Lok. Zagreb">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Lok. Zagreb
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 1 (12.5%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.38
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 28 Jan<font color="green" style="font-size:11px;">
+14:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Istra
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-2.29
+1.71
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-41%
+29%
 </font>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Istra vs Hajduk Split" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-28" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Istra" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Hajduk Split" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=91-9-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Istra vs Hajduk Split">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Hajduk Split
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+56%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (44.4%)Draws: 3 (33.3%)Defeats: 2 (22.2%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:7.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.67
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+44%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 28 Jan<font color="green" style="font-size:11px;">
+14:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Osijek
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+75%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 5 (62.5%)Draws: 3 (37.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+2.50
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Osijek vs Gorica" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-28" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Osijek" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Gorica" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=93-3-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Osijek vs Gorica">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Gorica
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:2.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+8%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 2 (25.0%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 28 Jan<font color="green" style="font-size:11px;">
+14:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Sibenik
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+22%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (11.1%)Draws: 3 (33.3%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:3.7px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:18.3px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+2.00
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Sibenik vs Rijeka" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-28" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sibenik" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Rijeka" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=94-5-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sibenik vs Rijeka">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Rijeka
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 1 (12.5%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 28 Jan<font color="green" style="font-size:11px;">
+14:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Varazdin
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.4px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 3 (37.5%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.75
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Varazdin vs Slaven Belupo" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-01-28" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Varazdin" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Slaven Belupo" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=croatia&amp;stats=95-7-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Varazdin vs Slaven Belupo">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Slaven Belupo
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+58%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 2 (25.0%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.25
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">

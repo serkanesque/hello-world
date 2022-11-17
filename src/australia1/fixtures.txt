@@ -1,250 +1,605 @@
 <table cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#999999">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font color="#fafafa"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#fafafa"><b>% Points per game</b></font></span></td>
+<tr class="trow3">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
 <td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="50"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#fafafa"><b>TG</b></font></span></td>
-<td align="center" width="70"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#fafafa"><b>2.5+</b></font></span></td>
-<td align="left" width="45"><font color="#fafafa"><span title="Last 4 results (chronological order)"><b>Last 4</b></span></font></td>
-<td align="right" width="55">
+<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
+<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
+<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
+<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
+<td align="right" width="50">
  
 </td>
 </tr>
 <tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="6"></td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Thu16
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-10:30
+<tr><td colspan="11" height="9"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 9 Dec<font color="green" style="font-size:11px;">
+08:45</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Melbourne Vic.
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:10.0px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Brisbane Roar
 </td>
-<td align="left">
-<font color="#666666" size="1">
-40%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 3 (30.0%)Draws: 3 (30.0%)Defeats: 4 (40.0%)"><div class="bargreen" style="width:9.9px;"></div><div class="barorange" style="width:9.9px;"></div><div class="barred" style="width:13.2px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
 </td>
-<td align="center">
-<font color="green">
-2.60
-</font>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (25.0%)Draws: 2 (50.0%)Defeats: 1 (25.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:8.3px;"></div></span>
 </td>
-<td align="center">
-<font color="green">
-60%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer21"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=australia&amp;stats=136-5-8-2020-melbourne-vic.-western-utd" target="_top" title="Melbourne Vic. vs Western Utd">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Western Utd
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-2.67
-</font>
-</td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="red">
-33%
+1.50
 </font>
 </td>
-<td align="left">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Brisbane Roar vs Adelaide Utd" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-09" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Brisbane Roar" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Adelaide Utd" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=36-3-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Brisbane Roar vs Adelaide Utd">stats</a>
+</div>
 </td>
 </tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Adelaide Utd
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (25.0%)Draws: 2 (50.0%)Defeats: 1 (25.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.50
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
 </td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Fri17
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-10:30
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 10 Dec<font color="green" style="font-size:11px;">
+06:00</font>
 </font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
 </font></td>
-<td align="right" width="120">
-Sydney FC
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:20.8px;"></div></div>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Wellington
 </td>
-<td align="left">
-<font color="#666666" size="1">
-83%
-</font>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
 </td>
-<td align="center">
-<span title="Wins: 8 (80.0%)Draws: 1 (10.0%)Defeats: 1 (10.0%)"><div class="bargreen" style="width:26.4px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:3.3px;"></div></span>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (25.0%)Draws: 2 (50.0%)Defeats: 1 (25.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
-2.60
+4.00
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
-60%
+75%
 </font>
 </td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
 </td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer31"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=australia&amp;stats=99-2-7-2020-sydney-fc-wellington" target="_top" title="Sydney FC vs Wellington">stats</a></li>
-</ul></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Wellington vs Western Sydney " itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Wellington" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Western Sydney " itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=37-9-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Wellington vs Western Sydney ">stats</a>
+</div>
 </td>
 </tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
 </font></td>
-<td align="right">
-Wellington
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:10.2px;"></div></div>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Western Sydney
 </td>
-<td align="left">
-<font color="#666666" size="1">
-41%
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+100%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.00
 </font>
 </td>
-<td align="center">
-<span title="Wins: 3 (33.3%)Draws: 2 (22.2%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:14.7px;"></div></span>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+0%
+</font>
 </td>
-<td align="center">
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 10 Dec<font color="green" style="font-size:11px;">
+08:45</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Sydney FC
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:2.8px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+11%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 1 (33.3%)Defeats: 2 (66.7%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
-3.11
+3.33
 </font>
 </td>
-<td align="center">
+<td style="text-align:center;border-top:1px solid #dddd;">
 <font color="green">
 67%
 </font>
 </td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
 </td>
-</tr>
-<tr><td colspan="11" height="12"></td></tr>
-<tr><td colspan="11" height="12">
-</td></tr>
-<tr class="trow2">
-<td align="center" bgcolor="#cccccc" rowspan="2" valign="middle"><b>
-Sat18
-</b></td>
-<td align="center" rowspan="2" valign="middle"><font color="green" size="1">
-08:00
-</font></td>
-<td align="left" height="20" width="25"><font color="#666666" size="1">
- home
-</font></td>
-<td align="right" width="120">
-Perth Glory
- </td>
-<td align="left" width="30">
-<div class="graphwide"><div class="bargray" style="width:13.0px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-52%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 4 (44.4%)Draws: 2 (22.2%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:7.3px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-4.11
-</font>
-</td>
-<td align="center">
-<font color="green">
-78%
-</font>
-</td>
-<td align="left">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<div id="StatsBarContainer41"><ul id="StatsBar"><li id="StatsBarBtn">
-<a href="pmatch.asp?league=australia&amp;stats=143-9-4-2020-perth-glory-central-coast" target="_top" title="Perth Glory vs Central Coast">stats</a></li>
-</ul></div>
-</td>
-</tr>
-<tr class="trow2">
-<td align="left" height="20"><font color="#666666" size="1">
- away
-</font></td>
-<td align="right">
-Central Coast
- </td>
-<td align="left">
-<div class="graphwide"><div class="bargray" style="width:2.3px;"></div></div>
-</td>
-<td align="left">
-<font color="#666666" size="1">
-9%
-</font>
-</td>
-<td align="center">
-<span title="Wins: 1 (9.1%)Draws: 0 (0.0%)Defeats: 10 (90.9%)"><div class="bargreen" style="width:3.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:30.0px;"></div></span>
-</td>
-<td align="center">
-<font color="green">
-3.36
-</font>
-</td>
-<td align="center">
-<font color="green">
-64%
-</font>
-</td>
-<td align="left">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Sydney FC vs Melbourne City" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sydney FC" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Melbourne City" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=38-7-1-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sydney FC vs Melbourne City">stats</a>
+</div>
 </td>
 </tr>
 <tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;" valign="middle">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Melbourne City
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+100%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.33
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 10 Dec<font color="green" style="font-size:11px;">
+11:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Perth Glory
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+-
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+-%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+-
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+-
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+-%
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Perth Glory vs Western United" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Perth Glory" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Western United" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=39-12-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Perth Glory vs Western United">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Western United
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (33.3%)Draws: 0 (0.0%)Defeats: 2 (66.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+4.67
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+100%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 11 Dec<font color="green" style="font-size:11px;">
+04:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Central Coast
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (33.3%)Draws: 0 (0.0%)Defeats: 2 (66.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+4.67
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+100%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Central Coast vs Newcastle Jets" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-11" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Central Coast" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Newcastle Jets" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=40-5-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Central Coast vs Newcastle Jets">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Newcastle Jets
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:0.0px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+0%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 0 (0.0%)Defeats: 2 (100.0%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:33.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 11 Dec<font color="green" style="font-size:11px;">
+06:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Macarthur FC
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (50.0%)Draws: 0 (0.0%)Defeats: 1 (50.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+3.50
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Macarthur FC vs Melbourne V." itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-11" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Macarthur FC" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Melbourne V." itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=41-4-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Macarthur FC vs Melbourne V.">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Melbourne V.
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+44%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (33.3%)Draws: 1 (33.3%)Defeats: 1 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.67
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+67%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 16 Dec<font color="green" style="font-size:11px;">
+08:45</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Newcastle Jets
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+67%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (66.7%)Draws: 0 (0.0%)Defeats: 1 (33.3%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+3.33
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+100%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Newcastle Jets vs Brisbane Roar" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-12-16" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Newcastle Jets" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Brisbane Roar" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=australia&amp;stats=42-6-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Newcastle Jets vs Brisbane Roar">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Brisbane Roar
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 1 (100.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:33.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+0%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
 Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
 </td></tr>
 </table>

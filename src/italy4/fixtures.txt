@@ -1,15 +1,859 @@
-<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
-<tr bgcolor="#f4f4f4" height="18">
-<td align="center" style="background-color:#999999;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
-<font color="#fafafa">Home / Away</font></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=italy4&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=italy4&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr class="trow3">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
+<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
+<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
+<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
+<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
+<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
+<td align="right" width="50">
+ 
+</td>
 </tr>
-<tr>
-<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
-<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
-<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
+<tr><td colspan="11"></td></tr>
+<tr><td colspan="11" height="9"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+11:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Carrarese
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+72%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+2.50
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Carrarese vs Olbia" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Carrarese" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Olbia" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=312-2-17-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Carrarese vs Olbia">stats</a>
+</div>
+</td>
 </tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Olbia
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (16.7%)Draws: 3 (50.0%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.50
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+13:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Alessandria
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+22%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (16.7%)Draws: 1 (16.7%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+2.50
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Alessandria vs ACN Siena" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Alessandria" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="ACN Siena" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=311-16-20-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Alessandria vs ACN Siena">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+ACN Siena
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+52%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.14
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+13:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Cesena
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+67%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 4 (57.1%)Draws: 2 (28.6%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.71
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+57%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Cesena vs Ancona 1905" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Cesena" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Ancona 1905" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=313-1-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Cesena vs Ancona 1905">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Ancona 1905
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+44%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 2 (33.3%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.50
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+67%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+13:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Pontedera
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 3 (50.0%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.67
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+17%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Pontedera vs Fiorenzuola" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Pontedera" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Fiorenzuola" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=316-18-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Pontedera vs Fiorenzuola">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Fiorenzuola
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (50.0%)Draws: 0 (0.0%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+13:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Sassari Torres
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 3 (50.0%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+2.33
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Sassari Torres vs Reggiana" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sassari Torres" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Reggiana" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=319-14-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sassari Torres vs Reggiana">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Reggiana
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+44%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 2 (33.3%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.17
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+16:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Imolese
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (50.0%)Draws: 0 (0.0%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+2.33
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Imolese vs Montevarchi" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Imolese" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Montevarchi" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=314-15-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Imolese vs Montevarchi">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Montevarchi
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+14%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (14.3%)Draws: 0 (0.0%)Defeats: 6 (85.7%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:28.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.14
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+43%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+16:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Lucchese
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+61%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (50.0%)Draws: 2 (33.3%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+2.17
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Lucchese vs Gubbio" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Lucchese" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Gubbio" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=315-10-5-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Lucchese vs Gubbio">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Gubbio
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+72%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.17
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+16:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Recanatese
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (16.7%)Draws: 3 (50.0%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.33
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+17%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Recanatese vs Rimini" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Recanatese" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Rimini" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=317-7-12-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Recanatese vs Rimini">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Rimini
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:11.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+44%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 2 (33.3%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+1.83
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+33%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+16:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+San Donato
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+14%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 3 (42.9%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:18.9px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.86
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="San Donato vs Virtus Entella" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="San Donato" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Virtus Entella" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=318-11-13-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="San Donato vs Virtus Entella">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Virtus Entella
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+72%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.17
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Su 20 Nov<font color="green" style="font-size:11px;">
+16:30</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Vis Pesaro
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+39%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (33.3%)Draws: 1 (16.7%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.33
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+17%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Vis Pesaro vs Fermana" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2022-11-20" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Vis Pesaro" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Fermana" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=italy4&amp;stats=320-8-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Vis Pesaro vs Fermana">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Fermana
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 0 (0.0%)Draws: 3 (50.0%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.67
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
+Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
+</td></tr>
 </table>

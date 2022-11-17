@@ -1,15 +1,860 @@
-<table bgcolor="#eeeeee" border="0" cellpadding="3" cellspacing="3" width="100%">
-<tr bgcolor="#f4f4f4" height="18">
-<td align="center" style="background-color:#999999;" valign="middle"><span title="Based on home results of the home team and away results of the visiting team recorded during the current season in the league.">
-<font color="#fafafa">Home / Away</font></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on all league results recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=austria&amp;pmtype=overall" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Overall</font></a></span></td>
-<td align="center" style="background-color:#dddddd;" valign="middle"><span title="Based on the last 8 league results of each team recorded in the current season.">
-<a class="horiz" href="leaguepreviews.asp?league=austria&amp;pmtype=form" style="display:block; text-decoration:none;line-height:18px;"><font color="#555555">Last 8 matches</font></a></span></td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr class="trow3">
+<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
+<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
+<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
+<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
+<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
+<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
+<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
+<td align="right" width="50">
+ 
+</td>
 </tr>
-<tr>
-<td align="center" colspan="3" height="18" style="background-color:#ffcc66;line-height:18px;" valign="middle">
-<a class="horizyellow" href="stats.asp?page=13" style="display:block; text-decoration:none;">
-<font size="2"><b>Statistical previews for featured leagues</b></font></a></td>
+<tr><td colspan="11"></td></tr>
+<tr><td colspan="11" height="9"></td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Altach
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+33%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 2 (25.0%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+3.25
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Altach vs LASK Linz" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Altach" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="LASK Linz" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=102-10-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Altach vs LASK Linz">stats</a>
+</div>
+</td>
 </tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+LASK Linz
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+57%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.57
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+29%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Austria Wien
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+46%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 2 (25.0%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.88
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+75%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Austria Wien vs A. Klagenfurt" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Austria Wien" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="A. Klagenfurt" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=99-2-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Austria Wien vs A. Klagenfurt">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+A. Klagenfurt
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+58%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 2 (25.0%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+4.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+75%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Ried
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+38%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.71
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+57%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Ried vs Hartberg" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Ried" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Hartberg" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=101-12-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Ried vs Hartberg">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Hartberg
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 1 (12.5%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.88
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Salzburg
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+75%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 5 (62.5%)Draws: 3 (37.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+1.88
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Salzburg vs A. Lustenau" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Salzburg" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="A. Lustenau" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=97-1-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Salzburg vs A. Lustenau">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+A. Lustenau
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:6.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+25%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 3 (37.5%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.75
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Sturm Graz
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:19.8px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+79%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 6 (75.0%)Draws: 1 (12.5%)Defeats: 1 (12.5%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:4.1px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Sturm Graz vs Rapid Wien" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sturm Graz" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Rapid Wien" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=100-6-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sturm Graz vs Rapid Wien">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Rapid Wien
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+58%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 2 (25.0%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+2.75
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Fr 10 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Wolfsberger AC
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:4.2px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+17%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 1 (12.5%)Draws: 1 (12.5%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:24.8px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+4.13
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Wolfsberger AC vs Tirol" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-10" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Wolfsberger AC" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Tirol" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=98-5-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Wolfsberger AC vs Tirol">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Tirol
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 0 (0.0%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.75
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20"></td></tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 18 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+A. Klagenfurt
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 1 (12.5%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.88
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="A. Klagenfurt vs Wolfsberger AC" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-18" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="A. Klagenfurt" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Wolfsberger AC" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=103-4-5-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="A. Klagenfurt vs Wolfsberger AC">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Wolfsberger AC
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:13.5px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+54%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 4 (50.0%)Draws: 1 (12.5%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:12.4px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.75
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 18 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+A. Lustenau
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 3 (37.5%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+3.63
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+75%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="A. Lustenau vs Austria Wien" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-18" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="A. Lustenau" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Austria Wien" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=106-7-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="A. Lustenau vs Austria Wien">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Austria Wien
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+50%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 3 (37.5%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:8.3px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.38
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 18 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Hartberg
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 1 (12.5%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+3.25
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+62%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Hartberg vs Sturm Graz" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-18" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Hartberg" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Sturm Graz" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=107-9-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Hartberg vs Sturm Graz">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Sturm Graz
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:14.6px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+58%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 5 (62.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:20.6px;"></div><div class="barred" style="width:0.0px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+2.00
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="red">
+25%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div></div>
+</td>
+</tr>
+<tr><td colspan="11" height="20">
+</td></tr>
+<tr bgcolor="#f8f8f8">
+<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
+Sa 18 Feb<font color="green" style="font-size:11px;">
+00:00</font>
+</font></td>
+<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
+home
+</font></td>
+<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
+Rapid Wien
+</td>
+<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
+<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
+</td>
+<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+42%
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<span title="Wins: 3 (37.5%)Draws: 1 (12.5%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:16.5px;"></div></span>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="green">
+2.63
+</font>
+</td>
+<td style="text-align:center;border-top:1px solid #dddd;">
+<font color="black">
+50%
+</font>
+</td>
+<td style="text-align:left;border-top:1px solid #dddd;">
+<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+</td>
+<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
+<div itemscope="" itemtype="https://schema.org/SportsEvent">
+<span content="soccer" itemprop="sport"></span>
+<span content="Rapid Wien vs Altach" itemprop="name"></span>
+<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
+<time datetime="2023-02-18" itemprop="startDate"></time>
+<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Rapid Wien" itemprop="name">
+</span>
+</span>
+<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+<span content="Altach" itemprop="name">
+</span>
+</span>
+<span content="https://schema.org/Place" itemprop="location"></span>
+<a class="myButton" href="pmatch.asp?league=austria&amp;stats=104-11-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Rapid Wien vs Altach">stats</a>
+</div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+away
+</font></td>
+<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
+Altach
+</td>
+<td style="border-bottom:1px solid #dddd;text-align:left;">
+<div class="graphwide"><div class="bargray" style="width:7.3px;"></div></div>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
+29%
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<span title="Wins: 2 (25.0%)Draws: 1 (12.5%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:4.1px;"></div><div class="barred" style="width:20.6px;"></div></span>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+3.50
+</font>
+</td>
+<td style="text-align:center;border-bottom:1px solid #dddd;">
+<font color="green">
+88%
+</font>
+</td>
+<td style="text-align:left;border-bottom:1px solid #dddd;">
+<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
+</td>
+</tr>
+<tr bgcolor="#f8f8f8">
+<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
+Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
+</td></tr>
 </table>

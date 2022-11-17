@@ -220,7 +220,8 @@ padding: 10px 0;
 
 
 
-<script type="text/javascript">function getParameterByName(name, url) {
+<script type="text/javascript">
+function getParameterByName(name, url) {
  if (!url) url = window.location.href;
  name = name.replace(/[\[\]]/g, "\\$&");
  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
@@ -231,6 +232,7 @@ padding: 10px 0;
 }
 // Give the parameter a variable name
 var league = getParameterByName('league');
+console.log(league);
 var rowClass = "";
 
 
