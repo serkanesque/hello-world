@@ -661,8 +661,8 @@ oddsArray = [];
   //fixtureTeam.hName = fixture[0];
   //fixtureTeam.aName = fixture[1];
 
-  fixtureTeam.hName = seasonFixturesInnerDivs[i].childNodes[1].textContent;
-  fixtureTeam.aName = seasonFixturesInnerDivs[i].childNodes[3].textContent;
+  fixtureTeam.hName = seasonFixturesInnerDivs[i].childNodes[1].textContent.trim();
+  fixtureTeam.aName = seasonFixturesInnerDivs[i].childNodes[3].textContent.trim();
 
 
   if(fixtureTeam.hName == "Newcastle Jets ") fixtureTeam.hName = "Newcastle Jets"
@@ -706,8 +706,8 @@ oddsArray = [];
   score = score.trim();
   score = score.split(' - ');
 
-  fixtureTeam.hName = seasonFixtures2018InnerDivs[i].childNodes[1].textContent;
-  fixtureTeam.aName = seasonFixtures2018InnerDivs[i].childNodes[3].textContent;
+  fixtureTeam.hName = seasonFixtures2018InnerDivs[i].childNodes[1].textContent.trim();
+  fixtureTeam.aName = seasonFixtures2018InnerDivs[i].childNodes[3].textContent.trim();
 /*
   for (var t = 0; t < xmlTeamsFrom.length; t++) {
    if (fixtureTeam.hName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.hName = xmlTeamsTo[t].childNodes[0].nodeValue;
