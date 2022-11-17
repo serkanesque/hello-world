@@ -652,6 +652,7 @@ oddsArray = [];
   //fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
   score = seasonFixturesInnerDivs[i].childNodes[2].textContent;
 
+  if(score == "00:00") return;
 
   //fixture = fixture.trim();
   //fixture = fixture.split(' - ');
