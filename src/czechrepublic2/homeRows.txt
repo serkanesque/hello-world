@@ -1,416 +1,72 @@
-<table id="btable">
-<tr class="even" height="28">
-<th align="center"><font color="#555555"><b>
+<table cellpadding="0" cellspacing="0" id="btable" width="100%">
+<tr style="pointer-events:none;height:28px;">
+<td align="center"><font color="#111111"><b>
  
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
  
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 GP
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 W
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 D
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 L
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 GF
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 GA
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 GD
-</b></font></th>
-<th align="center"><font color="#555555"><b>
+</b></font></td>
+<td align="center"><font color="#111111"><b>
 Pts
-</b></font></th>
+</b></font></td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 1
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Pardubice
+<td style="padding-left:4px;">
+Varnsdorf
 </td>
 <td align="center">
 <font color="green">
-15
+9
 </font>
 </td>
 <td align="center">
-13
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-34
-</font>
-</td>
-<td align="center">
-<font color="red">
 7
-</font>
-</td>
-<td align="center">
-+27
-</td>
-<td align="center">
-<b>
-40
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-2
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Zbrojovka Brno
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-11
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<font color="blue">
-41
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+30
-</td>
-<td align="center">
-<b>
-36
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Dukla Prague
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-12
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-35
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
-+21
-</td>
-<td align="center">
-<b>
-36
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Jihlava
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-11
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 <font color="blue">
-35
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
-</font>
-</td>
-<td align="center">
-+19
-</td>
-<td align="center">
-<b>
-34
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Hradec Kralove
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-9
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-31
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+21
-</td>
-<td align="center">
-<b>
-30
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
 6
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Viktoria Zizkov
-</td>
-<td align="center">
-<font color="green">
-14
 </font>
 </td>
 <td align="center">
-9
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+12
-</td>
-<td align="center">
-<b>
-29
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Prostejov
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-+5
-</td>
-<td align="center">
-<b>
-24
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Usti nad Labem
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-23
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Chrudim
-</td>
-<td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-27
-</font>
-</td>
-<td align="center">
-<font color="red">
-29
-</font>
-</td>
-<td align="center">
--2
++13
 </td>
 <td align="center">
 <b>
@@ -418,171 +74,85 @@ Chrudim
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
+2
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Sokolov
+<td style="padding-left:4px;">
+Vyskov
 </td>
 <td align="center">
 <font color="green">
-15
+8
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-3
+1
 </td>
 <td align="center">
-6
+1
 </td>
 <td align="center">
 <font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
 19
 </font>
 </td>
 <td align="center">
-+4
+<font color="red">
+7
+</font>
+</td>
+<td align="center">
++12
 </td>
 <td align="center">
 <b>
-21
+19
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-11
+3
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Slavoj Vysehrad
+<td style="padding-left:4px;">
+Karvina
 </td>
 <td align="center">
 <font color="green">
+7
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
 14
 </font>
 </td>
 <td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-24
-</font>
-</td>
-<td align="center">
 <font color="red">
-24
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-21
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Vlasim
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-19
-</font>
-</td>
-<td align="center">
-<font color="red">
-19
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-21
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Lisen
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
 4
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-31
 </font>
 </td>
 <td align="center">
-<font color="red">
-26
-</font>
-</td>
-<td align="center">
-+5
++10
 </td>
 <td align="center">
 <b>
@@ -590,19 +160,19 @@ Lisen
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-14
+4
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Trinec
+<td style="padding-left:4px;">
+Pribram
 </td>
 <td align="center">
 <font color="green">
-13
+9
 </font>
 </td>
 <td align="center">
@@ -612,20 +182,20 @@ Trinec
 5
 </td>
 <td align="center">
-4
+0
 </td>
 <td align="center">
 <font color="blue">
-15
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+7
 </font>
 </td>
 <td align="center">
-+1
++11
 </td>
 <td align="center">
 <b>
@@ -633,89 +203,519 @@ Trinec
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-15
+5
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Vitkovice
+<td style="padding-left:4px;">
+Sigma Olomouc B
 </td>
 <td align="center">
 <font color="green">
-15
+9
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
-7
+2
 </td>
 <td align="center">
 <font color="blue">
-25
-</font>
-</td>
-<td align="center">
-<font color="red">
-27
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-16
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-16
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Varnsdorf
-</td>
-<td align="center">
-<font color="green">
 14
 </font>
 </td>
 <td align="center">
-4
+<font color="red">
+13
+</font>
 </td>
 <td align="center">
-4
++1
 </td>
 <td align="center">
+<b>
+15
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
 6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Dukla Praha
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 <font color="blue">
-21
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-26
+5
 </font>
 </td>
 <td align="center">
--5
++8
 </td>
 <td align="center">
 <b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Taborsko
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+4
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Slavia Prague B
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Prostejov
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
 16
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Trinec
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+14
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Lisen
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+5
+</font>
+</td>
+<td align="center">
++7
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Vlasim
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Chrudim
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Opava
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+5
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Jihlava
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+7
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Sparta Prague B
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+8
 </b>
 </td>
 </tr>
