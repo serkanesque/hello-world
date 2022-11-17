@@ -649,17 +649,22 @@ oddsArray = [];
 
  for (var i = 0; i < seasonFixturesInnerDivs.length; i++) {
   var fixtureTeam = new Object();
-  fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
-  score = seasonFixturesInnerDivs[i].childNodes[7].textContent;
+  //fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
+  score = seasonFixturesInnerDivs[i].childNodes[2].textContent;
 
 
-  fixture = fixture.trim();
-  fixture = fixture.split(' - ');
+  //fixture = fixture.trim();
+  //fixture = fixture.split(' - ');
   score = score.trim();
   score = score.split(' - ');
 
-  fixtureTeam.hName = fixture[0];
-  fixtureTeam.aName = fixture[1];
+  //fixtureTeam.hName = fixture[0];
+  //fixtureTeam.aName = fixture[1];
+
+  fixtureTeam.hName = seasonFixturesInnerDivs[i].childNodes[1].textContent;
+  fixtureTeam.aName = seasonFixturesInnerDivs[i].childNodes[3].textContent;
+
+
   if(fixtureTeam.hName == "Newcastle Jets ") fixtureTeam.hName = "Newcastle Jets"
       if(fixtureTeam.hName == "Western Sydney ") fixtureTeam.hName = "Western Sydney"
               if(fixtureTeam.hName == "Melbourne City ") fixtureTeam.hName = "Melbourne City"
@@ -667,7 +672,7 @@ oddsArray = [];
   fixtureTeam.aScore = score[1];
 
   seasonFixtures.push(fixtureTeam);
-
+  console.log(fixtureTeam);
 
  }
 
