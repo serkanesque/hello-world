@@ -221,7 +221,7 @@ padding: 10px 0;
 
 
 <script type="text/javascript">
-  console.log("Germany test v2");
+  console.log("Germany test v3");
 function getParameterByName(name, url) {
  if (!url) url = window.location.href;
  name = name.replace(/[\[\]]/g, "\\$&");
@@ -1618,7 +1618,7 @@ resultObject.class = "pp";
 return resultObject
 }
 
-
+console.log("Home team =",homeTeamFixturesArray[0].hName);
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
