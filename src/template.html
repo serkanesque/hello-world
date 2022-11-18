@@ -1089,8 +1089,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
     }     
   }
-  i++;
-  console.log("i 2",i)
+
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
        awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
@@ -1196,7 +1195,8 @@ if(awayTeam == "Bowers  P")  awayTeam =  "Bowers & P."
                if(awayTeam == "BourgPeronnas")  awayTeam =  "Bourg-Peronnas" 
       if(awayTeam == "JuventusU23")  awayTeam =  "Juventus-U23" 
       if(awayTeam == "V Francavilla")  awayTeam =  "V. Francavilla" 
-
+      i++;
+  console.log("i 2",i)
   } 
 
 
