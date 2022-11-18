@@ -765,7 +765,7 @@ if(league=="newzealand1") clearInterval(interval);
   team.goalsA = awayInnerDivs[i].childNodes[15].textContent.trim();
   team.goals = awayInnerDivs[i].childNodes[13].textContent.trim();
   team.points = awayInnerDivs[i].childNodes[19].textContent.trim();  
-
+ 
 
   totalDrawn = totalDrawn + parseInt(team.draws);
   totalPlayed = totalPlayed + parseInt(team.played);
@@ -1866,7 +1866,7 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
 
 
             document.getElementById('fixturesTable').innerHTML = markup;
-            console.log("Test", document.getElementById('fixturesTable').innerHTML);
+
             }
 
 
