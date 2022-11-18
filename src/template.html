@@ -962,7 +962,7 @@ if(league=="bosnia1" ||league=="nigeria1" ||league=="southafrica1" || league=="h
 
 
  for (var i = 0; i < fix2InnerDivs.length; i++) {
-
+  console.log("i 1",i)
 
    var tds = fix2InnerDivs[i].getElementsByTagName("td");
 var fixture = new Object();
@@ -1090,6 +1090,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     }     
   }
   i++;
+  console.log("i 2",i)
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
        awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
