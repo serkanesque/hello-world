@@ -980,8 +980,8 @@ var fixture = new Object();
     }
 
 
-    homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
-
+    homeTeam2 = tds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
+console.log("homeTeam2",homeTeam2);
     homeTeam2 = homeTeam2.trim();
 
     if(homeTeam2.length != 0){
@@ -1092,7 +1092,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   i++;
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
-       awayTeam2 = awayTeamTds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
+       awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
+       console.log("awayTeam2",awayTeam2);
     awayTeam2 = awayTeam2.trim();
 
     if(awayTeam2.length != 0) {
