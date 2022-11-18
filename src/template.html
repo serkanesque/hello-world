@@ -1777,7 +1777,7 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
-
+console.log("sixGameMarkup1",sixGameMarkup);
 /*
 sixGameMarkup = sixGameMarkup + '<td><table style="width: 100%;"><tr><th colspan=4>Last 6 Away</th></tr>'+'<tr><td>';
 
@@ -1845,7 +1845,7 @@ for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
 }
 markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td>'+drawsOdds+'</td>' + sixGameMarkup;
-
+console.log("sixGameMarkup 2",sixGameMarkup);
 
 }
 
