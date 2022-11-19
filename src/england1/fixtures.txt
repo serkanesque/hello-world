@@ -1,861 +1,275 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr class="trow3">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
-<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
-<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
-<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
-<td align="right" width="50">
- 
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="9"></td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-12:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Brentford
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-57%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.86
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Brentford vs Tottenham" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Brentford" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Tottenham" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=363-16-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Brentford vs Tottenham">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=16-brentford">Brentford</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">12:30</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Tottenham
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.86
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Crystal Palace
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:15.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-62%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 1 (14.3%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.57
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Crystal Palace vs Fulham" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Crystal Palace" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Fulham" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=365-1-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Crystal Palace vs Fulham">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Fulham
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 1 (14.3%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:18.9px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.29
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-86%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Everton
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-38%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
+<span>
+<div style="text-align:left;">
+<b>Brentford</b>:
 1.71
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Everton vs Wolverhampton" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Everton" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Wolverhampton" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=366-13-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Everton vs Wolverhampton">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
+at home
+<br/><b>Tottenham</b>:
+1.57
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Wolverhampton
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:2.4px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-10%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 2 (28.6%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.00
+<br/><br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
+<br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Leicester City
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-38%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.14
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Leicester City vs Newcastle Utd" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Leicester City" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Newcastle Utd" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=368-15-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Leicester City vs Newcastle Utd">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=11-tottenham">Tottenham</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=363-16-11-2023" title="Brentford vs Tottenham">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Newcastle Utd
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-57%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.57
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Southampton
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-29%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 3 (42.9%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.86
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Southampton vs Brighton" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Southampton" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Brighton" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=370-12-18-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Southampton vs Brighton">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=1-crystal-palace">Crystal Palace</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<span>
+<div style="text-align:left;">
+<b>Crystal Palace</b>:
+1.86
+points per game
+at home
+<br/><b>Fulham</b>:
+1.00
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Brighton
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 1 (14.3%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.57
+<br/><br/>
+<font color="black">
+68% of Crystal Palace's points have been earned at home.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-71%
+<br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-17:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Aston Villa
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:15.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-62%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 1 (14.3%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.43
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Aston Villa vs Liverpool" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Aston Villa" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Liverpool" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=362-6-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Aston Villa vs Liverpool">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=3-fulham">Fulham</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=365-1-3-2023" title="Crystal Palace vs Fulham">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Liverpool
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:6.9px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-28%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 2 (33.3%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-67%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Mo 26 Dec<font color="green" style="font-size:11px;">
-20:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Arsenal
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-100%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 6 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-4.33
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-100%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Arsenal vs West Ham Utd" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Arsenal" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="West Ham Utd" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=361-2-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Arsenal vs West Ham Utd">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=13-everton">Everton</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
 </div>
+<span>
+<div style="text-align:left;">
+<b>Everton</b>:
+1.14
+points per game
+at home
+<br/><b>Wolverhampton</b>:
+0.29
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+80% of Wolverhampton's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=8-wolverhampton">Wolverhampton</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=366-13-8-2023" title="Everton vs Wolverhampton">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=15-leicester-city">Leicester City</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Leicester City</b>:
+1.14
+points per game
+at home
+<br/><b>Newcastle Utd</b>:
+1.71
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-West Ham Utd
+<br/><br/>
+<font color="black">
+76% of Leicester City's conceded goals were conceded away.
+</font>
+<br/>
+<font color="green">
+Newcastle Utd have won their last 5 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=9-newcastle-utd">Newcastle Utd</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=368-15-9-2023" title="Leicester City vs Newcastle Utd">stats</a>
 </td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-19%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=12-southampton">Southampton</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Southampton</b>:
+0.86
+points per game
+at home
+<br/><b>Brighton</b>:
 1.43
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-14%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 27 Dec<font color="green" style="font-size:11px;">
-17:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Chelsea
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-61%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (50.0%)Draws: 2 (33.3%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-67%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Chelsea vs Bournemouth" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-27" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Chelsea" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Bournemouth" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=364-14-5-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Chelsea vs Bournemouth">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Bournemouth
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:6.0px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-24%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 2 (28.6%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-4.71
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-71%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 27 Dec<font color="green" style="font-size:11px;">
-20:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Manchester Utd
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-72%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
+<br/><br/>
 <font color="red">
-2.17
+Southampton have lost their last 3 matches.
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
+<br/>
 <font color="black">
-50%
 </font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Manchester Utd vs Nottm Forest" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-27" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Manchester Utd" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Nottm Forest" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=369-17-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Manchester Utd vs Nottm Forest">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=18-brighton">Brighton</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=370-12-18-2023" title="Southampton vs Brighton">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=6-aston-villa">Aston Villa</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Aston Villa</b>:
+1.86
+points per game
+at home
+<br/><b>Liverpool</b>:
+0.83
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Nottm Forest
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:2.4px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-10%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 2 (28.6%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.86
+<br/><br/>
+<font color="black">
+72% of Aston Villa's points have been earned at home.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
+<br/>
+<font color="black">
+77% of Liverpool's points have been earned at home.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=4-liverpool">Liverpool</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=362-6-4-2023" title="Aston Villa vs Liverpool">stats</a>
 </td>
 </tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-20:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Leeds Utd
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 26 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=2-arsenal">Arsenal</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Arsenal</b>:
 3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Leeds Utd vs Manchester City" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Leeds Utd" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Manchester City" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england&amp;stats=367-7-20-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Leeds Utd vs Manchester City">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
+at home
+<br/><b>West Ham Utd</b>:
+0.57
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Manchester City
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-61%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (50.0%)Draws: 2 (33.3%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-2.50
+<br/><br/>
+<font color="green">
+Arsenal have won their last 3 matches.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/>
 <font color="red">
-33%
+West Ham Utd have lost their last 3 matches.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=19-west-ham-utd">West Ham Utd</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=361-2-19-2023" title="Arsenal vs West Ham Utd">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
