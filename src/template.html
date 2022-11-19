@@ -1286,6 +1286,8 @@ if(typeof pastHomeFixture[0] === 'undefined') {
    }else{       
 
   if(pastHomeFixture[0].hScore == "pp." ) result = "n/a"
+  if(pastHomeFixture[0].hScore == 'undefined' ) result = "n/a"
+  if(pastHomeFixture[0].aScore == 'undefined' ) result = "n/a"
     if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
             if(pastHomeFixture[0].hScore < pastHomeFixture[0].aScore) result = "hw"
             if(pastHomeFixture[0].hScore == pastHomeFixture[0].aScore) result = "d"
