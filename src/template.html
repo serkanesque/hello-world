@@ -718,7 +718,8 @@ console.log("seasonFixtures2018");
 
   fixtureTeam.hName = hName.replace(/�/g, '');
   fixtureTeam.aName = aName.replace(/�/g, '');
-
+  if(fixtureTeam.hName == "Saarbrcken")  fixtureTeam.hName = 'Saarbrucken'; 
+  if(fixtureTeam.aName == "Saarbrcken")  fixtureTeam.aName = 'Saarbrucken'; 
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
 //console.log("fixtureTeam",fixtureTeam);
@@ -759,6 +760,7 @@ if(league=="newzealand1") clearInterval(interval);
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+    if(team.name == "Saarbr�cken") team.name = 'Saarbrucken'; 
 
 
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
