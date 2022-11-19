@@ -757,6 +757,8 @@ if(league=="newzealand1") clearInterval(interval);
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+    if(team.name == "Saarbr�cken")  team.name  = 'Saarbrucken'; 
+        if(team.name == "Saarbrücken")  team.name  = 'Saarbrucken'; 
 
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
@@ -877,6 +879,8 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+    if(team.name == "Saarbr�cken")  team.name  = 'Saarbrucken'; 
+        if(team.name == "Saarbrücken")  team.name  = 'Saarbrucken'; 
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
   team.draws = awayInnerDivs[i].childNodes[9].textContent.trim();    
