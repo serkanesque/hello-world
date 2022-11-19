@@ -2165,7 +2165,7 @@ thAway = last6AwayTable.getElementsByTagName("th");
 
 
 yes(th,last6HomeOpp,leagueTableTRs);
-yes(th,last6AwayOpp,leagueTableTRs);
+yes(thAway,last6AwayOpp,leagueTableTRs);
 
 tdsArray = [];
 
@@ -2283,6 +2283,11 @@ for (var j = 0; j < last6AwayAnyTRs.length; j++) {
 }
 }
 });
+
+
+yes(th,last6HomeOpp,leagueTableTRs);
+yes(th,last6AwayOpp,leagueTableTRs);
+
 
 function yes(th,last6HomeOpp,leagueTableTRs){
 th[0].addEventListener("mouseover", function(e) {
