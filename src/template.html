@@ -1279,7 +1279,7 @@ const thisFixture = Object.create(pastFixture18);
 
 console.log(thisFixture.result())
 */
-
+console.log("pastHomeFixture[0]",pastHomeFixture[0])
 if(typeof pastHomeFixture[0] === 'undefined') {
  result = "n/a";
 
@@ -1470,7 +1470,7 @@ resultObject.aScore= fixture.aScore;
 if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
 last6Home.push(resultObject);
 }
-console.log("last6Home",last6Home);
+//console.log("last6Home",last6Home);
 if (fixture.hScore == "pp.") {
 
 resultObject.lastGame = "pp.";
@@ -1595,7 +1595,7 @@ resultObject.class = "pp";
 return resultObject
 }
 
-console.log("Home team =",homeTeamFixturesArray[0].hName);
+//console.log("Home team =",homeTeamFixturesArray[0].hName);
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
@@ -1777,7 +1777,7 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
-console.log("sixGameMarkup1",sixGameMarkup);
+//console.log("sixGameMarkup1",sixGameMarkup);
 /*
 sixGameMarkup = sixGameMarkup + '<td><table style="width: 100%;"><tr><th colspan=4>Last 6 Away</th></tr>'+'<tr><td>';
 
@@ -1845,7 +1845,7 @@ for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
 }
 markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td>'+drawsOdds+'</td>' + sixGameMarkup;
-console.log("sixGameMarkup 2",sixGameMarkup);
+//console.log("sixGameMarkup 2",sixGameMarkup);
 
 }
 
@@ -1880,7 +1880,7 @@ console.log("sixGameMarkup 2",sixGameMarkup);
             var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 
             var last6HomeTable = document.getElementById('last6Home');
-            console.log("document.getElementById('last6Home')",document.getElementById('last6Home'));
+            //console.log("document.getElementById('last6Home')",document.getElementById('last6Home'));
             var last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
 
             var last6AwayTable = document.getElementById('last6AwayTable');
@@ -2139,7 +2139,7 @@ var fixTableTRs = fixTable.getElementsByClassName("show");
 
 if(fixTableTRs.length>0) clearInterval(intervalID);
  for (var j = 0; j < fixTableTRs.length; j++) {  
-console.log(fixTableTRs.length)
+//console.log(fixTableTRs.length)
 fixTableTRs[j].addEventListener("click", function(e) {
   this.nextSibling.classList.toggle('show');
   var gridTable =  this.nextSibling
@@ -2152,7 +2152,7 @@ var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
 th = last6HomeTable.getElementsByTagName("th");
-console.log(th);
+//console.log(th);
 
 yes(th,last6HomeOpp,leagueTableTRs);
 tdsArray = [];
