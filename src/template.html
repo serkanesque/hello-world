@@ -2148,7 +2148,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 var fixTable = document.getElementById('fixturesTable');
 var fixTableTRs = fixTable.getElementsByClassName("show");
-
+console.log("fixTableTRs.length",fixTableTRs.length);
 if(fixTableTRs.length>0) clearInterval(intervalID);
  for (var j = 0; j < fixTableTRs.length; j++) {  
 //console.log(fixTableTRs.length)
