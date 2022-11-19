@@ -1659,8 +1659,8 @@ if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName
 
 fixtureDateNumber =  date.substring(4,6);
 var dd = new Date();
-
-
+displayClass = "show";
+/*
 if(parseInt(fixtureDateNumber) < d.getDate()) {
   displayClass = "hide";
 }else {
@@ -1683,7 +1683,7 @@ if(today == matchDate) {
 }else {
     todaysGame = ""
 }
- 
+ */
 /*
 if(currentHours > hours) {
     displayClass = "hide";
@@ -2149,7 +2149,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
 var fixTable = document.getElementById('fixturesTable');
 var fixTableTRs = fixTable.getElementsByClassName("show");
 console.log("fixTableTRs.length",fixTableTRs.length);
+
 if(fixTableTRs.length>0) clearInterval(intervalID);
+
  for (var j = 0; j < fixTableTRs.length; j++) {  
 //console.log(fixTableTRs.length)
 fixTableTRs[j].addEventListener("click", function(e) {
