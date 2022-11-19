@@ -1762,14 +1762,14 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.split(' ').join('')+'  style="width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 away </th></tr>';
 for (h=0; h<awayGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table></div><div style=display:flex;>';
 
 
 sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><<td class="oppo" style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
@@ -1777,7 +1777,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><<td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 //console.log("sixGameMarkup1",sixGameMarkup);
@@ -2149,6 +2149,7 @@ fixTableTRs[j].addEventListener("click", function(e) {
 
 
 last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
+last6AwayTable = gridTable.childNodes[1].childNodes[0].childNodes[1];
 
 last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
@@ -2156,8 +2157,16 @@ var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
 th = last6HomeTable.getElementsByTagName("th");
 //console.log(th);
+last6HomeTRs = last6AwayTable.getElementsByTagName("tr");
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+var last6AwayOpp = last6AwayTable.getElementsByClassName("oppo");
+thAway = last6AwayTable.getElementsByTagName("th");
+
 
 yes(th,last6HomeOpp,leagueTableTRs);
+yes(th,last6AwayOpp,leagueTableTRs);
+
 tdsArray = [];
 
 
