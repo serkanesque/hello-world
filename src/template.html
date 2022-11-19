@@ -653,7 +653,7 @@ oddsArray = [];
   score = seasonFixturesInnerDivs[i].childNodes[2].textContent;
   console.log("score",score);
 
-  if(score.length > 2) break;
+  if(score.includes(":")) break;
 
   //fixture = fixture.trim();
   //fixture = fixture.split(' - ');
@@ -719,7 +719,7 @@ console.log("seasonFixtures2018");
 
   fixtureTeam.hScore = score[0];
   fixtureTeam.aScore = score[1];
-console.log("fixtureTeam",fixtureTeam);
+//console.log("fixtureTeam",fixtureTeam);
   seasonFixtures2018.push(fixtureTeam);
 
  }
