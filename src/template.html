@@ -897,7 +897,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
  
   awayTable.push(team);
-  console.log("away",team);
+  //console.log("away",team);
  }
   //
 
@@ -963,7 +963,7 @@ if(league=="bosnia1" ||league=="nigeria1" ||league=="southafrica1" || league=="h
 
 
  for (var i = 0; i < fix2InnerDivs.length; i++) {
-  console.log("i 1",i)
+  //console.log("i 1",i)
 
    var tds = fix2InnerDivs[i].getElementsByTagName("td");
 var fixture = new Object();
@@ -982,7 +982,7 @@ var fixture = new Object();
 
 
     homeTeam2 = tds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
-console.log("homeTeam2",homeTeam2);
+//console.log("homeTeam2",homeTeam2);
     homeTeam2 = homeTeam2.trim();
 
     if(homeTeam2.length != 0){
