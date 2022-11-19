@@ -1764,7 +1764,7 @@ sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.spl
 for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +' class="oppo">' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table></div><div style="display:flex;">';
+sixGameMarkup = sixGameMarkup + '</table></div><div style=display:flex;>';
 
 
 sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
@@ -2338,10 +2338,10 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.color = "white";
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
-        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
-        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
-        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
-        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
+        if(last6HomeOpp[p].parentNode.className == "awayDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+        if(last6HomeOpp[p].parentNode.className == "awayLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "awayWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
+        if(last6HomeOpp[p].parentNode.className == "awayWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
 
         } 
 }
