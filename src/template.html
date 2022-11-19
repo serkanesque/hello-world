@@ -758,8 +758,7 @@ if(league=="newzealand1") clearInterval(interval);
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
-    if(team.name == "Saarbr�cken")  team.name  = 'Saarbrucken'; 
-      //  if(team.name == "Saarbrücken")  team.name  = 'Saarbrucken'; 
+
 
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
@@ -880,8 +879,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
-    if(team.name == "Saarbr�cken")  team.name  = 'Saarbrucken'; 
-       // if(team.name == "Saarbrücken")  team.name  = 'Saarbrucken'; 
+
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
   team.draws = awayInnerDivs[i].childNodes[9].textContent.trim();    
@@ -997,8 +995,7 @@ var fixture = new Object();
 
     if(homeTeam == "Borac Banja L")  homeTeam = 'Borac Banja L.'; 
         if(homeTeam == "Rad Bijeljina")  homeTeam = 'Rad. Bijeljina'; 
-        if(homeTeam == "Saarbr�cken")  homeTeam = 'Saarbrucken'; 
-        if(homeTeam == "Saarbrücken")  homeTeam = 'Saarbrucken'; 
+
   if(homeTeam == "Jigawa G Stars")  homeTeam = 'Jigawa G. Stars'; 
 
   if(homeTeam == "Connahs Quay")  homeTeam = 'Connah\'s Quay'; 
@@ -1107,8 +1104,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
          if(awayTeam == "Borac Banja L")  awayTeam = 'Borac Banja L.'; 
         if(awayTeam == "Rad Bijeljina")  awayTeam = 'Rad. Bijeljina'; 
-        if(awayTeam == "Saarbr�cken")  awayTeam = 'Saarbrucken'; 
-        if(awayTeam == "Saarbrücken")  awayTeam = 'Saarbrucken'; 
+
   if(awayTeam == "Jigawa G Stars")  awayTeam = 'Jigawa G. Stars'; 
   if(awayTeam == "Puskas Akad")  awayTeam = 'Puskas Akad.'; 
   if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\'s Quay';  
