@@ -1405,10 +1405,11 @@ var last6Home = [];
 
 function determineResultHome (fixture, team, venue){
 
-  if(fixture == 'undefined') return;
-  console.log("Fixture",fixture)
 var resultObject = new Object;
 
+if(resultObject.hName == 'undefined') return;
+if(resultObject.hName == 'undefined') break;
+  console.log("Fixture",fixture)
 resultObject.hName = fixture.hName
 resultObject.aName = fixture.aName
 
