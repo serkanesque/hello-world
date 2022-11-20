@@ -1407,8 +1407,7 @@ function determineResultHome (fixture, team, venue){
 
 var resultObject = new Object;
 
-if(fixture.hName == 'undefined') return;
-if(fixture.hName == 'undefined') break;
+if(fixture.hName === 'undefined') return;
   console.log("Fixture",fixture)
 resultObject.hName = fixture.hName
 resultObject.aName = fixture.aName
