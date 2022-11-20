@@ -1098,10 +1098,22 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
     }     
   }
+/*
+  var fix2ContainerDiv = document.getElementById("fixtures");
+  console.log(fix2ContainerDiv)
+ var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("trow2");
+ var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
+ console.log(fix2InnerDivs)
+ awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td"); 
+ console.log(awayTeamTds)
+ awayTeam2 = awayTeamTds[3].childNodes[0].textContent
+ console.log(awayTeam2)
+ */
+ if(fix2InnerDivs.length == 0 ) var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
 
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
-       awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, ''); 
+       awayTeam2 = awayTeamTds[3].childNodes[1].textContent.replace(/[^\w\s]/gi, ''); 
             
       console.log("awayTeam2",awayTeam2);
     awayTeam2 = awayTeam2.trim();
