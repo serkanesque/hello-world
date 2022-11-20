@@ -1101,13 +1101,14 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
-       awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
-       //console.log("awayTeam2",awayTeam2);
+       awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, ''); 
+            
+      console.log("awayTeam2",awayTeam2);
     awayTeam2 = awayTeam2.trim();
-
+    console.log("awayTeam2 Trim",awayTeam2);
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
-     console.log("awayTeam", awayTeam)
+    
 
      if(awayTeam == "Saarbrcken")  awayTeam = 'Saarbrucken';
          if(awayTeam == "Borac Banja L")  awayTeam = 'Borac Banja L.'; 
