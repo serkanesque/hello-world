@@ -1,859 +1,393 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr class="trow3">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
-<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
-<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
-<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
-<td align="right" width="50">
- 
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="9"></td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-11:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Salernitana
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.86
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-71%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Salernitana vs AC Milan" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Salernitana" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="AC Milan" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=159-13-1-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Salernitana vs AC Milan">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=13-salernitana">Salernitana</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">11:30</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-AC Milan
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-57%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.14
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-11:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Sassuolo
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.57
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Sassuolo vs Sampdoria" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Sassuolo" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Sampdoria" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=160-20-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sassuolo vs Sampdoria">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Sampdoria
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-19%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.57
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-13:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Spezia
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 4 (57.1%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:18.9px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-71%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Spezia vs Atalanta" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Spezia" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Atalanta" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=154-15-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Spezia vs Atalanta">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Atalanta
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:19.0px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-76%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 5 (71.4%)Draws: 1 (14.3%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:23.6px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.14
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-13:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Torino
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.43
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-14%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Torino vs Hellas Verona" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Torino" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Hellas Verona" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=157-8-17-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Torino vs Hellas Verona">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Hellas Verona
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:2.4px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-10%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 2 (28.6%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.29
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-15:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-AS Roma
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 1 (14.3%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
+<span>
+<div style="text-align:left;">
+<b>Salernitana</b>:
+1.57
+points per game
+at home
+<br/><b>AC Milan</b>:
 1.71
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="AS Roma vs Bologna" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="AS Roma" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Bologna" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=155-14-12-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="AS Roma vs Bologna">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Bologna
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-19%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.86
+<br/><br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-86%
+<br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-15:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Lecce
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 4 (57.1%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:18.9px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.14
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Lecce vs Lazio" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Lecce" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Lazio" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=158-5-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Lecce vs Lazio">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=1-ac-milan">AC Milan</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=159-13-1-2023" title="Salernitana vs AC Milan">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=20-sassuolo">Sassuolo</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">11:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Sassuolo</b>:
+1.57
+points per game
+at home
+<br/><b>Sampdoria</b>:
+0.57
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Lazio
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-67%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 2 (28.6%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
+<font color="black">
+Sassuolo have scored 73% of their goals at home.
+</font>
+<br/>
 <font color="red">
+Sampdoria have lost their last 4 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=3-sampdoria">Sampdoria</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=160-20-3-2023" title="Sassuolo vs Sampdoria">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=15-spezia">Spezia</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">13:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Spezia</b>:
+1.43
+points per game
+at home
+<br/><b>Atalanta</b>:
 2.29
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-17:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Cremonese
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:3.6px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-14%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 3 (42.9%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:18.9px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.86
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Cremonese vs Juventus" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Cremonese" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Juventus" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=151-10-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Cremonese vs Juventus">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Juventus
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
+<font color="black">
+Spezia have scored 79% of their goals at home.
+</font>
+<br/>
 <font color="red">
-1.14
+Atalanta have lost their last 3 matches.
 </font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=4-atalanta">Atalanta</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=154-15-4-2023" title="Spezia vs Atalanta">stats</a>
 </td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=8-torino">Torino</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">13:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Torino</b>:
+1.57
+points per game
+at home
+<br/><b>Hellas Verona</b>:
+0.29
+points per game
+away
+<br/><br/>
+<font color="black">
+76% of Torino's conceded goals were conceded away.
+</font>
+<br/>
 <font color="red">
-0%
+Hellas Verona have lost their last 10 matches.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-17:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Fiorentina
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.29
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Fiorentina vs Monza" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Fiorentina" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Monza" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=152-9-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Fiorentina vs Monza">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=17-hellas-verona">Hellas Verona</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=157-8-17-2023" title="Torino vs Hellas Verona">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Monza
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-19%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.71
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Inter Milan
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:21.4px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-86%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 6 (85.7%)Draws: 0 (0.0%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:28.3px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.29
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-71%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Inter Milan vs Napoli" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Inter Milan" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Napoli" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=153-6-18-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Inter Milan vs Napoli">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=14-as-roma">AS Roma</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:30</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<span>
+<div style="text-align:left;">
+<b>AS Roma</b>:
+1.43
+points per game
+at home
+<br/><b>Bologna</b>:
+0.57
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Napoli
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:22.6px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-90%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 6 (85.7%)Draws: 1 (14.3%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:28.3px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.14
+<br/><br/>
+<font color="black">
+63% of AS Roma's points have been earned away.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-71%
+<br/>
+<font color="black">
+79% of Bologna's points have been earned at home.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=12-bologna">Bologna</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=155-14-12-2023" title="AS Roma vs Bologna">stats</a>
 </td>
 </tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 4 Jan<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Udinese
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=5-lecce">Lecce</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Lecce</b>:
+1.00
+points per game
+at home
+<br/><b>Lazio</b>:
+2.00
+points per game
+away
+<br/><br/>
+<font color="black">
+Lecce have scored 71% of their goals in the first half.
+</font>
+<br/>
+<font color="black">
+64% of Lazio's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=11-lazio">Lazio</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=158-5-11-2023" title="Lecce vs Lazio">stats</a>
 </td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-57%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 3 (42.9%)Defeats: 1 (14.3%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:4.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=10-cremonese">Cremonese</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Cremonese</b>:
+0.43
+points per game
+at home
+<br/><b>Juventus</b>:
+1.57
+points per game
+away
+<br/><br/>
+<font color="red">
+Cremonese have failed to win in their last 15 matches.
+</font>
+<br/>
 <font color="green">
+Juventus have won their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=19-juventus">Juventus</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=151-10-19-2023" title="Cremonese vs Juventus">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=9-fiorentina">Fiorentina</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Fiorentina</b>:
+1.57
+points per game
+at home
+<br/><b>Monza</b>:
+0.57
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+75% of Monza's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=7-monza">Monza</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=152-9-7-2023" title="Fiorentina vs Monza">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=6-inter-milan">Inter Milan</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Inter Milan</b>:
 2.57
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Udinese vs Empoli" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-04" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Udinese" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Empoli" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=italy&amp;stats=156-2-16-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Udinese vs Empoli">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
+at home
+<br/><b>Napoli</b>:
+2.71
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Empoli
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-29%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 3 (42.9%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.29
+<br/><br/>
+<font color="black">
+82% of Inter Milan's conceded goals were conceded away.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
+<br/>
+<font color="green">
+Napoli have won their last 11 matches.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=18-napoli">Napoli</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=153-6-18-2023" title="Inter Milan vs Napoli">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=2-udinese">Udinese</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Udinese</b>:
+1.71
+points per game
+at home
+<br/><b>Empoli</b>:
+0.86
+points per game
+away
+<br/><br/>
+<font color="red">
+Udinese have failed to win in their last 7 matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=16-empoli">Empoli</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=156-2-16-2023" title="Udinese vs Empoli">stats</a>
+</td>
+</tr>
 </table>
