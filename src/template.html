@@ -1404,6 +1404,8 @@ var homeGameTotal = [];
 var last6Home = [];
 
 function determineResultHome (fixture, team, venue){
+
+  if(fixture === "undefined") break;
   console.log("Fixture",fixture)
 var resultObject = new Object;
 
