@@ -1816,7 +1816,7 @@ sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" class='+awayTeam.spl
 for (h=0; h<awayGameTotal.length; h++) {
 sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +' class="oppo">' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table></div><div style="display:flex;">';
+sixGameMarkup = sixGameMarkup + '</table></div><div style=display:flex;>';
 
 
 sixGameMarkup = sixGameMarkup + '<table  id="last6GamesHometeam style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
@@ -2215,8 +2215,7 @@ fixTableTRs[j].addEventListener("click", function(e) {
 
 last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
 last6AwayTable = gridTable.childNodes[1].childNodes[0].childNodes[1];
-last6GamesHomeTeamTable = gridTable.childNodes[1].childNodes[1].childNodes[1]; 
-last6GamesAwayTeamTable = gridTable.childNodes[1].childNodes[1].childNodes[1]; 
+last6GamesHometeamTable = gridTable.childNodes[1].childNodes[1].childNodes[1]; 
 
 last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
@@ -2238,7 +2237,7 @@ thAway = last6AwayTable.getElementsByTagName("th");
 
 yes(th,last6HomeOpp,leagueTableTRs);
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
-//yesLast6(thAway,last6AwayOpp,leagueTableTRs);
+yesLast6(thAway,last6AwayOpp,leagueTableTRs);
 tdsArray = [];
 
 
