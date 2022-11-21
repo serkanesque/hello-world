@@ -198,6 +198,7 @@ padding: 10px 0;
     <Div>       
     <h1> League  </h1>
     <table id="leagueTable"></table>
+
 </Div>
 
 <Div style="display: none;">       
@@ -1952,9 +1953,11 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             var last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
 
 
+// Clone
 
+var leagueTable2 = leagueTable.cloneNode(true);
 
-
+leagueTable.after(leagueTable2);
 
 
 /*
