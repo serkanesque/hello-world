@@ -2442,6 +2442,7 @@ th[0].addEventListener("mouseout", function(e) {
 function yesLast6(th,last6HomeOpp,leagueTableTRs){
 th[0].addEventListener("mouseover", function(e) {
   console.log("In");
+  console.log("tr rows",last6HomeOpp);
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
