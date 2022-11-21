@@ -1820,7 +1820,7 @@ sixGameMarkup = sixGameMarkup + '</table></div><div style=display:flex;>';
 
   sixGameMarkup = sixGameMarkup + '<table id="last6GamesHometeam" style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td  class="oppo" style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><<td class="oppo" style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td id="cell-1" 1style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td  id="cell-2" style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 
@@ -1828,7 +1828,7 @@ sixGameMarkup = sixGameMarkup + '</table>';
 
 sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
 for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td  class="oppo" style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><<td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><<td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
 //console.log("sixGameMarkup1",sixGameMarkup);
@@ -2232,7 +2232,7 @@ thAway = last6AwayTable.getElementsByTagName("th");
 last6GamesHometeamTableTRs = last6GamesHometeamTable.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
-var last6HometeamOpp = last6GamesAwayteamTable.getElementsByClassName("oppo");
+var last6HometeamOpp = last6GamesAwayteamTable.getElementsByTagName("tr");
 thLast6home = last6GamesHometeamTable.getElementsByTagName("th");
 
 yes(th,last6HomeOpp,leagueTableTRs);
@@ -2449,8 +2449,52 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.backgroundColor = "black";
               leagueTableTRs[y].style.color = "white";
             }
-        if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
-          if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+   
+          if(last6HomeOpp[p].className == "homeDraw") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#feffbf";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "homeLoss") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#pink";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "homeWin") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#lightgreen";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#springgreen";
+            } 
+          }
+
+          
+          if(last6HomeOpp[p].parentNode.className == "awayDraw") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#springgreen";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "awayLoss") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#pink";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "awayWin") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#lightgreen";
+            } 
+          }
+          if(last6HomeOpp[p].parentNode.className == "awayWinDiff2") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#springgreen";
+            } 
+          }
+
+
+/*
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
         if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
         if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
@@ -2458,8 +2502,8 @@ th[0].addEventListener("mouseover", function(e) {
         if(last6HomeOpp[p].parentNode.className == "awayLoss") leagueTableTRs[y].style.backgroundColor = "pink";
         if(last6HomeOpp[p].parentNode.className == "awayWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
         if(last6HomeOpp[p].parentNode.className == "awayWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
-
-        } 
+*/
+       
 }
 }
 })
