@@ -2451,6 +2451,8 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.color = "white";
             }
             if(last6HomeOpp[p].className == "homeLoss") {
+              console.log("last6HomeOpp[p].firstElementChild.id",last6HomeOpp[p].firstElementChild.id)
+              console.log("last6HomeOpp[p].lastElementChild.id",last6HomeOpp[p].lastElementChild.id)
             if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
             leagueTableTRs[y].style.backgroundColor = "#pink";
             } 
