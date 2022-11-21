@@ -1955,9 +1955,7 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
 
 // Clone
 
-var leagueTable2 = leagueTable.cloneNode(true);
 
-leagueTable.after(leagueTable2);
 
 
 /*
@@ -2173,7 +2171,9 @@ pointsMarkup = "";
  }
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
+ var leagueTable2 = leagueTable.cloneNode(true);
 
+leagueTable.after(leagueTable2);
 
 
 
