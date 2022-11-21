@@ -376,6 +376,10 @@ interval = setInterval(allDone, 50)
 }))
 */
 
+var leagueTable2 =  document.getElementById('leagueTable').cloneNode(true);
+ leagueTable2.id = "leagueTable2";
+ document.getElementById('leagueTable').after(leagueTable2);
+
 
 function allDone() {
 
@@ -2174,10 +2178,9 @@ pointsMarkup = "";
  }
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
- var leagueTable2 =  document.getElementById('leagueTable').cloneNode(true);
- leagueTable2.id = "leagueTable2";
- document.getElementById('leagueTable').after(leagueTable2);
+ document.getElementById('leagueTable2').innerHTML = pointsMarkup;
 
+ yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByClassName("oppo"));
 
  /*
              document.addEventListener("mouseover", function(){
