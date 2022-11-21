@@ -1,121 +1,15 @@
-<table id="btable" width="100%">
-<tr style="pointer-events:none;">
-<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
-<h2 style="padding-bottom:6px;">Matches</h2>
-</td>
+<table cellpadding="0" cellspacing="0" id="btable" width="100%">
+<tr style="height:22px;pointer-events:none;">
+<td style="text-align:center;"></td>
+<td style="text-align:center;width:35px;">Goals</td>
+<td colspan="2" style="text-align:right;padding-right:8px;">% goals</td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=14-keciorengucu">Keciorengucu</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">10:30</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Keciorengucu</b>:
-1.40
-points per game
-at home
-<br/><b>Denizlispor</b>:
-0.00
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="red">
-Denizlispor have lost their last 6 away matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=8-denizlispor">Denizlispor</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=268-14-8-2023" title="Keciorengucu vs Denizlispor">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=11-manisa-bb">Manisa BB</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">10:30</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Manisa BB</b>:
-1.71
-points per game
-at home
-<br/><b>Erzurum BB</b>:
-0.83
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="black">
-68% of Erzurum BB's conceded goals occurred in the first half.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=17-erzurum-bb">Erzurum BB</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=265-11-17-2023" title="Manisa BB vs Erzurum BB">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=3-adanaspor">Adanaspor</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">13:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Adanaspor</b>:
-2.00
-points per game
-at home
-<br/><b>Altinordu</b>:
-1.33
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="red">
-Altinordu have lost their last 3 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=2-altinordu">Altinordu</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=261-3-2-2023" title="Adanaspor vs Altinordu">stats</a>
-</td>
-</tr>
+<tr class="odd" height="26"><td align="right" style="padding-right:6px;width:60px;"><b>1st half</b></td>
+<td align="center" style="width:33px;font-size:13px;">151</td>
+<td><progress max="100" style="width:140px;" value="46.6049382716049"></progress></td>
+<td align="center"><font color="blue">46.6%</font></td></tr>
+<tr class="odd" height="26"><td align="right" style="padding-right:6px;width:60px;"><b>2nd half</b></td>
+<td align="center" style="width:33px;font-size:13px;">173</td>
+<td><progress max="100" style="width:140px;" value="53.3950617283951"></progress></td>
+<td align="center" width="60"><font color="blue">53.4%</font></td></tr>
 </table>
