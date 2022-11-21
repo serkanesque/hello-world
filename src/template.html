@@ -1537,6 +1537,8 @@ var awayGameTotal = [];
 var last6Away = [];
 
 function determineResultAway (fixture, team, venue){
+  if(!fixture) return;
+if(fixture === 'undefined') return;
 var resultObject = new Object;
 resultObject.hName = fixture.hName
 resultObject.aName = fixture.aName
