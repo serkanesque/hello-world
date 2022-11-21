@@ -2192,8 +2192,12 @@ pointsMarkup = "";
  }
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
- document.getElementById('leagueTable2').innerHTML = pointsMarkup;
-
+ leagueTable2 = document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+ last6AwayTRs = leagueTable2.getElementsByTagName("tr");
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+var last6AwayOpp = leagueTableTRs.getElementsByClassName("oppo");
+thAway = leagueTable2.getElementsByTagName("th");
  yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByClassName("oppo"));
 
  /*
