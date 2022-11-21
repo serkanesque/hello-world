@@ -2193,14 +2193,15 @@ pointsMarkup = "";
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
  leagueTable2 = document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+ /*
  last6AwayTRs = leagueTable2.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
 var leagueTableTRs = leagueTable.getElementsByTagName("tr");
 var last6AwayOpp = leagueTableTRs.getElementsByClassName("oppo");
 thAway = leagueTable2.getElementsByTagName("th");
- yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
+ yesAway2(last6AwayTable.getElementsByTagName("th"),last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 
- /*
+
              document.addEventListener("mouseover", function(){
    document.getElementById("demo").innerHTML = "Hello World";
 
@@ -2263,7 +2264,7 @@ thLast6home = last6GamesHometeamTable.getElementsByTagName("th");
 
 yes(th,last6HomeOpp,leagueTableTRs);
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
-//yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByClassName("oppo"));
+yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
 tdsArray = [];
 
