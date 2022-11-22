@@ -39,6 +39,49 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
+Chester
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
++6
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Scarborough
 </td>
 <td align="center">
@@ -77,7 +120,50 @@ Scarborough
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-2
+3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Kidderminster
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
@@ -120,50 +206,7 @@ Darlington
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Chester
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -206,7 +249,7 @@ Kings Lynn
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -239,49 +282,6 @@ Hereford Utd
 </td>
 <td align="center">
 -1
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Kidderminster
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
--2
 </td>
 <td align="center">
 <b>
@@ -688,7 +688,7 @@ Boston Utd
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -698,20 +698,20 @@ Boston Utd
 3
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
 9
 </font>
 </td>
 <td align="center">
--1
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
+-4
 </td>
 <td align="center">
 <b>
@@ -860,7 +860,7 @@ Bradford PA
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -870,7 +870,7 @@ Bradford PA
 4
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -879,11 +879,11 @@ Bradford PA
 </td>
 <td align="center">
 <font color="red">
-12
+13
 </font>
 </td>
 <td align="center">
--6
+-7
 </td>
 <td align="center">
 <b>
@@ -946,11 +946,11 @@ Blyth Spartans
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 1
@@ -960,7 +960,7 @@ Blyth Spartans
 </td>
 <td align="center">
 <font color="blue">
-5
+7
 </font>
 </td>
 <td align="center">
@@ -969,11 +969,11 @@ Blyth Spartans
 </font>
 </td>
 <td align="center">
--14
+-12
 </td>
 <td align="center">
 <b>
-4
+7
 </b>
 </td>
 </tr>
