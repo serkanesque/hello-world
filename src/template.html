@@ -1048,7 +1048,7 @@ var fixture = new Object();
 
 console.log("homeTeam",homeTeam)
 
-
+if(homeTeam == "M A Nazareth")  homeTeam = "M. A. Nazareth"; 
 if(homeTeam == "H Jerusalem")  homeTeam = "H. Jerusalem"; 
 
 if(homeTeam == "H Ironi Rishon")  homeTeam = "H. Ironi Rishon"; 
@@ -1207,6 +1207,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     console.log("awayTeam2 Trim",awayTeam2);
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+     
+     if(awayTeam == "M A Nazareth")  awayTeam = "M. A. Nazareth"; 
 
      if(awayTeam == "H Jerusalem")  awayTeam = "H. Jerusalem"; 
      if(awayTeam == "H Ironi Rishon")  awayTeam = "H. Ironi Rishon"; 
