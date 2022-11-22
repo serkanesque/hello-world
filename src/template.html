@@ -1006,9 +1006,9 @@ var fixture = new Object();
      // time = timeClean.substring(0,3);
       //day = timeClean.substring(3,7);
      // matchDate =  time.concat(" ", day);
-      //matchTime = matchDate.concat(" ", tds[1].textContent.trim())   
-       date = tds[0].textContent;
-      var hours = parseInt(matchTime.substring(6,9));
+     date = tds[0].textContent;
+      matchTime = date.concat(" ", tds[2].firstChild.firstChild.textContent.trim())   
+      var hours = matchTime;
   
     }
 
