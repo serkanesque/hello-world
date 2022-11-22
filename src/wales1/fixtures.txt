@@ -1,861 +1,293 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr class="trow3">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
-<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
-<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
-<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
-<td align="right" width="50">
- 
+<table id="btable" width="100%">
+<thead>
+<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
+<h3>Results &amp; pre-match Points per Game (PPG)</h3>
 </td>
+<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
+<td></td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="9"></td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 18 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Connah`s Quay
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:25.0px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-100%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 7 (100.0%)Draws: 0 (0.0%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:33.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.71
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-14%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Connah`s Quay vs Caernarfon Town" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-18" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Connah`s Quay" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Caernarfon Town" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=85-4-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Connah`s Quay vs Caernarfon Town">stats</a>
+</thead>
+<tbody>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a> - <a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m90">
+<font color="blue"><b>0 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<br/>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.17">2.17</progress><font style="color:#888888;font-size:11px;">2.17</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="2.67">2.67</progress><font style="color:#888888;font-size:11px;">2.67</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m90&amp;st1=11&amp;st2=8">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Caernarfon Town
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:5.0px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-20%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (20.0%)Draws: 0 (0.0%)Defeats: 4 (80.0%)"><div class="bargreen" style="width:6.6px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:26.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.80
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a> - <a href="team.asp?league=wales&amp;stats=5-haverfordwest">Haverfordwest</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m87">
+<font color="blue"><b>1 - 2</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">F. Savage (35)</font>
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-80%
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>1-1</b>  
+<font color="#000000">B. Fawcett (73)</font>
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 18 Nov<font color="green" style="font-size:11px;">
-20:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Aberystwyth
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:14.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-57%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 0 (0.0%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.29
+<font style="color:#000000;">
+<br/>    
+<b>1-2</b>  
+<font color="#000000">J. Davies (86)</font>
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-86%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Aberystwyth vs Pontypridd Town" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-18" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Aberystwyth" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Pontypridd Town" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=86-2-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Aberystwyth vs Pontypridd Town">stats</a>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="0.17">0.17</progress><font style="color:#888888;font-size:11px;">0.17</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.67">0.67</progress><font style="color:#888888;font-size:11px;">0.67</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m87&amp;st1=1&amp;st2=5">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Pontypridd Town
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-22%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 1 (16.7%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.33
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a> - <a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m88">
+<font color="blue"><b>1 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">E. Evans (66)</font> pen.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 19 Nov<font color="green" style="font-size:11px;">
-14:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Airbus UK
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:1.4px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-6%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 1 (16.7%)Defeats: 5 (83.3%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:27.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-4.67
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-100%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Airbus UK vs Haverfordwest" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-19" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Airbus UK" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Haverfordwest" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=87-1-5-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Airbus UK vs Haverfordwest">stats</a>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.00">2.00</progress><font style="color:#888888;font-size:11px;">2.00</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.86">1.86</progress><font style="color:#888888;font-size:11px;">1.86</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m88&amp;st1=3&amp;st2=12">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Haverfordwest
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-22%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 1 (16.7%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-2.50
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 19 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m89">
+<font color="blue"><b>1 - 4</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">M. Cadwallader (35)</font>
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-50%
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>1-1</b>  
+<font color="#000000">H. Cowans (62)</font>
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 19 Nov<font color="green" style="font-size:11px;">
-14:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Cardiff MU
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-67%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (66.7%)Draws: 0 (0.0%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.17
+<font style="color:#000000;">
+<br/>    
+<b>1-2</b>  
+<font color="#000000">Z. Ismail (68)</font>
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-67%
+<font style="color:#000000;">
+<br/>    
+<b>1-3</b>  
+<font color="#000000">J. Walker (84)</font>
 </font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Cardiff MU vs Bala Town" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-19" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Cardiff MU" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Bala Town" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=88-3-12-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Cardiff MU vs Bala Town">stats</a>
+<font style="color:#000000;">
+<br/>    
+<b>1-4</b>  
+<font color="#000000">A. Williams (90)</font>
+</font>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.25">1.25</progress><font style="color:#888888;font-size:11px;">1.25</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.17">1.17</progress><font style="color:#888888;font-size:11px;">1.17</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m89&amp;st1=10&amp;st2=7">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Bala Town
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:15.5px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-62%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 1 (14.3%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.29
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 18 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m86">
+<font color="blue"><b>2 - 1</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">J. Evans (4)</font>
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
+<font style="color:#000000;">
+<br/>    
+<b>1-1</b>  
+<font color="#000000">C. Green (31)</font>
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 19 Nov<font color="green" style="font-size:11px;">
-14:30</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Flint
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:10.4px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-42%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (25.0%)Draws: 2 (50.0%)Defeats: 1 (25.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.50
+<font style="color:#000000;">
+<br/>
+<b>2-1</b>  
+<font color="#000000">J. Evans (32)</font>
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-0%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Flint vs Newtown" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-19" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Flint" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Newtown" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=89-10-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Flint vs Newtown">stats</a>
+<br/>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.71">1.71</progress><font style="color:#888888;font-size:11px;">1.71</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.67">0.67</progress><font style="color:#888888;font-size:11px;">0.67</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m86&amp;st1=2&amp;st2=9">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Newtown
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-39%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (33.3%)Draws: 1 (16.7%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-5.00
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 18 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m85">
+<font color="blue"><b>3 - 3</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">F. O`Rourke (10)</font>
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-100%
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">J. Faux (50)</font>
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 19 Nov<font color="green" style="font-size:11px;">
-17:15</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Penybont
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-72%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.83
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">L. Marsh-Hughes (65)</font>
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="black">
-50%
+<font style="color:#000000;">
+<br/>
+<b>1-3</b>  
+<font color="#000000">B. Nash (69)</font>
 </font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Penybont vs The New Saints" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-19" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Penybont" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="The New Saints" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=90-11-8-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Penybont vs The New Saints">stats</a>
+<font style="color:#000000;">
+<br/>
+<b>2-3</b>  
+<font color="#000000">J. Malkin (74)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>3-3</b>  
+<font color="#000000">J. Malkin (90)</font>
+</font>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="3.00">3.00</progress><font style="color:#888888;font-size:11px;">3.00</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.60">0.60</progress><font style="color:#888888;font-size:11px;">0.60</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m85&amp;st1=4&amp;st2=6">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-The New Saints
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:22.2px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-89%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 5 (83.3%)Draws: 1 (16.7%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:27.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.33
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 6 Nov</font></td>
+<td><a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a> - <a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m84">
+<font color="blue"><b>0 - 5</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">J. Disney (15)</font>
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-50%
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">M. Wilde (20)</font>
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 2 Dec<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Airbus UK
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:1.4px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-6%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 1 (16.7%)Defeats: 5 (83.3%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:27.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-4.67
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">D. Holmes (28)</font>
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-100%
+<font style="color:#000000;">
+<br/>    
+<b>0-4</b>  
+<font color="#000000">M. Hayes (36)</font>
 </font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Airbus UK vs Connah`s Quay" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-02" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Airbus UK" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Connah`s Quay" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=91-1-4-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Airbus UK vs Connah`s Quay">stats</a>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-5</b>  
+<font color="#000000">C. Morris (74)</font>
+</font>
 </div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.20">1.20</progress><font style="color:#888888;font-size:11px;">1.20</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m84&amp;st1=9&amp;st2=4">analysis</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Connah`s Quay
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-50%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (50.0%)Draws: 0 (0.0%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-50%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 2 Dec<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Bala Town
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:15.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-61%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (50.0%)Draws: 2 (33.3%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.83
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="black">
-50%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Bala Town vs Flint" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-02" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Bala Town" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Flint" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=92-12-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Bala Town vs Flint">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Flint
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-37%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (33.3%)Draws: 1 (11.1%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.89
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-44%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 2 Dec<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Caernarfon Town
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-75%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 6 (75.0%)Draws: 0 (0.0%)Defeats: 2 (25.0%)"><div class="bargreen" style="width:24.8px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:8.3px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="black">
-50%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Caernarfon Town vs Newtown" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-02" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Caernarfon Town" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Newtown" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=93-6-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Caernarfon Town vs Newtown">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Newtown
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-39%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (33.3%)Draws: 1 (16.7%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-5.00
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-100%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Fr 2 Dec<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Haverfordwest
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 1 (14.3%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Haverfordwest vs Penybont" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-02" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Haverfordwest" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Penybont" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=wales&amp;stats=94-5-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Haverfordwest vs Penybont">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Penybont
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.43
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
+</tbody>
 </table>
