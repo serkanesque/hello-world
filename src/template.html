@@ -1006,8 +1006,9 @@ var fixture = new Object();
   for (var j = 0; j < tds.length; j++) {    
 
 
-   matchTime = tds[0].textContent.trim();
-
+   date = tds[0].textContent.trim();
+   time =  tds[2].firstElementChild.firstElementChild.textContent.trim();
+   matchTime = date.concat(time);
   }
    }
 
@@ -1018,8 +1019,8 @@ var fixture = new Object();
    var tds = fix2InnerDivs[i].getElementsByTagName("td");
 var fixture = new Object();
    for (var j = 0; j < tds.length; j++) {     
-    var time = tds[0].textContent.trim()
-    timeClean = time.replace(/[^\w\s]/gi, '');
+    //var time = tds[0].textContent.trim()
+   // timeClean = time.replace(/[^\w\s]/gi, '');
 
 
     homeTeam2 = tds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
