@@ -1974,6 +1974,13 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             var last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
 
 
+            // Add fixture number
+            last6HomeTds = document.getElementById("last6Home").getElementsByTagName("tr");
+            for (let i = 0; i < last6HomeTds.length; i++) {
+              last6HomeTds[i].classList.add(i);
+            }
+
+
 // Clone
 
 
