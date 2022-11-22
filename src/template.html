@@ -393,6 +393,9 @@ var leagueTable2 =  document.getElementById('leagueTable').cloneNode(true);
  leagueTable2.id = "leagueTable2";
  document.getElementById('leagueTable').after(leagueTable2);
 
+ var leagueTable3 =  document.getElementById('leagueTable').cloneNode(true);
+ leagueTable3.id = "leagueTable3";
+ document.getElementById('leagueTable').after(leagueTable2);
 
 function allDone() {
 
@@ -2215,7 +2218,11 @@ pointsMarkup = "";
  }
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
- leagueTable2 = document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+ document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+ document.getElementById('leagueTable3').innerHTML = pointsMarkup;
+
+
+
  /*
  last6AwayTRs = leagueTable2.getElementsByTagName("tr");
 var leagueTable = document.getElementById('leagueTable');
