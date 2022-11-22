@@ -1010,9 +1010,12 @@ var fixture = new Object();
   if(tds[2].firstElementChild) {
     matchTime = date.concat(time);
     time = tds[2].firstElementChild.firstElementChild.textContent.trim();
+    matchTime = date.concat(time);
+  } else {
+    matchTime = "Postponed";
   }
-     if(time === "") matchTime = "Postponed";
-     matchTime = date.concat(time);
+   
+  
   }
    }
 
