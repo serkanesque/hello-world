@@ -1,860 +1,356 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr class="trow3">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
-<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
-<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
-<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
-<td align="right" width="50">
- 
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="9"></td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Chaves
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-39%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 4 (66.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:22.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.83
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-17%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Chaves vs Famalicao" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Chaves" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Famalicao" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=226-16-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Chaves vs Famalicao">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=16-chaves">Chaves</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Famalicao
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:2.4px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-10%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 2 (28.6%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.00
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Estoril
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:6.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-28%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 2 (33.3%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Estoril vs Boavista" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Estoril" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Boavista" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=230-6-15-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Estoril vs Boavista">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Boavista
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (33.3%)Draws: 0 (0.0%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="black">
-50%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-FC Porto
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:20.8px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-83%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 5 (83.3%)Draws: 0 (0.0%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:27.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.67
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-83%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="FC Porto vs Arouca" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="FC Porto" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Arouca" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=232-8-3-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="FC Porto vs Arouca">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Arouca
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:12.5px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-50%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (33.3%)Draws: 3 (50.0%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:16.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.00
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Gil Vicente
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:6.0px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-24%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 2 (28.6%)Defeats: 4 (57.1%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:18.9px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.71
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Gil Vicente vs Santa Clara" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Gil Vicente" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Santa Clara" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=231-18-10-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Gil Vicente vs Santa Clara">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Santa Clara
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-22%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 1 (16.7%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
+<span>
+<div style="text-align:left;">
+<b>Chaves</b>:
 1.17
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-17%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Portimonense
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 1 (14.3%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.86
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-29%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Portimonense vs Casa Pia" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Portimonense" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Casa Pia" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=228-14-11-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Portimonense vs Casa Pia">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
+at home
+<br/><b>Famalicao</b>:
+0.29
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Casa Pia
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:18.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-72%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 4 (66.7%)Draws: 1 (16.7%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.33
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
 <font color="black">
-50%
+63% of Chaves's points have been earned away.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Rio Ave
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-67%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (66.7%)Draws: 0 (0.0%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:22.0px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.17
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Rio Ave vs Maritimo" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Rio Ave" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Maritimo" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=227-4-9-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Rio Ave vs Maritimo">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Maritimo
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:4.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-19%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (14.3%)Draws: 1 (14.3%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:4.7px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.29
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Sporting Braga
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:13.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-56%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (50.0%)Draws: 1 (16.7%)Defeats: 2 (33.3%)"><div class="bargreen" style="width:16.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Sporting Braga vs Benfica" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Sporting Braga" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Benfica" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=229-12-1-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sporting Braga vs Benfica">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Benfica
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:22.2px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-89%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 5 (83.3%)Draws: 1 (16.7%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:27.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.00
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Sporting CP
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:20.8px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-83%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 5 (83.3%)Draws: 0 (0.0%)Defeats: 1 (16.7%)"><div class="bargreen" style="width:27.5px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:5.5px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.33
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-83%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Sporting CP vs Pacos Ferreira" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Sporting CP" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Pacos Ferreira" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=224-13-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Sporting CP vs Pacos Ferreira">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Pacos Ferreira
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:1.4px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-6%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 0 (0.0%)Draws: 1 (16.7%)Defeats: 5 (83.3%)"><div class="bargreen" style="width:0.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:27.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/>
 <font color="black">
-50%
+82% of Famalicao's points have been earned at home.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dred"></div><div class="dred"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=7-famalicao">Famalicao</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=226-16-7-2023" title="Chaves vs Famalicao">stats</a>
 </td>
 </tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-We 28 Dec<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Vizela
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:5.6px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-22%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 1 (16.7%)Draws: 1 (16.7%)Defeats: 4 (66.7%)"><div class="bargreen" style="width:5.5px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:22.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=6-estoril">Estoril</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Estoril</b>:
+0.83
+points per game
+at home
+<br/><b>Boavista</b>:
+1.00
+points per game
+away
+<br/><br/>
 <font color="red">
+Estoril have failed to win in their last 5 home matches.
+</font>
+<br/>
+<font color="red">
+Boavista have failed to win in their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=15-boavista">Boavista</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=230-6-15-2023" title="Estoril vs Boavista">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=8-fc-porto">FC Porto</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>FC Porto</b>:
+2.50
+points per game
+at home
+<br/><b>Arouca</b>:
 1.50
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-17%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Vizela vs Guimaraes" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-12-28" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Vizela" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Guimaraes" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=225-5-17-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Vizela vs Guimaraes">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Guimaraes
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.7px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-39%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (33.3%)Draws: 1 (16.7%)Defeats: 3 (50.0%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:5.5px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.17
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
 <font color="black">
-50%
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Su 8 Jan<font color="green" style="font-size:11px;">
-00:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Arouca
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-48%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 1 (14.3%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:4.7px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
+<br/>
 <font color="green">
-3.00
+Arouca have been undefeated in their last 5 away matches.
 </font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Arouca vs Estoril" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2023-01-08" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Arouca" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Estoril" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=portugal&amp;stats=241-3-6-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Arouca vs Estoril">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=3-arouca">Arouca</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=232-8-3-2023" title="FC Porto vs Arouca">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=18-gil-vicente">Gil Vicente</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Gil Vicente</b>:
+0.71
+points per game
+at home
+<br/><b>Santa Clara</b>:
+0.67
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Estoril
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:13.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-52%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (42.9%)Draws: 2 (28.6%)Defeats: 2 (28.6%)"><div class="bargreen" style="width:14.1px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:9.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
 <font color="red">
-2.00
+Gil Vicente have lost their last 6 matches.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-29%
+<br/>
+<font color="black">
+Santa Clara have scored 82% of their goals at home.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=10-santa-clara">Santa Clara</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=231-18-10-2023" title="Gil Vicente vs Santa Clara">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=14-portimonense">Portimonense</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Portimonense</b>:
+1.43
+points per game
+at home
+<br/><b>Casa Pia</b>:
+2.17
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+80% of Casa Pia's conceded goals occurred in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=11-casa-pia">Casa Pia</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=228-14-11-2023" title="Portimonense vs Casa Pia">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=4-rio-ave">Rio Ave</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Rio Ave</b>:
+2.00
+points per game
+at home
+<br/><b>Maritimo</b>:
+0.57
+points per game
+away
+<br/><br/>
+<font color="black">
+67% of Rio Ave's points have been earned at home.
+</font>
+<br/>
+<font color="black">
+Maritimo have scored 75% of their goals in the first half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=9-maritimo">Maritimo</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=227-4-9-2023" title="Rio Ave vs Maritimo">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=12-sporting-braga">Sporting Braga</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Sporting Braga</b>:
+1.67
+points per game
+at home
+<br/><b>Benfica</b>:
+2.67
+points per game
+away
+<br/><br/>
+<font color="black">
+64% of Sporting Braga's points have been earned away.
+</font>
+<br/>
+<font color="green">
+Benfica have won their last 5 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=1-benfica">Benfica</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=229-12-1-2023" title="Sporting Braga vs Benfica">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=13-sporting-cp">Sporting CP</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Sporting CP</b>:
+2.50
+points per game
+at home
+<br/><b>Pacos Ferreira</b>:
+0.17
+points per game
+away
+<br/><br/>
+<font color="green">
+Sporting CP have won their last 4 home matches.
+</font>
+<br/>
+<font color="red">
+Pacos Ferreira have lost their last 5 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=19-pacos-ferreira">Pacos Ferreira</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=224-13-19-2023" title="Sporting CP vs Pacos Ferreira">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=5-vizela">Vizela</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">00:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Vizela</b>:
+0.67
+points per game
+at home
+<br/><b>Guimaraes</b>:
+1.17
+points per game
+away
+<br/><br/>
+<font color="black">
+73% of Vizela's points have been earned away.
+</font>
+<br/>
+<font color="black">
+70% of Guimaraes's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=17-guimaraes">Guimaraes</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=225-5-17-2023" title="Vizela vs Guimaraes">stats</a>
+</td>
+</tr>
 </table>
