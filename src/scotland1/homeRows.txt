@@ -1,549 +1,549 @@
-<table id="btable">
-<tr class="even" height="28">
-<th align="center"><font color="#555555"><b>
- 
-</b></font></th>
-<th align="center"><font color="#555555"><b>
- 
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-GP
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-W
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-D
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-L
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-GF
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-GA
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-GD
-</b></font></th>
-<th align="center"><font color="#555555"><b>
-Pts
-</b></font></th>
+<table cellpadding="0" cellspacing="0" id="btable" width="100%">
+<tr style="pointer-events:none;height:28px;">
+<td align="center"><font color="#111111"><b>
+ 
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+ 
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+GP
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+W
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+D
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+L
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+GF
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+GA
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+GD
+</b></font></td>
+<td align="center"><font color="#111111"><b>
+Pts
+</b></font></td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-1
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+1
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Celtic
+<td style="padding-left:4px;">
+Rangers
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-14
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-50
+<font color="green">
+8
 </font>
 </td>
 <td align="center">
-<font color="red">
-7
-</font>
-</td>
-<td align="center">
-+43
+7
 </td>
 <td align="center">
-<b>
-42
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-2
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Rangers
+1
 </td>
 <td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-11
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
+0
 </td>
 <td align="center">
-<font color="blue">
-33
+<font color="blue">
+22
 </font>
 </td>
 <td align="center">
-<font color="red">
-7
+<font color="red">
+3
 </font>
 </td>
-<td align="center">
-+26
+<td align="center">
++19
 </td>
 <td align="center">
-<b>
-34
+<b>
+22
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-3
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+2
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Livingston
+<td style="padding-left:4px;">
+Celtic
 </td>
 <td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-19
+<font color="green">
+7
 </font>
 </td>
 <td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-+11
+7
 </td>
 <td align="center">
-<b>
-28
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Aberdeen
+0
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
+0
 </td>
 <td align="center">
-<font color="blue">
-23
+<font color="blue">
+22
 </font>
 </td>
 <td align="center">
-<font color="red">
-19
+<font color="red">
+5
 </font>
 </td>
-<td align="center">
-+4
+<td align="center">
++17
 </td>
 <td align="center">
-<b>
-24
+<b>
+21
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-5
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+3
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Kilmarnock
+<td style="padding-left:4px;">
+Aberdeen
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-20
+<font color="green">
+7
 </font>
 </td>
 <td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-+5
+6
 </td>
 <td align="center">
-<b>
-23
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Hibernian
+0
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-3
+1
 </td>
 <td align="center">
-<font color="blue">
-26
+<font color="blue">
+22
 </font>
 </td>
 <td align="center">
-<font color="red">
-22
+<font color="red">
+6
 </font>
 </td>
-<td align="center">
-+4
+<td align="center">
++16
 </td>
 <td align="center">
-<b>
-22
+<b>
+18
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-7
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Motherwell
+<td style="padding-left:4px;">
+St. Mirren
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-23
+<font color="green">
+9
 </font>
 </td>
 <td align="center">
-<font color="red">
-23
-</font>
-</td>
-<td align="center">
-0
+5
 </td>
 <td align="center">
-<b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-St Mirren
+3
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-4
+1
 </td>
 <td align="center">
-<font color="blue">
-13
+<font color="blue">
+11
 </font>
 </td>
 <td align="center">
-<font color="red">
-13
+<font color="red">
+6
 </font>
 </td>
-<td align="center">
-0
+<td align="center">
++5
 </td>
 <td align="center">
-<b>
-21
+<b>
+18
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-9
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+5
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-St Johnstone
+<td style="padding-left:4px;">
+Livingston
 </td>
 <td align="center">
-<font color="green">
-16
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-19
+<font color="green">
+8
 </font>
 </td>
 <td align="center">
-<font color="red">
-26
-</font>
-</td>
-<td align="center">
--7
+5
 </td>
 <td align="center">
-<b>
-21
-</b>
-</td>
-</tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td height="20" style="padding-left:4px;">
-Ross County
+0
 </td>
 <td align="center">
-<font color="green">
-14
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
+3
 </td>
 <td align="center">
-<font color="blue">
-17
+<font color="blue">
+8
 </font>
 </td>
 <td align="center">
-<font color="red">
-23
+<font color="red">
+8
 </font>
 </td>
-<td align="center">
--6
+<td align="center">
+0
 </td>
 <td align="center">
-<b>
-18
+<b>
+15
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-11
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Hamilton
+<td style="padding-left:4px;">
+Hibernian
 </td>
 <td align="center">
-<font color="green">
-16
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-9
-</td>
-<td align="center">
-<font color="blue">
-16
+<font color="green">
+8
 </font>
 </td>
 <td align="center">
-<font color="red">
-26
-</font>
-</td>
-<td align="center">
--10
+4
 </td>
 <td align="center">
-<b>
-15
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+14
 </b>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="center" bgcolor="#dddddd">
-<font color="#444444"><b>
-12
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
 </b>
 </font>
 </td>
-<td height="20" style="padding-left:4px;">
-Hearts
+<td style="padding-left:4px;">
+Kilmarnock
 </td>
 <td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-19
+<font color="green">
+8
 </font>
 </td>
 <td align="center">
-<font color="red">
-23
-</font>
-</td>
-<td align="center">
--4
+4
 </td>
 <td align="center">
-<b>
-13
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Hearts
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+St. Johnstone
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Dundee Utd
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Ross County
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Motherwell
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+5
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+4
 </b>
 </td>
 </tr>
