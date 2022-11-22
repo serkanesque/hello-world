@@ -392,11 +392,11 @@ interval = setInterval(allDone, 50)
 var leagueTable2 =  document.getElementById('leagueTable').cloneNode(true);
  leagueTable2.id = "leagueTable2";
  document.getElementById('leagueTable').after(leagueTable2);
-
+/*
  var leagueTable3 =  document.getElementById('leagueTable').cloneNode(true);
  leagueTable3.id = "leagueTable3";
  document.getElementById('leagueTable2').after(leagueTable3);
-
+*/
 function allDone() {
 
 
@@ -2296,7 +2296,7 @@ yes(th,last6HomeOpp,leagueTableTRs);
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
 yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
-yesLast6(th,last6HometeamOpp,document.getElementById('leagueTable3').getElementsByTagName("tr"));
+//yesLast6(th,last6HometeamOpp,document.getElementById('leagueTable3').getElementsByTagName("tr"));
 tdsArray = [];
 
 
