@@ -1005,9 +1005,9 @@ var fixture = new Object();
      if(timeClean != "away") {
      // time = timeClean.substring(0,3);
       //day = timeClean.substring(3,7);
-     // matchDate =  time.concat(" ", day);
-     date = tds[0].textContent;
-      matchTime = date.concat(" ", tds[2].firstElementChild.firstElementChild.textContent.trim())   
+     //matchDate =  time.concat(" ", day);
+     matchDate = tds[0].textContent;
+      matchTime = matchDate.concat(" ", tds[2].firstElementChild.firstElementChild.textContent.trim())   
       var hours = matchTime;
   
     }
