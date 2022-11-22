@@ -1038,6 +1038,7 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
+if(homeTeam == "Melbourne V")  homeTeam = "Melbourne V."; 
 
 if(homeTeam == "St Johnstone")  homeTeam = "St. Johnstone"; 
 if(homeTeam == "St Mirren ")  homeTeam = "St. Mirren "; 
@@ -1184,6 +1185,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     console.log("awayTeam2 Trim",awayTeam2);
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+
+     if(awayTeam == "Melbourne V")  awayTeam = "Melbourne V."; 
 
      if(awayTeam == "St Johnstone")  awayTeam = "St. Johnstone"; 
 if(awayTeam == "St Mirren ")  awayTeam = "St. Mirren "; 
