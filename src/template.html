@@ -2413,7 +2413,7 @@ th[0].addEventListener("mouseover", function(e) {
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           console.log("fixtureNumber", leagueTableTRs[y].getElementsByClassName("fixtureNumber"))
-          leagueTableTRs[y].getElementsByClassName("fixtureNumber").innerHTML  = "111";
+          leagueTableTRs[y].firstChild.firstChild.textContent  = "111";
           //leagueTableTRs[y].getElementsByClassName("fixtureNumber").textContent = last6HomeOpp[p].parentNode.id + 1;
         if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
         if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
