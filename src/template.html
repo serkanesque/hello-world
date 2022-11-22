@@ -86,6 +86,7 @@ display: none !important;
   border-bottom: 1px solid #ccc; 
   text-align: center;
   padding: 8px;
+  position: relative;
 }
 
 
@@ -167,6 +168,18 @@ padding: 10px 0;
   }
 .score {
   font-weight: 500;
+}
+
+.fixtureNumber
+{
+  position: absolute;
+    display: block;
+    height: 20px;
+    width: 20px;
+    left: -10px;
+    top: 18px;
+    border-radius: 50%;
+    background-color: #fff;
 }
 </style>  
 
@@ -2439,7 +2452,7 @@ th[0].addEventListener("mouseout", function(e) {
           
             leagueTableTRs[y].style.backgroundColor = "white";
  leagueTableTRs[y].style.color = "black";
- //leagueTableTRs[y].firstChild.firstChild.textContent = "";
+ leagueTableTRs[y].firstChild.firstChild.textContent = "";
 
 
 
