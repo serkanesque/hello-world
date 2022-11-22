@@ -2299,7 +2299,7 @@ yes(th,last6HomeOpp,leagueTableTRs);
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
 yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
-yesLast6(thLast6home,last6AwayteamOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
+yesLast6Away(thLast6home,last6AwayteamOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 //yesLast6(th,last6HometeamOpp,document.getElementById('leagueTable3').getElementsByTagName("tr"));
 tdsArray = [];
 
@@ -2569,7 +2569,7 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.color = "white";
             }
 
-                       if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.nextElementSibling.className) 
+            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.nextElementSibling.className) 
             {
               leagueTableTRs[y].style.backgroundColor = "blueviolet";
               leagueTableTRs[y].style.color = "white";
@@ -2633,6 +2633,85 @@ th[0].addEventListener("mouseout", function(e) {
 })
 
 }
+
+function yesLast6Away(th,last6HomeOpp,leagueTableTRs){
+th[0].addEventListener("mouseover", function(e) {
+  console.log("In");
+  console.log("tr rows",last6HomeOpp);
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.className) 
+            {
+              leagueTableTRs[y].style.backgroundColor = "black";
+              leagueTableTRs[y].style.color = "white";
+            }
+
+            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.previousElementSibling.className) 
+            {
+              leagueTableTRs[y].style.backgroundColor = "blueviolet";
+              leagueTableTRs[y].style.color = "white";
+            }
+            if(last6HomeOpp[p].className == "homeLoss") {
+
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "pink";
+            } 
+          }
+          if(last6HomeOpp[p].className == "homeDraw") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#feffbf";
+            } 
+          }
+ 
+          if(last6HomeOpp[p].className == "homeWin") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "lightgreen";
+            } 
+          }
+          if(last6HomeOpp[p].className == "homeWinDiff2") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "springgreen";
+            } 
+          }
+
+          
+          if(last6HomeOpp[p].className == "awayDraw") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "#feffbf";
+            } 
+          }
+          if(last6HomeOpp[p].className == "awayLoss") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "pink";
+            } 
+          }
+          if(last6HomeOpp[p].className == "awayWin") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "lightgreen";
+            } 
+          }
+          if(last6HomeOpp[p].className == "awayWinDiff2") {
+            if (leagueTableTRs[y].id == last6HomeOpp[p].firstElementChild.id) { 
+            leagueTableTRs[y].style.backgroundColor = "springgreen";
+            } 
+          }
+
+        }
+}
+})
+th[0].addEventListener("mouseout", function(e) {
+  console.log("Out");
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+    leagueTableTRs[y].style.backgroundColor = "white";
+    leagueTableTRs[y].style.color = "black";
+}
+}
+})
+
+}
+
+
 
 
 document.addEventListener('DOMContentLoaded', function(event) {
