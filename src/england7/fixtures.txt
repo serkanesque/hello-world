@@ -1,1028 +1,190 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-<tr class="trow3">
-<td align="center" colspan="3" height="30" valign="middle"><span title="Calculations made from HOME results of the home team and the AWAY results of the visiting team in the league during the current season"><font style="color:#444444;font-size:12px;padding-left:2px;"><b>Home / Away</b></font></span></td>
-<td align="center" colspan="3" valign="middle"><span title="% of points picked up by the teams, in relation to maximum possible points"><font color="#444444"><b>% Points per game</b></font></span></td>
-<td align="left" width="40"><span title="Team Winning percentage, Drawing percentage and Losing percentage"><font color="green"><b>W</b></font> <font color="orange"><b>D</b></font> <font color="red"><b>L</b></font></span></td>
-<td align="center" width="55"><span title="Average match goals in matches involving the team (team goals + opponent goals)"><font color="#444444"><b>TG</b></font></span></td>
-<td align="center" width="65"><span title="% of team matches with more than 2.5 goals (team goals + opponent goals)"><font color="#444444"><b>2.5+</b></font></span></td>
-<td align="left" width="50"><font color="#444444"><span title="Last 4 results (chronological order)">
-<font style="color:#444444;"><b>Last 4</b></font></span></font></td>
-<td align="right" width="50">
- 
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
 </tr>
-<tr><td colspan="11"></td></tr>
-<tr><td colspan="11" height="9"></td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 22 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Farnborough
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Tu 22 Nov</td>
+<td align="right"><a href="team.asp?league=england7&amp;stats=14-farnborough">Farnborough</a> </td>
+<td align="center" width="45">
+pp.
 </td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
+<td align="left"> <a href="team.asp?league=england7&amp;stats=12-slough-town">Slough Town</a> </td>
+<td align="left" valign="middle">
 </td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-46%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (37.5%)Draws: 2 (25.0%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.88
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-38%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Farnborough vs Slough Town" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-22" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Farnborough" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Slough Town" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=350-14-12-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Farnborough vs Slough Town">stats</a>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 22 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england7&amp;stats=13-hemel-hempstead">Hemel Hempstead</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<span>
+<div style="text-align:left;">
+<b>Hemel Hempstead</b>:
+1.38
+points per game
+at home
+<br/><b>Eastbourne Boro</b>:
+1.14
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Slough Town
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.89
+<br/><br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-67%
+<br/>
+<font color="black">
+Eastbourne Boro have scored 62% of their goals in the first half.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 22 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Hemel Hempstead
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-46%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (37.5%)Draws: 2 (25.0%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.38
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-25%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Hemel Hempstead vs Eastbourne Boro" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-22" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Hemel Hempstead" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Eastbourne Boro" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=351-13-18-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Hemel Hempstead vs Eastbourne Boro">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england7&amp;stats=18-eastbourne-boro">Eastbourne Boro</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england7&amp;stats=351-13-18-2023" title="Hemel Hempstead vs Eastbourne Boro">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Eastbourne Boro
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-38%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.14
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 22 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Oxford City
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:16.7px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-67%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 5 (55.6%)Draws: 3 (33.3%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:18.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:3.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.56
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-67%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Oxford City vs Dartford" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-22" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Oxford City" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Dartford" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=101-17-2-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Oxford City vs Dartford">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 22 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england7&amp;stats=17-oxford-city">Oxford City</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<span>
+<div style="text-align:left;">
+<b>Oxford City</b>:
+2.00
+points per game
+at home
+<br/><b>Dartford</b>:
+1.78
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Dartford
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:14.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-59%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 5 (55.6%)Draws: 1 (11.1%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:18.3px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
 <font color="green">
-2.89
+Oxford City have been undefeated in their last 8 home matches.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-67%
+<br/>
+<font color="black">
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div></div>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england7&amp;stats=2-dartford">Dartford</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england7&amp;stats=101-17-2-2023" title="Oxford City vs Dartford">stats</a>
 </td>
 </tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 22 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Taunton Town
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:17.9px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-71%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 4 (57.1%)Draws: 3 (42.9%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:18.9px;"></div><div class="barorange" style="width:14.1px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 22 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england7&amp;stats=19-taunton-town">Taunton Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Taunton Town</b>:
 2.14
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Taunton Town vs Dulwich Hamlet" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-22" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Taunton Town" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Dulwich Hamlet" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=354-19-7-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Taunton Town vs Dulwich Hamlet">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+points per game
+at home
+<br/><b>Dulwich Hamlet</b>:
+1.00
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Dulwich Hamlet
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (25.0%)Draws: 2 (25.0%)Defeats: 4 (50.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.25
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-75%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Tu 22 Nov<font color="green" style="font-size:11px;">
-19:45</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Worthing
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-46%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (25.0%)Draws: 5 (62.5%)Defeats: 1 (12.5%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:20.6px;"></div><div class="barred" style="width:4.1px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.38
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-38%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dorange"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Worthing vs Tonbridge" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-22" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Worthing" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Tonbridge" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=96-23-21-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Worthing vs Tonbridge">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Tonbridge
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:10.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-43%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 4 (40.0%)Draws: 1 (10.0%)Defeats: 5 (50.0%)"><div class="bargreen" style="width:13.2px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:16.5px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
 <font color="black">
-50%
+Taunton Town have scored 79% of their goals at home.
 </font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20"></td></tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-13:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Slough Town
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-37%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (33.3%)Draws: 1 (11.1%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-2.89
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-56%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Slough Town vs Eastbourne Boro" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Slough Town" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Eastbourne Boro" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=136-12-18-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Slough Town vs Eastbourne Boro">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Eastbourne Boro
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.5px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-38%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 2 (28.6%)Defeats: 3 (42.9%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:9.4px;"></div><div class="barred" style="width:14.1px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.14
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-57%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dorange"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Braintree Town
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:18.8px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-75%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 5 (62.5%)Draws: 3 (37.5%)Defeats: 0 (0.0%)"><div class="bargreen" style="width:20.6px;"></div><div class="barorange" style="width:12.4px;"></div><div class="barred" style="width:0.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.38
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-38%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dorange"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Braintree Town vs Hungerford" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Braintree Town" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Hungerford" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=129-8-15-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Braintree Town vs Hungerford">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Hungerford
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:3.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-13%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (10.0%)Draws: 1 (10.0%)Defeats: 8 (80.0%)"><div class="bargreen" style="width:3.3px;"></div><div class="barorange" style="width:3.3px;"></div><div class="barred" style="width:26.4px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/>
 <font color="black">
-2.50
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-40%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Cheshunt
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:6.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-25%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (25.0%)Draws: 0 (0.0%)Defeats: 6 (75.0%)"><div class="bargreen" style="width:8.3px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:24.8px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-4.25
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-88%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Cheshunt vs Oxford City" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Cheshunt" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Oxford City" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=130-5-17-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Cheshunt vs Oxford City">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england7&amp;stats=7-dulwich-hamlet">Dulwich Hamlet</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england7&amp;stats=354-19-7-2023" title="Taunton Town vs Dulwich Hamlet">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Oxford City
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-37%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 3 (33.3%)Draws: 1 (11.1%)Defeats: 5 (55.6%)"><div class="bargreen" style="width:11.0px;"></div><div class="barorange" style="width:3.7px;"></div><div class="barred" style="width:18.3px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-2.11
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-33%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Dartford
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:20.0px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-80%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 8 (80.0%)Draws: 0 (0.0%)Defeats: 2 (20.0%)"><div class="bargreen" style="width:26.4px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:6.6px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.30
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-80%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Dartford vs Concord Rangers" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Dartford" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Concord Rangers" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=132-2-16-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Dartford vs Concord Rangers">stats</a>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 22 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england7&amp;stats=23-worthing">Worthing</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
 </div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
+<span>
+<div style="text-align:left;">
+<b>Worthing</b>:
+1.38
+points per game
+at home
+<br/><b>Tonbridge</b>:
+1.30
+points per game
 away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Concord Rangers
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:7.1px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-29%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (28.6%)Draws: 0 (0.0%)Defeats: 5 (71.4%)"><div class="bargreen" style="width:9.4px;"></div><div class="barorange" style="width:0.0px;"></div><div class="barred" style="width:23.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
+<br/><br/>
+<font color="black">
+69% of Worthing's conceded goals occurred in the first half.
+</font>
+<br/>
 <font color="red">
-2.29
+Tonbridge conceded at least one goal in each of their last 10 away matches.
 </font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-43%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Hampton &amp; R.
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-3.00
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="green">
-56%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dred"></div><div class="dred"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Hampton &amp; R. vs Dover Athletic" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Hampton &amp; R." itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Dover Athletic" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=134-6-24-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Hampton &amp; R. vs Dover Athletic">stats</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
 </div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england7&amp;stats=21-tonbridge">Tonbridge</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england7&amp;stats=96-23-21-2023" title="Worthing vs Tonbridge">stats</a>
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Dover Athletic
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 26 Nov</td>
+<td align="right"><a href="team.asp?league=england7&amp;stats=10-chippenham">Chippenham</a> </td>
+<td align="center" width="45">
+pp.
 </td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:8.3px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-33%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 2 (22.2%)Draws: 3 (33.3%)Defeats: 4 (44.4%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:11.0px;"></div><div class="barred" style="width:14.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-2.67
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-44%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div></div>
+<td align="left"> <a href="team.asp?league=england7&amp;stats=14-farnborough">Farnborough</a> </td>
+<td align="left" valign="middle">
 </td>
 </tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-Hemel Hempstead
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 26 Nov</td>
+<td align="right"><a href="team.asp?league=england7&amp;stats=7-dulwich-hamlet">Dulwich Hamlet</a> </td>
+<td align="center" width="45">
+pp.
 </td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:11.5px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-46%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 3 (37.5%)Draws: 2 (25.0%)Defeats: 3 (37.5%)"><div class="bargreen" style="width:12.4px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:12.4px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-2.38
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-25%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dred"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="Hemel Hempstead vs Taunton Town" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Hemel Hempstead" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Taunton Town" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=135-13-19-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="Hemel Hempstead vs Taunton Town">stats</a>
-</div>
+<td align="left"> <a href="team.asp?league=england7&amp;stats=9-ebbsfleet-utd">Ebbsfleet Utd</a> </td>
+<td align="left" valign="middle">
 </td>
 </tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Taunton Town
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:5.2px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-21%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 1 (12.5%)Draws: 2 (25.0%)Defeats: 5 (62.5%)"><div class="bargreen" style="width:4.1px;"></div><div class="barorange" style="width:8.3px;"></div><div class="barred" style="width:20.6px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-1.75
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="red">
-25%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dred"></div><div class="dred"></div><div class="dorange"></div><div class="dred"></div></div>
-</td>
-</tr>
-<tr><td colspan="11" height="20">
-</td></tr>
-<tr bgcolor="#f8f8f8">
-<td align="center" colspan="2" rowspan="2" style="vertical-align:middle;background-color:#f0f0f0;width:80px;border-top:1px solid #ddd;border-bottom:1px solid #dddd;"><font color="black">
-Sa 26 Nov<font color="green" style="font-size:11px;">
-15:00</font>
-</font></td>
-<td align="left" height="20" style="padding-left:4px;padding-top:4px;border-top:1px solid #ddd;" width="28"><font style="font-size:11px;color:#666666;">
-home
-</font></td>
-<td style="text-align:right;padding-right:6px;width:108px;border-top:1px solid #dddd;">
-St Albans
-</td>
-<td style="border-top:1px solid #dddd;text-align:left;width:30px;">
-<div class="graphwide"><div class="bargray" style="width:9.3px;"></div></div>
-</td>
-<td style="width:28px;text-align:left;border-top:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-37%
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<span title="Wins: 2 (22.2%)Draws: 4 (44.4%)Defeats: 3 (33.3%)"><div class="bargreen" style="width:7.3px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:11.0px;"></div></span>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-1.67
-</font>
-</td>
-<td style="text-align:center;border-top:1px solid #dddd;">
-<font color="red">
-22%
-</font>
-</td>
-<td style="text-align:left;border-top:1px solid #dddd;">
-<div><div class="dgreen"></div><div class="dorange"></div><div class="dred"></div><div class="dgreen"></div></div>
-</td>
-<td rowspan="2" style="valign:middle;text-align:center;border-top:1px solid #dddd;border-bottom:1px solid #dddd;">
-<div itemscope="" itemtype="https://schema.org/SportsEvent">
-<span content="soccer" itemprop="sport"></span>
-<span content="St Albans vs Bath City" itemprop="name"></span>
-<span content="https://schema.org/EventScheduled" itemprop="eventstatus"></span>
-<time datetime="2022-11-26" itemprop="startDate"></time>
-<span itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="St Albans" itemprop="name">
-</span>
-</span>
-<span itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
-<span content="Bath City" itemprop="name">
-</span>
-</span>
-<span content="https://schema.org/Place" itemprop="location"></span>
-<a class="myButton" href="pmatch.asp?league=england7&amp;stats=137-4-1-2023" itemprop="url" style="margin-right:0px;padding-left:5px;padding-right:5px;" target="_top" title="St Albans vs Bath City">stats</a>
-</div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td align="left" height="20" style="padding-left:4px;padding-bottom:4px;border-bottom:1px solid #ddd;"><font style="font-size:11px;color:#666666;">
-away
-</font></td>
-<td style="text-align:right;padding-right:6px;border-bottom:1px solid #dddd;">
-Bath City
-</td>
-<td style="border-bottom:1px solid #dddd;text-align:left;">
-<div class="graphwide"><div class="bargray" style="width:14.8px;"></div></div>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;padding-left:1px;padding-right:1px;font-size:10px;color:#666666;">
-59%
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<span title="Wins: 4 (44.4%)Draws: 4 (44.4%)Defeats: 1 (11.1%)"><div class="bargreen" style="width:14.7px;"></div><div class="barorange" style="width:14.7px;"></div><div class="barred" style="width:3.7px;"></div></span>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-3.44
-</font>
-</td>
-<td style="text-align:center;border-bottom:1px solid #dddd;">
-<font color="green">
-56%
-</font>
-</td>
-<td style="text-align:left;border-bottom:1px solid #dddd;">
-<div><div class="dorange"></div><div class="dgreen"></div><div class="dorange"></div><div class="dgreen"></div></div>
-</td>
-</tr>
-<tr bgcolor="#f8f8f8">
-<td colspan="12" height="40" style="line-height:16px;padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:5px;" valign="middle">
-Calculations based on home results of the home team and away results of the visiting team recorded during the current season in the league.
-</td></tr>
 </table>
