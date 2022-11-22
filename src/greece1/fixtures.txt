@@ -1,73 +1,302 @@
-<table id="btable">
-<tr class="even">
-<td height="25" width="27%"> <b>
-Round
- 26</b></td>
-<td width="51%"></td>
-<td width="11%"></td>
-<td width="11%"></td>
+<table id="btable" width="100%">
+<thead>
+<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
+<h3>Results &amp; pre-match Points per Game (PPG)</h3>
+</td>
+<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
+<td></td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> AEL Larissa - Ast. Tripolis</td>
-<td align="center">
-<b>3 - 0</b></td>
-<td align="center">
+</thead>
+<tbody>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Mo 14 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=4-ofi-crete">OFI Crete</a> - <a href="team.asp?league=greece&amp;stats=12-levadiakos">Levadiakos</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m87">
+<font color="blue"><b>2 - 1</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">F. Durmishaj (o.g.) (2)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>1-1</b>  
+<font color="#000000">J. Neira (74)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>2-1</b>  
+<font color="#000000">F. Durmishaj (82)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="0.33">0.33</progress><font style="color:#888888;font-size:11px;">0.33</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.29">0.29</progress><font style="color:#888888;font-size:11px;">0.29</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m87&amp;st1=4&amp;st2=12">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> Aris Thessalon. - Atromitos</td>
-<td align="center">
-<b>1 - 2</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Mo 14 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=2-asteras-t.">Asteras T.</a> - <a href="team.asp?league=greece&amp;stats=10-ionikos">Ionikos</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m85">
+<font color="blue"><b>1 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">Sito (18)</font>
+</font>
+<br/>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.20">1.20</progress><font style="color:#888888;font-size:11px;">1.20</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.50">0.50</progress><font style="color:#888888;font-size:11px;">0.50</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m85&amp;st1=2&amp;st2=10">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> OFI Crete - Lamia</td>
-<td align="center">
-<b>3 - 0</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 13 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=7-paok">PAOK</a> - <a href="team.asp?league=greece&amp;stats=1-volos">Volos</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m89">
+<font color="blue"><b>3 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">N. Oliveira (28)</font> pen.
+</font>
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">Andrija Živkovic (30)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>3-0</b>  
+<font color="#000000">Douglas Augusto (62)</font> pen.
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.17">2.17</progress><font style="color:#888888;font-size:11px;">2.17</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="2.20">2.20</progress><font style="color:#888888;font-size:11px;">2.20</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m89&amp;st1=7&amp;st2=1">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> Olympiakos - Panaitolikos</td>
-<td align="center">
-<b>2 - 0</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 13 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=13-olympiakos">Olympiakos</a> - <a href="team.asp?league=greece&amp;stats=6-aek-athens">AEK Athens</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m86">
+<font color="blue"><b>0 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<br/>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.17">2.17</progress><font style="color:#888888;font-size:11px;">2.17</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="2.17">2.17</progress><font style="color:#888888;font-size:11px;">2.17</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m86&amp;st1=13&amp;st2=6">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> Panathinaikos - Volos NFC</td>
-<td align="center">
-<b>4 - 1</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 13 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=5-lamia">Lamia</a> - <a href="team.asp?league=greece&amp;stats=8-panaitolikos">Panaitolikos</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m91">
+<font color="blue"><b>1 - 3</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">N. Karelis (7)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>1-1</b>  
+<font color="#000000">T. De Vincenti (11)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>1-2</b>  
+<font color="#000000">N. Karelis (30)</font> pen.
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>1-3</b>  
+<font color="#000000">Joao Pedro (90)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.00">1.00</progress><font style="color:#888888;font-size:11px;">1.00</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m91&amp;st1=5&amp;st2=8">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> Panionios - AEK Athens</td>
-<td align="center">
-<b>1 - 1</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 13 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=9-panathinaikos">Panathinaikos</a> - <a href="team.asp?league=greece&amp;stats=3-atromitos">Atromitos</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m88">
+<font color="blue"><b>2 - 0</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">F. Ioannidis (80)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">H. Magnusson (90)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.71">2.71</progress><font style="color:#888888;font-size:11px;">2.71</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.60">0.60</progress><font style="color:#888888;font-size:11px;">0.60</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m88&amp;st1=9&amp;st2=3">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="22">
-<td align="right"><font color="gray" size="1">Sun. 1 Mar. 
- </font><font color="green" size="1">17:00</font></td>
-<td> Xanthi - PAOK Saloniki</td>
-<td align="center">
-<b>1 - 1</b></td>
-<td align="center">
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 13 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=14-pas-giannina">PAS Giannina</a> - <a href="team.asp?league=greece&amp;stats=11-aris">Aris</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m90">
+<font color="blue"><b>0 - 4</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">Fabiano (60)</font> pen.
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">N. N`Koulou (79)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">Rodrigo Erramuspe (o.g.) (81)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-4</b>  
+<font color="#000000">L. Palma (90)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.60">1.60</progress><font style="color:#888888;font-size:11px;">1.60</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.80">0.80</progress><font style="color:#888888;font-size:11px;">0.80</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m90&amp;st1=14&amp;st2=11">analysis</a>
 </td>
 </tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Th 10 Nov</font></td>
+<td><a href="team.asp?league=greece&amp;stats=10-ionikos">Ionikos</a> - <a href="team.asp?league=greece&amp;stats=7-paok">PAOK</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m82">
+<font color="blue"><b>0 - 3</b></font>
+<span>
+<div style="text-align:left;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">F. Soares (27)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">N. Oliveira (34)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">Douglas Augusto (57)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="0.80">0.80</progress><font style="color:#888888;font-size:11px;">0.80</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.20">1.20</progress><font style="color:#888888;font-size:11px;">1.20</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=greece&amp;mrevid=m82&amp;st1=10&amp;st2=7">analysis</a>
+</td>
+</tr>
+</tbody>
 </table>
