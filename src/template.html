@@ -1003,11 +1003,11 @@ var fixture = new Object();
     var time = tds[0].textContent.trim()
     timeClean = time.replace(/[^\w\s]/gi, '');
      if(timeClean != "away") {
-      time = timeClean.substring(0,3);
-      day = timeClean.substring(3,7);
-      matchDate =  time.concat(" ", day);
-      matchTime = matchDate.concat(" ", tds[0].textContent.trim())   
-       date = matchTime;
+     // time = timeClean.substring(0,3);
+      //day = timeClean.substring(3,7);
+     // matchDate =  time.concat(" ", day);
+      //matchTime = matchDate.concat(" ", tds[1].textContent.trim())   
+       date = tds[0].textContent;
       var hours = parseInt(matchTime.substring(6,9));
   
     }
