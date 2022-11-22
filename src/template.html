@@ -1038,6 +1038,9 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
+
+
+if(homeTeam == "Queens Park")  homeTeam = "Queen`s Park"; 
 if(homeTeam == "Melbourne V")  homeTeam = "Melbourne V."; 
 
 if(homeTeam == "St Johnstone")  homeTeam = "St. Johnstone"; 
@@ -1186,10 +1189,13 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
 
-     if(awayTeam == "Melbourne V")  awayTeam = "Melbourne V."; 
+     if(homeTeam == "Queens Park")  homeTeam = "Queen`s Park"; 
+if(homeTeam == "Melbourne V")  homeTeam = "Melbourne V."; 
 
-     if(awayTeam == "St Johnstone")  awayTeam = "St. Johnstone"; 
-if(awayTeam == "St Mirren ")  awayTeam = "St. Mirren "; 
+if(homeTeam == "St Johnstone")  homeTeam = "St. Johnstone"; 
+if(homeTeam == "St Mirren ")  homeTeam = "St. Mirren "; 
+
+
      if(awayTeam == "Jiangxi L")  awayTeam = "Jiangxi L."; 
      if(awayTeam == "Heilongjiang L")  awayTeam = "Heilongjiang L."; 
      if(awayTeam == "Qingdao Y I")  awayTeam = "Qingdao Y. I."; 
