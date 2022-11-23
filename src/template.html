@@ -2604,6 +2604,12 @@ th[0].addEventListener("mouseover", function(e) {
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].parentNode.id) + 1;
+          if(fixtureNumber== "1")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#000";
+          if(fixtureNumber== "2")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#333";
+          if(fixtureNumber== "3")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#555";
+          if(fixtureNumber== "4")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#777";
+          if(fixtureNumber== "5")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#999";
+          if(fixtureNumber== "6")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#aaa";
           leagueTableTRs[y].firstChild.firstChild.style.display = "block";
         if(last6HomeOpp[p].parentNode.className == "awayDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
         if(last6HomeOpp[p].parentNode.className == "awayLoss") leagueTableTRs[y].style.backgroundColor = "pink";
