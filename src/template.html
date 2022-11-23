@@ -2975,7 +2975,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 function checkSavedGames() {
   for (var i = 0; i < localStorage.length; i++){
     let match = localStorage.getItem(localStorage.key(i));
-    let game = match.split();
+    let game = match.split("&");
     let savedLeague = game[0];
     let savedHomeTeam = game[1];
     console.log(savedLeague,savedHomeTeam);
