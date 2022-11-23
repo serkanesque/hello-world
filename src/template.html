@@ -1050,6 +1050,9 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
+if(homeTeam == "Preuss Munster")  homeTeam = "Preuss. Munster";
+if(homeTeam == "Alemannia A")  homeTeam = "Alemannia A.";
+
 
 if(homeTeam == "Teutonia O")  homeTeam = "Teutonia O.";
 if(homeTeam == "Weiche F")  homeTeam = "Weiche F.";
@@ -1230,6 +1233,9 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     console.log("awayTeam2 Trim",awayTeam2);
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+
+     if(awayTeam == "Preuss Munster")  awayTeam = "Preuss. Munster";
+if(awayTeam == "Alemannia A")  awayTeam = "Alemannia A.";
 
      if(awayTeam == "S Bratislava")  awayTeam = "S. Bratislava";
      if(awayTeam == "L Mikulas")  awayTeam = "L. Mikulas";     
