@@ -2957,10 +2957,12 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  })
 
- const buttons = document.querySelectorAll('.save')
-buttons.forEach(function(currentBtn){
-  currentBtn.addEventListener('click', saveGame)
-})
+
+ document.querySelectorAll('.save').addEventListener('click', e=> {
+  saveGame();
+});
+
+
 
 
  function saveGame() {
