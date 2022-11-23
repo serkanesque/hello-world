@@ -2969,7 +2969,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
  function saveGame(event) {
   alert("Game saved");
-  localStorage.setItem(localStorage.length + 1, league + "," +event.target.parentNode.parentNode.id);
+  localStorage.setItem("Match " + localStorage.length + 1, league + "&" +event.target.parentNode.parentNode.id + "&" + event.target.parentNode.parentNode.childNodes[3].id);
 }
 
 </script>
