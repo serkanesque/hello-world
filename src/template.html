@@ -2958,10 +2958,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
  })
 
 
- document.querySelectorAll('.save').addEventListener('click', e=> {
-  saveGame();
-});
-
+ let buttons = document.querySelectorAll(".save");
+for(let i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener("click", saveGame);
+}
 
 
 
