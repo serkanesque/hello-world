@@ -1,9 +1,18 @@
-<table id="btable">
-<tr class="odd" height="22"><td> <a class="countrylist" href="trends.asp?league=india">Goals statistics</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=rp">Relative performance</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=c">Over / Under</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=f">Scored / Conceded</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=ha">Home advantage</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=re">Relative form</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=india&amp;tid=10">Run-in analysis</a></td></tr>
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 24 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=10-odisha-fc">Odisha FC</a></td>
+<td align="center" width="40">
+<font color="green" size="1">14:00</font>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=8-chennaiyin">Chennaiyin</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=india&amp;stats=36-10-8-2023" title="Odisha FC vs Chennaiyin">stats</a>
+</td>
+</tr>
 </table>
