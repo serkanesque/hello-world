@@ -2982,7 +2982,7 @@ function checkSavedGames() {
     leagueTRs =  document.getElementById("fixturesTable").getElementsByTagName("tr");
 
    for (var y = 0; y < leagueTRs.length;y++) {
-    if(leagueTRs[y]==savedHomeTeam) leagueTRs[y].querySelector(".save").disabled = true;
+    if(leagueTRs[y].id==savedHomeTeam) leagueTRs[y].querySelector(".save").style.display = "none"
 }
 
 }
