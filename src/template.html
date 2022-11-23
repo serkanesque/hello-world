@@ -1017,8 +1017,10 @@ var fixture = new Object();
 
 
    date = tds[0].textContent.trim();
-  if(tds[2].firstElementChild) {
-
+   if(league = "India1") {
+      time = tds[2].firstElementChild.textContent.trim();
+    matchTime = date.concat(time);
+    } else if(tds[2].firstElementChild) {
     time = tds[2].firstElementChild.firstElementChild.textContent.trim();
     matchTime = date.concat(time);
   } else {
