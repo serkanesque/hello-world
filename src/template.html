@@ -2085,7 +2085,7 @@ console.log("undefined")
 for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
 }
-markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td>'+drawsOdds+'</td>' + sixGameMarkup;
+markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td><button class="save">Save</a></td>' + sixGameMarkup;
 //console.log("sixGameMarkup 2",sixGameMarkup);
 
 }
@@ -2956,6 +2956,14 @@ document.addEventListener('DOMContentLoaded', function(event) {
   }
 
  })
+
+
+ document.querySelectorAll(".all").addEventListener("click", saveGame);
+
+ function saveGame() {
+  alert("Game saved");
+
+}
 
 </script>
 </body>
