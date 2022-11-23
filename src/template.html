@@ -2376,6 +2376,12 @@ thAway = leagueTable2.getElementsByTagName("th");
  }   
  */
 
+ let buttons = document.querySelectorAll(".save");
+for(let i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener("click", saveGame);
+}
+
+
 }
 
 
@@ -2955,19 +2961,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
     homeMatches[i].classList.toggle("hideHome");
   }
 
-
-
-
  })
 
 
- window.addEventListener("load", (event) => {
-  console.log("page is fully loaded");
-  let buttons = document.querySelectorAll(".save");
-for(let i = 0; i < buttons.length; i++) {
-    buttons[i].addEventListener("click", saveGame);
-}
-});
+
 
 
  function saveGame(event) {
