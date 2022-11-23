@@ -2965,9 +2965,9 @@ for(let i = 0; i < buttons.length; i++) {
 
 
 
- function saveGame() {
+ function saveGame(event) {
   alert("Game saved");
-
+  localStorage.setItem('game', league + "," +event.target.parentNode.parentNode.id);
 }
 
 </script>
