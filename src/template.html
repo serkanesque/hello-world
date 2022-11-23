@@ -2979,6 +2979,12 @@ function checkSavedGames() {
     let savedLeague = game[0];
     let savedHomeTeam = game[1];
     console.log(savedLeague,savedHomeTeam);
+    leagueTRs =  document.getElementById("fixturesTable").getElementsByTagName("tr");
+
+   for (var y = 0; y < leagueTRs.length;y++) {
+    if(leagueTRs[y]==savedHomeTeam) leagueTRs[y].querySelector(".save").disabled = true;
+}
+
 }
 }
 
