@@ -2643,6 +2643,16 @@ th[0].addEventListener("mouseover", function(e) {
   console.log("tr rows",last6HomeOpp);
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
+
+          leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].parentNode.id) + 1;
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "1")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#000";
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "2")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#222";
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "3")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#444";
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "4")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#666";
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "5")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#888";
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "6")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#aaa";
+          leagueTableTRs[y].firstChild.firstChild.style.display = "block";
+
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.className) 
             {
               leagueTableTRs[y].style.backgroundColor = "black";
