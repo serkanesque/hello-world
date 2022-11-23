@@ -2380,7 +2380,7 @@ thAway = leagueTable2.getElementsByTagName("th");
 for(let i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener("click", saveGame);
 }
-
+checkSavedGames();
 
 }
 
@@ -2971,6 +2971,17 @@ document.addEventListener('DOMContentLoaded', function(event) {
   alert("Game saved");
   localStorage.setItem("Match " + localStorage.length, league + "&" +event.target.parentNode.parentNode.id + "&" + event.target.parentNode.parentNode.childNodes[3].id);
 }
+
+function checkSavedGames() {
+  for (var i = 0; i < localStorage.length; i++){
+    let match = localStorage.getItem(localStorage.key(i));
+    let game = match.split();
+    let savedLeague = game[0];
+    let savedHomeTeam = game[1];
+    console.log(savedLeague,savedHomeTeam);
+}
+}
+
 
 </script>
 </body>
