@@ -39,7 +39,7 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
-Nordsjaelland
+Vendsyssel
 </td>
 <td align="center">
 <font color="green">
@@ -50,10 +50,10 @@ Nordsjaelland
 6
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -70,7 +70,7 @@ Nordsjaelland
 </td>
 <td align="center">
 <b>
-20
+19
 </b>
 </td>
 </tr>
@@ -82,7 +82,7 @@ Nordsjaelland
 </font>
 </td>
 <td style="padding-left:4px;">
-Viborg
+Vejle BK
 </td>
 <td align="center">
 <font color="green">
@@ -90,103 +90,17 @@ Viborg
 </font>
 </td>
 <td align="center">
-5
-</td>
-<td align="center">
-3
+6
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
-</font>
-</td>
-<td align="center">
-+7
-</td>
-<td align="center">
-<b>
-18
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-3
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-AC Horsens
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-18
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
-+6
-</td>
-<td align="center">
-<b>
-18
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-FC Kobenhavn
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
 2
 </td>
 <td align="center">
 <font color="blue">
-12
+19
 </font>
 </td>
 <td align="center">
@@ -195,11 +109,97 @@ FC Kobenhavn
 </font>
 </td>
 <td align="center">
-+5
++12
 </td>
 <td align="center">
 <b>
-14
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Naestved
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+20
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Hvidovre
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+16
 </b>
 </td>
 </tr>
@@ -211,18 +211,18 @@ FC Kobenhavn
 </font>
 </td>
 <td style="padding-left:4px;">
-Randers FC
+Helsingor
 </td>
 <td align="center">
 <font color="green">
-9
+8
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 3
@@ -234,15 +234,15 @@ Randers FC
 </td>
 <td align="center">
 <font color="red">
-11
+13
 </font>
 </td>
 <td align="center">
--1
+-3
 </td>
 <td align="center">
 <b>
-14
+13
 </b>
 </td>
 </tr>
@@ -254,50 +254,7 @@ Randers FC
 </font>
 </td>
 <td style="padding-left:4px;">
-Silkeborg
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Brondby IF
+SonderjyskE
 </td>
 <td align="center">
 <font color="green">
@@ -335,12 +292,12 @@ Brondby IF
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-8
+7
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-AGF Aarhus
+Hillerod
 </td>
 <td align="center">
 <font color="green">
@@ -348,53 +305,10 @@ AGF Aarhus
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-10
-</font>
-</td>
-<td align="center">
-+1
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Odense BK
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
+0
 </td>
 <td align="center">
 4
@@ -402,49 +316,6 @@ Odense BK
 <td align="center">
 <font color="blue">
 11
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-FC Midtjylland
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-8
 </font>
 </td>
 <td align="center">
@@ -453,23 +324,23 @@ FC Midtjylland
 </font>
 </td>
 <td align="center">
--5
+-2
 </td>
 <td align="center">
 <b>
-9
+12
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-11
+8
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Aalborg BK
+Hobro
 </td>
 <td align="center">
 <font color="green">
@@ -477,10 +348,10 @@ Aalborg BK
 </font>
 </td>
 <td align="center">
-1
+3
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
 3
@@ -492,11 +363,140 @@ Aalborg BK
 </td>
 <td align="center">
 <font color="red">
-11
+8
 </font>
 </td>
 <td align="center">
--4
+-1
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Fremad Amager
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+HB Koge
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+8
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Fredericia
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
+-1
 </td>
 <td align="center">
 <b>
@@ -512,38 +512,38 @@ Aalborg BK
 </font>
 </td>
 <td style="padding-left:4px;">
-Lyngby
+Nykobing
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-6
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+21
 </font>
 </td>
 <td align="center">
--10
+-9
 </td>
 <td align="center">
 <b>
-3
+4
 </b>
 </td>
 </tr>
