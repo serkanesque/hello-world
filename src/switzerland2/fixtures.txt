@@ -1,136 +1,83 @@
-<table cellpadding="0" cellspacing="0" id="btable" width="100%">
-<tr style="pointer-events:none;height:26px;"><td align="center">HT score</td>
-<td align="left" colspan="3">
-Matches
-</td></tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#222222"><b>0 - 0</b></font>
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
-<td align="left" width="22"><font color="#444444">19</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="22"></progress>
-</td>
-<td align="center">22%</td>
 </tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>1 - 0</b></font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 25 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=3-yverdon">Yverdon</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Yverdon</b>:
+2.00
+points per game
+at home
+<br/><b>Neuchatel Xamax</b>:
+0.25
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="green">
+Neuchatel Xamax have been undefeated in their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=10-neuchatel-xamax">Neuchatel Xamax</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=90-3-10-2023" title="Yverdon vs Neuchatel Xamax">stats</a>
 </td>
-<td align="left" width="22"><font color="#444444">17</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="20"></progress>
-</td>
-<td align="center">20%</td>
 </tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#C70039"><b>0 - 1</b></font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 25 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=1-schaffhausen">Schaffhausen</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:15</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Schaffhausen</b>:
+1.00
+points per game
+at home
+<br/><b>Bellinzona</b>:
+1.38
+points per game
+away
+<br/><br/>
+<font color="red">
+Schaffhausen have failed to win in their last 8 matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=7-bellinzona">Bellinzona</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=87-1-7-2023" title="Schaffhausen vs Bellinzona">stats</a>
 </td>
-<td align="left" width="22"><font color="#444444">15</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="18"></progress>
-</td>
-<td align="center">18%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>2 - 0</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">11</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="13"></progress>
-</td>
-<td align="center">13%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#222222"><b>1 - 1</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">9</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="11"></progress>
-</td>
-<td align="center">11%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#C70039"><b>1 - 2</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">4</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="5"></progress>
-</td>
-<td align="center">5%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#C70039"><b>0 - 2</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">3</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="4"></progress>
-</td>
-<td align="center">4%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>2 - 1</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">2</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="2"></progress>
-</td>
-<td align="center">2%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="#C70039"><b>0 - 3</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">1</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="1"></progress>
-</td>
-<td align="center">1%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>4 - 1</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">1</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="1"></progress>
-</td>
-<td align="center">1%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>3 - 1</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">1</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="1"></progress>
-</td>
-<td align="center">1%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>4 - 0</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">1</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="1"></progress>
-</td>
-<td align="center">1%</td>
-</tr>
-<tr class="odd" height="30">
-<td align="center" width="70">
-<font color="blue"><b>3 - 0</b></font>
-</td>
-<td align="left" width="22"><font color="#444444">1</font></td>
-<td align="left">
-<progress max="100" style="width:80px;" value="1"></progress>
-</td>
-<td align="center">1%</td>
 </tr>
 </table>
