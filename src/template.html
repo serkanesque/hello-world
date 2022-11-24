@@ -3131,7 +3131,8 @@ function displaySavedGames() {
 
 function deleteSavedGames(match) {
   for (var i = 0; i < localStorage.length; i++){
-    if(match == localStorage.getItem(localStorage.key(i))) removeItem(localStorage.key(i));
+    if(match == localStorage.getItem(localStorage.key(i))) localStorage.removeItem(localStorage.key(i));
+    alert("Match deleted");
   }
 }
 
