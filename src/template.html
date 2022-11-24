@@ -2408,7 +2408,7 @@ for(let i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener("click", saveGame);
 }
 checkSavedGames();
-
+displaySavedGames();
 }
 
 
@@ -3081,10 +3081,22 @@ function checkSavedGames() {
    for (var y = 0; y < leagueTRs.length;y++) {
     if(leagueTRs[y].id==savedHomeTeam) leagueTRs[y].querySelector(".save").style.display = "none"
 }
-
 }
 }
 
+function displaySavedGames() {
+  savedGamesMarkUp = "<h3>Saved Games</h3><table>"
+  for (var i = 0; i < localStorage.length; i++){
+    let match = localStorage.getItem(localStorage.key(i));
+    let game = match.split("&");
+    let savedLeague = game[0];
+    let savedHomeTeam = game[1];
+    let savedAwayTeam = game[2];
+    savedGamesMarkUp += "<tr><td>"+savedLeague+"</td><td>"+savedHomeTeam+"</td><td>"+savedAwayTeam+"</td></tr>"; 
+  }
+  savedGamesMarkUp += "</table>";
+  document.getElementById("tables").after(savedGamesMarkUp);
+}
 
 </script>
 </body>
