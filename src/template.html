@@ -3095,6 +3095,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
  function saveGame(event) {
   alert("Game saved");
   localStorage.setItem("Match " + localStorage.length, league + "&" +event.target.parentNode.parentNode.id + "&" + event.target.parentNode.parentNode.childNodes[3].id);
+  displaySavedGames();
 }
 
 function checkSavedGames() {
