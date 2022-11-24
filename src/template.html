@@ -3093,7 +3093,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 
  function saveGame(event) {
-  alert("Game saved");
+  //alert("Game saved");
   localStorage.setItem("Match " + localStorage.length, league + "&" +event.target.parentNode.parentNode.id + "&" + event.target.parentNode.parentNode.childNodes[3].id);
   displaySavedGames();
 }
@@ -3135,7 +3135,7 @@ function deleteSavedGames(match) {
     if(match == localStorage.getItem(localStorage.key(i))) 
     {
       localStorage.removeItem(localStorage.key(i));
-    alert("Match deleted");
+   // alert("Match deleted");
     }
   }
 }
