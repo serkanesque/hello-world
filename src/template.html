@@ -3135,6 +3135,7 @@ function deleteSavedGames(match) {
     if(match == localStorage.getItem(localStorage.key(i))) 
     {
       localStorage.removeItem(localStorage.key(i));
+      displaySavedGames();
    // alert("Match deleted");
     }
   }
