@@ -279,9 +279,7 @@ console.log(league);
 var rowClass = "";
 
 
-let queryString = window.location.search;
-let urlParams = new URLSearchParams(queryString);
-let savedGameParam = urlParams.get('savedgame')
+
 
 
 
@@ -2418,12 +2416,17 @@ for(let i = 0; i < buttons.length; i++) {
 }
 checkSavedGames();
 displaySavedGames();
+
+var queryString = window.location.search;
+var urlParams = new URLSearchParams(queryString);
+var savedGameParam = urlParams.get('savedgame')
 if(savedGameParam) {
   rows = document.getElementById("fixturesTable").getElementsByTagName("tr");
   for(let i = 0; i < rows.length; i++) {
    if(rows[i].id == savedGameParam) rows[i].click();
 }
 }
+
 }
 
 
