@@ -2421,17 +2421,17 @@ var queryString = window.location.search;
 var urlParams = new URLSearchParams(queryString);
 var savedGameParam = urlParams.get('savedgame')
 
-let interval = setInterval(function() {
+let savedGameInterval = setInterval(function() {
     if (savedGameParam) {
         rows = document.getElementById("fixturesTable").getElementsByTagName("tr");
         if (rows) {
             for (let i = 0; i < rows.length; i++) {
                 if (rows[i].id == savedGameParam) rows[i].click();
             }
-            clearInterval(interval);
+            clearInterval(savedGameInterval);
         }
     } else {
-        clearInterval(interval);
+        clearInterval(savedGameInterval);
     }
 }, 500)
 }
