@@ -1,46 +1,86 @@
-<table id="btable" width="100%">
-<tr style="pointer-events:none;">
-<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
-<h2 style="padding-bottom:6px;">Matches</h2>
+<table cellpadding="0" cellspacing="0" id="btable" width="100%">
+<tr style="pointer-events:none;height:26px;"><td align="center">HT score</td>
+<td align="left" colspan="3">
+Matches
+</td></tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#222222"><b>0 - 0</b></font>
 </td>
+<td align="left" width="22"><font color="#444444">82</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="47"></progress>
+</td>
+<td align="center">47%</td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 25 Nov</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=2-huesca">Huesca</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">20:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Huesca</b>:
-2.13
-points per game
-at home
-<br/><b>Sporting Gijon</b>:
-0.88
-points per game
-away
-<br/><br/>
-<font color="black">
-74% of Huesca's points have been earned at home.
-</font>
-<br/>
-<font color="black">
-Sporting Gijon have drawn their last 3 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=6-sporting-gijon">Sporting Gijon</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=420-2-6-2023" title="Huesca vs Sporting Gijon">stats</a>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>1 - 0</b></font>
 </td>
+<td align="left" width="22"><font color="#444444">48</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="27"></progress>
+</td>
+<td align="center">27%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#222222"><b>1 - 1</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">18</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="10"></progress>
+</td>
+<td align="center">10%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 1</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">15</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="9"></progress>
+</td>
+<td align="center">9%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>2 - 1</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">5</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="3"></progress>
+</td>
+<td align="center">3%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>2 - 0</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">5</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="3"></progress>
+</td>
+<td align="center">3%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 2</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">2</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="1"></progress>
+</td>
+<td align="center">1%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>1 - 2</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">1</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="1"></progress>
+</td>
+<td align="center">1%</td>
 </tr>
 </table>
