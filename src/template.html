@@ -2602,6 +2602,7 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.backgroundColor = "blueviolet";
               leagueTableTRs[y].style.color = "white";
             }
+            leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           console.log("fixtureNumber", leagueTableTRs[y].getElementsByClassName("fixtureNumber"))
           leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].parentNode.id) + 1;
