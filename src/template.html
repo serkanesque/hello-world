@@ -3120,7 +3120,7 @@ function displaySavedGames() {
     let savedLeague = game[0];
     let savedHomeTeam = game[1];
     let savedAwayTeam = game[2];
-    savedGamesMarkUp += `<tr><td id=${match}>${savedLeague}</td><td>${savedHomeTeam}</td><td>${savedAwayTeam}</td><td><a href='https://serkanesque.github.io/hello-world/src/template.html?league=${savedLeague}&savedgame=${savedHomeTeam}'>View game</a><button onclick='deleteSavedGames(${match})'></button></tr>`; 
+    savedGamesMarkUp += `<tr><td id=${match}>${savedLeague}</td><td>${savedHomeTeam}</td><td>${savedAwayTeam}</td><td><a href='https://serkanesque.github.io/hello-world/src/template.html?league=${savedLeague}&savedgame=${savedHomeTeam}'>View game</a><button onclick='deleteSavedGames(${match}')Delete match></button></tr>`; 
 
     //savedGamesMarkUp += "<tr><td>"+savedLeague+"</td><td>"+savedHomeTeam+"</td><td>"+savedAwayTeam+"</td><td><a href='https://serkanesque.github.io/hello-world/src/template.html?"+savedLeague+'&savedgame?'+savedHomeTeam+">View game</a></tr>"; 
   }
