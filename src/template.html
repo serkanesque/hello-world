@@ -2913,9 +2913,15 @@ th[0].addEventListener("mouseover", function(e) {
             }
             if(last6HomeOpp[p].className == "homeLoss") {
             if (leagueTableTRs[y].id == last6HomeOpp[p].lastElementChild.id) { 
-              leagueTableTRs[y].firstChild.firstChild.style.display = "block";
-              leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].id) + 1;
             leagueTableTRs[y].style.backgroundColor = "pink";
+            leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].id) + 1;
+            if(leagueTableTRs[y].firstChild.firstChild.textContent== "1") { leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#000";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "2")  {leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#222";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "3") { leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#444";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "4") { leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#666";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "5") { leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#888";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          if(leagueTableTRs[y].firstChild.firstChild.textContent== "6") { leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#aaa";leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";}
+          leagueTableTRs[y].firstChild.firstChild.style.display = "block";
             } 
           }
           if(last6HomeOpp[p].className == "homeDraw") {
