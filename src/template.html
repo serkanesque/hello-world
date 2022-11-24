@@ -279,6 +279,14 @@ console.log(league);
 var rowClass = "";
 
 
+let queryString = window.location.search;
+let urlParams = new URLSearchParams(queryString);
+let savedGameParam = urlParams.get('savedgame')
+
+if(savedgame) {
+  alert("Saved Game");
+}
+
 function get(url) {
  // Return a new promise.
  return new Promise(function(resolve, reject) {
@@ -3095,7 +3103,7 @@ function displaySavedGames() {
     let savedLeague = game[0];
     let savedHomeTeam = game[1];
     let savedAwayTeam = game[2];
-    savedGamesMarkUp += "<tr><td>"+savedLeague+"</td><td>"+savedHomeTeam+"</td><td>"+savedAwayTeam+"</td><td><a href='https://serkanesque.github.io/hello-world/src/template.html?"+savedLeague+"></a></tr>"; 
+    savedGamesMarkUp += "<tr><td>"+savedLeague+"</td><td>"+savedHomeTeam+"</td><td>"+savedAwayTeam+"</td><td><a href='https://serkanesque.github.io/hello-world/src/template.html?"+savedLeague+'&savedgame?'+savedHomeTeam+"></a></tr>"; 
   }
   savedGamesMarkUp += "</table>";
   document.getElementById("savedGames").innerHTML = savedGamesMarkUp;
