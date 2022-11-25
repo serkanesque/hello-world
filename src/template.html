@@ -1097,6 +1097,7 @@ var fixture = new Object();
 
 console.log("homeTeam",homeTeam)
 
+if(homeTeam == "Mgladbach B")  homeTeam = "M'gladbach B";
 if(homeTeam == "Dren Merzenich")  homeTeam = "Düren Merzenich";
 if(homeTeam == "KaanMarienborn")  homeTeam = "Kaan-Marienborn";
 
@@ -1297,7 +1298,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
     console.log("awayTeam2 Trim",awayTeam2);
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
-     
+     if(awayTeam == "Mgladbach B")  awayTeam = "M'gladbach B";
      if(awayTeam == "Dren Merzenich")  awayTeam = "Düren Merzenich";
      if(awayTeam == "KaanMarienborn")  awayTeam = "Kaan-Marienborn";
      if(awayTeam == "BourgenBresse")  awayTeam = "Bourg-en-Bresse";
