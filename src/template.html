@@ -739,7 +739,7 @@ if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") 
   fixtureTeam.aName = aName.replace(/�/g, '');
 }
 
-
+if(fixtureTeam.hName == "Bishop`s St.")  fixtureTeam.hName = "Bishop's St."; 
   if(fixtureTeam.hName == "Saarbrcken")  fixtureTeam.hName = 'Saarbrucken'; 
   if(fixtureTeam.aName == "Saarbrcken")  fixtureTeam.aName = 'Saarbrucken'; 
   if(fixtureTeam.hName == "Newcastle Jets ") fixtureTeam.hName = "Newcastle Jets"
@@ -1098,6 +1098,8 @@ var fixture = new Object();
 
 console.log("homeTeam",homeTeam)
 
+
+if(homeTeam == "Bishops St")  homeTeam = "Bishop's St.";
 if(homeTeam == "Mgladbach B")  homeTeam = "M'gladbach B";
 if(homeTeam == "Dren Merzenich")  homeTeam = "Duren Merzenich";
 if(homeTeam == "KaanMarienborn")  homeTeam = "Kaan-Marienborn";
@@ -1305,7 +1307,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
      if(awayTeam == "KaanMarienborn")  awayTeam = "Kaan-Marienborn";
      if(awayTeam == "BourgenBresse")  awayTeam = "Bourg-en-Bresse";
 if(awayTeam == "BastiaBorgo")  awayTeam = "Bastia-Borgo";
-     
+if(awayTeam == "Bishops St")  awayTeam = "Bishop's St.";
      if(awayTeam == "Xinjiang T")  awayTeam = "Xinjiang T.";
      if(awayTeam == "A Cerignola")  awayTeam = "A. Cerignola";
      if(awayTeam == "V Francavilla")  awayTeam = "V. Francavilla";
