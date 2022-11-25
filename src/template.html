@@ -979,6 +979,11 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
 
   if( team.name == "Saarbr�cken")   team.name = 'Saarbrucken'; 
+  if(team.name == "Saarbr�cken") team.name = 'Saarbrucken'; 
+    if(team.name == "N�rnberg B") team.name = 'Nurnberg B'; 
+    if(team.name == " Eichst�tt") team.name = ' Eichstatt';
+    if(team.name == "Bishop`s St.")  team.name = "Bishop's St.";
+    if(team.name == "D�ren Merzenich")  team.name = "Duren Merzenich";
 
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
