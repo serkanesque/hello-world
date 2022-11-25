@@ -985,7 +985,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
-    
+    if(team.name == "D�zcespor") team.name = 'Duzcespor'; 
     if( team.name == "M`gladbach B")   team.name = "M'gladbach B"; 
   if( team.name == "Saarbr�cken")   team.name = 'Saarbrucken'; 
   if(team.name == "Saarbr�cken") team.name = 'Saarbrucken'; 
