@@ -742,8 +742,8 @@ if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") 
 if(fixtureTeam.hName == "Nrnberg B")  fixtureTeam.hName = 'Nurnberg B'; 
   if(fixtureTeam.aName == "Nrnberg B")  fixtureTeam.aName = 'Nurnberg B';
   
-  if(fixtureTeam.hName == "D�zcespor")  fixtureTeam.hName = 'Düzcespor'; 
-  if(fixtureTeam.aName == "D�zcespor")  fixtureTeam.aName = 'Düzcespor'; 
+  if(fixtureTeam.hName == "D�zcespor")  fixtureTeam.hName = 'Duzcespor'; 
+  if(fixtureTeam.aName == "D�zcespor")  fixtureTeam.aName = 'Duzcespor'; 
 if(fixtureTeam.hName == "D�ren Merzenich")  fixtureTeam.hName = 'Duren Merzenich'; 
   if(fixtureTeam.aName == "Dren Merzenich")  fixtureTeam.aName = 'Duren Merzenich';
   if(fixtureTeam.hName == "Dren Merzenich")  fixtureTeam.hName = 'Duren Merzenich'; 
@@ -798,6 +798,8 @@ console.log("seasonFixtures2018");
 
   fixtureTeam.hName = hName.replace(/�/g, '');
   fixtureTeam.aName = aName.replace(/�/g, '');
+  if(fixtureTeam.hName == "D�zcespor")  fixtureTeam.hName = 'Duzcespor'; 
+  if(fixtureTeam.aName == "D�zcespor")  fixtureTeam.aName = 'Düzcespor'; 
   if(fixtureTeam.hName == "Saarbrcken")  fixtureTeam.hName = 'Saarbrucken'; 
   if(fixtureTeam.aName == "Saarbrcken")  fixtureTeam.aName = 'Saarbrucken'; 
   if(fixtureTeam.hName == "D�ren Merzenich")  fixtureTeam.hName = 'Duren Merzenich'; 
