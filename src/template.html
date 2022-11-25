@@ -732,7 +732,7 @@ oddsArray = [];
  hName = seasonFixturesInnerDivs[i].childNodes[1].textContent;
  aName = seasonFixturesInnerDivs[i].childNodes[3].textContent;
 
-if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M`gladbach B") {
+if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") {
 
 }else {
   fixtureTeam.hName = hName.replace(/�/g, '');
@@ -1098,6 +1098,7 @@ var fixture = new Object();
 console.log("homeTeam",homeTeam)
 
 
+if(homeTeam == "KaanMarienborn")  homeTeam = "Kaan-Marienborn";
 
 if(homeTeam == "BourgenBresse")  homeTeam = "Bourg-en-Bresse";
 if(homeTeam == "BastiaBorgo")  homeTeam = "Bastia-Borgo";
