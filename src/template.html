@@ -852,6 +852,7 @@ if(league=="newzealand1") clearInterval(interval);
  for (var i = 0; i < awayInnerDivs.length; i++) {
   var team = new Object();
     team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+    if(team.name == "D�zcespor") team.name = 'Duzcespor'; 
     if(team.name == "Saarbr�cken") team.name = 'Saarbrucken'; 
     if(team.name == "N�rnberg B") team.name = 'Nurnberg B'; 
     if(team.name == " Eichst�tt") team.name = ' Eichstatt';
@@ -1117,7 +1118,7 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
-
+if(homeTeam == "Dzcespor")  homeTeam = "Duzcespor";
 if(homeTeam == "FuldaLehnerz")  homeTeam = "Fulda-Lehnerz";
 if(homeTeam == "Bowers  Pitsea")  homeTeam = "Bowers & Pitsea";
 if(homeTeam == "Bishops St")  homeTeam = "Bishop's St.";
@@ -1324,6 +1325,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+     
+     if(awayTeam == "Dzcespor")  awayTeam = "Duzcespor";
      if(awayTeam == "FuldaLehnerz")  awayTeam = "Fulda-Lehnerz";
      if(awayTeam == "Kickers Offenb")  awayTeam = "Kickers Offenb.";
      if(awayTeam == "Bowers  Pitsea")  awayTeam = "Bowers & Pitsea";
