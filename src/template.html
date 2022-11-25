@@ -738,7 +738,8 @@ if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") 
   fixtureTeam.hName = hName.replace(/�/g, '');
   fixtureTeam.aName = aName.replace(/�/g, '');
 }
-
+if(fixtureTeam.hName == "D�ren Merzenich")  fixtureTeam.hName = 'Duren Merzenich'; 
+  if(fixtureTeam.aName == "D�ren Merzenich")  fixtureTeam.aName = 'Duren Merzenich'; 
 if(fixtureTeam.hName == "Bishop`s St.")  fixtureTeam.hName = "Bishop's St."; 
   if(fixtureTeam.hName == "Saarbrcken")  fixtureTeam.hName = 'Saarbrucken'; 
   if(fixtureTeam.aName == "Saarbrcken")  fixtureTeam.aName = 'Saarbrucken'; 
