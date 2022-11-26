@@ -289,6 +289,8 @@ h1 {
 </table>
 </Div>
 
+<button class="next"><< Previous league </button>
+<button class="prev">Next league >></button>
 </Div>
 <Div id="savedGames">  
 </Div>
@@ -432,12 +434,24 @@ function getNav() {
       })
 }
 
-function navControls() {
+$(".next").click(function() {
+  navControls($(this).attr('class'));
+})
+$(".prev").click(function() {
+  navControls($(this).attr('class'));
+});
+
+function navControls(direction) {
   leagueLinks = $(".nav a");
     leagueLinks.each(function() {
       if($(this).attr('id') == league) {
+        if(direction == "next") {
           let link = $(this).next().attr("href");
           window.location = link;
+        }else {
+          let link = $(this).prev().attr("href");
+          window.location = link;
+        }
       }
       })
 
