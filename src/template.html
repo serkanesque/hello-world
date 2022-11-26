@@ -1000,7 +1000,8 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
  });
 
 
- markup = markup + '<tr class="team"><td>team</td><td>pl </td><td>win</td><td>draw</td><td>lost</td><td>pts</td><td>draw%</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+ //markup = markup + '<tr class="team"><td>team</td><td>pl </td><td>win</td><td>draw</td><td>lost</td><td>pts</td><td>draw%</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+ markup = markup + '<tr class="team"><td>team</td><td>pl </td><td>win</td><td>draw</td><td>lost</td><td>pts</td></tr>';
 
 
 
@@ -1054,7 +1055,8 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
   return a.wins - b.wins;
  }
 
- markup = '<tr class="team"><td>team</td><td>pl </td><td>wins</td><td>draw</td><td>lost</td><td>pts</td><td>draw %</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+ //markup = '<tr class="team"><td>team</td><td>pl </td><td>wins</td><td>draw</td><td>lost</td><td>pts</td><td>draw %</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+ markup = '<tr class="team"><td>team</td><td>pl </td><td>wins</td><td>draw</td><td>lost</td><td>pts</td></tr>';
 
  var awayContainerDiv = document.getElementById("awayRows");
  var awayInnerDivs = awayContainerDiv.getElementsByClassName("odd");
@@ -1097,8 +1099,8 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
   //
 
  awayTable.sort(function(a, b) {
-  if (a.drawPercent < b.drawPercent) return -1;
-  if (a.drawPercent > b.drawPercent) return 1;
+  //if (a.drawPercent < b.drawPercent) return -1;
+  //if (a.drawPercent > b.drawPercent) return 1;
   if (a.wins < b.wins) return 1;
   if (a.wins > b.wins) return -1;
  });
