@@ -305,7 +305,7 @@ var league = getParameterByName('league');
 console.log(league);
 var rowClass = "";
 
-leagueLinks = document.querySelectorAll("#nav a");
+leagueLinks = document.querySelectorAll(".nav a");
 console.log("leagueLinks",leagueLinks)
 for (var i = 1; i < leagueLinks.length; i++) {
   if(leagueLinks[i].id == league) leagueLinks[i].classList.add("current") ;
