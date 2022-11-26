@@ -1125,6 +1125,7 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
+if(homeTeam == "Greuther F B")  homeTeam = "Greuther F. B";
 if(homeTeam == "St Pauli B")  homeTeam = "St. Pauli B";
 if(homeTeam == "Dzcespor")  homeTeam = "Duzcespor";
 if(homeTeam == "FuldaLehnerz")  homeTeam = "Fulda-Lehnerz";
@@ -1333,6 +1334,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+     
+     if(awayTeam == "Greuther F B")  awayTeam = "Greuther F. B";
      if(awayTeam == "St Pauli B")  awayTeam = "St. Pauli B";
      if(awayTeam == "Dzcespor")  awayTeam = "Duzcespor";
      if(awayTeam == "FuldaLehnerz")  awayTeam = "Fulda-Lehnerz";
