@@ -1,12 +1,12 @@
 
 <a href="template.html?league=albania1">Albania 1</a>
-<a href="template.html?league=argentina1">Argentina 1</a>
+<!-- <a href="template.html?league=argentina1">Argentina 1</a> -->
 <a href="template.html?league=australia1">Australia 1</a>
 <a href="template.html?league=austria1">Austria 1</a>
 <a href="template.html?league=belgium1"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFTSURBVHjaYmRABR/fM/D8AjH+/WP4J8Dw7xPDP3GGfwwIBBBALEC56upqsAoQ4OD6y8D3l4HhD+P/P8wMf5h4f/+P+fP/9+//f0Dkl02bAAKIBWzu/ydPnv4Fg3//fjMw/P3//zcU/f39//av/79+AVUzysoCbQAIIBaw2f+BSv8AEdCk/0DVv/7//wPW8AuEfv2GaGD4/RuoASCAQBpAqiHg9x+E2dg0ABUDBBBIw58/f3///o2k4RdCwz+waoiGP3+ANgAEEMQGkOJfv3+haoCRMBsYwU4CCCCQBqDxv379Alnw6xe6Df9/w40HBtQTBgaAAII4CehbKIC6G66aFazhD1DDX5BLGBgAAghiwx9JSUmwN/4yMgJ99htMAmWBHv3DoPQHqBSCgE4CCCBGtJi+fZfhFwsD0Hf//jAIcTD8e8fwQh8kDtTNxsBwh4EBIMAAr1pl7/uLhvQAAAAASUVORK5CYII=" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Bl</span></a>
 <a href="template.html?league=bolivia1">Bolivia 1</a>
 <a href="template.html?league=bosnia1">Bosnia 1</a>
-<a href="template.html?league=chile1">Chile 1</a>
+<!--<a href="template.html?league=chile1">Chile 1</a> -->
 <a href="template.html?league=china1"><span><img src="https://www.soccerstats.com/img/flags/cn.png" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Cn</span></a>
 <a href="template.html?league=china2"><span><img src="https://www.soccerstats.com/img/flags/cn.png" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Cn 2</span></a>
 <a href="template.html?league=colombia1">Colombia 1</a>
@@ -48,7 +48,7 @@
 <a href="template.html?league=israel1"><span><img src="https://www.soccerstats.com/img/flags/il.png" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Isr</span></a>
 <a href="template.html?league=israel2"><a href="template.html?league=israel1"><span><img src="https://www.soccerstats.com/img/flags/il.png" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Isr 2</span></a>
 <a href="template.html?league=luxembourg1">Luxembourg 1</a>
-<a href="template.html?league=newzealand1">New Zealand 1</a>
+<!--<a href="template.html?league=newzealand1">New Zealand 1</a>-->
 <!--<a href="template.html?league=norway1">Norway 1</a>-->
 <a href="template.html?league=poland1"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEISURBVHjaYvz/8SMDDPyD43//gPQ/bAAggFhACvn4gMT///8Zwdr+/wcRjP//MzMwMP1HAV+ePQMIIBYGqKL/yIz/2AAjI+O/P38AAoiFSNUQKaCTAAKIBehWRrhqMMSjAagDIIBYGPj5Gfr6/j979v/PH4Y/f/7D0e/f/38DGb/BjN8gWWnpfwsXAgQQ2EkPH/5/8OD/718MvyHqfv3/9fv/r18gNhLJ+OkT0DkAAQR2ElgIZDyyIlTVEMv/MDAABBBIAzPYAQxwRZja/gA1/GX4+xfoHIAAAmlg+v2HQVISbMxfhj8gnYxgIxkgJBD9/QtBQMUAAcT4FRy5cMSAykWTAgKAAAMA0PVcqMe0XaEAAAAASUVORK5CYII=" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Pl</span></a>
 <a href="template.html?league=poland2"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEISURBVHjaYvz/8SMDDPyD43//gPQ/bAAggFhACvn4gMT///8Zwdr+/wcRjP//MzMwMP1HAV+ePQMIIBYGqKL/yIz/2AAjI+O/P38AAoiFSNUQKaCTAAKIBehWRrhqMMSjAagDIIBYGPj5Gfr6/j979v/PH4Y/f/7D0e/f/38DGb/BjN8gWWnpfwsXAgQQ2EkPH/5/8OD/718MvyHqfv3/9fv/r18gNhLJ+OkT0DkAAQR2ElgIZDyyIlTVEMv/MDAABBBIAzPYAQxwRZja/gA1/GX4+xfoHIAAAmlg+v2HQVISbMxfhj8gnYxgIxkgJBD9/QtBQMUAAcT4FRy5cMSAykWTAgKAAAMA0PVcqMe0XaEAAAAASUVORK5CYII=" alt="England - Premier League" width="14" height="11" style="margin-top:4px;margin-bottom:1px;"></span><span>Pl 2</span></a>
