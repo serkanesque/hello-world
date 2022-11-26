@@ -426,10 +426,11 @@ $(document).ready(function(){
 function getNav() {
   leagueLinks = $(".nav a");
     console.log("leagueLinks",leagueLinks)
-    for (var i = 1; i < leagueLinks.length; i++) {
-      if(leagueLinks[i].id == league) leagueLinks[i].addClass("current");
-      }
+    leagueLinks.each(function() {
+      if($(this).attr('id') == league) $(this).addClass("current");
+      })
 }
+
 
 
 /*
