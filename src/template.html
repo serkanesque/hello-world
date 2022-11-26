@@ -738,7 +738,7 @@ if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") 
   fixtureTeam.hName = hName.replace(/�/g, '');
   fixtureTeam.aName = aName.replace(/�/g, '');
 }
-if(team.name == "Eichst�tt") team.name = 'Eichstatt';
+
 if(fixtureTeam.hName == "Eichst�tt")  fixtureTeam.hName = 'Eichstatt'; 
   if(fixtureTeam.aName == "Eichst�tt")  fixtureTeam.aName = 'Eichstatt';
 
@@ -1130,7 +1130,7 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
-
+if(homeTeam == "Eichstt")  homeTeam = "Eichsatt";
 if(homeTeam == "W Burghausen")  homeTeam = "W. Burghausen";
 if(homeTeam == "Nrnberg B")  homeTeam = "Nurnberg B";
      if(homeTeam == "Rain  Lech")  homeTeam = "Rain / Lech";
@@ -1168,7 +1168,7 @@ if(homeTeam == "T Nieciecza")  homeTeam = "T. Nieciecza";
      if(homeTeam == "Z Sosnowiec")  homeTeam = "Z. Sosnowiec";
 
 
-     if(homeTeam == "Eichsttt") homeTeam = 'Eichstatt';
+
 if(homeTeam == "Rakow C")  homeTeam = "Rakow C."; 
 if(homeTeam == "Corinthian-C")  homeTeam = "Corinthian-C."; 
 if(homeTeam == "Wingate  F")  homeTeam = "Wingate & F."; 
@@ -1346,7 +1346,7 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
-     if(awayTeam == "Eichsttt") awayTeam = 'Eichstatt';
+     if(awayTeam == "Eichstt") awayTeam = 'Eichstatt';
      if(awayTeam == "W Burghausen")  awayTeam = "W. Burghausen";
      if(awayTeam == "Nrnberg B")  awayTeam = "Nurnberg B";
      if(awayTeam == "Rain  Lech")  awayTeam = "Rain / Lech";
