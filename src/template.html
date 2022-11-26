@@ -295,7 +295,7 @@ padding: 10px;
 </table>
 </Div>
 <Div>
-<h1> Fixtures </h1>
+<h1 class="title"> Fixtures </h1>
 <table id="fixturesTable">
 </table>
 <div class="controls">
@@ -326,6 +326,7 @@ var league = getParameterByName('league');
 console.log(league);
 var rowClass = "";
 
+$(".title").text(league);
 
 
 
