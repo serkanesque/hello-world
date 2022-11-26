@@ -226,6 +226,11 @@ padding: 12px;
 h1 {
   font-size: 21px;
 }
+
+.current {
+  background-color: red;
+}
+
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -300,6 +305,11 @@ var league = getParameterByName('league');
 console.log(league);
 var rowClass = "";
 
+leagueLinks = document.querySelectorAll("#nav a");
+for (var i = 1; i < leagueLinks.length; i++) {
+  if(leagueLinks[i].id == league) leagueLinks[i].classList.add("current") ;
+
+}
 
 
 
