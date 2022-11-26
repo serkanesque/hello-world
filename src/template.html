@@ -3,6 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Version 2.0.1</title>
+<script
+  src="https://code.jquery.com/jquery-3.6.1.min.js"
+  integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+  crossorigin="anonymous"></script>
 </head>
 
 </head>
@@ -308,15 +312,6 @@ var rowClass = "";
 
 
 
-(function() {
-  leagueLinks = document.querySelectorAll(".nav > a");
-console.log("leagueLinks",leagueLinks)
-for (var i = 1; i < leagueLinks.length; i++) {
-  if(leagueLinks[i].id == league) leagueLinks[i].classList.add("current") ;
-
-}
-
-})();
 
 
 
@@ -424,6 +419,15 @@ interval = setInterval(allDone, 500)
 
 
 
+(function() {
+  leagueLinks = document.querySelectorAll(".nav > a");
+console.log("leagueLinks",leagueLinks)
+for (var i = 1; i < leagueLinks.length; i++) {
+  if(leagueLinks[i].id == league) leagueLinks[i].classList.add("current") ;
+
+}
+
+})();
 
 
 
