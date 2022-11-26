@@ -1036,7 +1036,9 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
 
         var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeTrailingPercent));
 
-        markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent + '%</td><td>' + conceded070 + '</td></tr>'
+        //markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent + '%</td><td>' + conceded070 + '</td></tr>'
+        markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td></tr>'
+
  }
  //
 
@@ -1139,8 +1141,8 @@ if(league=="germany7" || league=="germany8" || league=="croatia2" || league=="sl
    markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + " - " + 0 + '%</td><td>' + 0 + '</td></tr>'
 
 }else {
-
-  markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeAwayTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent.toFixed(0) + '%</td><td>' + conceded070 + '</td></tr>'
+  //markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeAwayTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent.toFixed(0) + '%</td><td>' + conceded070 + '</td></tr>'
+  markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td></tr>'
  }
 }
   //
