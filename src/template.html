@@ -418,13 +418,6 @@ interval = setInterval(allDone, 500)
 
 
 
-$(document).ready(function(){
-    leagueLinks = $(".nav a");
-    console.log("leagueLinks",leagueLinks)
-    for (var i = 1; i < leagueLinks.length; i++) {
-      if(leagueLinks[i].id == league) leagueLinks[i].addClass("current");
-      }
-});
 
 
 
@@ -3196,7 +3189,14 @@ document.addEventListener('DOMContentLoaded', function(event) {
     homeMatches[i].classList.toggle("hideHome");
   }
 
- })
+
+    leagueLinks = $(".nav a");
+    console.log("leagueLinks",leagueLinks)
+    for (var i = 1; i < leagueLinks.length; i++) {
+      if(leagueLinks[i].id == league) leagueLinks[i].addClass("current");
+      }
+});
+
 
 
 
