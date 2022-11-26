@@ -235,7 +235,16 @@ h1 {
 .current {
   background-color:#53ff79;
 }
+.controls {
+  width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
 
+.controls button {
+padding: 10px;
+}
 </style>  
 
 <div id="nav" class="nav"></div>
@@ -290,7 +299,7 @@ h1 {
 </Div>
 
 </Div>
-<div>
+<div class="controls">
   <button class="prev"><< Previous league </button>
   <button class="next">Next league >></button>
   </div>
