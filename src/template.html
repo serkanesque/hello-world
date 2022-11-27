@@ -2565,7 +2565,7 @@ for (var i = 0; i < leagueTable.length; i++) {
  //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
  var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
 var topPoints = leagueTRsTest[0].firstChild.textContent;
- var bottomPoints = leagueTRsTest[leagueTRsTest.length].firstChild.textContent;
+ var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].firstChild.textContent;
 console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
 
  /*
