@@ -2659,10 +2659,10 @@ last6GamesAwayteamTableTRs = last6GamesAwayteamTable.getElementsByTagName("tr");
 var last6AwayteamOpp = last6GamesAwayteamTableTRs;
 
 yes(th,last6HomeOpp,leagueTableTRs);
-yesAwayTable(th,last6HomeOpp,document.getElementById('awayDrawTable').getElementsByTagName("tr"));
+
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
 yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
-
+yesAwayTable(th,last6HomeOpp,document.getElementById('awayDrawTable').getElementsByTagName("tr"));
 yesHomeTable(th,last6AwayOpp,document.getElementById('homeDrawTable').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
 yesLast6Away(thLast6home,last6AwayteamOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
@@ -2795,14 +2795,13 @@ th[0].addEventListener("mouseover", function(e) {
               leagueTableTRs[y].style.backgroundColor = "black";
               leagueTableTRs[y].style.color = "white";
             }
-            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.nextElementSibling.className) 
+
+            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.previousElementSibling.className) 
             {
-            //  leagueTableTRs[y].style.backgroundColor = "blueviolet";
-             // leagueTableTRs[y].style.color = "white";
+             // leagueTableTRs[y].style.backgroundColor = "blueviolet";
+            //  leagueTableTRs[y].style.color = "white";
             }
-            leagueTableTRs[y].firstChild.firstChild.style.borderRadius = "50%";
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
-          console.log("fixtureNumber", leagueTableTRs[y].getElementsByClassName("fixtureNumber"))
           leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].parentNode.id) + 1;
           if(leagueTableTRs[y].firstChild.firstChild.textContent== "1")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#000";
           if(leagueTableTRs[y].firstChild.firstChild.textContent== "2")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#222";
@@ -2811,28 +2810,24 @@ th[0].addEventListener("mouseover", function(e) {
           if(leagueTableTRs[y].firstChild.firstChild.textContent== "5")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#888";
           if(leagueTableTRs[y].firstChild.firstChild.textContent== "6")  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#aaa";
           leagueTableTRs[y].firstChild.firstChild.style.display = "block";
-          //leagueTableTRs[y].getElementsByClassName("fixtureNumber").textContent = last6HomeOpp[p].parentNode.id + 1;
-        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
-        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
-        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
-        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
+        if(last6HomeOpp[p].parentNode.className == "awayDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+        if(last6HomeOpp[p].parentNode.className == "awayLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "awayWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
+        if(last6HomeOpp[p].parentNode.className == "awayWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
 
         } 
 }
 }
-
 })
 th[0].addEventListener("mouseout", function(e) {
   console.log("Out");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
-          
+       
             leagueTableTRs[y].style.backgroundColor = "white";
  leagueTableTRs[y].style.color = "black";
- leagueTableTRs[y].firstChild.firstChild.textContent = "";
  leagueTableTRs[y].firstChild.firstChild.style.display = "none";
  leagueTableTRs[y].firstChild.firstChild.style.backgroundColor = "#fff"
-
 
 }
 }
