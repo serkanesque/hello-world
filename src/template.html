@@ -2553,10 +2553,10 @@ for (var i = 0; i < leagueTable.length; i++) {
   totalPoints += leagueTable[i].points;
  }
 
- var pointsPerGame =  100 / totalPoints ;
- 
+ var pointsPerGame = totalPoints / 100;
+
  for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td><td>' + leagueTable[i].points * pointsPerGame + '</td><td></td><</tr>';
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
 
  }
 
