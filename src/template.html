@@ -2659,10 +2659,11 @@ last6GamesAwayteamTableTRs = last6GamesAwayteamTable.getElementsByTagName("tr");
 var last6AwayteamOpp = last6GamesAwayteamTableTRs;
 
 yes(th,last6HomeOpp,leagueTableTRs);
+yes(th,last6HomeOpp,document.getElementById('awayDrawTable').getElementsByTagName("tr"));
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
 yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
-yes(th,last6AwayOpp,document.getElementById('awayDrawTable').getElementsByTagName("tr"));
-yesAway2(th,last6AwayOpp,document.getElementById('homeDrawTable').getElementsByTagName("tr"));
+
+yesAway2(th,last6HomeOpp,document.getElementById('homeDrawTable').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
 yesLast6Away(thLast6home,last6AwayteamOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 //yesLast6(th,last6HometeamOpp,document.getElementById('leagueTable3').getElementsByTagName("tr"));
