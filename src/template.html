@@ -1037,7 +1037,7 @@ var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2)
         var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeTrailingPercent));
 
         //markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent + '%</td><td>' + conceded070 + '</td></tr>'
-        markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td></tr>'
+        markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td><span class=fixtureNumber></span>' + homeTable[i].name + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td></tr>'
 
  }
  //
