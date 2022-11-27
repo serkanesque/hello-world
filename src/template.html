@@ -2548,10 +2548,46 @@ for (var j = 0; j < last6AwayTableTRs.length; j++) {
  });
  //leagueTable
 pointsMarkup = "";
- for (var i = 0; i < leagueTable.length; i++) {
-  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
-
+totalPoints = 0
+for (var i = 0; i < leagueTable.length; i++) {
+  totalPoints += leagueTable[i].points;
  }
+
+ var pointsPerGame = totalPoints / 100;
+
+ last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
+//last6AwayTable = gridTable.childNodes[1].childNodes[0].childNodes[1];
+//last6GamesHometeamTable = gridTable.childNodes[1].childNodes[1].firstElementChild; 
+//last6GamesAwayteamTable = gridTable.childNodes[1].childNodes[1].lastElementChild; 
+
+last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
+//th = last6HomeTable.getElementsByTagName("th");
+//console.log(th);
+
+
+
+ for (var i = 0; i < leagueTable.length; i++) {
+  //var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+  totalPoints += leagueTable[i].points;
+ }
+var pointsPerGame = totalPoints / 100;
+
+ for (var i = 0; i < leagueTableTRs.length; i++) {  
+    for (var p = 0; p < last6HomeOpp.length; p++) {
+      if (leagueTableTRs[i].id == last6HomeOpp[p].id) { 
+        var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td><td>' + leagueTable[i].points*pointsPerGame + '</td></tr>';
+
+      }else {
+        var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td><span class="fixtureNumber"></span>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+
+      }
+    }
+  }
+        
+
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
  document.getElementById('leagueTable2').innerHTML = pointsMarkup;
