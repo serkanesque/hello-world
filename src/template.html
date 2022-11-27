@@ -2792,14 +2792,14 @@ th[0].addEventListener("mouseover", function(e) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
            if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
             {
-              leagueTableTRs[y].style.backgroundColor = "black";
-              leagueTableTRs[y].style.color = "white";
+            //  leagueTableTRs[y].style.backgroundColor = "black";
+            //  leagueTableTRs[y].style.color = "white";
             }
 
             if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.previousElementSibling.className) 
             {
-             // leagueTableTRs[y].style.backgroundColor = "blueviolet";
-            //  leagueTableTRs[y].style.color = "white";
+              leagueTableTRs[y].style.backgroundColor = "black";
+              leagueTableTRs[y].style.color = "white";
             }
         if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
           leagueTableTRs[y].firstChild.firstChild.textContent  = parseInt(last6HomeOpp[p].parentNode.id) + 1;
