@@ -2560,6 +2560,8 @@ for (var i = 0; i < leagueTable.length; i++) {
 
  }
 
+ document.getElementById('leagueTable').innerHTML = pointsMarkup;
+ document.getElementById('leagueTable2').innerHTML = pointsMarkup;
 
 
  /*
@@ -2893,9 +2895,7 @@ th[0].addEventListener("mouseout", function(e) {
 }
 
 function yes(th,last6HomeOpp,leagueTableTRs){
-  document.getElementById('leagueTable').innerHTML = pointsMarkup;
- document.getElementById('leagueTable2').innerHTML = pointsMarkup;
- //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
+   //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
  var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
 var topPoints = leagueTRsTest[0].lastChild.textContent;
  var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].lastChild.textContent;
