@@ -2048,6 +2048,14 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
 }
 
 
+for(p=0;p<6;p++) {
+matchResult = determineResultHome(homeTeamFixturesArray[p], "AFC Fylde", "home");
+console.log(matchResult);
+}
+
+
+
+
 if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
 { 
 
@@ -3442,6 +3450,24 @@ function deleteSavedGames(match) {
     }
   }
 }
+/*
+
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+fixTable = document.getElementById("fixturesTable");
+fixTableTrs = fixTable.getElementsByClassName("show");
+           
+ for (var p = 0; p < leagueTableTRs.length; p++) {
+
+      //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
+      if (homeTeamFixturesArray[0].hName == homeTeam )
+      {   
+
+
+
+      }
+*/
+
 
 
 </script>
