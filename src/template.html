@@ -2582,28 +2582,28 @@ var pointsGiven = 0;
 relativeStrengthTable = [];
 
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
-  const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
-    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {   
-    matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");
     homeTableTeam = new Object();
     homeTableTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
     homeTableTeam.pointsGiven = 0;
-    
-    if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
-      if(matchResult.lastGame == "W") {
-          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
-          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (3/100)*ratio;
-      }  
-      if(matchResult.lastGame == "D") {
-          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
-          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (1/100)*ratio;
-      }  
-      if(matchResult.lastGame == "L") {
-          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
-          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3/100)*ratio;
-      }  
-      relativeStrengthTable.push(homeTableTeam);
-    }
+   const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
+
+    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {   
+    matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");    
+      if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
+        if(matchResult.lastGame == "W") {
+            ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+            homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (3/100)*ratio;
+        }  
+        if(matchResult.lastGame == "D") {
+            ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+            homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (1/100)*ratio;
+        }  
+        if(matchResult.lastGame == "L") {
+            ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+            homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3/100)*ratio;
+        }  
+        relativeStrengthTable.push(homeTableTeam);
+      }
   }
 }
 console.log("relativeStrengthTable",relativeStrengthTable)
