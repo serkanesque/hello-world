@@ -2560,16 +2560,7 @@ for (var i = 0; i < leagueTable.length; i++) {
 
  }
 
- document.getElementById('leagueTable').innerHTML = pointsMarkup;
- document.getElementById('leagueTable2').innerHTML = pointsMarkup;
- //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
- var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
-var topPoints = leagueTRsTest[0].lastChild.textContent;
- var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].lastChild.textContent;
-console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
 
-var pointsDifference = 100/topPoints;
-console.log("pointsDifference",pointsDifference)
 
  /*
  last6AwayTRs = leagueTable2.getElementsByTagName("tr");
@@ -2902,6 +2893,16 @@ th[0].addEventListener("mouseout", function(e) {
 }
 
 function yes(th,last6HomeOpp,leagueTableTRs){
+  document.getElementById('leagueTable').innerHTML = pointsMarkup;
+ document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+ //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
+ var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
+var topPoints = leagueTRsTest[0].lastChild.textContent;
+ var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].lastChild.textContent;
+console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
+
+var pointsDifference = 100/topPoints;
+console.log("pointsDifference",pointsDifference)
   var strengthIndex = 0;
 th[0].addEventListener("mouseover", function(e) {
   console.log("In");
