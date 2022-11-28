@@ -2022,7 +2022,7 @@ resultObject.class = "pp";
 return resultObject
 }
 
-console.log("homeTeamFixturesArray",homeTeamFixturesArray);
+//console.log("homeTeamFixturesArray",homeTeamFixturesArray);
 if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
 {    
   matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
@@ -2566,7 +2566,7 @@ for (var i = 0; i < leagueTable.length; i++) {
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
  document.getElementById('leagueTable2').innerHTML = pointsMarkup;
 
- /*
+
  homeDrawTableTrs = document.getElementById('homeDrawTable').getElementsByTagName("tr");
 
 
@@ -2577,25 +2577,34 @@ console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
 
 var pointsDifference = (topPoints - bottomPoints)/10;
 
-const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == "AFC Fylde"});
-//for(p=0;p<6;p++) {
-matchResult = determineResultHome(homeTeamFixturesArray[p], "AFC Fylde", "home");
+
 pointsGiven = 0;
+relativeStrengthTable = [];
 
-
-for (var i = 0; i < homeTeamFixturesArray.length; i++) {
-  for (var j = 0; j < homeDrawTableTrs.length; j++) {
+for (var j = 0; j < homeDrawTableTrs.length; j++) {
+  const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
+    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {   
+    matchResult = determineResultHome(homeTeamFixturesArray[i], homeDrawTableTrs[j].firstChild.textContent, "home");
+    homeTableTeam = new object();
+    homeTableTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
     if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
       if(matchResult.lastGame == "W") {
           ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
-          pointsGiven =  (3/100)*ratio;
+          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (3/100)*ratio;
       }  
+      if(matchResult.lastGame == "D") {
+          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (1/100)*ratio;
+      }  
+      if(matchResult.lastGame == "L") {
+          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+          homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3/100)*ratio;
+      }  
+      relativeStrengthTable.push(homeTableTeam);
+    }
   }
-
-  }
-console.log("matchResult",matchResult);
 }
-*/
+console.log("relativeStrengthTable",relativeStrengthTable)
 
 
  /*
