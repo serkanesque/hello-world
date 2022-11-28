@@ -2047,9 +2047,9 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
           
 }
 
-
+const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == "AFC Fylde"});
 for(p=0;p<6;p++) {
-matchResult = determineResultHome(homeTeamFixturesArray[p], "AFC Fylde", "home");
+matchResult = determineResultHome(homeTeamFixturesArrayTest[p], "AFC Fylde", "home");
 console.log("matchResult",matchResult);
 }
 
