@@ -2047,11 +2047,6 @@ if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName
           
 }
 
-const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == "AFC Fylde"});
-for(p=0;p<6;p++) {
-matchResult = determineResultHome(homeTeamFixturesArrayTest[p], "AFC Fylde", "home");
-console.log("matchResult",matchResult);
-}
 
 
 
@@ -2570,6 +2565,37 @@ for (var i = 0; i < leagueTable.length; i++) {
 
  document.getElementById('leagueTable').innerHTML = pointsMarkup;
  document.getElementById('leagueTable2').innerHTML = pointsMarkup;
+
+ /*
+ homeDrawTableTrs = document.getElementById('homeDrawTable').getElementsByTagName("tr");
+
+
+ var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
+var topPoints = leagueTRsTest[0].lastChild.textContent;
+ var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].lastChild.textContent;
+console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
+
+var pointsDifference = (topPoints - bottomPoints)/10;
+
+const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == "AFC Fylde"});
+//for(p=0;p<6;p++) {
+matchResult = determineResultHome(homeTeamFixturesArray[p], "AFC Fylde", "home");
+pointsGiven = 0;
+
+
+for (var i = 0; i < homeTeamFixturesArray.length; i++) {
+  for (var j = 0; j < homeDrawTableTrs.length; j++) {
+    if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
+      if(matchResult.lastGame == "W") {
+          ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
+          pointsGiven =  (3/100)*ratio;
+      }  
+  }
+
+  }
+console.log("matchResult",matchResult);
+}
+*/
 
 
  /*
