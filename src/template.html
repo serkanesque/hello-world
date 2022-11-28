@@ -2606,7 +2606,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
               }  
               if(matchResult.lastGame == "L") {
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3/100)*ratio;
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3-(3/100)*ratio);
                   homeTableTeam.losses += 1;
               }        
             }
