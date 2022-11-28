@@ -2613,7 +2613,8 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
             }
         }
 }
-homeTableTeam.pointsGiven.toFixed(2);
+(homeTableTeam.pointsGiven).toFixed(2);
+parseFloat(homeTableTeam.pointsGiven);
   relativeStrengthTable.push(homeTableTeam);
 }
 relativeStrengthTable.sort(function(a, b) {
