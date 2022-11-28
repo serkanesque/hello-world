@@ -2585,7 +2585,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
   const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {   
     matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");
-    homeTableTeam = new object();
+    homeTableTeam = new Object();
     homeTableTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
     if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
       if(matchResult.lastGame == "W") {
