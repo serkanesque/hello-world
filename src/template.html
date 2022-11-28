@@ -2596,17 +2596,20 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
             if(homeDrawTableTrs[h].firstChild.textContent == matchResult.aName) {
               if(matchResult.lastGame == "W") {
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (3/100)*ratio;
+                  relativeStrengthPoints = (3/100)*ratio;
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + relativeStrengthPoints.toFixed(2);
                   homeTableTeam.wins += 1;
               }  
               if(matchResult.lastGame == "D") {
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (1/100)*ratio;
+                  relativeStrengthPoints = (1/100)*ratio;
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + relativeStrengthPoints.toFixed(2);
                   homeTableTeam.draws += 1;
               }  
               if(matchResult.lastGame == "L") {
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (2-(3/100)*ratio);
+                  relativeStrengthPoints =  (2-(3/100)*ratio);
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - relativeStrengthPoints.toFixed(2);
                   homeTableTeam.losses += 1;
               }        
             }
@@ -2614,6 +2617,13 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
 }
   relativeStrengthTable.push(homeTableTeam);
 }
+relativeStrengthTable.sort(function(a, b) {
+  //if (a.drawPercent < b.drawPercent) return -1;
+  //if (a.drawPercent > b.drawPercent) return 1;
+  if (a.pointsGiven < b.pointsGiven) return 1;
+  if (a.pointsGiven > b.pointsGiven) return -1;
+ });
+
 console.log("relativeStrengthTable",relativeStrengthTable)
 
 
