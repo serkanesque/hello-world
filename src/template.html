@@ -2578,7 +2578,7 @@ console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
 var pointsDifference = (topPoints - bottomPoints)/10;
 
 
-pointsGiven = 0;
+var pointsGiven = 0;
 relativeStrengthTable = [];
 
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
@@ -2587,6 +2587,8 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");
     homeTableTeam = new Object();
     homeTableTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
+    homeTableTeam.pointsGiven = 0;
+    
     if(homeDrawTableTrs[i].firstChild.textContent == matchResult.aName) {
       if(matchResult.lastGame == "W") {
           ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
