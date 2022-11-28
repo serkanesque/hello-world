@@ -2901,6 +2901,7 @@ th[0].addEventListener("mouseout", function(e) {
 }
 
 function yes(th,last6HomeOpp,leagueTableTRs){
+  var strengthIndex = 0;
 th[0].addEventListener("mouseover", function(e) {
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
@@ -2939,18 +2940,27 @@ th[0].addEventListener("mouseover", function(e) {
           }
           leagueTableTRs[y].firstChild.firstChild.style.display = "block";
           //leagueTableTRs[y].getElementsByClassName("fixtureNumber").textContent = last6HomeOpp[p].parentNode.id + 1;
-        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
-        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") {
+            leagueTableTRs[y].style.backgroundColor = "#feffbf";
+            strengthIndex += 1* (pointsDifference * parseInt(leagueTableTRs[y].lastChild.textContent));     
+          }
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") {
+            leagueTableTRs[y].style.backgroundColor = "pink";
+        }
         if(last6HomeOpp[p].parentNode.className == "homeWin") {
-          leagueTableTRs[y].style.backgroundColor = "lightgreen";
-          pointsDifference * parseInt(leagueTableTRs[y].lastChild.textContent);
-          
-        } 
-        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
+          leagueTableTRs[y].style.backgroundColor = "lightgreen";    
+          strengthIndex += 1* (pointsDifference * parseInt(leagueTableTRs[y].lastChild.textContent));     
+     } 
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2"){
+            leagueTableTRs[y].style.backgroundColor = "springgreen";
+            strengthIndex += 3* (pointsDifference * parseInt(leagueTableTRs[y].lastChild.textContent));   
+          } 
 
         } 
 }
 }
+console.log("strengthIndex",strengthIndex);
+
 
 })
 th[0].addEventListener("mouseout", function(e) {
