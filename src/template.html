@@ -2601,10 +2601,10 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
         if(matchResult.lastGame == "L") {
             ratio = homeDrawTableTrs[i].lastChild.textContent * pointsDifference;
             homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (3/100)*ratio;
-        }  
-        relativeStrengthTable.push(homeTableTeam);
+        }        
       }
   }
+  relativeStrengthTable.push(homeTableTeam);
 }
 console.log("relativeStrengthTable",relativeStrengthTable)
 
