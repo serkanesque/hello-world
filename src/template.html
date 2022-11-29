@@ -2772,8 +2772,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeam.avgGoalsFor);
             let sum = (homeTeamPSingle*awayTeamPSingle)*100;
             let score = {
-                  home: leagueTablePoissonTrs[f].childNodes[1].id,
-                  away: leagueTablePoissonTrs[f].childNodes[3].id,
+                  home: leagueTablePoissonTrs[f].childNodes[1].textContent,
+                  away: leagueTablePoissonTrs[f].childNodes[3].textContent,
                   home: homeScoreVariations[j],
                   away: awayScoreVariations[k],
                   probability: sum
