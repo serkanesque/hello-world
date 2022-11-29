@@ -327,7 +327,7 @@ var columns = {
 
 
 
-var stats = new Statistics(data, columns, settings);
+var stats = new Statistics(data, columns);
 var distribution = stats.poissonDistribution(0.3);
 // probabilities that an event which happens at a rate of 0.3 per time interval
 // will be observed k = 0, 1, … times in that interval
