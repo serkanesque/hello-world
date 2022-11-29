@@ -2700,6 +2700,8 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     }
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
+    poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
+    poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
     poissonTable.push(poissonHomeTeam);
   }
 console.log("poissonTable",poissonTable);
