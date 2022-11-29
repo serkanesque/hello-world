@@ -11,7 +11,7 @@
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">00:00</font>
+<font color="green" size="1">14:00</font>
 </div>
 <span>
 <div style="text-align:left;">
@@ -46,11 +46,50 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=14-troyes">Troyes</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Troyes</b>:
+1.14
+points per game
+at home
+<br/><b>Nantes</b>:
+0.38
+points per game
+away
+<br/><br/>
+<font color="red">
+Troyes have failed to win in their last 7 matches.
+</font>
+<br/>
+<font color="black">
+77% of Nantes's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=12-nantes">Nantes</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=340-14-12-2023" title="Troyes vs Nantes">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=10-auxerre">Auxerre</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">00:00</font>
+<font color="green" size="1">16:00</font>
 </div>
 <span>
 <div style="text-align:left;">
@@ -85,50 +124,11 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=16-brest">Brest</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">00:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Brest</b>:
-0.86
-points per game
-at home
-<br/><b>Lyon</b>:
-0.57
-points per game
-away
-<br/><br/>
-<font color="black">
-Brest have scored 69% of their goals away.
-</font>
-<br/>
-<font color="black">
-81% of Lyon's points have been earned at home.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=1-lyon">Lyon</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=338-16-1-2023" title="Brest vs Lyon">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=5-clermont">Clermont</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">00:00</font>
+<font color="green" size="1">18:00</font>
 </div>
 <span>
 <div style="text-align:left;">
@@ -163,66 +163,29 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=18-lorient">Lorient</a></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=16-brest">Brest</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">00:00</font>
+<font color="green" size="1">20:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Lorient</b>:
-1.86
+<b>Brest</b>:
+0.86
 points per game
 at home
-<br/><b>Montpellier</b>:
+<br/><b>Lyon</b>:
 0.57
 points per game
 away
 <br/><br/>
 <font color="black">
+Brest have scored 69% of their goals away.
 </font>
 <br/>
-<font color="red">
-Montpellier have failed to win in their last 7 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=13-montpellier">Montpellier</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=334-18-13-2023" title="Lorient vs Montpellier">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=19-marseille">Marseille</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">00:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Marseille</b>:
-2.00
-points per game
-at home
-<br/><b>Toulouse</b>:
-0.57
-points per game
-away
-<br/><br/>
 <font color="black">
-</font>
-<br/>
-<font color="red">
-Toulouse have lost their last 3 matches.
+81% of Lyon's points have been earned at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -231,48 +194,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=7-toulouse">Toulouse</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=1-lyon">Lyon</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=336-19-7-2023" title="Marseille vs Toulouse">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=8-nice">Nice</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">00:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Nice</b>:
-1.14
-points per game
-at home
-<br/><b>Lens</b>:
-1.71
-points per game
-away
-<br/><br/>
-<font color="green">
-Nice have been undefeated in their last 6 matches.
-</font>
-<br/>
-<font color="green">
-Lens have won their last 5 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=15-lens">Lens</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=335-8-15-2023" title="Nice vs Lens">stats</a>
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=338-16-1-2023" title="Brest vs Lyon">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
@@ -282,7 +206,7 @@ Click the Stats button for more stats on those teams.
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">00:00</font>
+<font color="green" size="1">20:00</font>
 </div>
 <span>
 <div style="text-align:left;">
@@ -312,84 +236,6 @@ Click the Stats button for more stats on those teams.
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=3-strasbourg">Strasbourg</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=france&amp;stats=337-6-3-2023" title="Paris SG vs Strasbourg">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=20-reims">Reims</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">00:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Reims</b>:
-1.29
-points per game
-at home
-<br/><b>Rennes</b>:
-1.43
-points per game
-away
-<br/><br/>
-<font color="green">
-Reims have been undefeated in their last 7 matches.
-</font>
-<br/>
-<font color="green">
-Rennes have been undefeated in their last 11 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=17-rennes">Rennes</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=339-20-17-2023" title="Reims vs Rennes">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=14-troyes">Troyes</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">00:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Troyes</b>:
-1.14
-points per game
-at home
-<br/><b>Nantes</b>:
-0.38
-points per game
-away
-<br/><br/>
-<font color="red">
-Troyes have failed to win in their last 7 matches.
-</font>
-<br/>
-<font color="black">
-77% of Nantes's points have been earned at home.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=12-nantes">Nantes</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=340-14-12-2023" title="Troyes vs Nantes">stats</a>
 </td>
 </tr>
 </table>
