@@ -2752,7 +2752,7 @@ console.log("poissonTableAway",poissonTableAway);
 
 
 
-/*
+
 leagueTablePoissonTrs = document.getElementById("fixturesTable").getElementsByClassName("show");
 //homeTeamPoisson = leagueTablePoissonTrs.childNodes[1].id;
 //awayTeamPoisson = leagueTablePoissonTrs.childNodes[3].id;
@@ -2770,16 +2770,20 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeam.avgGoalsFor);
             var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeam.avgGoalsFor);
             sum = (homeTeamPSingle*awayTeamPSingle)*100;
-            let score = new Object();
-            scoreData.push { j : 1, j : 33 }
-
-            console.log(sum);
+            let score = {
+                  home :leagueTablePoissonTrs.childNodes[1].id,
+                  away :leagueTablePoissonTrs.childNodes[3].id,
+                  home: homeScoreVariations[j],
+                  away: awayScoreVariations[k],
+                  probability: sum
+                };
+                scoreData.push(score);         
         }
     };
   }
 
 
-*/
+
 
 
 
