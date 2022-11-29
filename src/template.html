@@ -314,15 +314,31 @@ padding: 10px;
 
 
 <script type="text/javascript">
-  /*
+var data = [
+	{ hs: 2.02,as: 0.53 }
+
+];
+
+var columns = {
+	ID: 'Away goals',
+	age: 'Away goals'
+};
+
+
+
+
 var stats = new Statistics(data, columns, settings);
 var distribution = stats.poissonDistribution(0.3);
 // probabilities that an event which happens at a rate of 0.3 per time interval
 // will be observed k = 0, 1, … times in that interval
+//=((POISSON(0, 2.02, FALSE)* POISSON(0, 0.53, FALSE)))*100
+var single = stats.poissonProbabilityMass(0, 0);
 
-var single = stats.poissonProbabilityMass(2, 4);
+
 console.log("single",single);
-*/
+
+
+
   console.log("Germany test v5");
 function getParameterByName(name, url) {
  if (!url) url = window.location.href;
