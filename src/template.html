@@ -2599,7 +2599,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
               if(matchResult.lastGame == "W") {
                 console.log(matchResult);
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (10/100)*ratio;
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (30/100)*ratio;
                   homeTableTeam.wins += 1;
               }  
               if(matchResult.lastGame == "D") {
@@ -2611,7 +2611,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
               if(matchResult.lastGame == "L") {
                 console.log(matchResult);
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
-                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (1-(3/100)*ratio);
+                  homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (30-(30/100)*ratio);
                   homeTableTeam.losses += 1;
               }        
             }
