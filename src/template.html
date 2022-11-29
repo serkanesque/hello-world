@@ -2765,7 +2765,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let awayTeam = poissonTableAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
   var scoreData = [];
     for (var j = 0; j < homeScoreVariations.length; j++) {
-        for (var j  = 0; k < awayScoreVariations.length; k++) {
+        for (var k  = 0; k < awayScoreVariations.length; k++) {
             var stats = new Statistics();
             var stats2 = new Statistics();
             var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeam.avgGoalsFor);
