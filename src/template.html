@@ -2676,7 +2676,7 @@ console.log("relativeStrengthTable",relativeStrengthTable)
 
 
 //Poisson 
-poissonTable = [];
+poissonTableHome = [];
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
@@ -2702,9 +2702,41 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
     poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
-    poissonTable.push(poissonHomeTeam);
+    poissonTableHome.push(poissonHomeTeam);
   }
-console.log("poissonTable",poissonTable);
+console.log("poissonTableHome",poissonTableHome);
+
+
+//Poisson 
+poissonTableAway = [];
+for (var j = 0; j < homeDrawTableTrs.length; j++) {
+    poissonAwayTeam = new Object(); 
+    poissonAwayTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
+    poissonAwayTeam.played = 0;
+    poissonAwayTeam.wins = 0;
+    poissonAwayTeam.goalsFor = 0;
+    poissonAwayTeam.goalsAgainst = 0;
+    poissonAwayTeam.avgGoalsFor = 0;
+    poissonAwayTeam.avgGoalsAgainst = 0;
+    poissonAwayTeam.played =   poissonAwayTeam.played + 1;
+    poissonAwayTeam.goalsFor =  poissonAwayTeam.goalsFor + matchResult.hScore;
+    poissonAwayTeam.goalsAgainst = poissonAwayTeam.goalsAgainst + matchResult.aScore;   
+
+    const awayTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == homeDrawTableTrs[j].firstChild.textContent});
+
+    for (var i = 0; i < awayTeamFixturesArrayTest.length; i++) {
+        matchResult = determineResultHome(awayTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "away");      
+        poissonAwayTeam.goalsFor = parseInt(poissonAwayTeam.goalsFor) + parseInt(matchResult.aScore);
+        poissonAwayTeam.goalsAgainst = parseInt(poissonAwayTeam.goalsAgainst) + parseInt(matchResult.hScore);
+        poissonAwayTeam.played = parseInt(poissonAwayTeam.played) + 1;
+    }
+    poissonAwayTeam.avgGoalsFor = poissonAwayTeam.goalsFor / poissonAwayTeam.played;
+    poissonAwayTeam.avgGoalsAgainst = poissonAwayTeam.goalsAgainst / poissonAwayTeam.played;
+    poissonAwayTeam.avgGoalsFor =  (poissonAwayTeam.avgGoalsFor).toFixed(2);
+    poissonAwayTeam.avgGoalsAgainst =  (poissonAwayTeam.avgGoalsAgainst).toFixed(2);
+    poissonTableAway.push(poissonAwayTeam);
+  }
+console.log("poissonTableHome",poissonTableAway);
 
  /*
  last6AwayTRs = leagueTable2.getElementsByTagName("tr");
