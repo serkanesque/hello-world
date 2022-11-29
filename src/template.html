@@ -2761,21 +2761,21 @@ awayScoreVariations = [0,1,2,3,4,5,6];
 
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
-  let homeTeamP = poissonTableHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
-  let awayTeamP = poissonTableAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
+  let homeTeamPoisson = poissonTableHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
+  let awayTeamPoisson = poissonTableAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
   var scoreData = [];
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
             var stats = new Statistics();
             var stats2 = new Statistics();
-            var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeam.avgGoalsFor);
-            var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeam.avgGoalsFor);
+            var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
+            var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
             let sum = (homeTeamPSingle*awayTeamPSingle)*100;
             let score = {
-                  homeTeam: homeTeamP,
-                  awayTeam: awayTeamP,
-                  homeScore: homeScoreVariations[j],
-                  awayScore: awayScoreVariations[k],
+                  home: homeTeamPoisson.name,
+                  away: awayTeamPoisson.name,
+                  home: homeScoreVariations[j],
+                  away: awayScoreVariations[k],
                   probability: sum
                 };
                 scoreData.push(score);         
