@@ -2694,9 +2694,9 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
 
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");      
-        poissonHomeTeam.goalsFor += matchResult.hScore;
-        poissonHomeTeam.goalsAgainst += matchResult.aScore;
-        poissonHomeTeam.played += 1;
+        poissonHomeTeam.goalsFor += parseInt(matchResult.hScore);
+        poissonHomeTeam.goalsAgainst += parseInt(matchResult.aScore);
+        poissonHomeTeam.played += parseInt(1);
     }
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
