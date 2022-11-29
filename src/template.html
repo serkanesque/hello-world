@@ -2761,8 +2761,8 @@ awayScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
-  let homeTeam = poissonTableHome.find(el => el.name == leagueTablePoissonTrs.childNodes[1].id);
-  let awayTeam = poissonTableAway.find(el => el.name == leagueTablePoissonTrs.childNodes[3].id);
+  let homeTeam = poissonTableHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
+  let awayTeam = poissonTableAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
   var scoreData = [];
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var j  = 0; k < awayScoreVariations.length; k++) {
