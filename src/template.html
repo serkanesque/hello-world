@@ -314,32 +314,41 @@ padding: 10px;
 
 
 <script type="text/javascript">
-  /*
-var data = [
-	{ hs:0,as: 0}
-
-];
-
-var columns = {
-	ID: 'Away goals',
-	age: 'Away goals'
-};
-
-
-
-
-var stats = new Statistics(data, columns);
-//var distribution = stats.poissonDistribution(0.3);
 // probabilities that an event which happens at a rate of 0.3 per time interval
 // will be observed k = 0, 1, … times in that interval
 //=((POISSON(0, 2.02, FALSE)* POISSON(0, 0.53, FALSE)))*100
-var single = stats.poissonProbabilityMass(2.02, 0.53);
+
+/*
+var homeTeamP = [
+	{ hs: 0,as: 2.02 }
+];
+
+var awayTeamP = [
+	{ hs: 0,as: 0.53 }
+];
 
 
-console.log("single",single);
+var columns = {
+	score: 'goals',
+	expected: 'Away goals'
+};
+
+//var distribution = stats.poissonDistribution(1);
+var stats = new Statistics(homeTeamP, columns);
+var stats2 = new Statistics(awayTeamP, columns);
+var homeTeamPSingle = stats.poissonProbabilityMass(1, 1);
+var awayTeamPSingle = stats2.poissonProbabilityMass(1, 1);
+sum = (homeTeamPSingle*awayTeamPSingle)*100;
+console.log(sum);
+
+
+// works
+var homeTeamPSingle = stats.poissonProbabilityMass(1, 2.02);
+var awayTeamPSingle = stats2.poissonProbabilityMass(1, .53);
+sum = (homeTeamPSingle*awayTeamPSingle)*100;
+console.log(sum);
 
 */
-
   console.log("Germany test v5");
 function getParameterByName(name, url) {
  if (!url) url = window.location.href;
@@ -2662,6 +2671,38 @@ relativeStrengthTable.sort(function(a, b) {
 
 console.log("relativeStrengthTable",relativeStrengthTable)
 
+
+
+
+
+//Poisson 
+poissonTable = [];
+for (var j = 0; j < homeDrawTableTrs.length; j++) {
+    poissonHomeTeam = new Object(); 
+    poissonHomeTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
+    poissonHomeTeam.played = 0;
+    poissonHomeTeam.wins = 0;
+    poissonHomeTeam.goalsFor = 0;
+    poissonHomeTeam.goalsAgainst = 0;
+    poissonHomeTeam.avgGoalsFor = 0;
+    poissonHomeTeam.avgGoalsAgainst = 0;
+    poissonHomeTeam.played =   poissonHomeTeam.played + 1;
+    poissonHomeTeam.goalsFor =  poissonHomeTeam.goalsFor + matchResult.hScore;
+    poissonHomeTeam.goalsAgainst = poissonHomeTeam.goalsAgainst + matchResult.aScore;   
+
+    const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
+
+    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");      
+        poissonHomeTeam.goalsFor += matchResult.hScore;
+        poissonHomeTeam.goalsAgainst += matchResult.aScore;
+        poissonHomeTeam.played += 1;
+    }
+    poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
+    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
+    poissonTable(poissonHomeTeam);
+  }
+console.log("poissonTable",poissonTable);
 
  /*
  last6AwayTRs = leagueTable2.getElementsByTagName("tr");
