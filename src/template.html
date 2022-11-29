@@ -1209,7 +1209,8 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 console.log("homeTeam",homeTeam)
-
+if(homeTeam == "Rushden  D")  homeTeam = "Rushden & D.";
+if(homeTeam == "St Ives Town")  homeTeam = "St. Ives Town";
 if(homeTeam == "DrochtersenA")  homeTeam = "Drochtersen/A.";
 if(homeTeam == "Eichsttt")  homeTeam = "Eichtsatt";
 if(homeTeam == "W Burghausen")  homeTeam = "W. Burghausen";
@@ -1427,6 +1428,8 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+     if(awayTeam == "Rushden  D")  awayTeam = "Rushden & D.";
+     if(awayTeam == "St Ives Town")  awayTeam = "St. Ives Town";
      if(awayTeam == "DrochtersenA")  awayTeam = "Drochtersen/A.";
      if(awayTeam == "Eichsttt") awayTeam = 'Eichstatt';
      if(awayTeam == "W Burghausen")  awayTeam = "W. Burghausen";
