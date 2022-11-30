@@ -2782,18 +2782,20 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
                 scoreData.push(score);         
         }
     };
-  }
-console.log("scoreData",scoreData);
-scoreData
-
-scoreData.sort(function(a, b) {
+    scoreData.sort(function(a, b) {
   //if (a.drawPercent < b.drawPercent) return -1;
   //if (a.drawPercent > b.drawPercent) return 1;
   if (a.probability < b.probability) return 1;
   if (a.probability > b.probability) return -1;
  });
-
  console.log("scoreData.slic",scoreData.slice(0, 5));
+
+
+  }
+console.log("scoreData",scoreData);
+
+
+
 
 
 
