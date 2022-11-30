@@ -2794,9 +2794,9 @@ function calculateProbabilites(array,homeTeam) {
   let probabilities = array.filter(el => el.homeSide == homeTeam );
 
   for (var j = 0; j < probabilities.length; j++) {
-        if(probabilities[j].home  > probabilities[j].away) winP += fixtureObject.probability;
-        if(probabilities[j].home === probabilities[j].away) drawP += fixtureObject.probability;
-        if(probabilities[j].home  > probabilities[j].away) lossP += fixtureObject.probability;    
+        if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.winP += fixtureObject.probability;
+        if(probabilities[j].home === probabilities[j].away) probabilityFixtureObject.drawP += fixtureObject.probability;
+        if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.lossP += fixtureObject.probability;    
   }  
   console.log("calculateProbabilites",probabilityFixtureObject)
   return probabilityFixtureObject;
