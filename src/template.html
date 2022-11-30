@@ -2821,8 +2821,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
                   awaySide: awayTeamPoisson.name,
                   home: homeScoreVariations[j],
                   away: awayScoreVariations[k],
-                  probability: sum,
-                  probability2: sum2
+                  probability: sum.toFixed(2),
+                  probability2: sum2.toFixed(2)
                 };
                 scoreData.push(score);         
         }
