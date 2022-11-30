@@ -2758,11 +2758,12 @@ leagueTablePoissonTrs = document.getElementById("fixturesTable").getElementsByCl
 //awayTeamPoisson = leagueTablePoissonTrs.childNodes[3].id;
 homeScoreVariations = [0,1,2,3,4,5,6];
 awayScoreVariations = [0,1,2,3,4,5,6];
+var scoreData = [];
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let homeTeamPoisson = poissonTableHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
   //console.log("homeTeamPoisson",homeTeamPoisson);
   let awayTeamPoisson = poissonTableAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
-  var scoreData = [];
+
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
             var stats = new Statistics();
