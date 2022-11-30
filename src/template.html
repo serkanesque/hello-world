@@ -1200,7 +1200,7 @@ if(league=="germany7" || league=="germany8" || league=="croatia2" || league=="sl
  var fixturesInnerDivs = fixturesContainerDiv.getElementsByClassName("odd");
 
 
- markup = '<tr><td>Kickoff</td><td style="width:120px;">home team</td><td>Last 3 games</td><td style="width:120px;">Away team</td><td>Last 6 games</td><<td colspan="3">Poisson<td>this season</td><td>last season h</td><td>last season a</td><td>Draw (b365)</td></tr>';
+ markup = '<tr><td>Kickoff</td><td style="width:120px;">home team</td><td>Last 3 games</td><td style="width:120px;">Away team</td><td>Last 6 games</td><<td colspan="3">Poisson %<td>this season</td><td>last season h</td><td>last season a</td><td>Draw (b365)</td></tr>';
  //markup = '<tr><td>Kickoff</td><td style="width:120px;">home team</td><td>Last 3 games</td><td style="width:120px;">Away team</td><td>Last 6 games</td><<td>pts delta</td><td>goals f delta</td><td>goals a delta</td><td>this season</td><td>last season h</td><td>last season a</td><td>Draw (b365)</td></tr>';
 
 
@@ -2818,9 +2818,9 @@ function calculateProbabilites(array,homeTeam) {
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let homeTeam =   leagueTablePoissonTrs[f].childNodes[1].textContent;
   let fixturePoisson = calculateProbabilites(scoreData,homeTeam);
-  leagueTablePoissonTrs[f].childNodes[5].textContent = (fixturePoisson.winP).toFixed(2) + "%";
-  leagueTablePoissonTrs[f].childNodes[6].textContent = (fixturePoisson.drawP).toFixed(2)+ "%";
-  leagueTablePoissonTrs[f].childNodes[7].textContent = (fixturePoisson.lossP).toFixed(2)+ "%";
+  leagueTablePoissonTrs[f].childNodes[5].textContent = (fixturePoisson.winP).toFixed(2);
+  leagueTablePoissonTrs[f].childNodes[6].textContent = (fixturePoisson.drawP).toFixed(2);
+  leagueTablePoissonTrs[f].childNodes[7].textContent = (fixturePoisson.lossP).toFixed(2);
 }
 
 
