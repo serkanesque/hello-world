@@ -2798,13 +2798,13 @@ function calculateProbabilites(array,homeTeam) {
         if(probabilities[j].home === probabilities[j].away) drawP += fixtureObject.probability;
         if(probabilities[j].home  > probabilities[j].away) lossP += fixtureObject.probability;    
   }  
-  console.log(probabilityFixtureObject)
+  console.log("calculateProbabilites",probabilityFixtureObject)
   return probabilityFixtureObject;
 }
 
 
 
-calculateProbabilites("calculateProbabilites", scoreData,"Bochum");
+calculateProbabilites(scoreData,"Bochum");
 
 
 
