@@ -2791,7 +2791,7 @@ function calculateProbabilites(array,homeTeam) {
   probabilityFixtureObject.winP = 0;
   probabilityFixtureObject.drawP = 0;
   probabilityFixtureObject.lossP = 0;
-  let probabilities = array.filter(el => el.name == homeTeam );
+  let probabilities = array.filter(el => el.homeSide == homeTeam );
 
   for (var j = 0; j < probabilities.length; j++) {
         if(probabilities[j].home  > probabilities[j].away) winP += fixtureObject.probability;
