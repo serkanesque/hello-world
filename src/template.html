@@ -2682,9 +2682,28 @@ console.log("relativeStrengthTable",relativeStrengthTable)
 
 
 
-
-
 //Poisson 
+
+
+var seasonGoalsFor = 0;
+var seasonGoalsAgainst = 0;
+for (var s = 0; s < seasonFixtures.length; s++) {
+  seasonGoalsFor += seasonFixtures[s].hScore;
+}
+for (var s = 0; s < seasonFixtures.length; s++) {
+  seasonGoalsAgainst += seasonFixtures[s].aScore;
+}
+
+leagueAverageGoalsFor = seasonGoalsFor / seasonFixtures.length;
+leagueAverageGoalsAgainst = seasonGoalsAgainst / seasonFixtures.length;
+
+console.log("seasonGoalsFor",seasonGoalsFor);
+console.log("seasonGoalsAgainst",seasonGoalsAgainst);
+console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
+console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
+
+
+
 poissonTableHome = [];
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonHomeTeam = new Object(); 
