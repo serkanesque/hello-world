@@ -2803,7 +2803,7 @@ function calculateProbabilites(array,homeTeam) {
   probabilities.sort(function(a, b) {
   if (a.probability < b.probability) return 1;
   if (a.probability > b.probability) return -1;
-  console.log("scoreData.slic",scoreData.slice(0, 5));
+  console.log("probabilities.slic",probabilities.slice(0, 5));
  });
 
   for (var j = 0; j < probabilities.length; j++) {
