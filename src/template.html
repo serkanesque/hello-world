@@ -2821,7 +2821,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
                   awaySide: awayTeamPoisson.name,
                   home: homeScoreVariations[j],
                   away: awayScoreVariations[k],
-                  probability: sum.toFixed(2),
+                  probability: sum,
                   probability2: sum2
                 };
                 scoreData.push(score);         
@@ -2861,6 +2861,26 @@ function calculateProbabilites(array,homeTeam) {
 }
 
 
+function calculateProbabilites2(array,homeTeam) {
+  probabilityFixtureObject = new Object();
+  probabilityFixtureObject.winP = 0;
+  probabilityFixtureObject.drawP = 0;
+  probabilityFixtureObject.lossP = 0;
+  let probabilities = array.filter(el => el.homeSide == homeTeam );
+  probabilities.sort(function(a, b) {
+  if (a.probability < b.probability) return 1;
+  if (a.probability > b.probability) return -1;
+ });
+ console.log("probabilities.slic",probabilities.slice(0, 5));
+
+  for (var j = 0; j < probabilities.length; j++) {
+        if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.winP += probabilities[j].probability2;
+        if(probabilities[j].home === probabilities[j].away) probabilityFixtureObject.drawP += probabilities[j].probability2;
+        if(probabilities[j].home  < probabilities[j].away) probabilityFixtureObject.lossP += probabilities[j].probability2;    
+  }  
+  console.log("calculateProbabilites2",probabilityFixtureObject)
+  return probabilityFixtureObject;
+}
 
 
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
