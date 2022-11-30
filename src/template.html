@@ -2889,8 +2889,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let fixturePoisson = calculateProbabilites(scoreData,homeTeam);
   let fixturePoisson2 = calculateProbabilites2(scoreData,homeTeam);
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson.winP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson.drawP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson.lossP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson.drawP).toFixed(2) + "<br>" + (fixturePoisson2.drawP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson.lossP).toFixed(2) + "<br>" + (fixturePoisson2.lossP).toFixed(2) + "</span>";
 }
 
 
