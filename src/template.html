@@ -2802,9 +2802,10 @@ function calculateProbabilites(array,homeTeam) {
   return probabilityFixtureObject;
 }
 
-
-
-calculateProbabilites(scoreData,"Bochum");
+for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
+  let homeTeam =   leagueTablePoissonTrs[f].childNodes[1].textContent;
+  calculateProbabilites(scoreData,homeTeam);
+}
 
 
 
