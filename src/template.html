@@ -2782,13 +2782,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
                 scoreData.push(score);         
         }
     };
-    scoreData.sort(function(a, b) {
-  //if (a.drawPercent < b.drawPercent) return -1;
-  //if (a.drawPercent > b.drawPercent) return 1;
-  if (a.probability < b.probability) return 1;
-  if (a.probability > b.probability) return -1;
- });
- console.log("scoreData.slic",scoreData.slice(0, 5));
+
+
 
 
   }
@@ -2805,6 +2800,11 @@ function calculateProbabilites(array,homeTeam) {
   probabilityFixtureObject.drawP = 0;
   probabilityFixtureObject.lossP = 0;
   let probabilities = array.filter(el => el.homeSide == homeTeam );
+  probabilities.sort(function(a, b) {
+  if (a.probability < b.probability) return 1;
+  if (a.probability > b.probability) return -1;
+  console.log("scoreData.slic",scoreData.slice(0, 5));
+ });
 
   for (var j = 0; j < probabilities.length; j++) {
         if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.winP += probabilities[j].probability;
