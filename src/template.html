@@ -2786,10 +2786,25 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 console.log("scoreData",scoreData);
 
 
+function calculateProbabilites(array,homeTeam) {
+  probabilityFixtureObject = new Object();
+  probabilityFixtureObject.winP = 0;
+  probabilityFixtureObject.drawP = 0;
+  probabilityFixtureObject.lossP = 0;
+  let probabilities = array.filter(el => el.name == homeTeam );
+
+  for (var j = 0; j < probabilities.length; j++) {
+        if(probabilities[j].home  > probabilities[j].away) winP += fixtureObject.probability;
+        if(probabilities[j].home === probabilities[j].away) drawP += fixtureObject.probability;
+        if(probabilities[j].home  > probabilities[j].away) lossP += fixtureObject.probability;    
+  }  
+  console.log(probabilityFixtureObject)
+  return probabilityFixtureObject;
+}
 
 
 
-
+calculateProbabilites("calculateProbabilites", scoreData,"Bochum");
 
 
 
