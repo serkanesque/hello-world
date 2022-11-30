@@ -2808,8 +2808,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             var stats2 = new Statistics();
             var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
             var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
-            console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageGoalsFor);
-            console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor)
+           // console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageGoalsFor);
+           // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor)
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageGoalsFor);            
 
@@ -2888,9 +2888,9 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let homeTeam =   leagueTablePoissonTrs[f].childNodes[1].textContent;
   let fixturePoisson = calculateProbabilites(scoreData,homeTeam);
   let fixturePoisson2 = calculateProbabilites2(scoreData,homeTeam);
-  leagueTablePoissonTrs[f].childNodes[5].textContent = (fixturePoisson.winP).toFixed(2);
-  leagueTablePoissonTrs[f].childNodes[6].textContent = (fixturePoisson.drawP).toFixed(2);
-  leagueTablePoissonTrs[f].childNodes[7].textContent = (fixturePoisson.lossP).toFixed(2);
+  leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson.winP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson.drawP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson.lossP).toFixed(2) + "<br>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
 }
 
 
