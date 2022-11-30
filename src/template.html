@@ -2886,6 +2886,7 @@ function calculateProbabilites2(array,homeTeam) {
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let homeTeam =   leagueTablePoissonTrs[f].childNodes[1].textContent;
   let fixturePoisson = calculateProbabilites(scoreData,homeTeam);
+  let fixturePoisson2 = calculateProbabilites2(scoreData,homeTeam);
   leagueTablePoissonTrs[f].childNodes[5].textContent = (fixturePoisson.winP).toFixed(2);
   leagueTablePoissonTrs[f].childNodes[6].textContent = (fixturePoisson.drawP).toFixed(2);
   leagueTablePoissonTrs[f].childNodes[7].textContent = (fixturePoisson.lossP).toFixed(2);
