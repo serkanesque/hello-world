@@ -883,35 +883,6 @@ if(fixtureTeam.hName == "Bishop`s St.")  fixtureTeam.hName = "Bishop's St.";
  console.log("seasonFixtures",seasonFixtures);
 
 
-
- function getSeasonAverageGoalsHome(fixtureArray) {
-  var seasonGoalsFor = 0;
-  for (var s = 0; s < fixtureArray.length; s++) {
-    seasonGoalsFor += parseInt(fixtureArray[s].hScore);
-  }
-  console.log("seasonGoalsFor",seasonGoalsFor)
-  console.log("seasonGoalsFor / fixtureArray.length",seasonGoalsFor / fixtureArray.length)
-  return seasonGoalsFor / fixtureArray.length;
-}
-
-
-
-function getSeasonAverageGoalsAway(fixtureArray) {
-  var seasonGoalsAgainst = 0;
-  for (var s = 0; s < fixtureArray.length; s++) {
-    seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
-  }
-  return seasonGoalsAgainst / fixtureArray.length;
-}
-
-const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
-const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
-
-console.log("leagueAverageHomeGoalsScored",leagueAverageHomeGoalsScored);
-console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
-
-
-
 console.log("seasonFixtures2018");
  var seasonFixtures2018ContainerDiv = document.getElementById("seasonFixtures2018");
  var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
@@ -2730,6 +2701,28 @@ console.log("seasonFixtures",seasonFixtures)
 console.log("Load after seasonFixtures")
 
 
+function getSeasonAverageGoalsHome(fixtureArray) {
+  var seasonGoalsFor = 0;
+  for (var s = 0; s < fixtureArray.length; s++) {
+    seasonGoalsFor += parseInt(fixtureArray[s].hScore);
+  }
+  console.log("seasonGoalsFor",seasonGoalsFor)
+  console.log("seasonGoalsFor / fixtureArray.length",seasonGoalsFor / fixtureArray.length)
+  return seasonGoalsFor / fixtureArray.length;
+}
+
+
+
+function getSeasonAverageGoalsAway(fixtureArray) {
+  var seasonGoalsAgainst = 0;
+  for (var s = 0; s < fixtureArray.length; s++) {
+    seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
+  }
+  return seasonGoalsAgainst / fixtureArray.length;
+}
+
+const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
+const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
 
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
