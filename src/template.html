@@ -2647,19 +2647,19 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
         for (var h = 0; h < homeDrawTableTrs.length; h++) {
             if(homeDrawTableTrs[h].firstChild.textContent == matchResult.aName) {
               if(matchResult.lastGame == "W") {
-                console.log(matchResult);
+               // console.log(matchResult);
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
                   homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (30/100)*ratio;
                   homeTableTeam.wins += 1;
               }  
               if(matchResult.lastGame == "D") {
-                console.log(matchResult);
+                //console.log(matchResult);
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
                   homeTableTeam.pointsGiven = homeTableTeam.pointsGiven + (10/100)*ratio;
                   homeTableTeam.draws += 1;
               }  
               if(matchResult.lastGame == "L") {
-                console.log(matchResult);
+               // console.log(matchResult);
                   ratio = homeDrawTableTrs[h].lastChild.textContent * pointsDifference;
                  // homeTableTeam.pointsGiven = homeTableTeam.pointsGiven - (30-(30/100)*ratio);
                   homeTableTeam.losses += 1;
