@@ -2873,11 +2873,11 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             //console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored);
            // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
            console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
-           console.log("homeTeamPSingle2");
-           console.log("awayTeamPSingle2");
+         
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);            
-
+            console.log("homeTeamPSingle2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
+           console.log("awayTeamPSingle2", awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);
 
             //let sum = (homeTeamPSingle*awayTeamPSingle)*100;
             let sum2 = (homeTeamPSingle2*awayTeamPSingle2)*100;
