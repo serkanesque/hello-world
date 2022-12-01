@@ -2685,13 +2685,16 @@ console.log("relativeStrengthTable",relativeStrengthTable)
 
 
 
-//Poisson start
+//Poisson 
 
 
 
 
 
-function poissonInit() {
+
+
+
+
 //console.log("seasonGoalsFor",seasonGoalsFor);
 //console.log("seasonGoalsAgainst",seasonGoalsAgainst);
 console.log("seasonFixtures",seasonFixtures)
@@ -2718,9 +2721,9 @@ function getSeasonAverageGoalsAway(fixtureArray) {
   return seasonGoalsAgainst / fixtureArray.length;
 }
 
+
 const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
 const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
-
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
@@ -2935,10 +2938,9 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 }
 
 
-//Poisson end
 
-setTimeout(poissonInit,1000)
-}
+
+
 
 
 
