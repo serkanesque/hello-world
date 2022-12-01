@@ -2710,12 +2710,12 @@ function getSeasonAverageGoalsAway(fixtureArray) {
 }
 
 
-const leagueAverageGoalsFor = getSeasonAverageGoalsHome(seasonFixtures)
-const leagueAverageGoalsAgainst = getSeasonAverageGoalsAway(seasonFixtures)
+const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
+const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
 //console.log("seasonGoalsFor",seasonGoalsFor);
 //console.log("seasonGoalsAgainst",seasonGoalsAgainst);
-console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
-console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
+console.log("leagueAverageHomeGoalsScored",leagueAverageHomeGoalsScored);
+console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
@@ -2755,8 +2755,8 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageGoalsFor;
-    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageGoalsAgainst;
+    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageHomeGoalsScored;
+    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageAwayGoalsScored;
     
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
     poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
@@ -2801,8 +2801,8 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonAwayTeam.avgGoalsFor = poissonAwayTeam.goalsFor / poissonAwayTeam.played;
     poissonAwayTeam.avgGoalsAgainst = poissonAwayTeam.goalsAgainst / poissonAwayTeam.played;
     
-    poissonAwayTeam.AttackStrength = (poissonAwayTeam.goalsFor / poissonAwayTeam.played)  / leagueAverageGoalsFor;
-    poissonAwayTeam.DefenceStrength = (poissonAwayTeam.goalsAgainst / poissonAwayTeam.played) / leagueAverageGoalsAgainst;
+    poissonAwayTeam.AttackStrength = (poissonAwayTeam.goalsFor / poissonAwayTeam.played)  / leagueAverageHomeGoalsScored;
+    poissonAwayTeam.DefenceStrength = (poissonAwayTeam.goalsAgainst / poissonAwayTeam.played) / leagueAverageAwayGoalsScored;
 
     poissonAwayTeam.avgGoalsFor =  (poissonAwayTeam.avgGoalsFor).toFixed(2);
     poissonAwayTeam.avgGoalsAgainst =  (poissonAwayTeam.avgGoalsAgainst).toFixed(2)
@@ -2839,10 +2839,10 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             var stats2 = new Statistics();
             var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
             var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
-            //console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageGoalsFor);
-           // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor)
-            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor);
-            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageGoalsFor);            
+            //console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored);
+           // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
+            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
+            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);            
 
 
             let sum = (homeTeamPSingle*awayTeamPSingle)*100;
