@@ -2713,14 +2713,16 @@ function getSeasonAverageGoalsAway(fixtureArray) {
 
 
 
-const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
-const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
+
 //console.log("seasonGoalsFor",seasonGoalsFor);
 //console.log("seasonGoalsAgainst",seasonGoalsAgainst);
 console.log("seasonFixtures",seasonFixtures)
 console.log("Load after seasonFixtures")
 console.log("leagueAverageHomeGoalsScored",leagueAverageHomeGoalsScored);
 console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
+
+const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
+const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
