@@ -827,7 +827,7 @@ oddsArray = [];
   var fixtureTeam = new Object();
   //fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
   score = seasonFixturesInnerDivs[i].childNodes[2].textContent;
-  console.log("score",score);
+ // console.log("score",score);
 
   if(score.includes(":")) break;
 
@@ -877,7 +877,7 @@ if(fixtureTeam.hName == "Bishop`s St.")  fixtureTeam.hName = "Bishop's St.";
   fixtureTeam.aScore = score[1];
 
   seasonFixtures.push(fixtureTeam);
-  console.log(fixtureTeam);
+  //console.log(fixtureTeam);
 
  }
  console.log("seasonFixtures",seasonFixtures);
