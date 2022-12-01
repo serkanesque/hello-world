@@ -1463,14 +1463,9 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
 
   awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
   var fixture = new Object();
-  if(awayTeamTds[3].childNodes[0].textContent.length < 7) {
-       awayTeam2 = awayTeamTds[3].childNodes[1].textContent.replace(/[^\w\s]/gi, ''); 
-      } else {
-        awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, ''); 
-      }
 
-       // awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, ''); 
-     
+        awayTeam2 = awayTeamTds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, ''); 
+
       console.log("awayTeam2",awayTeam2);
     awayTeam2 = awayTeam2.trim();
   
