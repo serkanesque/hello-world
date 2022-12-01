@@ -2637,7 +2637,7 @@ var pointsDifference = (topPoints - bottomPoints)/10;
 
 var pointsGiven = 0;
 relativeStrengthTable = [];
-
+if(league !== "india1") {
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
     homeTableTeam = new Object();
     homeTableTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
@@ -2677,6 +2677,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
 (homeTableTeam.pointsGiven).toFixed(2);
 parseFloat(homeTableTeam.pointsGiven);
   relativeStrengthTable.push(homeTableTeam);
+}
 }
 relativeStrengthTable.sort(function(a, b) {
   //if (a.drawPercent < b.drawPercent) return -1;
