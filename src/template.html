@@ -2732,7 +2732,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.goalsFor =  poissonHomeTeam.goalsFor + matchResult.hScore;
     poissonHomeTeam.goalsAgainst = poissonHomeTeam.goalsAgainst + matchResult.aScore;   
 
-    if(venue === "home") {
+    if(venue == "home") {
       let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
     } else {
       let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == homeDrawTableTrs[j].firstChild.textContent});
