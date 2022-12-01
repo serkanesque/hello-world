@@ -2302,12 +2302,14 @@ sixGameMarkup = sixGameMarkup + '</td></tr></table></div></td></tr>';
             // console.log(awayGoalsFor);
 
 //<div class='+awayMatchResult.class + ' id='+ awayMatchResult.opponent +'>'+ awayMatchResult.lastGame + '<span class=toolTip>' + awayMatchResult.score +'</span>' + '</div><div class='+awayMatchResult2.class +' id='+ awayMatchResult2.opponent +'>'+ awayMatchResult2.lastGame + '<span class=toolTip>' + awayMatchResult2.score +'</span>' + '</div>' + '<div class='+awayMatchResult3.class +' id='+ awayMatchResult3.opponent +'>'+ awayMatchResult3.lastGame + '<span class=toolTip>' + awayMatchResult3.score +'</span>' + '</div><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td>
- if(matchResultAwayTeam.lastGame != "D" && matchResultAwayTeam2.lastGame != "D" && matchResultAwayTeam3.lastGame != "D" && matchResultAwayTeam4.lastGame != "D" && matchResultAwayTeam5.lastGame != "D" && matchResultAwayTeam6.lastGame != "D" && matchResultAwayTeam7.lastGame != "D" && matchResultAwayTeam8.lastGame != "D" && matchResultAwayTeam9.lastGame != "D" && matchResultAwayTeam10.lastGame != "D" ) {
+
+if(league !== "india1") {
+  if(matchResultAwayTeam.lastGame != "D" && matchResultAwayTeam2.lastGame != "D" && matchResultAwayTeam3.lastGame != "D" && matchResultAwayTeam4.lastGame != "D" && matchResultAwayTeam5.lastGame != "D" && matchResultAwayTeam6.lastGame != "D" && matchResultAwayTeam7.lastGame != "D" && matchResultAwayTeam8.lastGame != "D" && matchResultAwayTeam9.lastGame != "D" && matchResultAwayTeam10.lastGame != "D" ) {
  
         
       rowClassA ="noDraws";
     }  
-
+  }
 
 
 
