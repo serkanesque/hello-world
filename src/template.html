@@ -2868,10 +2868,13 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
             var stats = new Statistics();
             var stats2 = new Statistics();
-            var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
-            var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
+            //var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
+            //var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
             //console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored);
            // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
+           console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
+           console.log("homeTeamPSingle2");
+           console.log("awayTeamPSingle2");
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);            
 
@@ -2917,7 +2920,7 @@ function calculateProbabilites2(array,homeTeam) {
   if (a.probability > b.probability) return -1;
  });
  //console.log("probabilities.slic",probabilities.slice(0, 5));
- console.log("probabilities.slic",probabilities);
+ //console.log("probabilities.slic",probabilities);
   for (var j = 0; j < probabilities.length; j++) {
         if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.winP += probabilities[j].probability2;
         if(probabilities[j].home === probabilities[j].away) probabilityFixtureObject.drawP += probabilities[j].probability2;
