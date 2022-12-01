@@ -2718,7 +2718,7 @@ console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
 console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
-let poissonTableHome = [];
+ poissonTableHome = [];
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
@@ -2735,7 +2735,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     if(venue == "home") {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
     } else {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == homeDrawTableTrs[j].firstChild.textContent});
+       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
     }
 
 
@@ -2839,8 +2839,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             var stats2 = new Statistics();
             var homeTeamPSingle = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.avgGoalsFor);
             var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
-           // console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageGoalsFor);
-           // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor)
+            console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageGoalsFor);
+            console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor)
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageGoalsFor);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageGoalsFor);            
 
