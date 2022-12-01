@@ -2711,11 +2711,14 @@ function getSeasonAverageGoalsAway(fixtureArray) {
   return seasonGoalsAgainst / fixtureArray.length;
 }
 
-console.log("seasonFixtures",seasonFixtures)
+
+
 const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures)
 const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures)
 //console.log("seasonGoalsFor",seasonGoalsFor);
 //console.log("seasonGoalsAgainst",seasonGoalsAgainst);
+console.log("seasonFixtures",seasonFixtures)
+console.log("Load after seasonFixtures")
 console.log("leagueAverageHomeGoalsScored",leagueAverageHomeGoalsScored);
 console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
 
