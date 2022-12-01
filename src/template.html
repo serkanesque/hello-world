@@ -2805,7 +2805,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.played =  0;
     poissonHomeTeam.goalsFor =  0;
     poissonHomeTeam.goalsAgainst = 0 ;
-
+    if(matchResult.hScore !== "pp.")  {
     if(venue == "home") {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
        homeTeamFixturesArrayTest.reverse();
@@ -2814,7 +2814,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
        homeTeamFixturesArrayTest.reverse();
     }
-
+  }
     for (var i = 0; i < 6; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(venue == "home") {
