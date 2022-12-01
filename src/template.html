@@ -2806,26 +2806,28 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.goalsFor =  0;
     poissonHomeTeam.goalsAgainst = 0 ;
     if(matchResult.hScore !== "pp.")  {
-    if(venue == "home") {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
-       homeTeamFixturesArrayTest.reverse();
+        if(venue == "home") {
+          homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
+          homeTeamFixturesArrayTest.reverse();
 
-    } else {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
-       homeTeamFixturesArrayTest.reverse();
-    }
+        } else {
+          homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
+          homeTeamFixturesArrayTest.reverse();
+        }
   }
     for (var i = 0; i < 6; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
-        if(venue == "home") {
-          poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
-          poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
-        } else {
-          poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
-          poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
-        }
+        if(matchResult.hScore !== "pp.")  {
+            if(venue == "home") {
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
+              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
+            } else {
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
+              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
+            }
 
         poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+      }
     }
     // Method 1
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
