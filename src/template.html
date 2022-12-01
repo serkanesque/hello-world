@@ -425,9 +425,8 @@ var currentHours = d.getHours()
 
 
 
-get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
-
- document.getElementById("homeRows").innerHTML = response;
+get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+ document.getElementById("fixtures").innerHTML = response;
 }).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
 
  document.getElementById("awayRows").innerHTML = response;
@@ -444,9 +443,9 @@ get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt')
 
 
  document.getElementById("halfTimeAwayTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
 
- document.getElementById("fixtures").innerHTML = response;
+ document.getElementById("homeRows").innerHTML = response;
 })).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeGoals.txt').then(function(response) {
 
  document.getElementById("homeGoals").innerHTML = response;
