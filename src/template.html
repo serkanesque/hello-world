@@ -2722,6 +2722,7 @@ function getSeasonAverageGoalsAway(fixtureArray) {
 
     } else {
       seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
+      console.log("fixtureArray[s].aScore",fixtureArray[s].aScore)
     }
   return seasonGoalsAgainst / fixtureArray.length;
 }
