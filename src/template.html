@@ -2717,11 +2717,11 @@ const leagueAverageGoalsAgainst = getSeasonAverageGoalsAway(seasonFixtures)
 console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
 console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
 
-
-poissonTableHome = [];
-for (var j = 0; j < homeDrawTableTrs.length; j++) {
+function calcHomeAttackDefence(teamsArrayTrs) {
+let poissonTableHome = [];
+for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
-    poissonHomeTeam.name =  homeDrawTableTrs[j].firstChild.textContent;
+    poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
     poissonHomeTeam.played = 0;
     poissonHomeTeam.wins = 0;
     poissonHomeTeam.goalsFor = 0;
@@ -2732,10 +2732,10 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonHomeTeam.goalsFor =  poissonHomeTeam.goalsFor + matchResult.hScore;
     poissonHomeTeam.goalsAgainst = poissonHomeTeam.goalsAgainst + matchResult.aScore;   
 
-    const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
+    let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
 
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
-        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");      
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, "home");      
         poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
         poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
         poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
@@ -2752,10 +2752,13 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
 
     poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
-
-
     poissonTableHome.push(poissonHomeTeam);
   }
+  return poissonTableHome;
+}
+
+poissonTableHome = calcHomeAttackDefence(homeDrawTableTrs)
+
 console.log("poissonTableHome",poissonTableHome);
 
 
