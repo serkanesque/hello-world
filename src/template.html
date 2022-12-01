@@ -2916,8 +2916,8 @@ function calculateProbabilites2(array,homeTeam) {
   if (a.probability < b.probability) return 1;
   if (a.probability > b.probability) return -1;
  });
- console.log("probabilities.slic",probabilities.slice(0, 5));
-
+ //console.log("probabilities.slic",probabilities.slice(0, 5));
+ console.log("probabilities.slic",probabilities);
   for (var j = 0; j < probabilities.length; j++) {
         if(probabilities[j].home  > probabilities[j].away) probabilityFixtureObject.winP += probabilities[j].probability2;
         if(probabilities[j].home === probabilities[j].away) probabilityFixtureObject.drawP += probabilities[j].probability2;
