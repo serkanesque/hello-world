@@ -2704,7 +2704,7 @@ function getSeasonAverageGoalsHome(fixtureArray) {
   var seasonGoalsFor = 0;
   for (var s = 0; s < fixtureArray.length; s++) {
       if(fixtureArray[s].hScore && fixtureArray[s].hScore!== "pp.") {
-      console.log("fixtureArray[s].hScore",fixtureArray[s].hScore);
+    //  console.log("fixtureArray[s].hScore",fixtureArray[s].hScore);
       seasonGoalsFor += parseInt(fixtureArray[s].hScore);
        } 
       }
@@ -2718,7 +2718,7 @@ function getSeasonAverageGoalsAway(fixtureArray) {
   for (var s = 0; s < fixtureArray.length; s++) {
     if(fixtureArray[s].aScore && fixtureArray[s].aScore!== "pp.") {
       seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
-      console.log("fixtureArray[s].aScore",fixtureArray[s].aScore)
+     // console.log("fixtureArray[s].aScore",fixtureArray[s].aScore)
     } 
   }
   return seasonGoalsAgainst / fixtureArray.length;
