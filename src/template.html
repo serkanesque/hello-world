@@ -2703,8 +2703,7 @@ console.log("Load after seasonFixtures")
 function getSeasonAverageGoalsHome(fixtureArray) {
   var seasonGoalsFor = 0;
   for (var s = 0; s < fixtureArray.length; s++) {
-    console.log("fixtureArray[s].hScore",fixtureArray[s].hScore);
-    seasonGoalsFor += parseInt(fixtureArray[s].hScore);
+    if(fixtureArray[s].hScore != "pp.") seasonGoalsFor += parseInt(fixtureArray[s].hScore);
   }
   return seasonGoalsFor / fixtureArray.length;
 }
@@ -2714,11 +2713,11 @@ function getSeasonAverageGoalsHome(fixtureArray) {
 function getSeasonAverageGoalsAway(fixtureArray) {
   var seasonGoalsAgainst = 0;
   for (var s = 0; s < fixtureArray.length; s++) {
-    seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
+    if(fixtureArray[s].aScore != "pp.") seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
   }
   return seasonGoalsAgainst / fixtureArray.length;
 }
-console.log("Fixture array length",seasonFixtures.length)
+
 const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures);
 const leagueAverageAwayGoalsScored = getSeasonAverageGoalsAway(seasonFixtures);
 
