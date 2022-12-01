@@ -2718,7 +2718,7 @@ console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
 console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
- poissonTableHome = [];
+ poissonTableArray = [];
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
@@ -2755,17 +2755,17 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageGoalsFor;
-    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageGoalsAgainst;
+    poissonHomeTeam.AttackStrength = poissonHomeTeam.goalsFor / leagueAverageGoalsFor;
+    poissonHomeTeam.DefenceStrength = poissonHomeTeam.goalsAgainst / leagueAverageGoalsAgainst;
     
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
     poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
 
     poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
-    poissonTableHome.push(poissonHomeTeam);
+    poissonTableArray.push(poissonHomeTeam);
   }
-  return poissonTableHome;
+  return poissonTableArray;
 }
 
 poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
