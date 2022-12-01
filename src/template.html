@@ -2717,7 +2717,7 @@ const leagueAverageGoalsAgainst = getSeasonAverageGoalsAway(seasonFixtures)
 console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
 console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
 
-function calcHomeAttackDefence(teamsArrayTrs) {
+function calcAttackDefenceTable(teamsArrayTrs,venue) {
 let poissonTableHome = [];
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
@@ -2732,10 +2732,15 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.goalsFor =  poissonHomeTeam.goalsFor + matchResult.hScore;
     poissonHomeTeam.goalsAgainst = poissonHomeTeam.goalsAgainst + matchResult.aScore;   
 
-    let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
+    if(venue === "home") {
+      let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
+    } else {
+      let homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == homeDrawTableTrs[j].firstChild.textContent});
+    }
+
 
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
-        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, "home");      
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);      
         poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
         poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
         poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
@@ -2757,12 +2762,14 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   return poissonTableHome;
 }
 
-poissonTableHome = calcHomeAttackDefence(homeDrawTableTrs)
+poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
+poissonTableAway = calcAttackDefenceTable(homeDrawTableTrs, "away")
 
 console.log("poissonTableHome",poissonTableHome);
-
+console.log("poissonTableAway",poissonTableAway);
 
 //Poisson 
+/*
 poissonTableAway = [];
 for (var j = 0; j < homeDrawTableTrs.length; j++) {
     poissonAwayTeam = new Object(); 
@@ -2800,7 +2807,8 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     ;
     poissonTableAway.push(poissonAwayTeam);
   }
-console.log("poissonTableAway",poissonTableAway);
+  */
+
 
 
 
