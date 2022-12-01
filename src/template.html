@@ -2682,26 +2682,40 @@ console.log("relativeStrengthTable",relativeStrengthTable)
 
 
 
+
+
+
 //Poisson 
 
 
-var seasonGoalsFor = 0;
-var seasonGoalsAgainst = 0;
-for (var s = 0; s < seasonFixtures.length; s++) {
-  seasonGoalsFor += parseInt(seasonFixtures[s].hScore);
-}
-for (var s = 0; s < seasonFixtures.length; s++) {
-  seasonGoalsAgainst += parseInt(seasonFixtures[s].aScore);
+
+
+
+function getSeasonAverageGoalsHome(fixtureArray) {
+  var seasonGoalsFor = 0;
+  for (var s = 0; s < fixtureArray.length; s++) {
+    seasonGoalsFor += parseInt(fixtureArray[s].hScore);
+  }
+  return seasonGoalsFor / fixtureArray.length;
 }
 
-leagueAverageGoalsFor = seasonGoalsFor / seasonFixtures.length;
-leagueAverageGoalsAgainst = seasonGoalsAgainst / seasonFixtures.length;
 
-console.log("seasonGoalsFor",seasonGoalsFor);
-console.log("seasonGoalsAgainst",seasonGoalsAgainst);
+
+function getSeasonAverageGoalsAway(fixtureArray) {
+  var seasonGoalsAgainst = 0;
+  for (var s = 0; s < fixtureArray.length; s++) {
+    seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
+  }
+  return seasonGoalsAgainst / fixtureArray.length;
+}
+
+
+leagueAverageGoalsFor = getSeasonAverageGoalsHome(seasonFixtures)
+leagueAverageGoalsAgainst = getSeasonAverageGoalsAway(seasonFixtures)
+//console.log("seasonGoalsFor",seasonGoalsFor);
+//console.log("seasonGoalsAgainst",seasonGoalsAgainst);
 console.log("leagueAverageGoalsFor",leagueAverageGoalsFor);
 console.log("leagueAverageGoalsAgainst",leagueAverageGoalsAgainst);
-
 
 
 poissonTableHome = [];
