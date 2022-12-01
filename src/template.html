@@ -2640,7 +2640,7 @@ for (var j = 0; j < homeDrawTableTrs.length; j++) {
     homeTableTeam.losses = 0;
    const homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == homeDrawTableTrs[j].firstChild.textContent});
    homeTeamFixturesArrayTest.reverse();
-  console.log("homeTableTeam.name",homeTableTeam.name);
+ // console.log("homeTableTeam.name",homeTableTeam.name);
   for (var i = 0; i < 6; i++) {   
     //for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {    
     matchResult = determineResultHome(homeTeamFixturesArrayTest[i], homeDrawTableTrs[j].firstChild.textContent, "home");    
