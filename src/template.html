@@ -2855,9 +2855,9 @@ function displayPoissonScores (array,homeTeam){
   if (a.probability2 > b.probability2) return -1;
  });
  let slicedArray = probabilities.slice(0, 5);
- var poissonScoreMarkup = "";
+ var poissonScoreMarkup = "<table>";
  for (let j = 0; j < slicedArray.length; j++) {  
-  poissonScoreMarkup +=  "<table><tr><td>" + slicedArray[j].home + "<td><td>" + slicedArray[j].away + "<td><td>" + slicedArray[j].probability2 + "<td></tr></table>";
+  poissonScoreMarkup +=  "<tr><td>" + slicedArray[j].home + "<td><td>" + slicedArray[j].away + "<td><td>" + slicedArray[j].probability2 + "<td></tr>";
  }
  return poissonScoreMarkup;
 }
