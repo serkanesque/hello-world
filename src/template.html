@@ -2729,105 +2729,6 @@ while(standardDeviation.length > 0) {
   if (a > b) return -1;
  });
  stdDeviationN = math.std(stdDeviation);
-  //   console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
- 
-     for (var d = 0; d < stdDeviation.length; d++) {
-      if(stdDeviation[d] > stdDeviationN*3){
-        standardDeviation3.push(stdDeviation[d]);
-      } else if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < stdDeviationN*3){
-        standardDeviation2.push(stdDeviation[d]) 
-      } else if(stdDeviation[d] < stdDeviationN && stdDeviation[d] >0) {
-        standardDeviation.push(stdDeviation[d]);
-      }
-     }
-     //console.log("standardDeviation3",standardDeviation3)
-//console.log("standardDeviation2",standardDeviation2)
-//console.log("standardDeviation",standardDeviation)
-    }
-    
-  
-    
-    // Method 1
-    poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
-    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
-    // Method 2
-    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor  / leagueAverageHomeGoalsScored;
-    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
-    
-
-
-    poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
-    poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
-    poissonTableArray.push(poissonHomeTeam);
-  }
-  if(venue == "home")  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
-  return poissonTableArray;
-}
-
-
-
-
-function calcStandardDefinton(teamsArrayTrs,venue) {
- poissonTableArray = [];
-
-for (var j = 0; j < teamsArrayTrs.length; j++) {
-  stdDeviation = [];
- standardDeviation3 = [];
-     standardDeviation2 = [];
-     standardDeviation = [];
-     leagueWidestandardDeviation = [];
-while(standardDeviation3.length > 0) {
-  standardDeviation3.pop();
-}
-while(standardDeviation2.length > 0) {
-  standardDeviation2.pop();
-}
-while(standardDeviation.length > 0) {
-  standardDeviation.pop();
-}
-    poissonHomeTeam = new Object(); 
-    poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
-    poissonHomeTeam.played = 0;
-    poissonHomeTeam.wins = 0;
-    poissonHomeTeam.goalsFor = 0;
-    poissonHomeTeam.goalsAgainst = 0;
-    poissonHomeTeam.avgGoalsFor = 0;
-    poissonHomeTeam.avgGoalsAgainst = 0;
-    poissonHomeTeam.played =  0;
-    poissonHomeTeam.goalsFor =  0;
-    poissonHomeTeam.goalsAgainst = 0 ;
-
-    if(venue == "home") {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
-    } else {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
-    }
-
-
-    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
-        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
-        if(matchResult.hScore && matchResult.hScore !== "pp.")  {
-            if(venue == "home") {
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
-              stdDeviation.push(matchResult.hScore);
-              leagueWidestandardDeviation.push(matchResult.hScore);
-              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
-              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
-            } else {
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
-              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
-              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
-            }
-  
-      }
-    }
-    if(venue == "home") {
-    math.std(stdDeviation);
-    stdDeviation.sort(function(a, b) {
-  if (a < b) return 1;
-  if (a > b) return -1;
- });
- stdDeviationN = leagueWidestandardDeviation;
      console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
  
      for (var d = 0; d < stdDeviation.length; d++) {
@@ -2839,7 +2740,7 @@ while(standardDeviation.length > 0) {
         standardDeviation.push(stdDeviation[d]);
       }
      }
-  console.log("standardDeviation3",standardDeviation3)
+     console.log("standardDeviation3",standardDeviation3)
 console.log("standardDeviation2",standardDeviation2)
 console.log("standardDeviation",standardDeviation)
     }
@@ -2862,7 +2763,11 @@ console.log("standardDeviation",standardDeviation)
   if(venue == "home")  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
   return poissonTableArray;
 }
-console.log(calcStandardDefinton(homeDrawTableTrs, "home"))
+
+
+
+
+
 poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
 poissonTableAway = calcAttackDefenceTable(homeDrawTableTrs, "away")
 
@@ -2903,7 +2808,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
           //console.log("matchResult last 3",matchResult)
             if(venue == "home") {
               if(matchResult.hScore > 2) {
-                goalDampner = leagueWidestandardDeviation * matchResult.hScore;
+                goalDampner =  matchResult.hScore * 0.833333;
               } else {
                 goalDampner = matchResult.hScore;
               }
