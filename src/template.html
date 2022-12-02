@@ -6,6 +6,8 @@
 <script src="statistics.min.js" type="text/javascript"></script>
 </head>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js.map" type="text/javascript"></script>
 <script
   src="https://code.jquery.com/jquery-3.6.1.min.js"
   integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
@@ -2668,6 +2670,7 @@ console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
+ stdDeviation = [];
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
@@ -2693,6 +2696,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
+              stdDeviation.push(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             } else {
@@ -2716,6 +2720,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
     poissonTableArray.push(poissonHomeTeam);
   }
+  console.log("standard deviation", math.std(stdDeviation));
   return poissonTableArray;
 }
 
@@ -2760,11 +2765,13 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
             if(venue == "home") {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             } else {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             }
-          poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+     
       }
     }
     // Method 1
@@ -2818,8 +2825,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
            // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
           // console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
          
-            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
-            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored); 
+          //  var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
+          //  var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored); 
             
             // method 2
 
