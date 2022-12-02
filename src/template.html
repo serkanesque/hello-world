@@ -2846,14 +2846,14 @@ function calculateProbabilites2(array,homeTeam) {
 
 
 
-function displayPoissonScores (array,homeTeam){
+function displayPoissonScores (array,homeTeam,tableTitle){
   let probabilities = array.filter(el => el.homeSide == homeTeam );
   probabilities.sort(function(a, b) {
   if (a.probability2 < b.probability2) return 1;
   if (a.probability2 > b.probability2) return -1;
  });
  let slicedArray = probabilities.slice(0, 6);
- var poissonScoreMarkup = "<table>";
+ var poissonScoreMarkup = "<table><th>"+ tableTitle;
  for (let j = 0; j < slicedArray.length; j++) {  
   poissonScoreMarkup +=  "<tr><td>" + slicedArray[j].home + "</td><td>" + slicedArray[j].away + "</td><td>" + slicedArray[j].probability2 + "</td></tr>";
  }
@@ -2874,8 +2874,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
   let el = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores");
   let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
-  el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam);
-  el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam);
+  el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
+  el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
 
 }
 
