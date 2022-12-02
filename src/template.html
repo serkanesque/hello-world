@@ -2804,7 +2804,9 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
           //console.log("matchResult last 3",matchResult)
             if(venue == "home") {
+              console.log("before",matchResult.hScore)
               if(matchResult.hScore > 2) matchResult.hScore =  matchResult.hScore * 0.833333;    
+              console.log("after",matchResult.hScore)
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
