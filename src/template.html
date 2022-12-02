@@ -2941,6 +2941,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].append(displayPoissonScores(scoreDataArray));
+
  /*
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "</span>";
@@ -2948,7 +2950,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   */
 }
 
-function displayPoissonScores (array){
+function displayPoissonScores (array,homeTeam){
+  let probabilities = array.filter(el => el.homeSide == homeTeam );
   array.sort(function(a, b) {
   if (a.probability2 < b.probability2) return 1;
   if (a.probability2 > b.probability2) return -1;
@@ -2956,12 +2959,11 @@ function displayPoissonScores (array){
  let slicedArray = array.slice(0, 5);
  var poissonScoreMarkup = "";
  for (let j = 0; j < slicedArray.length; j++) {  
-  poissonScoreMarkup +=  "<table><tr><td>" + array[j].home + "<td><td>" + array[j].away + "<td><td>" + array[j].probability2 + "<td></tr></table>";
+  poissonScoreMarkup +=  "<table><tr><td>" + slicedArray[j].home + "<td><td>" + arraslicedArrayy[j].away + "<td><td>" + slicedArray[j].probability2 + "<td></tr></table>";
  }
- document.getElementById("grid").append(poissonScoreMarkup);
+ return poissonScoreMarkup;
 }
 
-displayPoissonScores(scoreDataArray);
 
 
 
