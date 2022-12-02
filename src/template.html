@@ -2876,12 +2876,12 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
          
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);            
-            console.log("homeTeamPSingle2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
-           console.log("awayTeamPSingle2", awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);
+            //console.log("homeTeamPSingle2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
+           //console.log("awayTeamPSingle2", awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);
 
             //let sum = (homeTeamPSingle*awayTeamPSingle)*100;
             let sum2 = parseFloat(homeTeamPSingle2).toFixed(3)*parseFloat(awayTeamPSingle2).toFixed(3)*100;
-            console.log("sum",sum2);
+            //console.log("sum",sum2);
            // console.log("homeTeamPoissonb",homeTeamPoisson);
             let score = {
                   homeSide: homeTeamPoisson.name,
@@ -2890,7 +2890,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
                   away: awayScoreVariations[k],                  
                   probability2: sum2
                 };
-                console.log(score);
+              //  console.log(score);
                 scoreData.push(score);         
         }
     };
