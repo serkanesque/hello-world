@@ -2736,7 +2736,7 @@ while(standardDeviation.length > 0) {
         standardDeviation3.push(stdDeviation[d]);
       } else if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < stdDeviationN*3){
         standardDeviation2.push(stdDeviation[d]) 
-      } else if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < (stdDeviationN*2)) {
+      } else if(stdDeviation[d] < stdDeviationN && stdDeviation[d] >0) {
         standardDeviation.push(stdDeviation[d]);
       }
      }
