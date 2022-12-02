@@ -2272,7 +2272,7 @@ sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" class='+awayTeam
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr id='+ h + ' class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table></div><div class="poissonScoresTable"><div class="poissonScores"></div><div class="poissonScoresLast6"></div>';
+sixGameMarkup = sixGameMarkup + '</table></div><div class="poissonScoresTable"><div class="poissonScores"></div><div class="poissonScoresLast6"></div><div class="poissonScoresLast3"></div>';
 
 
 
@@ -2721,7 +2721,7 @@ console.log("poissonTableAway",poissonTableAway);
 
 
 
-function calcAttackDefenceTableLast6(teamsArrayTrs,venue) {
+function calcAttackDefenceTableLastN(teamsArrayTrs,venue,numberOfGames) {
  poissonTableArray = [];
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
@@ -2745,7 +2745,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
           homeTeamFixturesArrayTest.reverse();
         }
   }
-    for (var i = 0; i < 6; i++) {
+    for (var i = 0; i < numberOfGames; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
@@ -2775,8 +2775,11 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   return poissonTableArray;
 }
 
-poissonTableHomeLast6 = calcAttackDefenceTableLast6(homeDrawTableTrs, "home")
-poissonTableAwayLast6 = calcAttackDefenceTableLast6(homeDrawTableTrs, "away")
+poissonTableHomeLast6 = calcAttackDefenceTableLastN(homeDrawTableTrs, "home",6)
+poissonTableAwayLast6 = calcAttackDefenceTableLastN(homeDrawTableTrs, "away",6)
+
+poissonTableHomeLast3 = calcAttackDefenceTableLastN(homeDrawTableTrs, "home",3)
+poissonTableAwayLast3 = calcAttackDefenceTableLastN(homeDrawTableTrs, "away",3)
 
 console.log("poissonTableHomeLast6",poissonTableHomeLast6);
 console.log("poissonTableAwayLast6",poissonTableAwayLast6);
@@ -2832,9 +2835,7 @@ scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
 console.log("scoreDataArray",scoreDataArray);
 scoreDataArrayLast6 = scoreData(poissonTableHomeLast6,poissonTableAwayLast6)
 console.log("scoreDataArrayLast6",scoreDataArrayLast6);
-
-
-
+scoreDataArrayLast3 = scoreData(poissonTableHomeLast3,poissonTableAwayLast3)
 
 
 function calculateProbabilites2(array,homeTeam) {
@@ -2888,6 +2889,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
   let fixturePoisson2 = calculateProbabilites2(scoreDataArray,homeTeam);
   let fixturePoisson3 = calculateProbabilites2(scoreDataArrayLast6,homeTeam);
+  let fixturePoisson4 = calculateProbabilites2(scoreDataArrayLast3,homeTeam);
 
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
@@ -2895,9 +2897,10 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
   let el = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores");
   let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
+  let el3 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast3");
   el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
   el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
-
+  el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
 }
 
 
