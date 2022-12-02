@@ -2763,15 +2763,12 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
       }
     }
     // Method 1
-  //  poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
-   // poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
+    poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
+    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-   // poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageHomeGoalsScored;
-   // poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageAwayGoalsScored;
-
-    // Method 2
-    poissonHomeTeam.AttackStrength = poissonHomeTeam.goalsFor   / leagueAverageHomeGoalsScored;
-    poissonHomeTeam.DefenceStrength = poissonHomeTeam.goalsAgainst / leagueAverageAwayGoalsScored;
+    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageHomeGoalsScored;
+    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageAwayGoalsScored;
+    
     
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
     poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
