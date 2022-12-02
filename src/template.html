@@ -2855,7 +2855,7 @@ function displayPoissonScores (array,homeTeam,tableTitle){
  let slicedArray = probabilities.slice(0, 6);
  var poissonScoreMarkup = "<table><th>"+ tableTitle;
  for (let j = 0; j < slicedArray.length; j++) {  
-  poissonScoreMarkup +=  "<tr><td>" + slicedArray[j].home + "</td><td>" + slicedArray[j].away + "</td><td>" + slicedArray[j].probability2 + "</td></tr>";
+  poissonScoreMarkup +=  "<tr><td>" + slicedArray[j].home + "</td><td>" + slicedArray[j].away + "</td><td>" + (slicedArray[j].probability2).toFixed(2) + "</td></tr>";
  }
  return poissonScoreMarkup;
 }
