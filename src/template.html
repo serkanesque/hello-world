@@ -2248,7 +2248,7 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr id='+ h + ' class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
-sixGameMarkup = sixGameMarkup + '<table id="poissonScore"></table>';
+
 
 
 sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" class='+awayTeam.split(' ').join('')+'  style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
@@ -2335,7 +2335,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
 for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
 }
-markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td><button class="save">Save</button></td>' + sixGameMarkup;
+markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td><button class="save">Save</button></td>' + sixGameMarkup + '<table id="poissonScore"></table>';
 //console.log("sixGameMarkup 2",sixGameMarkup);
 
 }
