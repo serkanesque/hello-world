@@ -2715,15 +2715,18 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
  });
  stdDeviationN = math.std(stdDeviation)
      console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
-
+     standardDeviation3 = [];
+     standardDeviation2 = [];
+     standardDeviation = [];
      for (var d = 0; d < stdDeviation.length; d++) {
-      if(stdDeviation[d] > (stdDeviationN*3)) console.log("3 stdDeviations", stdDeviation[d])
-      if(stdDeviation[d] > (stdDeviationN*2)) console.log("2 stdDeviations",stdDeviation[d])
-      if(stdDeviation[d] > stdDeviationN) console.log("2 stdDeviations",stdDeviation[d])
+      if(stdDeviation[d] > (stdDeviationN*3)) standardDeviation3,push(stdDeviation[d]);
+      if(stdDeviation[d] > (stdDeviationN*2)) standardDeviation2.push(stdDeviation[d]);
+      if(stdDeviation[d] > stdDeviationN) standardDeviation.push(stdDeviation[d]);
      }
     }
-
-
+console.log("standardDeviation3",standardDeviation3)
+console.log("standardDeviation2",standardDeviation2)
+console.log("standardDeviation",standardDeviation)
     // Method 1
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
