@@ -2671,6 +2671,18 @@ console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
  stdDeviation = [];
+ standardDeviation3 = [];
+     standardDeviation2 = [];
+     standardDeviation = [];
+while(standardDeviation3.length > 0) {
+  standardDeviation3.pop();
+}
+while(standardDeviation2.length > 0) {
+  standardDeviation2.pop();
+}
+while(standardDeviation.length > 0) {
+  standardDeviation.pop();
+}
 for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
@@ -2715,9 +2727,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
  });
  stdDeviationN = math.std(stdDeviation)
      console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
-     standardDeviation3 = [];
-     standardDeviation2 = [];
-     standardDeviation = [];
+ 
      for (var d = 0; d < stdDeviation.length; d++) {
       if(stdDeviation[d] > stdDeviationN*3){
         standardDeviation3.push(stdDeviation[d]);
@@ -2731,15 +2741,6 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
 console.log("standardDeviation2",standardDeviation2)
 console.log("standardDeviation",standardDeviation)
 
-while(standardDeviation3.length > 0) {
-  standardDeviation3.pop();
-}
-while(standardDeviation2.length > 0) {
-  standardDeviation2.pop();
-}
-while(standardDeviation.length > 0) {
-  standardDeviation.pop();
-}
 
 
     }
