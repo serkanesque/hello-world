@@ -2880,7 +2880,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
            console.log("awayTeamPSingle2", awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);
 
             //let sum = (homeTeamPSingle*awayTeamPSingle)*100;
-            let sum2 = (homeTeamPSingle2*awayTeamPSingle2)*100;
+            let sum2 = parseFloat(homeTeamPSingle2).toFixed(3)*parseFloat(awayTeamPSingle2).toFixed(3)*100;
             console.log("sum",sum2);
            // console.log("homeTeamPoissonb",homeTeamPoisson);
             let score = {
