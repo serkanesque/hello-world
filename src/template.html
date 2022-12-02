@@ -2713,11 +2713,13 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   if (a < b) return 1;
   if (a > b) return -1;
  });
-     console.log("standard deviation", poissonHomeTeam.name , math.std(stdDeviation));
+ stdDeviationN = math.std(stdDeviation)
+     console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
 
      for (var d = 0; d < stdDeviation.length; d++) {
-      if(stdDeviation[d] > (stdDeviation[d]*3)) console.log("3 stdDeviations", stdDeviation[d])
-      if(stdDeviation[d] > (stdDeviation[d]*2)) console.log("2 stdDeviations",stdDeviation[d])
+      if(stdDeviation[d] > (stdDeviationN*3)) console.log("3 stdDeviations", stdDeviation[d])
+      if(stdDeviation[d] > (stdDeviationN*2)) console.log("2 stdDeviations",stdDeviation[d])
+      if(stdDeviation[d] > stdDeviationN) console.log("2 stdDeviations",stdDeviation[d])
      }
     }
 
