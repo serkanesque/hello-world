@@ -2255,35 +2255,7 @@ sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" class='+awayTeam
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr id='+ h + ' class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table>';
-//console.log("sixGameMarkup1",sixGameMarkup);
-/*
-sixGameMarkup = sixGameMarkup + '<td><table style="width: 100%;"><tr><th colspan=4>Last 6 Away</th></tr>'+'<tr><td>';
-
-for (h=0; h<awayGameTotal.length; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td>' +  awayGameTotal[h].hName + '</td><td>' + awayGameTotal[h].hScore + '</td><td>' + awayGameTotal[h].aScore + '</td><td>' +  awayGameTotal[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></td>';
-
-
-
-sixGameMarkup = sixGameMarkup + '<td colspan=2><table style="width: 100%;"><tr><th colspan=4>Last 6 games</th></tr>'+'<tr><td>';
-
-for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td>' +  last6Home[h].hName + '</td><td>' + last6Home[h].hScore + '</td><td>' + last6Home[h].aScore + '</td><td>' +  last6Home[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></td>';
-
-
-sixGameMarkup = sixGameMarkup + '<td colspan=2><table style="width: 100%;"><tr><th colspan=4>Last 6 games</th></tr>'+'<tr><td>';
-for (h=0; h<6; h++) {
-sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td>' +  last6Away[h].hName + '</td><td>' + last6Away[h].hScore + '</td><td>' + last6Away[h].aScore + '</td><td>' +  last6Away[h].aName + '</td></tr>';
-}
-
-sixGameMarkup = sixGameMarkup + '</td></tr></table></div></td></tr>';
-*/
+sixGameMarkup = sixGameMarkup + '</table></div><div class="poissonScores">';
 
 
 
@@ -2355,7 +2327,7 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             }
             } //
 
-
+       
             document.getElementById('fixturesTable').innerHTML = markup;
 
             }
@@ -2941,7 +2913,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].append(displayPoissonScores(scoreDataArray,homeTeam));
+  leagueTablePoissonTrs[f].getElementsByClassName("poissonScores").innerHTML = displayPoissonScores(scoreDataArray,homeTeam);
 
  /*
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
@@ -2952,11 +2924,11 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
 function displayPoissonScores (array,homeTeam){
   let probabilities = array.filter(el => el.homeSide == homeTeam );
-  array.sort(function(a, b) {
+  probabilities.sort(function(a, b) {
   if (a.probability2 < b.probability2) return 1;
   if (a.probability2 > b.probability2) return -1;
  });
- let slicedArray = array.slice(0, 5);
+ let slicedArray = probabilities.slice(0, 5);
  var poissonScoreMarkup = "";
  for (let j = 0; j < slicedArray.length; j++) {  
   poissonScoreMarkup +=  "<table><tr><td>" + slicedArray[j].home + "<td><td>" + slicedArray[j].away + "<td><td>" + slicedArray[j].probability2 + "<td></tr></table>";
