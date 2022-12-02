@@ -2335,7 +2335,7 @@ if(typeof pastHomeFixture[0] === 'undefined') {
 for(z=0;z<awayGameTotal.length;z++){
 markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
 }
-markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td><button class="save">Save</button></td>' + sixGameMarkup + '<table id="poissonScore"></table>';
+markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td><button class="save">Save</button></td>' + sixGameMarkup;
 //console.log("sixGameMarkup 2",sixGameMarkup);
 
 }
@@ -2953,12 +2953,12 @@ function displayPoissonScores (array){
   if (a.probability2 < b.probability2) return 1;
   if (a.probability2 > b.probability2) return -1;
  });
- array.slice(0, 5);
+ let slicedArray = array.slice(0, 5);
  var poissonScoreMarkup = "";
- for (let j = 0; j < array.length; j++) {  
-  poissonScoreMarkup +=  "<tr><td>" + array[j].home + "<td><td>" + array[j].away + "<td><td>" + array[j].probability2 + "<td></tr>";
+ for (let j = 0; j < slicedArray.length; j++) {  
+  poissonScoreMarkup +=  "<table><tr><td>" + array[j].home + "<td><td>" + array[j].away + "<td><td>" + array[j].probability2 + "<td></tr></table>";
  }
- document.getElementById("poissonScore").innerHTML = poissonScoreMarkup;
+ document.getElementById("grid").append(poissonScoreMarkup);
 }
 
 displayPoissonScores(scoreDataArray);
