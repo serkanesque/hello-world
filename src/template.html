@@ -2676,6 +2676,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
  standardDeviation3 = [];
      standardDeviation2 = [];
      standardDeviation = [];
+     leagueWidestandardDeviation = [];
 while(standardDeviation3.length > 0) {
   standardDeviation3.pop();
 }
@@ -2710,6 +2711,7 @@ while(standardDeviation.length > 0) {
             if(venue == "home") {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
               stdDeviation.push(matchResult.hScore);
+              leagueWidestandardDeviation.push(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             } else {
@@ -2741,11 +2743,10 @@ while(standardDeviation.length > 0) {
      console.log("standardDeviation3",standardDeviation3)
 console.log("standardDeviation2",standardDeviation2)
 console.log("standardDeviation",standardDeviation)
-
-
-
     }
-
+    
+    console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
+    
     // Method 1
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
