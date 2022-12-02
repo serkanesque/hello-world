@@ -2258,7 +2258,7 @@ sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" class='+awayTeam
 for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr id='+ h + ' class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
 }
-sixGameMarkup = sixGameMarkup + '</table></div><div class="poissonScores">Test</div>';
+sixGameMarkup = sixGameMarkup + '</table></div><div class="poissonScoresTable"><div class="poissonScores"></div><div class="poissonScoresLast6"></div>';
 
 
 
@@ -2871,10 +2871,11 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
-  console.log(  leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores"));
-  console.log(displayPoissonScores(scoreDataArray,homeTeam));
+
   let el = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores");
+  let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
   el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam);
+  el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam);
 
 }
 
