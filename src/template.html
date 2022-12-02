@@ -848,6 +848,8 @@ if(fixtureTeam.hName == "M`gladbach B" || fixtureTeam.aName  == "M'gladbach B") 
   fixtureTeam.aName = aName.replace(/�/g, '');
 }
 
+if(fixtureTeam.hName == "Connah`s Quay")  fixtureTeam.hName = "Connah's Quay"; 
+  if(fixtureTeam.aName == "Connah`s Quay")  fixtureTeam.aName = "Connah's Quay"; 
 if(fixtureTeam.hName == "Eichst�tt")  fixtureTeam.hName = 'Eichstatt'; 
   if(fixtureTeam.aName == "Eichst�tt")  fixtureTeam.aName = 'Eichstatt';
 
@@ -1343,8 +1345,8 @@ if(homeTeam == "Saarbrcken")  homeTeam = 'Saarbrucken';
 
   if(homeTeam == "Jigawa G Stars")  homeTeam = 'Jigawa G. Stars'; 
 
-  if(homeTeam == "Connahs Quay")  homeTeam = 'Connah\'s Quay'; 
-  if(homeTeam == "Connahs Quay")  homeTeam = 'Connah`s Quay'; 
+  if(homeTeam == "Connahs Quay")  homeTeam = "Connah's Quay";  
+
   if(homeTeam == "Puskas Akad")  homeTeam = 'Puskas Akad.'; 
      if(homeTeam == "Spartak Sub")  homeTeam = "Spartak Sub."  
 
@@ -1568,8 +1570,7 @@ if(awayTeam == "Wuhan Three T")  awayTeam = 'Wuhan Three T.';
 
   if(awayTeam == "Jigawa G Stars")  awayTeam = 'Jigawa G. Stars'; 
   if(awayTeam == "Puskas Akad")  awayTeam = 'Puskas Akad.'; 
-  if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\`s Quay';  
-
+  if(awayTeam == "Connahs Quay")  awayTeam = "Connah's Quay";  
   if(awayTeam == "Spartak Sub")  awayTeam = "Spartak Sub."  
   if(awayTeam == "Hamilton Wand")  awayTeam = "Hamilton Wand." 
   if(awayTeam == "Wellington P")  awayTeam = "Wellington P." 
@@ -1660,7 +1661,7 @@ if(awayTeam == "Bowers  P")  awayTeam =  "Bowers & P."
       if(awayTeam == "JuventusU23")  awayTeam =  "Juventus-U23" 
       if(awayTeam == "V Francavilla")  awayTeam =  "V. Francavilla" 
       if(awayTeam == "F Karagumruk")  awayTeam = 'F. Karagumruk'; 
-      if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\`s Quay';  
+  
   //    console.log("awayTeam",awayTeam);
 
   } 
