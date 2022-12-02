@@ -2918,8 +2918,8 @@ function calculateProbabilites2(array,homeTeam) {
   probabilityFixtureObject.lossP = 0;
   let probabilities = array.filter(el => el.homeSide == homeTeam );
   probabilities.sort(function(a, b) {
-  if (a.probability < b.probability) return 1;
-  if (a.probability > b.probability) return -1;
+  if (a.probability2 < b.probability2) return 1;
+  if (a.probability2 > b.probability2) return -1;
  });
  console.log("probabilities.slice",probabilities.slice(0, 5));
  //console.log("probabilities.slic",probabilities);
