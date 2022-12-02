@@ -985,6 +985,7 @@ if(league=="newzealand1") clearInterval(interval);
     if(team.name == "Bishop`s St.")  team.name = "Bishop's St.";
     if(team.name == "D�ren Merzenich")  team.name = "Duren Merzenich";
     if( team.name == "M`gladbach B")   team.name = "M'gladbach B"; 
+    if(team.name  == "Connah`s Quay")  team.name  = "Connah's Quay";  
   team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
   team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
   team.draws = awayInnerDivs[i].childNodes[9].textContent.trim();    
@@ -2351,13 +2352,6 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
             var last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
 
 
-            // Add fixture number
-            /*
-            last6HomeTds = document.getElementById("last6Home").getElementsByTagName("tr");
-            for (let i = 0; i < last6HomeTds.length; i++) {
-              last6HomeTds[i].id = i;
-            }
-            */
 
 
 // Clone
@@ -2365,58 +2359,6 @@ markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><t
 
 
 
-/*
-
-
-for (var j = 0; j < last6HomeTableTRs.length; j++) {
-    last6HomeTableTRs[j].addEventListener("mouseover", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6HomeTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-
-for (var j = 0; j < last6AwayTableTRs.length; j++) {
-    last6AwayTableTRs[j].addEventListener("mouseover", function(e) {  
-      console.log(e.currentTarget.childNodes)
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "lightgreen";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "pink";
-        } 
-      }
-    })
-    last6AwayTableTRs[j].addEventListener("mouseout", function(e) {  
-      for (var p = 0; p < leagueTableTRs.length; p++) {
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
-        leagueTableTRs[p].style.backgroundColor = "white";
-        } 
-      }
-    })
-};
-
-*/
 
 
 
