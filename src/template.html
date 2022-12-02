@@ -2760,7 +2760,7 @@ console.log("standardDeviation",standardDeviation)
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
     poissonTableArray.push(poissonHomeTeam);
   }
-  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
+  if(venue == "home")  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
   return poissonTableArray;
 }
 
