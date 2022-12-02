@@ -2729,15 +2729,14 @@ while(standardDeviation.length > 0) {
   if (a > b) return -1;
  });
  stdDeviationN = math.std(stdDeviation);
- leageStdDeviat = 0.833333;
      console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
  
      for (var d = 0; d < stdDeviation.length; d++) {
-      if(stdDeviation[d] > leageStdDeviat*3){
+      if(stdDeviation[d] > stdDeviationN*3){
         standardDeviation3.push(stdDeviation[d]);
-      } else if(stdDeviation[d] > leageStdDeviat && stdDeviation[d] < leageStdDeviat*3){
+      } else if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < stdDeviationN*3){
         standardDeviation2.push(stdDeviation[d]) 
-      } else if(stdDeviation[d] < leageStdDeviat && stdDeviation[d] >0) {
+      } else if(stdDeviation[d] < stdDeviationN && stdDeviation[d] >0) {
         standardDeviation.push(stdDeviation[d]);
       }
      }
@@ -2804,10 +2803,13 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
           //console.log("matchResult last 3",matchResult)
             if(venue == "home") {
-              console.log("before",matchResult.hScore)
-              if(matchResult.hScore > 2) matchResult.hScore =  matchResult.hScore * 0.833333;    
-              console.log("after",matchResult.hScore)
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
+              if(matchResult.hScore > 2) {
+                goalDampner = leagueWidestandardDeviation * matchResult.hScore;
+              } else {
+                goalDampner = matchResult.hScore;
+              }
+              
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             } else {
