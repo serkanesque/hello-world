@@ -2729,7 +2729,7 @@ while(standardDeviation.length > 0) {
   if (a > b) return -1;
  });
  stdDeviationN = math.std(stdDeviation);
-     console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
+  //   console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
  
      for (var d = 0; d < stdDeviation.length; d++) {
       if(stdDeviation[d] > stdDeviationN*3){
@@ -2740,9 +2740,9 @@ while(standardDeviation.length > 0) {
         standardDeviation.push(stdDeviation[d]);
       }
      }
-     console.log("standardDeviation3",standardDeviation3)
-console.log("standardDeviation2",standardDeviation2)
-console.log("standardDeviation",standardDeviation)
+     //console.log("standardDeviation3",standardDeviation3)
+//console.log("standardDeviation2",standardDeviation2)
+//console.log("standardDeviation",standardDeviation)
     }
     
   
@@ -2839,9 +2839,9 @@ while(standardDeviation.length > 0) {
         standardDeviation.push(stdDeviation[d]);
       }
      }
-  //   console.log("standardDeviation3",standardDeviation3)
-//console.log("standardDeviation2",standardDeviation2)
-//console.log("standardDeviation",standardDeviation)
+  console.log("standardDeviation3",standardDeviation3)
+console.log("standardDeviation2",standardDeviation2)
+console.log("standardDeviation",standardDeviation)
     }
     
   
@@ -2862,14 +2862,14 @@ while(standardDeviation.length > 0) {
   if(venue == "home")  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
   return poissonTableArray;
 }
-
+console.log(calcStandardDefinton(homeDrawTableTrs, "home"))
 poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
 poissonTableAway = calcAttackDefenceTable(homeDrawTableTrs, "away")
 
 console.log("poissonTableHome",poissonTableHome);
 console.log("poissonTableAway",poissonTableAway);
 
-console.log(calcStandardDefinton(homeDrawTableTrs, "home"))
+
 
 
 function calcAttackDefenceTableLastN(teamsArrayTrs,venue,numberOfGames) {
