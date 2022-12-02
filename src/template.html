@@ -1860,7 +1860,7 @@ function determineResultHome (fixture, team, venue){
 
 var resultObject = new Object;
 if(!fixture) return;
-if(fixture === 'undefined') return;
+//if(fixture === 'undefined') return;
  console.log("Fixture",fixture)
 resultObject.hName = fixture.hName
 resultObject.aName = fixture.aName
@@ -2634,7 +2634,7 @@ function getSeasonAverageGoalsHome(fixtureArray) {
   var seasonGoalsFor = 0;
   for (var s = 0; s < fixtureArray.length; s++) {
       if(fixtureArray[s].hScore && fixtureArray[s].hScore!== "pp.") {
-    //  console.log("fixtureArray[s].hScore",fixtureArray[s].hScore);
+      console.log("fixtureArray[s].hScore",fixtureArray[s].hScore);
       seasonGoalsFor += parseInt(fixtureArray[s].hScore);
        } 
       }
@@ -2648,7 +2648,7 @@ function getSeasonAverageGoalsAway(fixtureArray) {
   for (var s = 0; s < fixtureArray.length; s++) {
     if(fixtureArray[s].aScore && fixtureArray[s].aScore!== "pp.") {
       seasonGoalsAgainst += parseInt(fixtureArray[s].aScore);
-     // console.log("fixtureArray[s].aScore",fixtureArray[s].aScore)
+      console.log("fixtureArray[s].aScore",fixtureArray[s].aScore)
     } 
   }
   return seasonGoalsAgainst / fixtureArray.length;
@@ -2802,7 +2802,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             //var awayTeamPSingle = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.avgGoalsFor);
             //console.log("m2",homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored);
            // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
-           console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
+          // console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
          
             var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
             var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);            
