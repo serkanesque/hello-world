@@ -2834,9 +2834,9 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 }
 
 scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
-console.log("scoreDataArray",scoreDataArray);
+//console.log("scoreDataArray",scoreDataArray);
 scoreDataArrayLast6 = scoreData(poissonTableHomeLast6,poissonTableAwayLast6)
-console.log("scoreDataArrayLast6",scoreDataArrayLast6);
+//console.log("scoreDataArrayLast6",scoreDataArrayLast6);
 scoreDataArrayLast3 = scoreData(poissonTableHomeLast3,poissonTableAwayLast3)
 console.log("scoreDataArrayLast3",scoreDataArrayLast6);
 
@@ -2892,6 +2892,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let fixturePoisson2 = calculateProbabilites2(scoreDataArray,homeTeam);
   let fixturePoisson3 = calculateProbabilites2(scoreDataArrayLast6,homeTeam);
   let fixturePoisson4 = calculateProbabilites2(scoreDataArrayLast3,homeTeam);
+
+  console.log("fixturePoisson4",fixturePoisson4)
 
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
