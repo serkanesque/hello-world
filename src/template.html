@@ -2861,6 +2861,7 @@ function displayPoissonScores (array,homeTeam){
 }
 
 
+document.addEventListener('DOMContentLoaded', function(event) {
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let homeTeam =   leagueTablePoissonTrs[f].childNodes[1].textContent;
 
@@ -2880,6 +2881,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "</span>";
   */
 }
+})
 
 
 
