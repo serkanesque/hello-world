@@ -2670,7 +2670,9 @@ console.log("leagueAverageAwayGoalsScored",leagueAverageAwayGoalsScored);
 
 function calcAttackDefenceTable(teamsArrayTrs,venue) {
  poissonTableArray = [];
- stdDeviation = [];
+
+for (var j = 0; j < teamsArrayTrs.length; j++) {
+  stdDeviation = [];
  standardDeviation3 = [];
      standardDeviation2 = [];
      standardDeviation = [];
@@ -2683,7 +2685,6 @@ while(standardDeviation2.length > 0) {
 while(standardDeviation.length > 0) {
   standardDeviation.pop();
 }
-for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
     poissonHomeTeam.played = 0;
