@@ -2707,6 +2707,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   
       }
     }
+    if(venue == "home") {
     math.std(stdDeviation);
     stdDeviation.sort(function(a, b) {
   if (a < b) return 1;
@@ -2718,7 +2719,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
       if(stdDeviation[d] > (stdDeviation[d]*3)) console.log("3 stdDeviations", stdDeviation[d])
       if(stdDeviation[d] > (stdDeviation[d]*2)) console.log("2 stdDeviations",stdDeviation[d])
      }
-
+    }
 
 
     // Method 1
