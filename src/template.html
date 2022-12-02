@@ -2248,7 +2248,7 @@ for (h=0; h<6; h++) {
 sixGameMarkup = sixGameMarkup + '<tr id='+ h + ' class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
 }
 sixGameMarkup = sixGameMarkup + '</table>';
-
+sixGameMarkup = sixGameMarkup + '<table id="poissonScore"></table>';
 
 
 sixGameMarkup = sixGameMarkup + '<table id="last6GamesAwayteam" class='+awayTeam.split(' ').join('')+'  style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
@@ -2910,7 +2910,6 @@ console.log("scoreDataArrayLast6",scoreDataArrayLast6);
 
 
 
-
 function calculateProbabilites2(array,homeTeam) {
   probabilityFixtureObject = new Object();
   probabilityFixtureObject.winP = 0;
@@ -2949,8 +2948,20 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   */
 }
 
+function displayPoissonScores (array){
+  array.sort(function(a, b) {
+  if (a.probability2 < b.probability2) return 1;
+  if (a.probability2 > b.probability2) return -1;
+ });
+ array.slice(0, 5);
+ var poissonScoreMarkup = "";
+ for (let j = 0; j < array.length; j++) {  
+  poissonScoreMarkup +=  "<tr><td>" + array[j].home + "<td><td>" + array[j].away + "<td><td>" + array[j].probability2 + "<td></tr>";
+ }
+ document.getElementById("poissonScore").innerHTML = poissonScoreMarkup;
+}
 
-
+displayPoissonScores(scoreDataArray);
 
 
 
