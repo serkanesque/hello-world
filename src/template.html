@@ -2749,6 +2749,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   }
     for (var i = 0; i < numberOfGames; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
+        console.log("matchResult last 3",matchResult)
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
