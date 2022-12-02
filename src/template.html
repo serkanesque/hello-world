@@ -2874,10 +2874,10 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
            // console.log("m2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored)
            console.log("homeTeamPSingle2 variables",homeScoreVariations[j], homeTeamPoisson.AttackStrength, awayTeamPoisson.DefenceStrength, leagueAverageHomeGoalsScored)
          
-            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], parseFloat((homeTeamPoisson.AttackStrength).toFixed(2)) * parseFloat((awayTeamPoisson.DefenceStrength).toFixed(2))  * parseFloat(leagueAverageHomeGoalsScored.toFixed(2)));
-            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], parseFloat((awayTeamPoisson.AttackStrength).toFixed(2))  * parseFloat((homeTeamPoisson.DefenceStrength).toFixed(2))  * parseFloat(leagueAverageAwayGoalsScored.toFixed(2)));            
-            console.log("homeTeamPSingle2", (homeTeamPoisson.AttackStrength).toFixed(2), (awayTeamPoisson.DefenceStrength).toFixed(2), (leagueAverageHomeGoalsScored).toFixed(2));
-           console.log("awayTeamPSingle2", (awayTeamPoisson.AttackStrength).toFixed(2), (homeTeamPoisson.DefenceStrength).toFixed(2) , (leagueAverageAwayGoalsScored).toFixed(2));
+            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], parseInt((homeTeamPoisson.AttackStrength).toFixed(2)) * parseInt((awayTeamPoisson.DefenceStrength).toFixed(2))  * parseInt(leagueAverageHomeGoalsScored.toFixed(2)));
+            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], parseInt((awayTeamPoisson.AttackStrength).toFixed(2))  * parseInt((homeTeamPoisson.DefenceStrength).toFixed(2))  * parseInt(leagueAverageAwayGoalsScored.toFixed(2)));            
+            console.log("homeTeamPSingle2", parseInt((homeTeamPoisson.AttackStrength).toFixed(2)), parseInt((awayTeamPoisson.DefenceStrength).toFixed(2)), parseInt((leagueAverageHomeGoalsScored).toFixed(2)));
+           console.log("awayTeamPSingle2", parseInt((awayTeamPoisson.AttackStrength).toFixed(2)), parseInt((homeTeamPoisson.DefenceStrength).toFixed(2)) , parseInt((leagueAverageAwayGoalsScored).toFixed(2)));
 
             //let sum = (homeTeamPSingle*awayTeamPSingle)*100;
             let sum2 = (homeTeamPSingle2.toF*awayTeamPSingle2)*100;
