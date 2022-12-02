@@ -2707,6 +2707,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
   
       }
     }
+     console.log("standard deviation", math.std(stdDeviation));
     // Method 1
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
@@ -2720,7 +2721,7 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
     poissonTableArray.push(poissonHomeTeam);
   }
-  console.log("standard deviation", math.std(stdDeviation));
+ 
   return poissonTableArray;
 }
 
