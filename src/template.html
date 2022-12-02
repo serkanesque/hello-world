@@ -2657,7 +2657,7 @@ function getSeasonAverageGoalsAway(fixtureArray) {
       totalGames+= 1;
     } 
   }
-  return seasonGoalsFor / totalGames;
+  return seasonGoalsAgainst / totalGames;
 
 }
 const leagueAverageHomeGoalsScored = getSeasonAverageGoalsHome(seasonFixtures);
@@ -2694,22 +2694,23 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
             if(venue == "home") {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             } else {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             }
-            poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+  
       }
     }
     // Method 1
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
     poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageHomeGoalsScored;
-    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageAwayGoalsScored;
+    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor  / leagueAverageHomeGoalsScored;
+    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
     
-    poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
-    poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
+
 
     poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
@@ -2770,8 +2771,8 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-    poissonHomeTeam.AttackStrength = (poissonHomeTeam.goalsFor / poissonHomeTeam.played)  / leagueAverageHomeGoalsScored;
-    poissonHomeTeam.DefenceStrength = (poissonHomeTeam.goalsAgainst / poissonHomeTeam.played) / leagueAverageAwayGoalsScored;
+    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor / leagueAverageHomeGoalsScored;
+    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
     
     
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
