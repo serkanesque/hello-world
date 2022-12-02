@@ -2863,7 +2863,7 @@ function displayPoissonScores (array,homeTeam,tableTitle){
   } else if(slicedArray[j].home < slicedArray[j].away ) {
     resultclass = "awayeWin"
   } else {
-    resultclass = "draw"
+    resultclass = "homeDraw"
   }
   poissonScoreMarkup +=  "<tr class="+ resultclass + "><td>" + slicedArray[j].home + "</td><td>" + slicedArray[j].away + "</td><td>" + (slicedArray[j].probability2).toFixed(2) + "</td></tr>";
  }
