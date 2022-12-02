@@ -2720,8 +2720,8 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
      standardDeviation = [];
      for (var d = 0; d < stdDeviation.length; d++) {
       if(stdDeviation[d] > (stdDeviationN*3)) standardDeviation3,push(stdDeviation[d]);
-      if(stdDeviation[d] > (stdDeviationN*2)) standardDeviation2.push(stdDeviation[d]);
-      if(stdDeviation[d] > stdDeviationN) standardDeviation.push(stdDeviation[d]);
+      if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < stdDeviationN*3) standardDeviation2.push(stdDeviation[d]);
+      if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < (stdDeviationN*2)) standardDeviation.push(stdDeviation[d]);
      }
      console.log("standardDeviation3",standardDeviation3)
 console.log("standardDeviation2",standardDeviation2)
