@@ -2913,8 +2913,9 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].querySelector(".poissonScores").innerHTML = displayPoissonScores(scoreDataArray,homeTeam);
-
+  let test = leagueTablePoissonTrs[f].querySelector(".poissonScores");
+  console.log("test",test);
+  test.innerHTML = displayPoissonScores(scoreDataArray,homeTeam);
  /*
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "</span>";
