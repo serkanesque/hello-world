@@ -2976,12 +2976,12 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
             
             // method 2
 
-           // var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
-          //  var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored); 
+           var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
+            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored); 
 
             // method 3
-            var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength);
-            var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength); 
+           // var homeTeamPSingle2 = stats.poissonProbabilityMass(homeScoreVariations[j], homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength);
+         //   var awayTeamPSingle2 = stats2.poissonProbabilityMass(awayScoreVariations[k], awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength); 
 
             //console.log("homeTeamPSingle2",homeTeamPoisson.AttackStrength * awayTeamPoisson.DefenceStrength * leagueAverageHomeGoalsScored);
            //console.log("awayTeamPSingle2", awayTeamPoisson.AttackStrength * homeTeamPoisson.DefenceStrength * leagueAverageAwayGoalsScored);
