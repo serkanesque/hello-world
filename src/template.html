@@ -2744,11 +2744,17 @@ while(standardDeviation.length > 0) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.hScore);
-              stdDeviation.push(matchResult.hScore);
+              if(matchResult.hScore > leagueWidestandardDeviation*3) {
+                goalDampner =  3;
+              } else {
+                goalDampner = matchResult.hScore;
+              }
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);
               leagueWidestandardDeviation.push(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
-              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
+              stdDeviation.push(matchResult.aScore);
+              
             } else {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.hScore);
@@ -2764,7 +2770,7 @@ while(standardDeviation.length > 0) {
   if (a > b) return -1;
  });
  stdDeviationN = math.std(stdDeviation);
- stdDeviationN = 1.1568;
+ //stdDeviationN = 1.1568;
 
    //  console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
  
@@ -2797,7 +2803,7 @@ while(standardDeviation.length > 0) {
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
     poissonTableArray.push(poissonHomeTeam);
   }
-  if(venue == "home")  console.log("League wide standard deviation3",math.std(leagueWidestandardDeviation));
+  if(venue == "home")  console.log("League wide standard deviation goals against",math.std(leagueWidestandardDeviation));
   return poissonTableArray;
 }
 
