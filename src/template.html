@@ -2805,15 +2805,10 @@ function calcStandardDeviation(teamsArrayTrs,venue) {
 
 for (var j = 0; j < teamsArrayTrs.length; j++) {
   stdDeviation = [];
-  standardDeviation4 = [];
  standardDeviation3 = [];
      standardDeviation2 = [];
      standardDeviation = [];
      leagueWidestandardDeviation = [];
-     while(standardDeviation4.length > 0) {
-  standardDeviation4.pop();
-}
-whil
 while(standardDeviation3.length > 0) {
   standardDeviation3.pop();
 }
@@ -2866,8 +2861,8 @@ while(standardDeviation.length > 0) {
   if (a < b) return 1;
   if (a > b) return -1;
  });
- stdDeviationN = math.std(stdDeviation);
- //stdDeviationN = 0.6408699444616557;
+ //stdDeviationN = math.std(stdDeviation);
+ stdDeviationN = 0.833333;
 
  
  poissonHomeTeam.stdDeviation = stdDeviationN;
