@@ -2945,8 +2945,8 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
           //console.log("matchResult last 3",matchResult)
             if(venue == "home") {
-              if(matchResult.hScore > 2) {
-                goalDampner =  matchResult.hScore * 0.833333;
+              if(matchResult.hScore > leagueWidestandardDeviation*3) {
+                goalDampner =  3;
               } else {
                 goalDampner = matchResult.hScore;
               }
@@ -3109,7 +3109,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   let fixturePoisson4 = calculateProbabilites2(scoreDataArrayLast3,homeTeam);
 
   console.log("fixturePoisson4",fixturePoisson4)
-/*
+
   leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
   leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
@@ -3120,7 +3120,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
   el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
   el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
-  */
+ 
 }
 
 
