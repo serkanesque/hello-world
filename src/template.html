@@ -24,9 +24,12 @@
 <body onload="getParameterByName()">
   
 <script type="text/javascript">
-  // If no recognized module system present, exposed to global scope:
-  var erf = stdlib_math_base_special_flat.erf;
-  console.log( erf( 0.5 ) );
+
+
+import base from '@stdlib/dist-math-base-special-flat';
+
+var y = base.erf( 0.5 );
+console.log( y );
 </script>
 <style>
   body {
