@@ -15,7 +15,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js.map" type="text/javascript"></script>
 
 
-<script type="text/javascript" src="@stdlib/dist-math-base-special-flat/build/bundle.js"></script>
+<script type="text/javascript" src="/path/to/@stdlib/dist-math-base-special-flat/build/bundle.min.js"></script>
 
 
 
@@ -24,12 +24,9 @@
 <body onload="getParameterByName()">
   
 <script type="text/javascript">
-
-
-import base from '@stdlib/dist-math-base-special-flat';
-
-var y = base.erf( 0.5 );
-console.log( y );
+  // If no recognized module system present, exposed to global scope:
+  var erf = stdlib_math_base_special_flat.erf;
+  console.log( erf( 0.5 ) );
 </script>
 <style>
   body {
