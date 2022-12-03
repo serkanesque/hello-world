@@ -2829,6 +2829,7 @@ while(standardDeviation.length > 0) {
     poissonHomeTeam.played =  0;
     poissonHomeTeam.goalsFor =  0;
     poissonHomeTeam.goalsAgainst = 0 ;
+    poissonHomeTeam.stdDeviation = 0;
 
     if(venue == "home") {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
@@ -2860,7 +2861,11 @@ while(standardDeviation.length > 0) {
   if (a < b) return 1;
   if (a > b) return -1;
  });
- stdDeviationN = math.std(stdDeviation);
+ //stdDeviationN = math.std(stdDeviation);
+ stdDeviationN = 0.833333;
+
+ 
+ poissonHomeTeam.stdDeviation = stdDeviationN;
      console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
  
      for (var d = 0; d < stdDeviation.length; d++) {
@@ -3103,16 +3108,16 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
   console.log("fixturePoisson4",fixturePoisson4)
 
-  //leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
-  //leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
-  //leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
 
   let el = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores");
   let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
   let el3 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast3");
-  //el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
-  //el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
-  //el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
+  el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
+  el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
+  el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
 }
 
 
