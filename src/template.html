@@ -30,7 +30,7 @@
 
 
 
-
+<!--
   <script type="module">
           import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
           import erf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-erf@esm/index.mjs';          
@@ -39,13 +39,13 @@
               console.log( 'x: %d, erf(x): %d', x[ i ], erf( x[ i ] ) );
           }
     </script>
-
+  -->
 
 <script type="module">
         import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial@esm/index.mjs';
-        var dist = negativeBinomial( 4.0, 0.2 );
-        var y = dist.pmf( 4.0 );
-        console.log("NegativeBinomial",y);
+        var r = negativeBinomial( 20, 0.8 );
+        console.log( 'negativeBinomial', r );
+// returns <number>
 
   </script>
 
