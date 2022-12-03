@@ -11,7 +11,7 @@
 
 
 
-<script type="text/javascript" src="dist-stats-base-dists-flat/bundle.min.js"></script>
+<script type="text/javascript" src="dist-math-base-special-flat/build/bundle.min.js"></script>
 <script
   src="https://code.jquery.com/jquery-3.6.1.min.js"
   integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
@@ -23,9 +23,9 @@
   
   <script type="text/javascript">
     // If no recognized module system present, exposed to global scope:
-    var pdf = stdlib_stats_base_dists_flat.dists.normal.pdf;
-    console.log( pdf( 0.5, 0.0, 1.0 ) );
-</script>
+    var erf = stdlib_math_base_special_flat.erf;
+    console.log( erf( 0.5 ) );
+  </script>
 <style>
   body {
     font-family: 'roboto';
