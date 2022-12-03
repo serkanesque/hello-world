@@ -16,11 +16,31 @@ pp.
 </tr>
 <tr class="odd" height="32">
 <td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 3 Dec</td>
+<td align="right"><a href="team.asp?league=germany8&amp;stats=20-pipinsried">Pipinsried</a> </td>
+<td align="center" width="45">
+pp.
+</td>
+<td align="left"> <a href="team.asp?league=germany8&amp;stats=16-nürnberg-b">Nürnberg B</a> </td>
+<td align="left" valign="middle">
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 3 Dec</td>
 <td align="right"><a href="team.asp?league=germany8&amp;stats=2-unterhaching">Unterhaching</a> </td>
 <td align="center" width="45">
 pp.
 </td>
 <td align="left"> <a href="team.asp?league=germany8&amp;stats=11-w.-burghausen">W. Burghausen</a> </td>
+<td align="left" valign="middle">
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 3 Dec</td>
+<td align="right"><a href="team.asp?league=germany8&amp;stats=14-vilzing">Vilzing</a> </td>
+<td align="center" width="45">
+pp.
+</td>
+<td align="left"> <a href="team.asp?league=germany8&amp;stats=19-greuther-f.-b">Greuther F. B</a> </td>
 <td align="left" valign="middle">
 </td>
 </tr>
@@ -179,44 +199,6 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany8&amp;stats=20-pipinsried">Pipinsried</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">13:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Pipinsried</b>:
-1.08
-points per game
-at home
-<br/><b>Nürnberg B</b>:
-1.58
-points per game
-away
-<br/><br/>
-<font color="red">
-Pipinsried have failed to win in their last 7 home matches.
-</font>
-<br/>
-<font color="black">
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany8&amp;stats=16-nürnberg-b">Nürnberg B</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=germany8&amp;stats=138-20-16-2023" title="Pipinsried vs Nürnberg B">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany8&amp;stats=6-schweinfurt">Schweinfurt</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
@@ -289,43 +271,6 @@ Click the Stats button for more stats on those teams.
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany8&amp;stats=15-aubstadt">Aubstadt</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=germany8&amp;stats=133-10-15-2023" title="Turkgucu M. vs Aubstadt">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany8&amp;stats=14-vilzing">Vilzing</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">13:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Vilzing</b>:
-1.45
-points per game
-at home
-<br/><b>Greuther F. B</b>:
-1.00
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="black">
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany8&amp;stats=19-greuther-f.-b">Greuther F. B</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=germany8&amp;stats=134-14-19-2023" title="Vilzing vs Greuther F. B">stats</a>
 </td>
 </tr>
 </table>
