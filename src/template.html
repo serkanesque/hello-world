@@ -43,8 +43,11 @@
 
 <script type="module">
         import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial@esm/index.mjs';
-        var r = negativeBinomial( 20, 0.8 );
-        console.log( 'negativeBinomial', r );
+        var dist = new NegativeBinomial( 4.0, 0.2 );
+
+          var y = dist.pmf( 4.0 );
+          // returns ~0.023
+        console.log( 'negativeBinomial', y );
 // returns <number>
 
   </script>
