@@ -41,14 +41,7 @@
     </script>
   -->
 
-<script type="module">
-        import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial@esm/index.mjs';
-        y = pmf( 0.0, 10.0, 0.9 );
-          // returns ~0.023
-        console.log( 'negativeBinomial', y );
-// returns <number>
 
-  </script>
 
 
 
@@ -4012,6 +4005,17 @@ fixTableTrs = fixTable.getElementsByClassName("show");
 
 
 </script>
+
+<script type="module">
+
+  import NegativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial@esm/index.mjs';
+
+var dist = new NegativeBinomial( 4.0, 0.2 );
+
+var y = dist.pmf( 4.0 );
+// returns ~0.023
+
+  </script>
 </body>
 
 </html>
