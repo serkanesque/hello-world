@@ -5,29 +5,27 @@
 <title>Version 2.0.1</title>
 <script src="statistics.min.js" type="text/javascript"></script>
 </head>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js.map" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="bundle.min.js"></script>
 <script
   src="https://code.jquery.com/jquery-3.6.1.min.js"
   integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
   crossorigin="anonymous"></script>
 </head>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.4.0/math.js.map" type="text/javascript"></script>
-
-<script src="require.js" type="text/javascript"></script>
-<script data-main="bundle.min.js" src="require.js"></script>
-
-
-
 </head>
 <body onload="getParameterByName()">
   
-  <script type="text/javascript">
-var base = require(['dist-math-base-special-flat']).base;
-
-var y = base.erf( 0.5 );
-console.log( y );
-  </script>
+<script type="text/javascript">
+  // If no recognized module system present, exposed to global scope:
+  var erf = stdlib_math_base_special_flat.erf;
+  console.log( erf( 0.5 ) );
+</script>
 <style>
   body {
     font-family: 'roboto';
