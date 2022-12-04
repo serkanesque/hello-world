@@ -2777,22 +2777,22 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
             if(venue == "home") {
               if(matchResult.hScore >1) {
                 greaterThan1GoalRatio = poissonHomeTeam.greaterThan1GoalRatio;
-                homeGoalDampner =  1 +  parseInt(greaterThan1GoalRatio);
+                homeGoalDampner =  1 +  greaterThan1GoalRatio
               } else {
-                homeGoalDampner = parseInt(matchResult.hScore);
+                homeGoalDampner = matchResult.hScore;
               }
-              console.log("why won't it work", homeGoalDampner,parseInt(homeGoalDampner))
+              console.log("why won't it work", homeGoalDampner,parseInt(homeGoalDampner),greaterThan1GoalRatio)
               poissonHomeTeam.goalsFor += parseInt(homeGoalDampner);     
               //poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
                 greaterThan1GoalConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio
-                awayGoalDampner =  1 + parseInt(greaterThan1GoalConcededGoalRatio);
+                awayGoalDampner =  1 + greaterThan1GoalConcededGoalRatio;
               } else {
-                awayGoalDampner = parseInt(matchResult.aScore);
+                awayGoalDampner = matchResult.aScore;
               }
-              console.log("why won't it work", awayGoalDampner,parseInt(awayGoalDampner))
+              console.log("why won't it work2", awayGoalDampner,parseInt(awayGoalDampner),greaterThan1GoalConcededGoalRatio)
               poissonHomeTeam.goalsAgainst += awayGoalDampner;
               //poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore));
              
