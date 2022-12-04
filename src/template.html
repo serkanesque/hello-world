@@ -2778,9 +2778,9 @@ while(standardDeviation.length > 0) {
               } else {
                 awayGoalDampner = matchResult.aScore;
               }
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(awayGoalDampner);
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(homeGoalDampner);
               poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
-              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(homeGoalDampner);
+              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(awayGoalDampner);
               poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore))
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
             }
