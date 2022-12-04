@@ -345,6 +345,11 @@ padding: 10px;
     <table id="homeDrawTable">
     </table>
 </Div>
+Div>       
+    <h1> Home AttackStrength</h1>
+    <table id="homeAttackTable">
+    </table>
+</Div>
 
 
 <Div>
@@ -3098,8 +3103,19 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
 
 
+var attackMarkup = "<table>";
+
+  poissonTableHome.sort(function(a, b) {
+  if (a.AttackStrength < b.AttackStrength) return 1;
+  if (a.AttackStrength > b.AttackStrength) return -1;
+ });
+
+for (var f = 0; f < poissonTableHome.length; f++) {
+  attackMarkup += "<tr><td>" + poissonTableHome.name  +"<td><td>" + poissonTableHome.AttackStrength  +"</td></tr>";
+}
 
 
+doucment.getElementById("homeAttackTable").innerHTML = attackMarkup;
 
 
  let buttons = document.querySelectorAll(".save");
