@@ -2803,7 +2803,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
 
               if(matchResult.hScore >1) {              
                 homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
-                if(poissonHomeTeam.name == "Delmenhorst") console.log("Poisson homeGoalDampner",homeGoalDampner)
+               
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
             
@@ -2817,7 +2817,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
             }
             poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
             poissonHomeTeam.goalsAgainst = parseFloat(poissonHomeTeam.goalsAgainst) + parseFloat(homeGoalDampner);
-            if(poissonHomeTeam.name == "Delmenhorst") console.log("Poisson goalsAgainst",poissonHomeTeam.goalsAgainst)
+     
              
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
   
