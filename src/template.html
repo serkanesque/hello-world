@@ -2775,14 +2775,14 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
-              if(matchResult.hScore >1) {
-                greaterThan1GoalRatio = poissonHomeTeam.homeGreaterThan1GoalRatio;
-                homeGoalDampner =  1 +  greaterThan1GoalRatio
+              if(matchResult.hScore >1) {  
+                console.log("poissonHomeTeam.homeGreaterThan1GoalRatio",poissonHomeTeam.homeGreaterThan1GoalRatio)             
+                homeGoalDampner =  1 +  poissonHomeTeam.homeGreaterThan1GoalRatio;
               } else {
                 homeGoalDampner = matchResult.hScore;
               }
               console.log("why won't it work homeGoalDampner", homeGoalDampner,parseInt(homeGoalDampner))
-              poissonHomeTeam.goalsFor = parseInt(homeGoalDampner);     
+              poissonHomeTeam.goalsFor += homeGoalDampner;     
               //poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
