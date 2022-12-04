@@ -2785,14 +2785,14 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               }
               console.log("why won't it work homeGoalDampner", homeGoalDampner)
               //homeGoalDampner = parseFloat(homeGoalDampner);
-              poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + homeGoalDampner.toFixed(3);     
+              poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);     
               console.log("why poissonHomeTeam.goalsFor",  poissonHomeTeam.goalsFor);
               //poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
                 greaterThan1GoalConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio
-                awayGoalDampner =  1 +parseFloat(greaterThan1GoalConcededGoalRatio);
+                awayGoalDampner =  1 + parseFloat(greaterThan1GoalConcededGoalRatio);
               } else {
                 awayGoalDampner = matchResult.aScore;
               }
