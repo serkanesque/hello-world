@@ -6,6 +6,7 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
+<<<<<<< HEAD
 <font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=7-atk-mohun-bagan">ATK Mohun Bagan</a></td>
 <td align="center" width="40">
@@ -13,6 +14,26 @@
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=9-jamshedpur">Jamshedpur</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=india&amp;stats=46-7-9-2023" title="ATK Mohun Bagan vs Jamshedpur">stats</a>
+=======
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=8-chennaiyin">Chennaiyin</a></td>
+<td align="center" width="40">
+<font color="green" size="1">12:00</font>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=5-hyderabad">Hyderabad</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=india&amp;stats=43-8-5-2023" title="Chennaiyin vs Hyderabad">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=3-bengaluru">Bengaluru</a></td>
+<td align="center" width="40">
+<font color="green" size="1">14:00</font>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=7-atk-mohun-bagan">ATK Mohun Bagan</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=india&amp;stats=44-3-7-2023" title="Bengaluru vs ATK Mohun Bagan">stats</a>
+>>>>>>> parent of a10808b (1)
 </td>
 </tr>
 </table>

@@ -39,6 +39,7 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
+<<<<<<< HEAD
 Las Palmas
 </td>
 <td align="center">
@@ -125,6 +126,8 @@ Cartagena
 </font>
 </td>
 <td style="padding-left:4px;">
+=======
+>>>>>>> parent of a10808b (1)
 Levante
 </td>
 <td align="center">
@@ -163,7 +166,54 @@ Levante
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 4
+=======
+2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Las Palmas
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+3
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -206,7 +256,11 @@ Burgos
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 5
+=======
+4
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -219,7 +273,11 @@ Alaves
 </font>
 </td>
 <td align="center">
+<<<<<<< HEAD
 3
+=======
+3
+>>>>>>> parent of a10808b (1)
 </td>
 <td align="center">
 4
@@ -249,6 +307,52 @@ Alaves
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
+=======
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Albacete
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+>>>>>>> parent of a10808b (1)
 6
 </b>
 </font>
@@ -297,29 +401,46 @@ FC Andorra
 </font>
 </td>
 <td style="padding-left:4px;">
+<<<<<<< HEAD
 Albacete
 </td>
 <td align="center">
 <font color="green">
 9
+=======
+Cartagena
+</td>
+<td align="center">
+<font color="green">
+8
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
+<<<<<<< HEAD
 3
+=======
+2
+>>>>>>> parent of a10808b (1)
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
 <font color="blue">
+<<<<<<< HEAD
 12
+=======
+9
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 <font color="red">
+<<<<<<< HEAD
 16
 </font>
 </td>
@@ -329,6 +450,17 @@ Albacete
 <td align="center">
 <b>
 12
+=======
+8
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+11
+>>>>>>> parent of a10808b (1)
 </b>
 </td>
 </tr>
@@ -469,6 +601,7 @@ Eibar
 </font>
 </td>
 <td style="padding-left:4px;">
+<<<<<<< HEAD
 Leganes
 </td>
 <td align="center">
@@ -512,6 +645,8 @@ Leganes
 </font>
 </td>
 <td style="padding-left:4px;">
+=======
+>>>>>>> parent of a10808b (1)
 Real Zaragoza
 </td>
 <td align="center">
@@ -550,7 +685,11 @@ Real Zaragoza
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 13
+=======
+12
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -593,7 +732,11 @@ Sporting Gijon
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 14
+=======
+13
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -636,34 +779,55 @@ Ponferradina
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 15
+=======
+14
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
+<<<<<<< HEAD
 Lugo
 </td>
 <td align="center">
 <font color="green">
 9
+=======
+Leganes
+</td>
+<td align="center">
+<font color="green">
+8
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> parent of a10808b (1)
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
+<<<<<<< HEAD
 10
+=======
+7
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 <font color="red">
+<<<<<<< HEAD
 17
 </font>
 </td>
@@ -673,13 +837,28 @@ Lugo
 <td align="center">
 <b>
 8
+=======
+9
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+7
+>>>>>>> parent of a10808b (1)
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 16
+=======
+15
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -688,7 +867,11 @@ Huesca
 </td>
 <td align="center">
 <font color="green">
+<<<<<<< HEAD
 9
+=======
+8
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
@@ -698,20 +881,36 @@ Huesca
 3
 </td>
 <td align="center">
+<<<<<<< HEAD
 5
 </td>
 <td align="center">
 <font color="blue">
 5
+=======
+4
+</td>
+<td align="center">
+<font color="blue">
+4
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 <font color="red">
+<<<<<<< HEAD
 10
 </font>
 </td>
 <td align="center">
 -5
+=======
+8
+</font>
+</td>
+<td align="center">
+-4
+>>>>>>> parent of a10808b (1)
 </td>
 <td align="center">
 <b>
@@ -722,7 +921,11 @@ Huesca
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 17
+=======
+16
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -765,7 +968,11 @@ Malaga
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
 18
+=======
+17
+>>>>>>> parent of a10808b (1)
 </b>
 </font>
 </td>
@@ -808,6 +1015,52 @@ Tenerife
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
+=======
+18
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Lugo
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+>>>>>>> parent of a10808b (1)
 19
 </b>
 </font>
@@ -844,7 +1097,11 @@ Granada
 </td>
 <td align="center">
 <b>
+<<<<<<< HEAD
 5
+=======
+5
+>>>>>>> parent of a10808b (1)
 </b>
 </td>
 </tr>
@@ -903,7 +1160,11 @@ UD Ibiza
 </td>
 <td align="center">
 <font color="green">
+<<<<<<< HEAD
 9
+=======
+8
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
@@ -913,20 +1174,36 @@ UD Ibiza
 1
 </td>
 <td align="center">
+<<<<<<< HEAD
 7
 </td>
 <td align="center">
 <font color="blue">
 4
+=======
+6
+</td>
+<td align="center">
+<font color="blue">
+3
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 <font color="red">
+<<<<<<< HEAD
 14
 </font>
 </td>
 <td align="center">
 -10
+=======
+12
+</font>
+</td>
+<td align="center">
+-9
+>>>>>>> parent of a10808b (1)
 </td>
 <td align="center">
 <b>
