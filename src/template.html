@@ -2784,13 +2784,16 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);     
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
-                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.greaterThan1GoalConcededGoalRatio);
+                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);
               }  
               poissonHomeTeam.goalsAgainst =  parseFloat(poissonHomeTeam.goalsAgainst) +  parseFloat(awayGoalDampner);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
               stdDeviation.push(matchResult.hScore);              
+
+
+
             } else {
 
               if(matchResult.hScore >1) {              
@@ -2802,7 +2805,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
 
 
                 if(matchResult.aScore >1) {
-                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.greaterThan1GoalConcededGoalRatio);
+                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);
               }  
