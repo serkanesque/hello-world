@@ -2756,14 +2756,14 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
     }
 
     
-    poissonHomeTeam.homeGreaterThan1Goal = 0
+    poissonHomeTeam.homeGreaterThan1Goal = 0;
     for (var d = 0; d < poissonHomeTeam.goalsForInGames.length; d++) {
       if( poissonHomeTeam.goalsForInGames[d] > 1) poissonHomeTeam.homeGreaterThan1Goal +=1;      
     }
     poissonHomeTeam.homeGreaterThan1GoalRatio =  parseInt(poissonHomeTeam.homeGreaterThan1Goal) /  parseInt(poissonHomeTeam.goalsForInGames.length);
     poissonHomeTeam.homeGreaterThan1GoalRatio =    poissonHomeTeam.homeGreaterThan1GoalRatio.toFixed(4);                                                                    
 
-    poissonHomeTeam.homeGreaterThan1GoalConceded = 0
+    poissonHomeTeam.homeGreaterThan1GoalConceded = 0;
     for (var d = 0; d < poissonHomeTeam.goalsAgainstInGames.length; d++) {
       if( poissonHomeTeam.goalsAgainstInGames[d] > 1) poissonHomeTeam.homeGreaterThan1GoalConceded +=1;      
     }
@@ -2974,10 +2974,10 @@ while(standardDeviation.length > 0) {
 
 console.log("calcStandardDeviation",calcStandardDeviation(homeDrawTableTrs, "home"))
 
-poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
+//poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
 poissonTableAway = calcAttackDefenceTable(homeDrawTableTrs, "away")
 
-console.log("poissonTableHome",poissonTableHome);
+//console.log("poissonTableHome",poissonTableHome);
 console.log("poissonTableAway",poissonTableAway);
 
 
