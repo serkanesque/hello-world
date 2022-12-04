@@ -258,7 +258,7 @@ Weiche F.
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -268,7 +268,7 @@ Weiche F.
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -277,11 +277,11 @@ Weiche F.
 </td>
 <td align="center">
 <font color="red">
-10
+14
 </font>
 </td>
 <td align="center">
-+6
++2
 </td>
 <td align="center">
 <b>
@@ -301,7 +301,7 @@ Jeddeloh
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -311,20 +311,20 @@ Jeddeloh
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
-20
+21
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+27
 </font>
 </td>
 <td align="center">
--4
+-6
 </td>
 <td align="center">
 <b>
@@ -336,6 +336,49 @@ Jeddeloh
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Werder Bremen B
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+9
 </b>
 </font>
 </td>
@@ -378,7 +421,50 @@ Hildesheim
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+BW Lohne
+</td>
+<td align="center">
+<font color="green">
 9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+21
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
 </b>
 </font>
 </td>
@@ -421,50 +507,7 @@ Drochtersen/A.
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Werder Bremen B
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
 12
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-11
 </b>
 </font>
 </td>
@@ -507,7 +550,7 @@ Teutonia O.
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -544,49 +587,6 @@ Havelse
 <td align="center">
 <b>
 12
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-BW Lohne
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-21
-</font>
-</td>
-<td align="center">
-<font color="red">
-19
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-11
 </b>
 </td>
 </tr>
@@ -645,7 +645,7 @@ Delmenhorst
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -655,7 +655,7 @@ Delmenhorst
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -664,11 +664,11 @@ Delmenhorst
 </td>
 <td align="center">
 <font color="red">
-17
+21
 </font>
 </td>
 <td align="center">
--4
+-8
 </td>
 <td align="center">
 <b>
