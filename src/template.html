@@ -2802,14 +2802,14 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
             } else {
 
               if(matchResult.hScore >1) {              
-                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
+                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
 
 
                 if(matchResult.aScore >1) {
-                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);
+                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);        
             }
