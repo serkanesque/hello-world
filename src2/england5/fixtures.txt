@@ -1,0 +1,94 @@
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 6 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england5&amp;stats=14-boreham-wood">Boreham Wood</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Boreham Wood</b>:
+1.11
+points per game
+at home
+<br/><b>Oldham</b>:
+0.40
+points per game
+away
+<br/><br/>
+<font color="red">
+Boreham Wood have lost their last 3 matches.
+</font>
+<br/>
+<font color="black">
+Oldham have scored 78% of their goals at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england5&amp;stats=16-oldham">Oldham</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england5&amp;stats=87-14-16-2023" title="Boreham Wood vs Oldham">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 6 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england5&amp;stats=6-halifax-town">Halifax Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Halifax Town</b>:
+1.90
+points per game
+at home
+<br/><b>Dorking</b>:
+0.90
+points per game
+away
+<br/><br/>
+<font color="green">
+Halifax Town have won their last 5 home matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england5&amp;stats=9-dorking">Dorking</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england5&amp;stats=90-6-9-2023" title="Halifax Town vs Dorking">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 10 Dec</td>
+<td align="right"><a href="team.asp?league=england5&amp;stats=8-gateshead-fc">Gateshead FC</a> </td>
+<td align="center" width="45">
+pp.
+</td>
+<td align="left"> <a href="team.asp?league=england5&amp;stats=7-dagenham-&amp;-r.">Dagenham &amp; R.</a> </td>
+<td align="left" valign="middle">
+</td>
+</tr>
+</table>
