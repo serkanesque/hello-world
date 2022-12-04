@@ -2996,9 +2996,11 @@ for (var j = 0; j < teamsArrayTrs.length; j++) {
     poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
     // Method 2
-    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor / leagueAverageHomeGoalsScored;
-    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
-    
+   // poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor / leagueAverageHomeGoalsScored;
+   // poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
+      // Method 3
+    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor;
+    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst;
     
     poissonHomeTeam.avgGoalsFor =  (poissonHomeTeam.avgGoalsFor).toFixed(2);
     poissonHomeTeam.avgGoalsAgainst =  (poissonHomeTeam.avgGoalsAgainst).toFixed(2);
