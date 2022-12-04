@@ -2749,20 +2749,25 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {   
-              poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
-              } else {
-              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.hScore))
+              poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));      
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore))
             }  
       }
     }
 
     
     poissonHomeTeam.homeGreaterThan1Goal = 0
-    for (var d = 0; d < poissonHomeTeam.goalsForInGames; d++) {
+    for (var d = 0; d < poissonHomeTeam.goalsForInGames.length; d++) {
       if( poissonHomeTeam.goalsForInGames[d] > 1) poissonHomeTeam.homeGreaterThan1Goal +=1;      
     }
     poissonHomeTeam.homeGreaterThan1GoalRatio = poissonHomeTeam.homeGreaterThan1Goal / poissonHomeTeam.goalsForInGame.length;
 
+
+    poissonHomeTeam.homeGreaterThan1GoalConceded = 0
+    for (var d = 0; d < poissonHomeTeam.goalsAgainstInGames.length; d++) {
+      if( poissonHomeTeam.goalsAgainstInGames[d] > 1) poissonHomeTeam.homeGreaterThan1GoalConceded +=1;      
+    }
+    poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1GoalConceded / poissonHomeTeam.goalsAgainstInGames.length;
 
 
 
@@ -2780,7 +2785,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
-                awayGoalDampner =  1;
+                awayGoalDampner =  1 + poissonHomeTeam.homeGreaterThan1ConcededGoalRatio;
               } else {
                 awayGoalDampner = matchResult.aScore;
               }
