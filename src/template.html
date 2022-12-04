@@ -2732,7 +2732,8 @@ while(standardDeviation.length > 0) {
     poissonHomeTeam.played =  0;
     poissonHomeTeam.goalsFor =  0;
     poissonHomeTeam.goalsAgainst = 0 ;
-
+    poissonHomeTeam.goalsForInGames = [] ;
+    poissonHomeTeam.goalsAgainstInGames = [] ;
     if(venue == "home") {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
     } else {
@@ -2749,9 +2750,14 @@ while(standardDeviation.length > 0) {
               } else {
                 goalDampner = matchResult.hScore;
               }
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);
+              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);     
+              poissonHomeTeam.goalsInGames.push[parseInt(matchResult.hScore)]
+                           
               leagueWidestandardDeviation.push(matchResult.hScore);
-              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
+              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);         
+              poissonHomeTeam.goalsAgainstInGames.push[parseInt(matchResult.aScore)]
+             
+
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
               stdDeviation.push(matchResult.hScore);
               
@@ -2786,6 +2792,8 @@ while(standardDeviation.length > 0) {
     console.log("standardDeviation3 "  + venue,standardDeviation3)
 console.log("standardDeviation2" + venue,standardDeviation2)
 console.log("standardDeviation" + venue,standardDeviation)
+console.log("goals in home games", poissonHomeTeam.goalsInGames)
+console.log("goals againtst in home games", poissonHomeTeam.goalsAgainst)
     }
     
   
