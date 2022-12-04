@@ -2752,7 +2752,7 @@ while(standardDeviation.length > 0) {
                 goalDampner = matchResult.hScore;
               }
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);     
-              poissonHomeTeam.goalsInGames.push(matchResult.hScore);
+              poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
@@ -2761,7 +2761,7 @@ while(standardDeviation.length > 0) {
                 goalDampner = matchResult.hScore;
               }
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(goalDampner);         
-              poissonHomeTeam.goalsAgainstInGames.push(matchResult.aScore);
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore));
              
 
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
