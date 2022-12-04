@@ -2779,8 +2779,9 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
                 greaterThan1GoalRatio = poissonHomeTeam.greaterThan1GoalRatio;
                 homeGoalDampner =  1 +  parseInt(greaterThan1GoalRatio);
               } else {
-                homeGoalDampner += parseInt(matchResult.hScore);
+                homeGoalDampner = parseInt(matchResult.hScore);
               }
+              console("why won't it work", homeGoalDampner,parseInt(homeGoalDampner))
               poissonHomeTeam.goalsFor = parseInt(homeGoalDampner);     
               //poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
                            
