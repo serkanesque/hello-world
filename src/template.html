@@ -2721,6 +2721,12 @@ while(standardDeviation2.length > 0) {
 while(standardDeviation.length > 0) {
   standardDeviation.pop();
 }
+while(goalsForInGames.length > 0) {
+  goalsForInGames.pop();
+}
+while(goalsAgainstInGames.length > 0) {
+  goalsAgainstInGames.pop();
+}
     poissonHomeTeam = new Object(); 
     poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
     poissonHomeTeam.played = 0;
@@ -2751,11 +2757,11 @@ while(standardDeviation.length > 0) {
                 goalDampner = matchResult.hScore;
               }
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(goalDampner);     
-              poissonHomeTeam.goalsInGames.push[parseInt(matchResult.hScore)]
+              poissonHomeTeam.goalsInGames.push(parseInt(matchResult.hScore));
                            
               leagueWidestandardDeviation.push(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);         
-              poissonHomeTeam.goalsAgainstInGames.push[parseInt(matchResult.aScore)]
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore));
              
 
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
