@@ -2753,7 +2753,7 @@ while(standardDeviation.length > 0) {
               leagueWidestandardDeviation.push(matchResult.hScore);
               poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(matchResult.aScore);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
-              stdDeviation.push(matchResult.aScore);
+              stdDeviation.push(matchResult.hScore);
               
             } else {
               poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(matchResult.aScore);
@@ -2874,7 +2874,7 @@ while(standardDeviation.length > 0) {
 
  
  poissonHomeTeam.stdDeviation = stdDeviationN;
-     console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
+     console.log("standard deviation " + venue, poissonHomeTeam.name , stdDeviationN);
  
      for (var d = 0; d < stdDeviation.length; d++) {
       if(stdDeviation[d] > stdDeviationN*3){
