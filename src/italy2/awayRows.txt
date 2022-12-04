@@ -344,7 +344,7 @@ Modena
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
 </td>
 <td align="center">
@@ -354,16 +354,24 @@ Modena
 1
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
+<<<<<<< HEAD
 10
+=======
+11
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
 <font color="red">
+<<<<<<< HEAD
 12
+=======
+13
+>>>>>>> parent of a10808b (1)
 </font>
 </td>
 <td align="center">
@@ -642,6 +650,7 @@ Cagliari
 </td>
 <td style="padding-left:4px;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 Parma
 </td>
 <td align="center">
@@ -687,6 +696,8 @@ Parma
 <td style="padding-left:4px;">
 Palermo
 =======
+=======
+>>>>>>> parent of a10808b (1)
 Modena
 >>>>>>> parent of a10808b (1)
 </td>

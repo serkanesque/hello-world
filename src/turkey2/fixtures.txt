@@ -7,6 +7,7 @@
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <font style="font-size:10px;color:#666666;">Mo 5 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=13-rizespor">Rizespor</a></td>
 =======
@@ -69,6 +70,74 @@ Click the Stats button for more stats on those teams.
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=5-bodrumspor">Bodrumspor</a></td>
+=======
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=19-bandirmaspor">Bandirmaspor</a></td>
+>>>>>>> parent of a10808b (1)
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">10:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<<<<<<< HEAD
+<b>Bodrumspor</b>:
+1.88
+points per game
+at home
+<br/><b>Genclerbirligi</b>:
+0.86
+=======
+<b>Bandirmaspor</b>:
+1.50
+points per game
+at home
+<br/><b>Altinordu</b>:
+1.14
+>>>>>>> parent of a10808b (1)
+points per game
+away
+<br/><br/>
+<font color="black">
+<<<<<<< HEAD
+Bodrumspor have scored 78% of their goals at home.
+</font>
+<br/>
+<font color="red">
+Genclerbirligi have lost their last 3 matches.
+=======
+83% of Bandirmaspor's goals have been scored in the second half.
+</font>
+<br/>
+<font color="red">
+Altinordu have lost their last 5 matches.
+>>>>>>> parent of a10808b (1)
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+<<<<<<< HEAD
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=1-genclerbirligi">Genclerbirligi</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=279-5-1-2023" title="Bodrumspor vs Genclerbirligi">stats</a>
+=======
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=2-altinordu">Altinordu</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=285-19-2-2023" title="Bandirmaspor vs Altinordu">stats</a>
+>>>>>>> parent of a10808b (1)
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<<<<<<< HEAD
+=======
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=5-bodrumspor">Bodrumspor</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -107,6 +176,7 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+>>>>>>> parent of a10808b (1)
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=turkey2&amp;stats=10-samsunspor">Samsunspor</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
@@ -168,6 +238,9 @@ away
 <br/>
 <font color="black">
 62% of Erzurum BB's conceded goals occurred in the first half.
+<<<<<<< HEAD
+>>>>>>> parent of a10808b (1)
+=======
 >>>>>>> parent of a10808b (1)
 </font>
 <br/><br/>
@@ -178,9 +251,15 @@ Click the Stats button for more stats on those teams.
 </span>
 </a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=18-pendikspor">Pendikspor</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=283-13-18-2023" title="Rizespor vs Pendikspor">stats</a>
+=======
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=17-erzurum-bb">Erzurum BB</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=turkey2&amp;stats=284-15-17-2023" title="Sakaryaspor vs Erzurum BB">stats</a>
+>>>>>>> parent of a10808b (1)
 =======
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=turkey2&amp;stats=17-erzurum-bb">Erzurum BB</a></td>
 <td align="left" width="40">

@@ -6,6 +6,7 @@
 </tr>
 <tr class="odd" height="32">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Su 4 Dec</td>
 <td align="right"><a href="team.asp?league=spain2&amp;stats=18-fc-andorra">FC Andorra</a> </td>
 <td align="center" width="45">
@@ -105,6 +106,34 @@ away
 UD Ibiza have failed to win in their last 9 matches.
 >>>>>>> parent of a10808b (1)
 </font>
+=======
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=10-real-zaragoza">Real Zaragoza</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:15</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Real Zaragoza</b>:
+1.25
+points per game
+at home
+<br/><b>UD Ibiza</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="black">
+81% of Real Zaragoza's conceded goals occurred in the second half.
+</font>
+<br/>
+<font color="red">
+UD Ibiza have failed to win in their last 9 matches.
+</font>
+>>>>>>> parent of a10808b (1)
 <br/><br/>
 <font color="gray"><i>
 Click the Stats button for more stats on those teams.
@@ -113,12 +142,54 @@ Click the Stats button for more stats on those teams.
 </span>
 </a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 </td>
 <td align="left"> <a href="team.asp?league=spain2&amp;stats=2-huesca">Huesca</a> </td>
 <td align="left" valign="middle">
 <a class="vsmall" href="round_details.asp?league=spain2&amp;mrevid=m429&amp;st1=3&amp;st2=2">analysis</a>
 =======
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=13-ud-ibiza">UD Ibiza</a></td>
+=======
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=13-ud-ibiza">UD Ibiza</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=433-10-13-2023" title="Real Zaragoza vs UD Ibiza">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=5-mirandes">Mirandes</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Mirandes</b>:
+1.44
+points per game
+at home
+<br/><b>Albacete</b>:
+1.50
+points per game
+away
+<br/><br/>
+<font color="black">
+81% of Mirandes's points have been earned at home.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=20-albacete">Albacete</a></td>
+>>>>>>> parent of a10808b (1)
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=433-10-13-2023" title="Real Zaragoza vs UD Ibiza">stats</a>
 >>>>>>> parent of a10808b (1)
