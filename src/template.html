@@ -2775,6 +2775,8 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
+
+
             if(venue == "home") {
               if(matchResult.hScore >1) {              
                 homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);
@@ -2801,7 +2803,8 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
-                 
+              console.log("why homeGoalDampner", homeGoalDampner)
+              console.log("why parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio)", parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio))
 
                 if(matchResult.aScore >1) {
                 awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
