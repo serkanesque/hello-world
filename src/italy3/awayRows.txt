@@ -129,7 +129,7 @@ Renate
 </td>
 <td align="center">
 <font color="green">
-9
+8
 </font>
 </td>
 <td align="center">
@@ -139,7 +139,7 @@ Renate
 3
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 <font color="blue">
@@ -148,11 +148,11 @@ Renate
 </td>
 <td align="center">
 <font color="red">
-10
+9
 </font>
 </td>
 <td align="center">
-+4
++5
 </td>
 <td align="center">
 <b>
@@ -168,6 +168,7 @@ Renate
 </font>
 </td>
 <td style="padding-left:4px;">
+<<<<<<< HEAD
 Pro Sesto
 </td>
 <td align="center">
@@ -255,6 +256,9 @@ AlbinoLeffe
 </td>
 <td style="padding-left:4px;">
 Virtus Verona
+=======
+Arzignano
+>>>>>>> parent of 7122b90 (1)
 </td>
 <td align="center">
 <font color="green">
@@ -292,7 +296,7 @@ Virtus Verona
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
+5
 </b>
 </font>
 </td>
@@ -421,6 +425,131 @@ Lecco
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+<<<<<<< HEAD
+=======
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Pro Sesto
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+AlbinoLeffe
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Virtus Verona
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+>>>>>>> parent of 7122b90 (1)
 10
 </b>
 </font>
@@ -516,7 +645,7 @@ Novara
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
 </td>
 <td align="center">
@@ -526,7 +655,7 @@ Novara
 0
 </td>
 <td align="center">
-5
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -535,11 +664,11 @@ Novara
 </td>
 <td align="center">
 <font color="red">
-12
+11
 </font>
 </td>
 <td align="center">
--3
+-2
 </td>
 <td align="center">
 <b>
@@ -559,26 +688,26 @@ Pro Patria
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-8
+6
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+10
 </font>
 </td>
 <td align="center">
@@ -586,7 +715,7 @@ Pro Patria
 </td>
 <td align="center">
 <b>
-8
+7
 </b>
 </td>
 </tr>
@@ -731,7 +860,7 @@ Juventus U23
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
 </td>
 <td align="center">
@@ -741,20 +870,20 @@ Juventus U23
 3
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
-9
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+11
 </font>
 </td>
 <td align="center">
--4
+-3
 </td>
 <td align="center">
 <b>
@@ -860,7 +989,7 @@ Triestina
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
 </td>
 <td align="center">
@@ -870,7 +999,7 @@ Triestina
 3
 </td>
 <td align="center">
-5
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -879,11 +1008,11 @@ Triestina
 </td>
 <td align="center">
 <font color="red">
-14
+12
 </font>
 </td>
 <td align="center">
--9
+-7
 </td>
 <td align="center">
 <b>

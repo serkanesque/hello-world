@@ -10,8 +10,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <td style="padding-left:5px;" width="50">
+<<<<<<< HEAD
 <font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany5&amp;stats=5-altglienicke">Altglienicke</a></td>
+=======
+<font style="font-size:10px;color:#666666;">We 30 Nov</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany5&amp;stats=15-berliner-ak">Berliner AK</a></td>
+>>>>>>> parent of 7122b90 (1)
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -19,21 +24,38 @@
 </div>
 <span>
 <div style="text-align:left;">
+<<<<<<< HEAD
 <b>Altglienicke</b>:
 1.29
 points per game
 at home
 <br/><b>Halberstadt</b>:
 0.00
+=======
+<b>Berliner AK</b>:
+2.50
+points per game
+at home
+<br/><b>Lok. Leipzig</b>:
+1.17
+>>>>>>> parent of 7122b90 (1)
 points per game
 away
 <br/><br/>
 <font color="black">
+<<<<<<< HEAD
 61% of Altglienicke's points have been earned away.
 </font>
 <br/>
 <font color="red">
 Halberstadt have failed to win in their last 14 matches.
+=======
+Berliner AK have scored 75% of their goals at home.
+</font>
+<br/>
+<font color="black">
+82% of Lok. Leipzig's conceded goals were conceded away.
+>>>>>>> parent of 7122b90 (1)
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -42,6 +64,7 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
+<<<<<<< HEAD
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany5&amp;stats=4-halberstadt">Halberstadt</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=germany5&amp;stats=115-5-4-2023" title="Altglienicke vs Halberstadt">stats</a>
@@ -232,6 +255,11 @@ Click the Stats button for more stats on those teams.
 >>>>>>> parent of a10808b (1)
 =======
 >>>>>>> parent of a10808b (1)
+=======
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany5&amp;stats=17-lok.-leipzig">Lok. Leipzig</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany5&amp;stats=93-15-17-2023" title="Berliner AK vs Lok. Leipzig">stats</a>
+>>>>>>> parent of 7122b90 (1)
 </td>
 </tr>
 </table>
