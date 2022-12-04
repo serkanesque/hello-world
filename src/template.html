@@ -2803,6 +2803,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
 
               if(matchResult.hScore >1) {              
                 homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
+                if(poissonHomeTeam.name == "Delmenhorst") console.log("Poisson homeGoalDampner",homeGoalDampner)
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
