@@ -2801,18 +2801,16 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
-              poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);   
-
+                 
 
                 if(matchResult.aScore >1) {
                 awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
               } else {
-                awayGoalDampner = parseInt(matchResult.aScore);
-              }  
-              poissonHomeTeam.goalsFor = parseInt(poissonHomeTeam.goalsFor) + parseInt(homeGoalDampner);
-              poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(homeGoalDampner);
-              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+                awayGoalDampner = parseInt(matchResult.aScore);        
             }
+            poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
+            poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(homeGoalDampner);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
   
       }
     }
