@@ -2739,12 +2739,39 @@ while(standardDeviation.length > 0) {
     }
 
 
+
+
+
+
+
+
+for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
+        if(matchResult.hScore && matchResult.hScore !== "pp.")  {
+            if(venue == "home") {   
+              poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));
+              } else {
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.hScore))
+            }  
+      }
+    }
+
+    
+    poissonHomeTeam.homeGreaterThan1Goal = 0
+    for (var d = 0; d < poissonHomeTeam.goalsForInGames; d++) {
+      if( poissonHomeTeam.goalsForInGames[d] > 1) poissonHomeTeam.homeGreaterThan1Goal +=1;      
+    }
+    poissonHomeTeam.homeGreaterThan1GoalRatio = poissonHomeTeam.homeGreaterThan1Goal / poissonHomeTeam.goalsForInGame.length;
+
+
+
+
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
             if(venue == "home") {
               if(matchResult.hScore >1) {
-                homeGoalDampner =  1;
+                homeGoalDampner =  1 +  poissonHomeTeam.greaterThan1GoalRatio;
               } else {
                 homeGoalDampner = matchResult.hScore;
               }
@@ -2784,6 +2811,10 @@ while(standardDeviation.length > 0) {
   
       }
     }
+
+
+
+    
     if(venue == "home") {
     math.std(stdDeviation);
     stdDeviation.sort(function(a, b) {
