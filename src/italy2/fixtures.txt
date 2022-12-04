@@ -8,6 +8,7 @@
 <td style="padding-left:5px;" width="50">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy2&amp;stats=10-ternana">Ternana</a></td>
 <td align="center" width="40">
@@ -32,6 +33,17 @@ at home
 </div>
 <span>
 <div style="text-align:left;">
+=======
+<font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy2&amp;stats=19-venezia">Venezia</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">13:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+>>>>>>> parent of a10808b (1)
 =======
 <font style="font-size:10px;color:#666666;">Sa 3 Dec</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy2&amp;stats=19-venezia">Venezia</a></td>
@@ -88,6 +100,9 @@ points per game
 at home
 <br/><b>Parma</b>:
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of a10808b (1)
+=======
 >>>>>>> parent of a10808b (1)
 =======
 >>>>>>> parent of a10808b (1)
@@ -97,12 +112,21 @@ away
 <br/><br/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <font color="red">
 Ternana have failed to win in their last 6 matches.
 </font>
 <br/>
 <font color="black">
 Cagliari have drawn their last 5 matches.
+=======
+<font color="black">
+Cagliari have drawn their last 4 matches.
+</font>
+<br/>
+<font color="black">
+73% of Parma's points have been earned at home.
+>>>>>>> parent of a10808b (1)
 =======
 <font color="black">
 Cagliari have drawn their last 4 matches.
@@ -129,9 +153,15 @@ Click the Stats button for more stats on those teams.
 </a>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy2&amp;stats=6-cagliari">Cagliari</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=italy2&amp;stats=340-10-6-2023" title="Ternana vs Cagliari">stats</a>
+=======
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy2&amp;stats=1-parma">Parma</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy2&amp;stats=325-6-1-2023" title="Cagliari vs Parma">stats</a>
+>>>>>>> parent of a10808b (1)
 =======
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy2&amp;stats=1-parma">Parma</a></td>
 <td align="left" width="40">
