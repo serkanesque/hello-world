@@ -3140,16 +3140,16 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
   console.log("fixturePoisson4",fixturePoisson4)
 
-  leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) + "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) + "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
-  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) + "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[5].innerHTML = "<span>" + (fixturePoisson2.winP).toFixed(2) //+ "<br>" + (fixturePoisson3.winP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[6].innerHTML = "<span>" + (fixturePoisson2.drawP).toFixed(2) //+ "<br>" + (fixturePoisson3.drawP).toFixed(2) + "</span>";
+  leagueTablePoissonTrs[f].childNodes[7].innerHTML = "<span>" + (fixturePoisson2.lossP).toFixed(2) //+ "<br>" + (fixturePoisson3.lossP).toFixed(2) + "</span>";
 
   let el = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScores");
-  let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
-  let el3 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast3");
+  //let el2 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast6");
+  //let el3 = leagueTablePoissonTrs[f].nextSibling.getElementsByClassName("poissonScoresLast3");
   el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
-  el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
-  el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
+  //el2[0].innerHTML = displayPoissonScores(scoreDataArrayLast6,homeTeam,"Last 6 games Poisson");
+  //el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
  
 }
 
