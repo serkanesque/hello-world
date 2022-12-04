@@ -2748,10 +2748,13 @@ while(standardDeviation.length > 0) {
 for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {            
+          if(venue == "home") {
               poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));      
-              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore))
-   
-          
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore)) 
+          } else {
+            poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.aScore));      
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.hScore)) 
+          }
       }
     }
 
