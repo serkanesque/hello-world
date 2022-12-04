@@ -2760,14 +2760,14 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
     for (var d = 0; d < poissonHomeTeam.goalsForInGames.length; d++) {
       if( poissonHomeTeam.goalsForInGames[d] > 1) poissonHomeTeam.homeGreaterThan1Goal +=1;      
     }
-    poissonHomeTeam.homeGreaterThan1GoalRatio = parseInt(poissonHomeTeam.homeGreaterThan1Goal) / parseInt(poissonHomeTeam.goalsForInGames.length);
+    poissonHomeTeam.homeGreaterThan1GoalRatio = poissonHomeTeam.homeGreaterThan1Goal / poissonHomeTeam.goalsForInGames.length;
     poissonHomeTeam.homeGreaterThan1GoalRatio =    poissonHomeTeam.homeGreaterThan1GoalRatio.toFixed(4);                                                                    
 
     poissonHomeTeam.homeGreaterThan1GoalConceded = 0
     for (var d = 0; d < poissonHomeTeam.goalsAgainstInGames.length; d++) {
       if( poissonHomeTeam.goalsAgainstInGames[d] > 1) poissonHomeTeam.homeGreaterThan1GoalConceded +=1;      
     }
-    poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = parseInt(poissonHomeTeam.homeGreaterThan1GoalConceded) / parseInt(poissonHomeTeam.goalsAgainstInGames.length);
+    poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1GoalConceded / poissonHomeTeam.goalsAgainstInGames.length;
     poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio.toFixed(4);
 
 
