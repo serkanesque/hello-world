@@ -2816,7 +2816,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
                 awayGoalDampner = parseInt(matchResult.aScore);        
             }
             poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
-            poissonHomeTeam.goalsAgainst = parseInt(poissonHomeTeam.goalsAgainst) + parseInt(homeGoalDampner);
+            poissonHomeTeam.goalsAgainst = parseFloat(poissonHomeTeam.goalsAgainst) + parseFloat(homeGoalDampner);
             if(poissonHomeTeam.name == "Delmenhorst") console.log("Poisson goalsAgainst",poissonHomeTeam.goalsAgainst)
              
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
