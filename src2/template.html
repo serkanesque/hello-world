@@ -484,40 +484,40 @@ var currentHours = d.getHours()
 
 
 
-get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+get('https://serkanesque.github.io/hello-world/src2/' + league + '/fixtures.txt').then(function(response) {
  document.getElementById("fixtures").innerHTML = response;
-}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
+}).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/awayRows.txt').then(function(response) {
 
  document.getElementById("awayRows").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
 
  document.getElementById("halfTime").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
 
  document.getElementById("halfTimeAway").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
 
  document.getElementById("halfTimeTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
 
 
  document.getElementById("halfTimeAwayTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/homeRows.txt').then(function(response) {
 
  document.getElementById("homeRows").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeGoals.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/homeGoals.txt').then(function(response) {
 
  document.getElementById("homeGoals").innerHTML = response;
 
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayGoals.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/awayGoals.txt').then(function(response) {
 
  document.getElementById("awayGoals").innerHTML = response;
 
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/seasonFixtures.txt').then(function(response) {
 
  document.getElementById("seasonFixtures").innerHTML = response;
 
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures2018.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/seasonFixtures2018.txt').then(function(response) {
 
  document.getElementById("seasonFixtures2018").innerHTML = response;
 
@@ -573,25 +573,25 @@ function navControls(direction) {
 
 
 /*
-get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
+get('https://serkanesque.github.io/hello-world/src2/' + league + '/homeRows.txt').then(function(response) {
  document.getElementById("homeRows").innerHTML = response;
-}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
+}).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/awayRows.txt').then(function(response) {
  document.getElementById("awayRows").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
  document.getElementById("halfTime").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
  document.getElementById("halfTimeAway").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
  document.getElementById("halfTimeTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
  document.getElementById("halfTimeAwayTrailing").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/fixtures.txt').then(function(response) {
  document.getElementById("fixtures").innerHTML = response;
-}.then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeGoals.txt').then(function(response) {
+}.then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/homeGoals.txt').then(function(response) {
  document.getElementById("homeGoals").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/seasonFixtures.txt').then(function(response) {
  document.getElementById("seasonFixtures").innerHTML = response;
-})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures2018.txt').then(function(response) {
+})).then(get('https://serkanesque.github.io/hello-world/src2/' + league + '/seasonFixtures2018.txt').then(function(response) {
  document.getElementById("seasonFixtures2018").innerHTML = response;
 })).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
  document.getElementById("nav").innerHTML = response;
