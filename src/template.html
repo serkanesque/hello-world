@@ -3116,7 +3116,7 @@ var attackMarkup = "";
  });
 
 for (var f = 0; f < poissonTableHome.length; f++) {
-  attackMarkup += "<tr><td id=" +poissonTableHome[f].name.split(' ').join('')   +">" + poissonTableHome[f].name  +"</td><td>" + poissonTableHome[f].AttackStrength  +"</td><td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
+  attackMarkup += "<tr id=" +poissonTableHome[f].name.split(' ').join('')+"><td>" + poissonTableHome[f].name  +"</td><td>" + poissonTableHome[f].AttackStrength  +"</td><td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
 }
 
 
@@ -3132,7 +3132,7 @@ poissonTableAway.sort(function(a, b) {
  });
 
  for (var f = 0; f < poissonTableAway.length; f++) {
-  defenceMarkup += "<tr><td id=" + poissonTableAway[f].name.split(' ').join('')   +">" + poissonTableAway[f].name  +"</td><td>" + poissonTableAway[f].AttackStrength  +"</td><td>" + poissonTableAway[f].DefenceStrength  +"</td></tr>";
+  defenceMarkup += "<tr id=" + poissonTableAway[f].name.split(' ').join('')+"><td>" + poissonTableAway[f].name  +"</td><td>" + poissonTableAway[f].AttackStrength  +"</td><td>" + poissonTableAway[f].DefenceStrength  +"</td></tr>";
 }
 
 
