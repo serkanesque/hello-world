@@ -3127,8 +3127,8 @@ document.getElementById("homeAttackTable").innerHTML = attackMarkup;
 
 var defenceMarkup = "";
 poissonTableAway.sort(function(a, b) {
-  if (a.DefenceStrength < b.DefenceStrength) return 1;
-  if (a.DefenceStrength > b.DefenceStrength) return -1;
+  if (a.DefenceStrength > b.DefenceStrength) return 1;
+  if (a.DefenceStrength < b.DefenceStrength) return -1;
  });
 
  for (var f = 0; f < poissonTableAway.length; f++) {
