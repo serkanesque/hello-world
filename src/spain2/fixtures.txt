@@ -6,29 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 5 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=22-ponferradina">Ponferradina</a></td>
+<font style="font-size:10px;color:#666666;">Tu 6 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=7-leganes">Leganes</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">20:00</font>
+<font color="green" size="1">18:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Ponferradina</b>:
-1.13
+<b>Leganes</b>:
+1.89
 points per game
 at home
-<br/><b>Burgos</b>:
-1.63
+<br/><b>Mirandes</b>:
+0.38
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="green">
+Leganes have been undefeated in their last 7 matches.
 </font>
 <br/>
 <font color="black">
-83% of Burgos's conceded goals occurred in the second half.
+84% of Mirandes's points have been earned at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -37,9 +38,85 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=15-burgos">Burgos</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=5-mirandes">Mirandes</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=432-22-15-2023" title="Ponferradina vs Burgos">stats</a>
+<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=102-7-5-2023" title="Leganes vs Mirandes">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 6 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=17-real-oviedo">Real Oviedo</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Real Oviedo</b>:
+1.44
+points per game
+at home
+<br/><b>Las Palmas</b>:
+1.78
+points per game
+away
+<br/><br/>
+<font color="black">
+75% of Real Oviedo's goals have been scored in the second half.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=9-las-palmas">Las Palmas</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=109-17-9-2023" title="Real Oviedo vs Las Palmas">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 6 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=spain2&amp;stats=20-albacete">Albacete</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Albacete</b>:
+1.44
+points per game
+at home
+<br/><b>Real Zaragoza</b>:
+0.89
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+76% of Real Zaragoza's conceded goals occurred in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=spain2&amp;stats=10-real-zaragoza">Real Zaragoza</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=spain2&amp;stats=105-20-10-2023" title="Albacete vs Real Zaragoza">stats</a>
 </td>
 </tr>
 </table>
