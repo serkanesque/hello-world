@@ -3234,6 +3234,9 @@ yes(th,last6HomeOpp,leagueTableTRs);
 
 var homeAttackTable = document.getElementById('homeAttackTable');
 var homeAttackTrs  = homeAttackTable.getElementsByTagName("tr");
+
+
+
 var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
 th = last6HomeTable.getElementsByTagName("th");
 
@@ -3247,7 +3250,8 @@ yesAwayTable(th,last6HomeOpp,document.getElementById('awayDrawTable').getElement
 yesHomeTable(th,last6AwayOpp,document.getElementById('homeDrawTable').getElementsByTagName("tr"));
 yesLast6(thLast6home,last6HometeamOpp,leagueTableTRs);
 yesLast6Away(thLast6home,last6AwayteamOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
-yesAwayTable(th,last6HomeOpp,document.getElementById('homeAttackTable').getElementsByTagName("tr"));
+yesHomeTable(th,last6HomeOpp,document.getElementById('homeAttackTable').getElementsByTagName("tr"));
+yesAwayTable(th,last6AwayOpp,document.getElementById('awayDefenceTable').getElementsByTagName("tr"));
 //yesLast6(th,last6HometeamOpp,document.getElementById('leagueTable3').getElementsByTagName("tr"));
 tdsArray = [];
 
