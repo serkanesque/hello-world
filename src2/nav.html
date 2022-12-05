@@ -1,0 +1,47 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Version 2.0.1</title>
+
+</head>
+
+
+<body onload="getParameterByName()">
+
+<style>
+	div {
+		width: 100%;
+	}
+iframe {
+	height: 3000px;
+	width: 100%;
+}
+ 
+</style>  
+
+
+<ul>
+	<li><a onclick="change('today')" href="">Today</a></li>
+	<li><a onclick="change('tomorrow')"  href="">Tomorrow</a></li>
+</ul>
+
+<div>
+	<iframe id="iframe" scrolling="no" style="border:none;" src="home.html?league=germany1"></iframe>
+</div>
+
+<script>
+function change(day) {
+	console.log(day);
+	if (day =='today') {
+		document.getElementById('iframe').src = 'home.html?league=germany1';
+	} else {
+if (day =='tomorrow') document.getElementById('iframe').src = 'homeTomorrow.html?league=germany1';
+}
+}
+
+	</script>
+</body>
+
+</html>

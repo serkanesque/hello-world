@@ -1,0 +1,876 @@
+<table cellpadding="1" cellspacing="1" width="99%">
+<tbody><tr bgcolor="#dddddd">
+<td align="center" height="30" width="90"><b>
+Overall
+</b></td>
+<td align="center"><b>0-10</b></td>
+<td align="center"><b>11-20</b></td>
+<td align="center"><b>21-30</b></td>
+<td align="center"><b>31-40</b></td>
+<td align="center"><b>41-50</b></td>
+<td align="center"><b>51-60</b></td>
+<td align="center"><b>61-70</b></td>
+<td align="center"><b>71-80</b></td>
+<td align="center"><b>81-90</b></td>
+<td align="center">  </td>
+<td align="center"><b>
+1st half
+</b></td>
+<td align="center"><b>
+2nd half
+</b></td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u98-alaves" target="_top">Alaves</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-5
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-5
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-17
+</td>
+<td align="center" bgcolor="#D2FFE9">
+23-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u107-athletic-bilbao" target="_top">Athletic Bilbao</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-4
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+15-10
+</td>
+<td align="center" bgcolor="#D2FFE9">
+14-13
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u106-atletico-madrid" target="_top">Atletico Madrid</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+5-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+3-0
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+14-11
+</td>
+<td align="center" bgcolor="#D2FFE9">
+17-10
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u93-celta-vigo" target="_top">Celta Vigo</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-6
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-6
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+7-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-10
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-24
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u99-eibar" target="_top">Eibar</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-6
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+10-19
+</td>
+<td align="center" bgcolor="#FFCCCC">
+17-22
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u94-espanyol" target="_top">Espanyol</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-8
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-7
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-29
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u97-fc-barcelona" target="_top">FC Barcelona</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+12-3
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+32-13
+</td>
+<td align="center" bgcolor="#D2FFE9">
+31-18
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u102-fc-sevilla" target="_top">FC Sevilla</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+20-11
+</td>
+<td align="center" bgcolor="#D2FFE9">
+19-18
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u104-getafe" target="_top">Getafe</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+10-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-1
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+15-13
+</td>
+<td align="center" bgcolor="#D2FFE9">
+22-12
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u882-granada" target="_top">Granada</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+7-2
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+13-15
+</td>
+<td align="center" bgcolor="#D2FFE9">
+20-17
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u108-leganes" target="_top">Leganes</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+0-6
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+10-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+11-22
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u92-levante" target="_top">Levante</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+4-9
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+12-15
+</td>
+<td align="center" bgcolor="#FFCCCC">
+20-25
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u891-mallorca" target="_top">Mallorca</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-8
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+1-8
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-17
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-27
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u892-osasuna" target="_top">Osasuna</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-6
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+9-3
+</b>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-4
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+9-21
+</td>
+<td align="center" bgcolor="#D2FFE9">
+25-17
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u91-real-betis" target="_top">Real Betis</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-6
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#FFFFCC">
+4-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-7
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+2-7
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+20-19
+</td>
+<td align="center" bgcolor="#FFCCCC">
+18-24
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u103-real-madrid" target="_top">Real Madrid</a>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+3-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+8-1
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-4
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+20-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+29-13
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u96-real-sociedad" target="_top">Real Sociedad</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-0
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+8-3
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+3-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+6-7
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+4-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+7-6
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+21-13
+</td>
+<td align="center" bgcolor="#D2FFE9">
+24-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u105-valencia" target="_top">Valencia</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+0-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-5
+</td>
+<td align="center" bgcolor="#D2FFE9">
+<b>
+6-1
+</b>
+</td>
+<td align="center" bgcolor="#FFFFCC">
+5-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+6-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+9-8
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+14-19
+</td>
+<td align="center" bgcolor="#D2FFE9">
+24-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u90-valladolid" target="_top">Valladolid</a>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-3
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-2
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+2-4
+</td>
+<td align="center" bgcolor="#FFFFCC">
+1-1
+</td>
+<td align="center" bgcolor="#FFFFCC">
+2-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+2-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+4-5
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+6-12
+</b>
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#FFCCCC">
+8-13
+</td>
+<td align="center" bgcolor="#FFCCCC">
+15-20
+</td>
+</tr>
+<tr class="trow8" height="24">
+<td align="left">
+<a href="team.asp?league=spain&amp;stats=u95-villarreal" target="_top">Villarreal</a>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+5-3
+</td>
+<td align="center" bgcolor="#FFCCCC">
+1-2
+</td>
+<td align="center" bgcolor="#D2FFE9">
+3-1
+</td>
+<td align="center" bgcolor="#FFCCCC">
+<b>
+3-9
+</b>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-4
+</td>
+<td align="center" bgcolor="#FFCCCC">
+5-8
+</td>
+<td align="center" bgcolor="#FFFFCC">
+6-6
+</td>
+<td align="center" bgcolor="#D2FFE9">
+8-3
+</td>
+<td>
+</td>
+<td align="center" bgcolor="#D2FFE9">
+16-10
+</td>
+<td align="center" bgcolor="#FFFFCC">
+28-28
+</td>
+</tr>
+<tr><td align="center" colspan="13">
+<font color="gray">'41-50 m' and '81-90 m' also include added time</font>
+</td></tr>
+</tbody></table>

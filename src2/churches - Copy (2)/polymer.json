@@ -1,0 +1,17 @@
+{
+   "shell": "v2/es5-bundled/src/my-app.js",
+  "entrypoint": "index.html",
+  
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "extraDependencies": [
+    "node_modules/@webcomponents/webcomponentsjs/*.js",
+    "!node_modules/@webcomponents/webcomponentsjs/gulpfile.js",
+    "node_modules/@webcomponents/webcomponentsjs/bundles/*.js"
+  ],
+  "builds": [{ "preset": "es5-bundled" }]
+}

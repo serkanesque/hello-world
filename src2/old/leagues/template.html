@@ -1,0 +1,628 @@
+
+<body onload="getParameterByName()">
+<style>
+
+section { display: none; }
+.nav a { display: inline-block; margin-right: 20px; }
+</style>  
+<div id="nav" class="nav"></div> 
+
+<section id="homeRows"><div id="tables_div" class="table_div"></section>
+<section id="awayRows"><div id="tables_div" class="table_div"></section>
+<section><table id="halfTime" cellspacing="0" cellpadding="2" width="99%"></table>
+<table id="halfTimeAway" cellspacing="0" cellpadding="2" width="99%"></table>
+<table id="halfTimeTrailing" cellspacing="0" cellpadding="2" width="99%"></table>
+<table id="halfTimeAwayTrailing" cellspacing="0" cellpadding="2" width="99%"></table>
+</section>
+<section>
+<div>
+    <table id="fixtures" cellspacing="0" cellpadding="3" class="statnowidth" width="95%">  
+</table>
+
+</div>
+</section>
+
+
+
+<style>
+    #tables { display: flex; }
+    #tables div { margin-right: 60px; }
+</style>
+<Div id="tables">
+    <Div>       
+    <h1> League <h3 id="draw%"></h3> </h1>
+    <table id="leagueTable">
+    </table>
+</Div>
+
+<Div>       
+    <h1> Home </h1>
+    <table id="homeDrawTable">
+    </table>
+</Div>
+
+<div>
+<h1> Away </h1>
+<table id="awayDrawTable">
+</table>
+</Div>
+<Div>
+<h1> Fixtures </h1>
+<table id="fixturesTable">
+</table>
+</Div>
+</Div>
+
+
+
+
+<script type="text/javascript">
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+// Give the parameter a variable name
+var league = getParameterByName('league');
+
+console.log(league)
+
+
+
+function get(url) {
+  // Return a new promise.
+  return new Promise(function(resolve, reject) {
+    // Do the usual XHR stuff
+    var req = new XMLHttpRequest();
+    req.open('GET', url);
+
+    req.onload = function() {
+      // This is called even on 404 etc
+      // so check the status
+      if (req.status == 200) {
+        // Resolve the promise with the response text
+        resolve(req.response);
+      }
+      else {
+        // Otherwise reject with the status text
+        // which will hopefully be a meaningful error
+        reject(Error(req.statusText));
+      }
+    };
+
+    // Handle network errors
+    req.onerror = function() {
+      reject(Error("Network Error"));
+    };
+
+    // Make the request
+    req.send();
+  });
+}
+
+
+
+
+
+get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
+
+  document.getElementById("homeRows").innerHTML  = response;
+}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
+ 
+    document.getElementById("awayRows").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
+
+      document.getElementById("halfTime").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
+
+     document.getElementById("halfTimeAway").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
+
+document.getElementById("halfTimeTrailing").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
+
+    document.getElementById("halfTimeAwayTrailing").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+
+      document.getElementById("fixtures").innerHTML  = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/names.xml').then(function(response) {
+    parser = new DOMParser();
+xmlTeamNames = parser.parseFromString(response,"text/xml");     
+
+})).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
+        document.getElementById("nav").innerHTML  = response;
+    allDone();
+}))
+
+
+
+function allDone() {
+
+console.log("ALL DONE");
+    var xmlTeamsFrom =  xmlTeamNames.getElementsByTagName("from");
+    var xmlTeamsTo =  xmlTeamNames.getElementsByTagName("to");
+
+ var halfTimeContainerDiv = document.getElementById("halfTime");
+var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+halfTimeLeading = [];
+for(var i=0; i<halfTimeInnerDivs.length; i++)
+{
+     var team = new Object();
+    team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+}
+
+     team.htPercentage =  halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+     halfTimeLeading.push(team);    
+    }
+
+    var halfTimeContainerDiv = document.getElementById("halfTimeAway");
+var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+halfTimeLeadingAway = [];
+
+for(var i=0; i<halfTimeInnerDivs.length; i++)
+{
+     var team = new Object();
+    team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+    //change team names
+
+
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+
+}
+
+     team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+     halfTimeLeadingAway.push(team);
+    
+    }
+
+    var halfTimeContainerDiv = document.getElementById("halfTimeTrailing");
+var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+halfTimeTrailing = [];
+for(var i=0; i<halfTimeInnerDivs.length; i++)
+{
+     var team = new Object();
+    team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+    //change team names
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+
+}
+
+
+     team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+     halfTimeTrailing.push(team);
+    
+    }
+
+
+    var halfTimeContainerDiv = document.getElementById("halfTimeAwayTrailing");
+var halfTimeInnerDivs = halfTimeAwayTrailing.getElementsByTagName("tr");
+halfTimeAwayTrailing = [];
+
+for(var i=0; i<halfTimeInnerDivs.length; i++)
+{
+     var team = new Object();
+    team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+    //change team names
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+
+}
+
+     team.htPercentage =   halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+     halfTimeAwayTrailing.push(team);    
+    }
+
+
+
+
+var totalPlayed;
+
+var flag = false;
+markup = "";
+var awayContainerDiv = document.getElementById("homeRows");
+var awayInnerDivs = awayContainerDiv.getElementsByClassName("table_row");
+homeTable = [];
+var totalDrawn = 0;
+var totalPlayed = 0;
+
+for(var i=1; i<awayInnerDivs.length; i++)
+{
+ var team = new Object();
+team.name = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[5].textContent;
+team.played = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[7].textContent;
+team.wins = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[9].textContent;
+team.draws = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[11].textContent;
+totalDrawn = totalDrawn + parseInt(team.draws);
+totalPlayed = totalPlayed + parseInt(team.played);
+team.lost = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[13].textContent;
+
+var drawPercentCalc = parseInt(team.draws)/(parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) *100;
+team.drawPercent = drawPercentCalc.toFixed(1);
+var goals = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[15].textContent;
+goalsSplit = goals.split('-');
+team.goalsF = goalsSplit[0];
+team.goalsA = goalsSplit[1]
+team.points = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[19].textContent;
+
+homeTable.push(team);
+document.getElementById("draw%").innerHTML = " Draw % " + ((totalDrawn/totalPlayed)*100).toFixed(2);
+
+
+/*
+
+
+    if(awayInnerDivs[i].id == "team") {
+     var team = new Object();
+    team.name = awayInnerDivs[i].textContent;   
+}
+    if(awayInnerDivs[i].id == "draws") {
+    team.draws = awayInnerDivs[i].textContent;
+}
+    if(awayInnerDivs[i].id == "wins") {
+    team.wins = awayInnerDivs[i].textContent;
+}
+    if(awayInnerDivs[i].id == "points") {
+    team.points = awayInnerDivs[i].textContent;
+}
+    if(awayInnerDivs[i].id == "goals") {
+    goals = awayInnerDivs[i].textContent;
+    goalsSplit = goals.split('-');
+    team.goalsF = goalsSplit[0];
+    team.goalsA = goalsSplit[1]
+   // console.log(team.goalsF + " " + team.goalsA)
+}
+    if(awayInnerDivs[i].id == "lost") {
+    team.lost = awayInnerDivs[i].textContent;
+    var drawPercentCalc = parseInt(team.draws)/(parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) *100;
+    team.drawPercent = drawPercentCalc.toFixed(1);
+    homeTable.push(team);
+}
+*/
+}
+
+//homeTable.sort((a, b) => (a.draws > b.draws) ? 1 : -1)
+
+
+homeTable.sort(function (a, b) {
+    if (a.drawPercent < b.drawPercent) return -1;
+    if (a.drawPercent > b.drawPercent) return 1;
+    if (a.wins < b.wins) return 1;
+    if (a.wins > b.wins) return -1;
+});
+
+
+markup = markup + '<tr class="team"><td>team</td><td>pl </td><td>win</td><td>draw</td><td>lost</td><td>pts</td><td>draw%</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td></tr>';
+for(var i=0; i<homeTable.length; i++)
+{
+    for(var j=0; j<halfTimeLeading.length; j++) {
+        if(halfTimeLeading[j].name == homeTable[i].name) {
+         var halfTimeLeadingPercent = halfTimeLeading[j].htPercentage;
+         break
+     }
+    }   
+        for(var j=0; j<halfTimeTrailing.length; j++) {
+        if(halfTimeTrailing[j].name == homeTable[i].name) {
+         var halfTimeTrailingPercent = halfTimeTrailing[j].htPercentage;
+         break
+     }
+    }  
+
+if(homeTable[i].drawPercent > 25 && flag == false) {
+    markup = markup + '<tr id="empty"><td>&nbsp; </td></tr><tr id="empty"><td>&nbsp; </td></tr>';
+     flag = true;
+}
+
+var halftimeDrawPercentage = 100 -(parseInt(halfTimeLeadingPercent) + parseInt(halfTimeTrailingPercent));
+
+markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') +'><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td></tr>'
+}
+
+
+
+document.getElementById('homeDrawTable').innerHTML = markup;
+
+
+
+
+
+var flag = false;
+
+    
+function sortNumber(a, b) {
+  return a.draws - b.draw;
+}
+function sortWin(a, b) {
+  return a.wins - b.wins;
+}
+
+markup = '<tr class="team"><td>team</td><td>pl </td><td>wins</td><td>draw</td><td>lost</td><td>pts</td><td>draw %</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td></tr>';
+
+var awayContainerDiv = document.getElementById("awayRows");
+var awayInnerDivs = awayContainerDiv.getElementsByClassName("table_row");
+awayTable = [];
+
+for(var i=1; i<awayInnerDivs.length; i++)
+{
+ var team = new Object();
+team.name = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[5].textContent;
+team.played = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[7].textContent;
+team.wins = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[9].textContent;
+team.draws = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[11].textContent;
+team.lost = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[13].textContent;
+var drawPercentCalc = parseInt(team.draws)/(parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) *100;
+team.drawPercent = drawPercentCalc.toFixed(1);
+var goals = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[15].textContent;
+goalsSplit = goals.split('-');
+team.goalsF = goalsSplit[0];
+team.goalsA = goalsSplit[1]
+team.points = awayInnerDivs[i].childNodes[1].childNodes[1].childNodes[19].textContent;
+
+awayTable.push(team);
+
+
+}
+
+awayTable.sort(function (a, b) {
+    if (a.drawPercent < b.drawPercent) return -1;
+    if (a.drawPercent > b.drawPercent) return 1;
+    if (a.wins < b.wins) return 1;
+    if (a.wins > b.wins) return -1;
+});
+
+
+
+for(var i=0; i<awayTable.length; i++)
+{
+ for(var j=0; j<halfTimeLeading.length; j++) {
+        if(halfTimeLeadingAway[j].name == awayTable[i].name) {
+           // console.log(halfTimeLeading[j].name + " " + homeTable[i].name + " " + halfTimeLeading[j].htPercentage)
+         var halfTimeLeadingPercent = halfTimeLeadingAway[j].htPercentage;
+         break
+     }
+        if(halfTimeAwayTrailing[j].name == awayTable[i].name) {
+           // console.log(halfTimeLeading[j].name + " " + homeTable[i].name + " " + halfTimeLeading[j].htPercentage)
+         var halfTimeAwayTrailingPercent =   halfTimeAwayTrailing[j].htPercentage;
+         break
+     }
+
+    }   
+
+if(awayTable[i].drawPercent > 25 && flag == false) {
+    markup = markup + '<tr id="empty"><td>&nbsp; </td></tr><tr id="empty"><td>&nbsp; </td></tr>';
+    flag = true;
+}
+
+var halftimeDrawPercentage = 100 -(parseInt(halfTimeLeadingPercent) + parseInt(halfTimeAwayTrailingPercent));
+
+markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') +'><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeAwayTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td></tr>'
+}
+
+document.getElementById('awayDrawTable').innerHTML = markup;
+
+
+
+
+
+var fixturesContainerDiv = document.getElementById("fixtures");
+var fixturesInnerDivs = fixturesContainerDiv.getElementsByTagName("TR");
+
+
+
+markup = '<tr><td>Kickoff</td><td>hdr</td><td>home team</td><td>adr</td><td>Away team</td><td>pts delta</td><td>goals f delta</td><td>goals a delta</td></tr>';
+
+
+
+for(var i=1; i<fixturesInnerDivs.length; i++) {
+
+date = fixturesInnerDivs[i].childNodes[1].firstElementChild.textContent;
+console.log(date)
+time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
+fixture = fixturesInnerDivs[i].childNodes[3].textContent;
+
+fixture = fixture.trim();
+fixture = fixture.split(' - ');
+homeTeam = fixture[0];
+awayTeam = fixture[1];
+
+
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(homeTeam == xmlTeamsFrom[t].childNodes[0].nodeValue) homeTeam = xmlTeamsTo[t].childNodes[0].nodeValue
+
+}
+
+  for(var t=0; t<xmlTeamsFrom.length; t++)
+{
+    if(awayTeam == xmlTeamsFrom[t].childNodes[0].nodeValue) awayTeam = xmlTeamsTo[t].childNodes[0].nodeValue
+
+}
+
+ 
+
+        for(var j=0; j<homeTable.length; j++)
+{
+    if(homeTable[j].name == homeTeam) {
+        markup = markup + '<tr><td>' + date + time + '</td><td>' + j + '</td><td id='+ homeTable[j].name.split(' ').join('') +'>' + homeTable[j].name + '</td>';
+       // console.log(homeTable[j].name)
+         homePoints = homeTable[j].points;
+         homeGoalsFor = homeTable[j].goalsF;
+         homeGoalsAgainst = homeTable[j].goalsA;
+
+         //console.log(homeGoalsFor)
+    }
+}
+
+
+
+
+        for(var j=0; j<awayTable.length; j++)
+{
+
+    if(awayTable[j].name == awayTeam) {
+                //console.log(awayTable[j].name)
+         awayPoints = awayTable[j].points;
+         ptsDiff = homePoints - awayPoints;
+         awayGoalsFor = awayTable[j].goalsF;
+         awayGoalsAgainst = awayTable[j].goalsA;
+         goalsForDelta = homeGoalsFor - awayGoalsFor;
+         goalsAgainstDelta =  awayGoalsAgainst - homeGoalsAgainst ;
+
+
+        // console.log(awayGoalsFor);
+
+     markup = markup + '<td>' + j + '</td><td id='+ awayTable[j].name.split(' ').join('') +'>'+ awayTable[j].name + '</td><td>' +  ptsDiff +'</td><td>' +  goalsForDelta   +'</td><td>' +  goalsAgainstDelta   +'</td> </tr>'; 
+    }
+
+ 
+
+}
+        document.getElementById('fixturesTable').innerHTML = markup;
+
+}
+
+    var fixTable = document.getElementById('fixturesTable');
+var fixTableTRs = fixTable.getElementsByTagName("tr");
+
+
+
+for(var j=0; j<fixTableTRs.length; j++){
+
+fixTableTRs[j].addEventListener("mouseover", function(e){
+    //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id);s
+
+    var homeDrawTable =   document.getElementById('homeDrawTable');
+        var awayDrawTable =   document.getElementById('awayDrawTable');
+              var leagueTable =   document.getElementById('leagueTable');
+e.currentTarget.childNodes[1].style.backgroundColor = "lightgreen"
+e.currentTarget.childNodes[2].style.backgroundColor = "lightgreen"
+e.currentTarget.childNodes[3].style.backgroundColor = "pink"
+e.currentTarget.childNodes[4].style.backgroundColor = "pink"
+
+var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
+var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");;
+
+//console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
+    for(var p=0; p<homeDrawTableTRs.length; p++){
+
+
+
+        if(homeDrawTableTRs[p].id == e.currentTarget.childNodes[2].id) {
+            homeDrawTableTRs[p].style.backgroundColor = "lightgreen";       
+        }
+    if(awayDrawTableTRs[p].id == e.currentTarget.childNodes[4].id) {
+        console.log(awayDrawTableTRs[p].id);
+            awayDrawTableTRs[p].style.backgroundColor = "pink";             
+        }
+        if(leagueTableTRs[p].id == e.currentTarget.childNodes[2].id) {
+            leagueTableTRs[p].style.backgroundColor = "lightgreen";              
+        }
+                if(leagueTableTRs[p].id == e.currentTarget.childNodes[4].id) {
+            leagueTableTRs[p].style.backgroundColor = "pink";              
+        }
+
+
+    }
+})
+
+
+
+
+fixTableTRs[j].addEventListener("mouseout", function(e){
+    var homeDrawTable =   document.getElementById('homeDrawTable');
+     var awayDrawTable =   document.getElementById('awayDrawTable');
+      var leagueTable =   document.getElementById('leagueTable');
+
+var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
+var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
+e.currentTarget.childNodes[1].style.backgroundColor = "white"
+e.currentTarget.childNodes[2].style.backgroundColor = "white"
+e.currentTarget.childNodes[3].style.backgroundColor = "white"
+e.currentTarget.childNodes[4].style.backgroundColor = "white"
+
+for(var p=0; p<homeDrawTableTRs.length; p++){
+        if(homeDrawTableTRs[p].id == e.currentTarget.childNodes[2].id) {
+            homeDrawTableTRs[p].style.backgroundColor = "white";        
+        }
+    if(awayDrawTableTRs[p].id == e.currentTarget.childNodes[4].id) {
+            awayDrawTableTRs[p].style.backgroundColor = "white";            
+        }
+                if(leagueTableTRs[p].id == e.currentTarget.childNodes[2].id) {
+            leagueTableTRs[p].style.backgroundColor = "white";              
+        }
+                if(leagueTableTRs[p].id == e.currentTarget.childNodes[4].id) {
+            leagueTableTRs[p].style.backgroundColor = "white";              
+        }
+    }
+})  
+}
+
+var leagueTable = [];
+homeTable.sort(function (a, b) {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+
+});
+awayTable.sort(function (a, b) {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+
+});
+for(var i=0; i<awayTable.length; i++)
+{
+ var team = new Object();
+ var winPoints = (parseInt(homeTable[i].wins) + parseInt(awayTable[i].wins))*3;
+ //console.log(homeTable[i].wins + " " + homeTable[i].name + " " + awayTable[i].name + awayTable[i].wins);
+  var drawPoints = parseInt(homeTable[i].draws) + parseInt(awayTable[i].draws);
+  team.name = awayTable[i].name;
+  team.points = winPoints + drawPoints;
+leagueTable.push(team);
+}
+
+leagueTable.sort(function (a, b) {
+    if (a.points > b.points) return -1;
+    if (a.points < b.points) return 1;
+});
+
+for(var i=0; i<leagueTable.length; i++) {
+   var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') +'><td>' + leagueTable[i].name +'<td>' + leagueTable[i].points +'</td></tr>'; 
+}
+
+document.getElementById('leagueTable').innerHTML = pointsMarkup;
+
+
+
+
+/*
+            document.addEventListener("mouseover", function(){
+  document.getElementById("demo").innerHTML = "Hello World";
+
+}   
+*/
+
+}
+
+
+
+
+</script>

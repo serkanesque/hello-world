@@ -1,0 +1,2274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Version 2.0.1</title>
+
+
+</head>
+
+
+<body onload="getParameterByName()">
+<style>
+  body {
+    font-family: 'roboto';
+  }
+
+table {
+   border-spacing: 0;}
+
+    #tables { display: flex; }
+    #tables div { margin-right: 20px; }
+
+section { display: none; }
+.nav a { display: none; margin-right: 20px; }
+.hw {background-color: lightgreen;}
+.aw {background-color: pink;}
+.d {background-color: lightgray;}
+.d {background-color: lightgray;}
+          tr div  {
+              position: relative;
+              
+            }
+            tr div span {
+              position: absolute;
+              display: none;
+    background-color: #feffbf;
+    padding: 20px;
+    z-index: 100;
+    width: 140px;
+    top: 40px;
+            }
+
+            tr div:hover span {      
+              display: block;
+            }
+
+           #tables # div {
+
+        display: inline-block;
+    padding: 2px;
+    margin-right: 0px;
+        border: 1px solid;
+    min-width: 18px;
+    min-height: 20px;
+
+}
+#fixturesTable {
+  display: none;
+}
+ .homeLoss {
+  background-color: pink;
+ }
+.awayWin, .awayLoss{
+border-radius: 50%;
+background-color: pink;
+min-width: 15px;
+}
+.homeWin, .awayWin{
+background-color: lightgreen;
+}
+
+
+.awayDraw {
+  border-radius: 50%;
+}
+.homeDraw,.awayDraw {
+ background-color: #feffbf;
+}
+.hm .homeDraw,.am .awayDraw {
+ background-color: #fff;
+}
+
+.hideAway .awayWin, .hideAway .awayLoss,.hideAway .awayDraw {
+display: none !important;
+}
+
+.hideHome .homeWin, .hideHome .homeLoss,.hideHome .homeDraw {
+display: none !important;
+}
+#tables td {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; 
+  text-align: center;
+  padding: 8px;
+}
+
+
+#fixturesTable td.matchday {
+  font-weight: bold;
+  background-color: aliceblue;
+}
+
+tr.hide { display: none }
+
+td.noDraws {
+  background-color: purple !important;
+  color: white;
+}
+td.homeWin4 {
+  background-color: springgreen !important;
+}
+td.homeWin3 {
+  background-color: gold !important;
+}
+td.homeWin2 {
+  background-color: orangered !important;
+}
+
+.homeWinDiff2 {
+  background-color: springgreen;
+}
+.homeLossDiff2 {
+  background-color: orangered;
+}
+.awayWinDiff2 {
+    background-color: springgreen;
+    border-radius: 50%;
+}
+
+.pp {
+  background-color: lightgrey;
+}
+#grid {
+  display: none;
+  padding-bottom: 10px;
+}
+#grid.show {
+  display: table-row;
+}
+#tables #fixturesTable #grid div {
+  border: 0;
+}
+#tables #fixturesTable #grid div table td{
+padding: 10px 0;
+    font-size: 17px;
+}
+#tables #fixturesTable #grid div table th{
+  padding: 12px 0;
+  background-color: #eee;
+}
+.nope {
+  background-color: white !important;
+}
+.hm div {
+      border-left: 0 !important;
+    border-right: 1px solid !important;
+}
+.hm div:first-child {
+      border-left: 1px solid !important;
+    border-right: 1px solid !important;
+}
+#fixturesTable tr:hover {
+  cursor: pointer;
+}
+#fixturesTable #grid tr:hover, #fixturesTable #grid div:hover {
+  cursor: auto;
+}
+#fixturesTable div table {
+  border-left: 1px solid #ccc;
+}
+#grid .awayWinDiff2, #grid .homeWinDiff2 {
+  background-color:  #00ff7fd6;
+  }
+.score {
+  font-weight: 500;
+}
+
+    iframe {  
+    min-width: 100%;
+    height: 1200px;
+  }
+  #leagueTable {
+   visibility: hidden;
+  }
+  table.show {
+    display: block !important;
+  }
+  body {
+    margin-bottom: 40px;
+  }
+  #container {
+  margin: 0 auto;
+max-width: 1440px;
+    margin-top: 40px;
+  }
+  #legueTable .show {
+    visibility: visible;
+  }
+  h1 {
+    display: none;
+  }
+  #tables {
+    display: none;
+}
+</style>  
+
+<div id="nav" class="nav"></div>
+
+<section id="homeRows"></section>
+<section id="awayRows"></section>
+<section id="halfTime"></section>
+<section id="halfTimeAway"></section>
+<section id="halfTimeTrailing"></section>
+<section id="halfTimeAwayTrailing"></section>
+<section id="homeGoals"></section>
+<section id="awayGoals"></section>
+<section id="fixtures"></section>
+<section id="seasonFixtures"></section>
+<section id="seasonFixtures2018"></section>
+<section id="odds"></section>
+
+
+
+
+
+
+
+
+
+
+<Div id="tables">
+    <Div>       
+    <h1> League  </h1>
+    <table id="leagueTable"></table>
+</Div>
+
+<Div style="display: none;">       
+    <h1> Home </h1>
+    <table id="homeDrawTable">
+    </table>
+</Div>
+
+<Div style="display: none;">  
+<h1> Away </h1>
+<table id="awayDrawTable">
+</table>
+</Div>
+<Div>
+<h1 id="leagueName"></h1>
+<!-- <h3 id="draw%"></h3> -->
+<table id="fixturesTable">
+</table>
+</Div>
+</Div>
+<div id="container">
+  
+<iframe id="germany1" scrolling="no"  style="border:none;" src="template3.html?league=germany1"></iframe>
+<iframe id="germany2" scrolling="no"  style="border:none;" src="template3.html?league=germany2"></iframe>
+<iframe id="germany3" scrolling="no"  style="border:none;" src="template3.html?league=germany3"></iframe>
+<iframe id="czechrepublic1" scrolling="no"  style="border:none;" src="template3.html?league=czechrepublic1"></iframe>
+<iframe id="czechrepublic2" scrolling="no"  style="border:none;" src="template3.html?league=czechrepublic2"></iframe>
+<iframe id="denmark1" scrolling="no"  style="border:none;" src="template3.html?league=denmark1"></iframe>
+<iframe id="poland1" scrolling="no"  style="border:none;" src="template3.html?league=poland1"></iframe>
+<iframe id="israel1" scrolling="no"  style="border:none;" src="template3.html?league=israel1"></iframe>
+<iframe id="israel2" scrolling="no"  style="border:none;" src="template3.html?league=israel2"></iframe>
+<iframe id="costarica2" scrolling="no"  style="border:none;" src="template3.html?league=costarica2"></iframe>
+<iframe id="serbia1" scrolling="no"  style="border:none;" src="template3.html?league=serbia1"></iframe>
+<!--<iframe id="italy3" scrolling="no"  style="border:none;" src="template3.html?league=italy3"></iframe>
+<iframe id="italy4" scrolling="no"  style="border:none;" src="template3.html?league=italy4"></iframe>
+<iframe id="wales1" scrolling="no"  style="border:none;" src="template3.html?league=wales1"></iframe>-->
+<!-- <iframe id="scotland2" scrolling="no"  style="border:none;" src="template3.html?league=scotland2"></iframe> -->
+
+<!--<iframe id="switzerland1" scrolling="no"  style="border:none;" src="template3.html?league=switzerland1"></iframe>-->
+<!--<iframe id="turkey2" scrolling="no"  style="border:none;" src="template3.html?league=turkey2"></iframe>-->
+
+</div>
+<script type="text/javascript">function getParameterByName(name, url) {
+ if (!url) url = window.location.href;
+ name = name.replace(/[\[\]]/g, "\\$&");
+ var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+  results = regex.exec(url);
+ if (!results) return null;
+ if (!results[2]) return '';
+ return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+// Give the parameter a variable name
+var league = getParameterByName('league');
+var leagueName  = league;
+if(leagueName == "germany1") leagueName = "Bundesliga"  
+document.getElementById("leagueName").innerHTML = league;
+var rowClass = "";
+
+
+
+
+
+
+
+function get(url) {
+ // Return a new promise.
+ return new Promise(function(resolve, reject) {
+  // Do the usual XHR stuff
+  var req = new XMLHttpRequest();
+  req.open('GET', url);
+
+  req.onload = function() {
+   // This is called even on 404 etc
+   // so check the status
+   if (req.status == 200) {
+    // Resolve the promise with the response text
+    resolve(req.response);
+   } else {
+    // Otherwise reject with the status text
+    // which will hopefully be a meaningful error
+    reject(Error(req.statusText));
+   }
+  };
+
+  // Handle network errors
+  req.onerror = function() {
+   reject(Error("Network Error"));
+  };
+
+  // Make the request
+  req.send();
+ });
+}
+
+var d = new Date();
+var weekday = new Array(7);
+weekday[0] = "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
+var day = weekday[d.getDay()];
+var date = d.getDate();
+day = day.toString();
+day = day.substring(0,3);
+today = day.concat(" ",date)
+var n = d.getHours();
+var currentHours = d.getHours()
+
+
+
+get('https://serkanesque.github.io/hello-world/src/' + league + '/homeRows.txt').then(function(response) {
+
+ document.getElementById("homeRows").innerHTML = response;
+}).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayRows.txt').then(function(response) {
+
+ document.getElementById("awayRows").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeLeading.txt').then(function(response) {
+
+ document.getElementById("halfTime").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayLeading.txt').then(function(response) {
+
+ document.getElementById("halfTimeAway").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeHomeTrailing.txt').then(function(response) {
+
+ document.getElementById("halfTimeTrailing").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/halfTimeAwayTrailing.txt').then(function(response) {
+
+
+ document.getElementById("halfTimeAwayTrailing").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/fixtures.txt').then(function(response) {
+
+ document.getElementById("fixtures").innerHTML = response;
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/homeGoals.txt').then(function(response) {
+
+ document.getElementById("homeGoals").innerHTML = response;
+
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/awayGoals.txt').then(function(response) {
+
+ document.getElementById("awayGoals").innerHTML = response;
+
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures.txt').then(function(response) {
+
+ document.getElementById("seasonFixtures").innerHTML = response;
+
+})).then(get('https://serkanesque.github.io/hello-world/src/' + league + '/seasonFixtures2018.txt').then(function(response) {
+
+ document.getElementById("seasonFixtures2018").innerHTML = response;
+
+})).then(get('https://serkanesque.github.io/hello-world/src/odds.txt').then(function(response) {
+
+ document.getElementById("odds").innerHTML = response;
+
+})).then(get('https://serkanesque.github.io/hello-world/src/nav.txt').then(function(response) {
+ document.getElementById("nav").innerHTML = response;
+interval = setInterval(allDone, 50)
+}))
+
+
+
+function allDone() {
+
+
+ console.log("ALL DONE");
+
+
+ var halfTimeContainerDiv = document.getElementById("halfTime");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+ halfTimeLeading = [];
+ for (var i = 1; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+  team.name =  team.name.replace(/[^a-zA-Z ]/g, "")
+
+  team.htPercentage = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  halfTimeLeading.push(team);
+ }
+
+
+ var halfTimeContainerDiv = document.getElementById("halfTimeAway");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+ halfTimeLeadingAway = [];
+ for (var i = 0; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+  team.name =  team.name.replace(/[^a-zA-Z ]/g, "")
+  team.htPercentage = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  halfTimeLeadingAway.push(team);
+ }
+
+
+ var halfTimeContainerDiv = document.getElementById("halfTimeTrailing");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+ halfTimeTrailing = [];
+ for (var i = 0; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+  team.name =  team.name.replace(/[^a-zA-Z ]/g, "")
+  team.htPercentage = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  halfTimeTrailing.push(team);
+ }
+  
+
+
+ var halfTimeContainerDiv = document.getElementById("halfTimeAwayTrailing");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByTagName("tr");
+ halfTimeAwayTrailing = [];
+ for (var i = 0; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+    team.name =  team.name.replace(/[^a-zA-Z ]/g, "")
+  team.htPercentage = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  halfTimeAwayTrailing.push(team);
+ }
+
+ var halfTimeContainerDiv = document.getElementById("homeGoals");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByClassName("trow8");
+ halfTimeHomeGoals = [];
+
+ for (var i = 0; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  var scored = 0;
+  var conceded = 0;
+  var last20scored = 0;
+  var last20conceded = 0;
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+  team.fistHalfGoals = halfTimeInnerDivs[i].childNodes[17].textContent.trim();
+
+  zero10 = halfTimeInnerDivs[i].childNodes[3].textContent.trim();
+  zero10 = zero10.split('-');
+  scored += parseInt(zero10[0])
+  conceded += parseInt(zero10[1])
+
+
+  ten20 = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  ten20 = ten20.split('-');
+  scored += parseInt(ten20[0])
+  conceded += parseInt(ten20[1])
+
+  twenty30 = halfTimeInnerDivs[i].childNodes[7].textContent.trim();
+  twenty30 = twenty30.split('-');
+  scored += parseInt(twenty30[0])
+  conceded += parseInt(twenty30[1])
+
+  thrity40 = halfTimeInnerDivs[i].childNodes[9].textContent.trim();
+  thrity40 = thrity40.split('-');
+  scored += parseInt(thrity40[0])
+  conceded += parseInt(thrity40[1])
+
+  forty50 = halfTimeInnerDivs[i].childNodes[11].textContent.trim();
+  forty50 = forty50.split('-');
+  scored += parseInt(forty50[0])
+  conceded += parseInt(forty50[1])
+
+  fifty60 = halfTimeInnerDivs[i].childNodes[13].textContent.trim();
+  fifty60 = fifty60.split('-');
+  scored += parseInt(fifty60[0])
+  conceded += parseInt(fifty60[1])
+
+  sixty70 = halfTimeInnerDivs[i].childNodes[15].textContent.trim();
+  sixty70 = sixty70.split('-');
+  scored += parseInt(sixty70[0])
+  conceded += parseInt(sixty70[1])
+
+  seventy80 = halfTimeInnerDivs[i].childNodes[17].textContent.trim();
+  seventy80 = seventy80.split('-');
+  last20scored += parseInt(seventy80[0])
+  last20conceded += parseInt(seventy80[1])
+
+
+
+  eighty90 = halfTimeInnerDivs[i].childNodes[19].textContent.trim();
+  eighty90 = eighty90.split('-');
+  last20scored += parseInt(eighty90[0])
+  last20conceded += parseInt(eighty90[1])
+
+
+
+
+
+/*
+  for (var t = 0; t < xmlTeamsFrom.length; t++) {
+   if (team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+  }
+*/
+  team.scored = scored;
+  team.conceded = conceded;
+  team.last20scored = last20scored;
+  team.last20conceded = last20conceded;
+  totalGoals = team.scored + team.last20scored;
+  team.seventyScoredPercent = Math.round((team.scored / totalGoals) * 100);
+  halfTimeHomeGoals.push(team)
+
+
+ }
+
+
+
+
+
+
+
+
+ var halfTimeContainerDiv = document.getElementById("awayGoals");
+ var halfTimeInnerDivs = halfTimeContainerDiv.getElementsByClassName("trow8");
+ halfTimeAwayGoals = [];
+
+
+ for (var i = 0; i < halfTimeInnerDivs.length; i++) {
+  var team = new Object();
+  var scored = 0;
+  var conceded = 0;
+  var last20scored = 0;
+  var last20conceded = 0;
+  team.name = halfTimeInnerDivs[i].firstElementChild.textContent.trim();
+  team.fistHalfGoals = halfTimeInnerDivs[i].childNodes[17].textContent.trim();
+
+  zero10 = halfTimeInnerDivs[i].childNodes[3].textContent.trim();
+  zero10 = zero10.split('-');
+  scored += parseInt(zero10[0])
+  conceded += parseInt(zero10[1])
+
+
+  ten20 = halfTimeInnerDivs[i].childNodes[5].textContent.trim();
+  ten20 = ten20.split('-');
+  scored += parseInt(ten20[0])
+  conceded += parseInt(ten20[1])
+
+  twenty30 = halfTimeInnerDivs[i].childNodes[7].textContent.trim();
+  twenty30 = twenty30.split('-');
+  scored += parseInt(twenty30[0])
+  conceded += parseInt(twenty30[1])
+
+  thrity40 = halfTimeInnerDivs[i].childNodes[9].textContent.trim();
+  thrity40 = thrity40.split('-');
+  scored += parseInt(thrity40[0])
+  conceded += parseInt(thrity40[1])
+
+  forty50 = halfTimeInnerDivs[i].childNodes[11].textContent.trim();
+  forty50 = forty50.split('-');
+  scored += parseInt(forty50[0])
+  conceded += parseInt(forty50[1])
+
+  fifty60 = halfTimeInnerDivs[i].childNodes[13].textContent.trim();
+  fifty60 = fifty60.split('-');
+  scored += parseInt(fifty60[0])
+  conceded += parseInt(fifty60[1])
+
+  sixty70 = halfTimeInnerDivs[i].childNodes[15].textContent.trim();
+  sixty70 = sixty70.split('-');
+  scored += parseInt(sixty70[0])
+  conceded += parseInt(sixty70[1])
+
+
+  seventy80 = halfTimeInnerDivs[i].childNodes[17].textContent.trim();
+  seventy80 = seventy80.split('-');
+  last20scored += parseInt(seventy80[0])
+  last20conceded += parseInt(seventy80[1])
+
+
+
+  eighty90 = halfTimeInnerDivs[i].childNodes[19].textContent.trim();
+  eighty90 = eighty90.split('-');
+  last20scored += parseInt(eighty90[0])
+  last20conceded += parseInt(eighty90[1])
+
+
+
+
+
+/*
+  for (var t = 0; t < xmlTeamsFrom.length; t++) {
+   if (team.name == xmlTeamsFrom[t].childNodes[0].nodeValue) team.name = xmlTeamsTo[t].childNodes[0].nodeValue
+  }
+*/
+  team.scored = scored;
+  team.conceded = conceded;
+  team.last20scored = last20scored;
+  team.last20conceded = last20conceded;
+  totalGoals = team.scored + team.last20scored;
+  team.seventyScoredPercent = Math.round((team.scored / totalGoals) * 100);
+  halfTimeAwayGoals.push(team)
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+ var odds = document.getElementById("odds");
+ var oddsAllTRs = odds.getElementsByTagName('tr');
+ var oddsTRs = Array.prototype.filter.call(oddsAllTRs, function(oddTR) {
+  return oddTR.className === 'odd' || oddTR.className === 'even';})
+oddsArray = [];
+
+ for (var i = 0; i < oddsTRs.length; i++) {
+    oddsObject = new Object();
+    fixture = oddsTRs[i].childNodes[3].textContent.trim();
+    teams = fixture.split(' - ');
+    drawOdds = oddsTRs[i].childNodes[7].textContent.trim();
+    oddsObject.hName = teams[0];
+    if(oddsObject.hName == "Central Coast Mariners") oddsObject.hName = "Central Coast";
+    if(oddsObject.hName == "WS Wanderers") oddsObject.hName = "Western Sydney";
+    oddsObject.drawOdds = drawOdds;
+    oddsArray.push(oddsObject);
+ }
+  //console.log(oddsArray);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ var seasonFixturesContainerDiv = document.getElementById("seasonFixtures");
+ var seasonFixturesInnerDivs = seasonFixturesContainerDiv.getElementsByClassName("trow3");
+ var seasonFixtures = [];
+ var allSeasonFixtures = [];
+
+
+ for (var i = 0; i < seasonFixturesInnerDivs.length; i++) {
+  var fixtureTeam = new Object();
+  fixture = seasonFixturesInnerDivs[i].childNodes[5].textContent;
+  score = seasonFixturesInnerDivs[i].childNodes[7].textContent;
+
+
+  fixture = fixture.trim();
+  fixture = fixture.split(' - ');
+  score = score.trim();
+  score = score.split(' - ');
+
+  fixtureTeam.hName = fixture[0];
+  fixtureTeam.aName = fixture[1];
+  if(fixtureTeam.hName == "Newcastle Jets ") fixtureTeam.hName = "Newcastle Jets"
+      if(fixtureTeam.hName == "Western Sydney ") fixtureTeam.hName = "Western Sydney"
+              if(fixtureTeam.hName == "Melbourne City ") fixtureTeam.hName = "Melbourne City"
+  fixtureTeam.hScore = score[0];
+  fixtureTeam.aScore = score[1];
+
+  seasonFixtures.push(fixtureTeam);
+
+
+ }
+
+
+
+
+ var seasonFixtures2018ContainerDiv = document.getElementById("seasonFixtures2018");
+ var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("trow3");
+
+ if(seasonFixtures2018InnerDivs.length==0) {
+  var seasonFixtures2018InnerDivs = seasonFixtures2018ContainerDiv.getElementsByClassName("odd");
+}
+ if(seasonFixtures2018InnerDivs.length==0) {
+   console.log("No historical data");
+   clearInterval(interval)
+}
+//console.log(seasonFixtures2018InnerDivs.length)
+
+ //console.log(seasonFixtures2018InnerDivs.length)
+ var seasonFixtures2018 = [];
+ var allSeasonFixtures = [];
+
+ for (var i = 0; i < seasonFixtures2018InnerDivs.length; i++) {
+  var fixtureTeam = new Object();
+  fixture = seasonFixtures2018InnerDivs[i].childNodes[5].textContent;
+  score = seasonFixtures2018InnerDivs[i].childNodes[7].textContent;
+
+
+  fixture = fixture.trim();
+  fixture = fixture.split(' - ');
+  score = score.trim();
+  score = score.split(' - ');
+
+  fixtureTeam.hName = fixture[0];
+  fixtureTeam.aName = fixture[1];
+/*
+  for (var t = 0; t < xmlTeamsFrom.length; t++) {
+   if (fixtureTeam.hName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.hName = xmlTeamsTo[t].childNodes[0].nodeValue;
+   if (fixtureTeam.aName == xmlTeamsFrom[t].childNodes[0].nodeValue) fixtureTeam.aName = xmlTeamsTo[t].childNodes[0].nodeValue
+  }
+*/
+  fixtureTeam.hScore = score[0];
+  fixtureTeam.aScore = score[1];
+
+  seasonFixtures2018.push(fixtureTeam);
+
+ }
+
+
+if(seasonFixtures2018.length > 125) clearInterval(interval);
+
+if(league=="newzealand1") clearInterval(interval);
+
+
+
+ var fix2ContainerDiv = document.getElementById("fixtures");
+ var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("trow2");
+ if(fix2InnerDivs.length == 0 ) var fix2InnerDivs = fix2ContainerDiv.getElementsByClassName("odd");
+
+
+
+
+
+
+/*
+            time = fixturesInnerDivs[i].childNodes[1].lastElementChild.textContent;
+            fixture = fixturesInnerDivs[i].childNodes[3].textContent;            
+            fixture = fixture.trim();
+            fixture = fixture.split(' - ');
+            homeTeam = fixture[0].trim();
+            awayTeam = fixture[1].trim();
+ 
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ var totalPlayed;
+
+ var flag = false;
+ markup = "";
+ var awayContainerDiv = document.getElementById("homeRows");
+ var awayInnerDivs = awayContainerDiv.getElementsByClassName("odd");
+ homeTable = [];
+ var totalDrawn = 0;
+ var totalPlayed = 0;
+
+ for (var i = 0; i < awayInnerDivs.length; i++) {
+  var team = new Object();
+    team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+
+  team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
+  team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
+  team.draws = awayInnerDivs[i].childNodes[9].textContent.trim();    
+  team.lost = awayInnerDivs[i].childNodes[11].textContent.trim();   
+   team.goalsF = awayInnerDivs[i].childNodes[13].textContent.trim();   
+  team.goalsA = awayInnerDivs[i].childNodes[15].textContent.trim();
+  team.goals = awayInnerDivs[i].childNodes[13].textContent.trim();
+  team.points = awayInnerDivs[i].childNodes[19].textContent.trim();  
+
+
+  totalDrawn = totalDrawn + parseInt(team.draws);
+  totalPlayed = totalPlayed + parseInt(team.played);
+
+
+  var drawPercentCalc = parseInt(team.draws) / (parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) * 100;
+  team.drawPercent = parseInt(drawPercentCalc.toFixed(1));
+
+
+var fixtureDrawsPerRound = (totalDrawn / totalPlayed)*((awayInnerDivs.length)/2);
+
+  homeTable.push(team);
+ // document.getElementById("draw%").innerHTML = "League draw " + ((totalDrawn / totalPlayed) * 100).toFixed(2) + "% -" + fixtureDrawsPerRound.toFixed(2) +  " matches are drawn every round";
+
+
+
+  //  console.log(team)
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ homeTable.sort(function(a, b) {
+  if (a.drawPercent < b.drawPercent) return -1;
+  if (a.drawPercent > b.drawPercent) return 1;
+  if (a.wins < b.wins) return 1;
+  if (a.wins > b.wins) return -1;
+ });
+
+
+ markup = markup + '<tr class="team"><td>team</td><td>pl </td><td>win</td><td>draw</td><td>lost</td><td>pts</td><td>draw%</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+
+
+
+ for (var i = 0; i < homeTable.length; i++) {
+
+        for (var j = 0; j < halfTimeLeading.length; j++) {
+        if (halfTimeLeading[j].name == homeTable[i].name) {
+        var halfTimeLeadingPercent = halfTimeLeading[j].htPercentage;
+
+        }
+        }
+        for (var j = 0; j < halfTimeTrailing.length; j++) {
+        if (halfTimeTrailing[j].name == homeTable[i].name) {
+
+        var halfTimeTrailingPercent = halfTimeTrailing[j].htPercentage;
+        }
+        }
+
+        for (var j = 0; j < halfTimeHomeGoals.length; j++) {
+        if (halfTimeHomeGoals[j].name == homeTable[i].name) {
+        var scored070 = halfTimeHomeGoals[j].scored;
+        var conceded070 = halfTimeHomeGoals[j].conceded;
+        var seventyScoredPercent = halfTimeHomeGoals[j].seventyScoredPercent;
+        }
+        }
+
+
+        if (homeTable[i].drawPercent > 25 && flag == false) {
+        markup = markup + '<tr id="empty"><td>&nbsp; </td></tr><tr id="empty"><td>&nbsp; </td></tr>';
+        flag = true;
+        }
+
+        var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeTrailingPercent));
+
+        markup = markup + '<tr class="team" id=' + homeTable[i].name.split(' ').join('') + '><td>' + homeTable[i].name + '</td><td>' + homeTable[i].played + '</td><td>' + homeTable[i].wins + '</td><td>' + homeTable[i].draws + '</td><td>' + homeTable[i].lost + '</td><td>' + homeTable[i].points + '</td><td>' + homeTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent + '%</td><td>' + conceded070 + '</td></tr>'
+ }
+ //
+
+
+ document.getElementById('homeDrawTable').innerHTML = markup;
+
+
+ var flag = false;
+
+
+ function sortNumber(a, b) {
+  return a.draws - b.draw;
+ }
+
+ function sortWin(a, b) {
+  return a.wins - b.wins;
+ }
+
+ markup = '<tr class="team"><td>team</td><td>pl </td><td>wins</td><td>draw</td><td>lost</td><td>pts</td><td>draw %</td><td>ht lead %</td><td>ht trail %</td><td>ht draw %</td><td>0 - 70m goals</td><td>0 - 70m conceded</td></tr>';
+
+ var awayContainerDiv = document.getElementById("awayRows");
+ var awayInnerDivs = awayContainerDiv.getElementsByClassName("odd");
+ awayTable = [];
+
+ for (var i = 0; i < awayInnerDivs.length; i++) {
+  var team = new Object();
+    team.name = awayInnerDivs[i].childNodes[3].textContent.trim();
+  team.played = awayInnerDivs[i].childNodes[5].textContent.trim();
+  team.wins = awayInnerDivs[i].childNodes[7].textContent.trim();  
+  team.draws = awayInnerDivs[i].childNodes[9].textContent.trim();    
+  team.lost = awayInnerDivs[i].childNodes[11].textContent.trim();   
+   team.goalsF = awayInnerDivs[i].childNodes[13].textContent.trim();   
+  team.goalsA = awayInnerDivs[i].childNodes[15].textContent.trim();
+  team.goals = awayInnerDivs[i].childNodes[13].textContent.trim();
+  team.points = awayInnerDivs[i].childNodes[19].textContent.trim();  
+
+
+  //console.log(team.name + " " + team.played + " " + team.wins + " " + team.draws + " " + team.lost + " " + team.goalsF + " " + team.goalsA + " " + team.goals + " " + team.points);
+
+
+
+  var drawPercentCalc = parseInt(team.draws) / (parseInt(team.wins) + parseInt(team.lost) + parseInt(team.draws)) * 100;
+  team.drawPercent = parseInt(drawPercentCalc.toFixed(1));
+
+
+ 
+  awayTable.push(team);
+ }
+  //
+
+ awayTable.sort(function(a, b) {
+  if (a.drawPercent < b.drawPercent) return -1;
+  if (a.drawPercent > b.drawPercent) return 1;
+  if (a.wins < b.wins) return 1;
+  if (a.wins > b.wins) return -1;
+ });
+
+
+
+ for (var i = 0; i < awayTable.length; i++) {
+  for (var j = 0; j < halfTimeLeading.length; j++) {
+   if (halfTimeLeadingAway[j].name == awayTable[i].name) {
+    var halfTimeLeadingPercent = halfTimeLeadingAway[j].htPercentage;
+   }
+   if (halfTimeAwayTrailing[j].name == awayTable[i].name) {
+    var halfTimeAwayTrailingPercent = halfTimeAwayTrailing[j].htPercentage;
+   }
+  }
+
+        for (var j = 0; j < halfTimeAwayGoals.length; j++) {
+        if (halfTimeAwayGoals[j].name == awayTable[i].name) {
+        var scored070 = halfTimeAwayGoals[j].scored;
+        var conceded070 = halfTimeAwayGoals[j].conceded;
+        var seventyScoredPercent = halfTimeAwayGoals[j].seventyScoredPercent;
+
+        }
+        }
+
+
+
+  if (awayTable[i].drawPercent > 25 && flag == false) {
+   markup = markup + '<tr id="empty"><td>&nbsp; </td></tr><tr id="empty"><td>&nbsp; </td></tr>';
+   flag = true;
+  }
+
+  var halftimeDrawPercentage = 100 - (parseInt(halfTimeLeadingPercent) + parseInt(halfTimeAwayTrailingPercent));
+
+if(league=="costarica2" ||league=="bosnia1" ||league=="nigeria1" ||league=="southafrica1" || league=="hungary1" || league=="wales1" || league=="serbia1" || league=="newzealand1" || league=="luxembourg1" || league=="czechrepublic1" || league=="czechrepublic2" || league=="albania1" || league=="croatia1" || league=="bolivia1" || league=="colombia1" ||league=="chile1" || league=="france3" || league=="italy5" || league=="italy4" || league=="italy3" || league=="australia1" || league=="austria1" || league=="israel1" || league=="israel2" || league=="romania1" || league=="romania2" || league=="egypt1" || league=="england6" || league=="england7" || league=="england8" || league=="greece1" || league=="greece2") {
+   markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + '</td><td>' + 0 + " - " + 0 + '%</td><td>' + 0 + '</td></tr>'
+
+}else {
+
+  markup = markup + '<tr class="team" id=' + awayTable[i].name.split(' ').join('') + '><td>' + awayTable[i].name + '</td><td>' + awayTable[i].played + '</td><td>' + awayTable[i].wins + '</td><td>' + awayTable[i].draws + '</td><td>' + awayTable[i].lost + '</td><td>' + awayTable[i].points + '</td><td>' + awayTable[i].drawPercent + '</td><td>' + halfTimeLeadingPercent + '</td><td>' + halfTimeAwayTrailingPercent + '</td><td>' + halftimeDrawPercentage + '</td><td>' + scored070 + " - " + seventyScoredPercent.toFixed(0) + '%</td><td>' + conceded070 + '</td></tr>'
+ }
+}
+  //
+
+
+
+ document.getElementById('awayDrawTable').innerHTML = markup;
+
+
+
+ var fixturesContainerDiv = document.getElementById("fixtures");
+ //console.log(fixturesContainerDiv)
+ var fixturesInnerDivs = fixturesContainerDiv.getElementsByTagName("TR");
+
+
+ markup = '<tr><td>Kickoff</td><td style="width:120px;">home team</td><td>Last 3 games</td><td style="width:120px;">Away team</td><td>Last 3 games</td><<td>pts delta</td><td>goals f delta</td><td>goals a delta</td><td>this season</td><td>last season h</td><td>last season a</td><td>Draw (b365)</td></tr>';
+
+
+ for (var i = 0; i < fix2InnerDivs.length; i++) {
+
+
+   var tds = fix2InnerDivs[i].getElementsByTagName("td");
+var fixture = new Object();
+   for (var j = 0; j < tds.length; j++) {     
+    var time = tds[0].textContent.trim()
+    timeClean = time.replace(/[^\w\s]/gi, '');
+     if(timeClean != "away") {
+      time = timeClean.substring(0,3);
+      day = timeClean.substring(3,7);
+      matchDate =  time.concat(" ", day);
+      matchTime = matchDate.concat(" ", tds[1].textContent.trim())   
+       date = matchTime;
+      var hours = parseInt(matchTime.substring(6,9));
+  
+    }
+
+
+    homeTeam2 = tds[3].childNodes[0].textContent.replace(/[^\w\s]/gi, '');
+
+    homeTeam2 = homeTeam2.trim();
+
+    if(homeTeam2.length != 0){
+      homeTeam = homeTeam2;
+
+
+
+    if(homeTeam == "Borac Banja L")  homeTeam = 'Borac Banja L.'; 
+        if(homeTeam == "Rad Bijeljina")  homeTeam = 'Rad. Bijeljina'; 
+
+
+  if(homeTeam == "Jigawa G Stars")  homeTeam = 'Jigawa G. Stars'; 
+
+  if(homeTeam == "Connahs Quay")  homeTeam = 'Connah\'s Quay'; 
+
+  if(homeTeam == "Puskas Akad")  homeTeam = 'Puskas Akad.'; 
+     if(homeTeam == "Spartak Sub")  homeTeam = "Spartak Sub."  
+
+  if(homeTeam == "Hamilton Wand")  homeTeam = "Hamilton Wand." 
+  if(homeTeam == "Wellington P")  homeTeam = "Wellington P." 
+
+  if(homeTeam == "Ptange")  homeTeam = "P�tange" 
+  if(homeTeam == "Vict Rosport")  homeTeam = "Vict. Rosport" 
+if(homeTeam == "Lok Zagreb")  homeTeam = "Lok. Zagreb" 
+
+if(homeTeam == "Ceske Budejov")  homeTeam = "Ceske Budejov." 
+ 
+if(homeTeam == "Atl Palmaflor")  homeTeam = "Atl. Palmaflor" 
+ if(homeTeam == "J Wilstermann")  homeTeam = "J. Wilstermann" 
+
+if(homeTeam == "Jaguares de C")  homeTeam = "Jaguares de C." 
+if(homeTeam == "Cucuta Deport")  homeTeam = "Cucuta Deport." 
+  if(homeTeam == "Al Petrolera")  homeTeam = "Al. Petrolera" 
+      if(homeTeam == "Ind Medellin")  homeTeam = "Ind. Medellin" 
+
+if(homeTeam == "S Wanderers")  homeTeam = "S. Wanderers" 
+if(homeTeam == "U Catolica")  homeTeam = "U. Catolica" 
+if(homeTeam == "U de Chile")  homeTeam = "U. de Chile"
+if(homeTeam == "U Concepcion")  homeTeam = "U. Concepcion"
+
+
+if(homeTeam == "E Frankfurt")  homeTeam = "E. Frankfurt" 
+if(homeTeam == "Pr Munster")  homeTeam = "Pr. Munster" 
+if(homeTeam == "Wurzburger K")  homeTeam = "Wurzburger K."
+if(homeTeam == "Defensa y J")  homeTeam = "Defensa y J."
+if(homeTeam == "Atl Tucuman")  homeTeam = "Atl. Tucuman"
+if(homeTeam == "T de Cordoba")  homeTeam = "T. de Cordoba"
+if(homeTeam == "Central Crdoba")  homeTeam = "Central C�rdoba"
+if(homeTeam == "Dagenham  R")  homeTeam = "Dagenham & R."
+if(homeTeam == "SaintEtienne")  homeTeam = "Saint-Etienne"
+if(homeTeam == "Rakow Czest")  homeTeam = "Rakow Czest."
+if(homeTeam == "Fatih Karag")  homeTeam = "Fatih Karag."
+if(homeTeam == "Menemen Bel")  homeTeam = "Menemen Bel."
+if(homeTeam == "MouscronP")  homeTeam = "Mouscron-P"
+if(homeTeam == "ZulteWaregem")  homeTeam = "Zulte-Waregem"
+if(homeTeam == "SintTruiden")  homeTeam = "Sint-Truiden"
+if(homeTeam == "FC Zrich")  homeTeam = "FC Z�rich"
+if(homeTeam == "Neuchtel Xamax")  homeTeam = "Neuch�tel Xamax"
+if(homeTeam == "St Gallen")  homeTeam = "St. Gallen"
+if(homeTeam == "Sp Covilha")  homeTeam = "Sp. Covilha"
+if(homeTeam == "H Beer Sheva")  homeTeam = "H. Beer Sheva"
+if(homeTeam == "M Tel Aviv")  homeTeam = "M. Tel Aviv"
+if(homeTeam == "B Jerusalem")  homeTeam = "B. Jerusalem"
+
+if(homeTeam == "M Petah Tikva")  homeTeam = "M. Petah Tikva"
+if(homeTeam == "H Ramat Gan")  homeTeam = "H. Ramat Gan"
+if(homeTeam == "H Umm alFahm")  homeTeam = "H. Umm al-Fahm"
+if(homeTeam == "Hapoel Petah T")  homeTeam = "Hapoel Petah T."   
+if(homeTeam == "Maccabi Ahi N")  homeTeam = "Maccabi Ahi N."  
+if(homeTeam == "Hap Bnei Lod")  homeTeam = "Hap. Bnei Lod"  
+if(homeTeam == "Hap Ashkelon")  homeTeam = "Hap. Ashkelon"      
+                                              
+if(homeTeam == "Univ Craiova")  homeTeam = "Univ. Craiova"  
+if(homeTeam == "Viit Constanta")  homeTeam = "Viit. Constanta"     
+if(homeTeam == "Din Bucuresti")  homeTeam = "Din. Bucuresti" 
+if(homeTeam == "Chindia Targov")  homeTeam = "Chindia Targov."  
+if(homeTeam == "Pol Iasi")  homeTeam = "Pol. Iasi"  
+if(homeTeam == "Ac Clinceni")  homeTeam = "Ac. Clinceni"  
+
+if(homeTeam == "Politehnica T")  homeTeam = "Politehnica T."  
+if(homeTeam == "Dun Calarasi")  homeTeam = "Dun. Calarasi"   
+if(homeTeam == "R Timisoara")  homeTeam =  "R. Timisoara"    
+if(homeTeam == "Univ Cluj")  homeTeam =  "Univ. Cluj" 
+if(homeTeam == "DacoGetica Bu")  homeTeam =  "Daco-Getica Bu."  
+
+if(homeTeam == "Ast Tripolis")  homeTeam =  "Ast. Tripolis"  
+
+if(homeTeam == "Dorking W")  homeTeam =  "Dorking W."  
+if(homeTeam == "Hampton & Rich")  homeTeam =  "Hampton & Rich."  
+if(homeTeam == "Hemel Hemps")  homeTeam =  "Hemel Hemps."  
+if(homeTeam == "Dulwich H")  homeTeam =  "Dulwich H." 
+
+if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P." 
+  if(homeTeam == "Haringey B")  homeTeam =  "Haringey B." 
+    if(homeTeam == "Wingate & F")  homeTeam =  "Wingate & F." 
+    if(homeTeam == "CorinthianC")  homeTeam =  "Corinthian-C." 
+    if(homeTeam == "Concord R")  homeTeam =  "Concord R." 
+          if(homeTeam == "Melbourne Vic")  homeTeam =  "Melbourne Vic." 
+   if(homeTeam == "St Poelten")  homeTeam =  "St. Poelten" 
+       if(homeTeam == "Folkestone Inv")  homeTeam =  "Folkestone Inv." 
+
+               if(homeTeam == "BourgPeronnas")  homeTeam =  "Bourg-Peronnas" 
+      if(homeTeam == "JuventusU23")  homeTeam =  "Juventus-U23" 
+      if(homeTeam == "V Francavilla")  homeTeam =  "V. Francavilla" 
+
+    }     
+  }
+  i++;
+  awayTeamTds = fix2InnerDivs[i].getElementsByTagName("td");     
+  var fixture = new Object();
+       awayTeam2 = awayTeamTds[1].childNodes[0].textContent.replace(/[^\w\s]/gi, '');      
+    awayTeam2 = awayTeam2.trim();
+
+    if(awayTeam2.length != 0) {
+     awayTeam = awayTeam2;
+
+         if(awayTeam == "Borac Banja L")  awayTeam = 'Borac Banja L.'; 
+        if(awayTeam == "Rad Bijeljina")  awayTeam = 'Rad. Bijeljina'; 
+
+  if(awayTeam == "Jigawa G Stars")  awayTeam = 'Jigawa G. Stars'; 
+  if(awayTeam == "Puskas Akad")  awayTeam = 'Puskas Akad.'; 
+  if(awayTeam == "Connahs Quay")  awayTeam = 'Connah\'s Quay';  
+
+  if(awayTeam == "Spartak Sub")  awayTeam = "Spartak Sub."  
+  if(awayTeam == "Hamilton Wand")  awayTeam = "Hamilton Wand." 
+  if(awayTeam == "Wellington P")  awayTeam = "Wellington P." 
+  if(awayTeam == "Ptange")  awayTeam = "P�tange" 
+  if(awayTeam == "Vict Rosport")  awayTeam = "Vict. Rosport" 
+
+if(awayTeam == "Lok Zagreb")  awayTeam = "Lok. Zagreb" 
+if(awayTeam == "J Wilstermann")  awayTeam = "J. Wilstermann" 
+if(awayTeam == "Ceske Budejov")  awayTeam = "Ceske Budejov." 
+
+if(awayTeam == "Jaguares de C")  awayTeam = "Jaguares de C." 
+if(awayTeam == "Cucuta Deport")  awayTeam = "Cucuta Deport." 
+  if(awayTeam == "Al Petrolera")  awayTeam = "Al. Petrolera" 
+      if(awayTeam == "Ind Medellin")  awayTeam = "Ind. Medellin" 
+
+if(awayTeam == "S Wanderers")  awayTeam = "S. Wanderers" 
+if(awayTeam == "U Catolica")  awayTeam = "U. Catolica" 
+if(awayTeam == "U de Chile")  awayTeam = "U. de Chile"
+if(awayTeam == "U Concepcion")  awayTeam = "U. Concepcion"
+
+
+if(awayTeam == "Atl Palmaflor")  awayTeam = "Atl. Palmaflor" 
+
+if(awayTeam == "E Frankfurt")  awayTeam = "E. Frankfurt" 
+if(awayTeam == "Pr Munster")  awayTeam = "Pr. Munster" 
+if(awayTeam == "Wurzburger K")  awayTeam = "Wurzburger K." 
+if(awayTeam == "Defensa y J")  awayTeam = "Defensa y J."
+if(awayTeam == "Atl Tucuman")  awayTeam = "Atl. Tucuman"
+if(awayTeam == "T de Cordoba")  awayTeam = "T. de Cordoba"
+if(awayTeam == "Central Crdoba")  awayTeam = "Central C�rdoba"
+if(awayTeam == "Dagenham  R")  awayTeam = "Dagenham & R."
+if(awayTeam == "SaintEtienne")  awayTeam = "Saint-Etienne"
+if(awayTeam == "Rakow Czest")  awayTeam = "Rakow Czest."
+if(awayTeam == "Fatih Karag")  awayTeam = "Fatih Karag."
+if(awayTeam == "Menemen Bel")  awayTeam = "Menemen Bel."
+if(awayTeam == "MouscronP")  awayTeam = "Mouscron-P"
+if(awayTeam == "ZulteWaregem")  awayTeam = "Zulte-Waregem"
+if(awayTeam == "SintTruiden")  awayTeam = "Sint-Truiden"
+if(awayTeam == "FC Zrich")  awayTeam = "FC Z�rich"
+if(awayTeam == "Neuchtel Xamax")  awayTeam = "Neuch�tel Xamax"
+if(awayTeam == "St Gallen")  awayTeam = "St. Gallen"
+if(awayTeam == "Sp Covilha")  awayTeam = "Sp. Covilha"
+
+if(awayTeam == "H Beer Sheva")  awayTeam = "H. Beer Sheva"
+if(awayTeam == "M Tel Aviv")  awayTeam = "M. Tel Aviv"
+if(awayTeam == "B Jerusalem")  awayTeam = "B. Jerusalem"
+
+if(awayTeam == "M Petah Tikva")  awayTeam = "M. Petah Tikva"
+if(awayTeam == "H Ramat Gan")  awayTeam = "H. Ramat Gan"
+if(awayTeam == "H Umm alFahm")  awayTeam = "H. Umm al-Fahm"
+if(awayTeam == "Hapoel Petah T")  awayTeam = "Hapoel Petah T."   
+if(awayTeam == "Maccabi Ahi N")  awayTeam = "Maccabi Ahi N."  
+if(awayTeam == "Hap Bnei Lod")  awayTeam = "Hap. Bnei Lod"  
+if(awayTeam == "Hap Ashkelon")  awayTeam = "Hap. Ashkelon"  
+
+if(awayTeam == "Univ Craiova")  awayTeam = "Univ. Craiova"  
+if(awayTeam == "Viit Constanta")  awayTeam = "Viit. Constanta"     
+if(awayTeam == "Din Bucuresti")  awayTeam = "Din. Bucuresti" 
+if(awayTeam == "Chindia Targov")  awayTeam = "Chindia Targov."  
+if(awayTeam == "Pol Iasi")  awayTeam = "Pol. Iasi"  
+if(awayTeam == "Ac Clinceni")  awayTeam = "Ac. Clinceni"
+
+
+if(awayTeam == "Politehnica T")  awayTeam = "Politehnica T."  
+if(awayTeam == "Dun Calarasi")  awayTeam = "Dun. Calarasi"   
+if(awayTeam == "R Timisoara")  awayTeam =  "R. Timisoara"    
+if(awayTeam == "Univ Cluj")  awayTeam =  "Univ. Cluj" 
+if(awayTeam == "DacoGetica Bu")  awayTeam =  "Daco-Getica Bu." 
+
+if(awayTeam == "Ast Tripolis")  awayTeam =  "Ast. Tripolis" 
+
+if(awayTeam == "Dorking W")  awayTeam =  "Dorking W."  
+
+if(awayTeam == "Hampton  Rich")  awayTeam =  "Hampton & Rich."  
+if(awayTeam == "Hemel Hemps")  awayTeam =  "Hemel Hemps."  
+if(awayTeam == "Dulwich H")  awayTeam =  "Dulwich H."  
+
+if(awayTeam == "Bowers  P")  awayTeam =  "Bowers & P." 
+  if(awayTeam == "Haringey B")  awayTeam =  "Haringey B." 
+    if(awayTeam == "Wingate & F")  awayTeam =  "Wingate & F." 
+    if(awayTeam == "CorinthianC")  awayTeam =  "Corinthian-C." 
+    if(awayTeam == "Concord R")  awayTeam =  "Concord R." 
+                if(awayTeam == "Melbourne Vic")  awayTeam =  "Melbourne Vic." 
+   if(awayTeam == "St Poelten")  awayTeam =  "St. Poelten" 
+           if(awayTeam == "Folkestone Inv")  awayTeam =  "Folkestone Inv." 
+
+               if(awayTeam == "BourgPeronnas")  awayTeam =  "Bourg-Peronnas" 
+      if(awayTeam == "JuventusU23")  awayTeam =  "Juventus-U23" 
+      if(awayTeam == "V Francavilla")  awayTeam =  "V. Francavilla" 
+
+  } 
+
+
+
+
+
+for (var j = 0; j < halfTimeHomeGoals.length; j++) {
+ if(halfTimeHomeGoals[j].name == homeTeam) {
+  var homeTeamScored70 =  halfTimeHomeGoals[j].scored;
+    var homeTeamConceed70 =  halfTimeHomeGoals[j].conceded;
+ }
+}
+for (var j = 0; j < halfTimeAwayGoals.length; j++) {
+
+ if(halfTimeAwayGoals[j].name == awayTeam) {
+ var awayTeamScored70 =  halfTimeAwayGoals[j].scored;
+var awayTeamConceed70 =  halfTimeAwayGoals[j].conceded;
+ }
+}
+
+delta70minScore = homeTeamScored70 - awayTeamScored70;
+
+
+
+ delta70minGoalsAgasint =  awayTeamConceed70 -homeTeamConceed70;
+ 
+
+
+
+
+
+
+
+
+
+            const homeTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
+         
+
+
+            const awayTeamFixturesArray =  seasonFixtures.filter(function(team) { return team.hName == awayTeam || team.aName == awayTeam});
+
+
+
+            const pastHomeFixture =  seasonFixtures.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
+
+          const homeTeamFixturesArray2018 =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam || team.aName == homeTeam});
+          const pastHomeFixture2018 =  seasonFixtures2018.filter(function(team) { return team.aName == homeTeam && team.hName == awayTeam });
+          const pastHomeFixture2018Home =  seasonFixtures2018.filter(function(team) { return team.hName == homeTeam && team.aName == awayTeam });
+
+
+
+if(typeof pastHomeFixture[0] === 'undefined') {
+ result = "n/a";
+
+   }else{       
+
+  if(pastHomeFixture[0].hScore == "pp." ) result = "n/a"
+    if(pastHomeFixture[0].hScore > pastHomeFixture[0].aScore) result = "aw"
+            if(pastHomeFixture[0].hScore < pastHomeFixture[0].aScore) result = "hw"
+            if(pastHomeFixture[0].hScore == pastHomeFixture[0].aScore) result = "d"
+
+}
+
+
+if (pastHomeFixture2018.length < 1 ){
+              result18 = "promoted";
+             var hScore = "-";
+              var aScore = "-";
+}else {
+      
+            if(pastHomeFixture2018[0].hScore > pastHomeFixture2018[0].aScore) {
+              var hScore = pastHomeFixture2018[0].hScore;
+              var aScore = pastHomeFixture2018[0].aScore;
+
+             result18 = "aw";
+           }
+            if(pastHomeFixture2018[0].hScore < pastHomeFixture2018[0].aScore) {
+              result18 = "hw";
+               var hScore = pastHomeFixture2018[0].hScore;
+              var aScore = pastHomeFixture2018[0].aScore;
+
+
+            }
+            if(pastHomeFixture2018[0].hScore == pastHomeFixture2018[0].aScore){ 
+       
+               var hScore = pastHomeFixture2018[0].hScore;
+              var aScore = pastHomeFixture2018[0].aScore;
+              result18 = "d"                  
+          }
+}
+
+if (pastHomeFixture2018Home.length < 1 ){
+              result18h = "promoted";
+             var hScoreHome = "-";
+              var aScoreHome = "-";
+}else {
+
+
+          
+            if(pastHomeFixture2018Home[0].hScore < pastHomeFixture2018Home[0].aScore) {
+              var hScoreHome = pastHomeFixture2018Home[0].hScore;
+              var aScoreHome = pastHomeFixture2018Home[0].aScore;
+   
+             result18h = "aw";
+           }
+            if(pastHomeFixture2018Home[0].hScore > pastHomeFixture2018Home[0].aScore) {
+              result18h = "hw";
+               var hScoreHome = pastHomeFixture2018Home[0].hScore;
+              var aScoreHome = pastHomeFixture2018Home[0].aScore;
+
+            }
+            if(pastHomeFixture2018Home[0].hScore == pastHomeFixture2018Home[0].aScore){ 
+
+               var hScoreHome = pastHomeFixture2018Home[0].hScore;
+              var aScoreHome = pastHomeFixture2018Home[0].aScore;
+                    
+              result18h = "d"
+          }
+}
+
+
+function getValue () {
+  //console.log(this.hScore)
+  return this.hScore
+}
+
+
+
+
+            for (var j = 0; j < homeTable.length; j++) {
+
+
+
+
+
+var matchStats = new Object;
+var homeGameTotal = [];
+var last6Home = [];
+
+function determineResultHome (fixture, team, venue){
+var resultObject = new Object;
+
+resultObject.hName = fixture.hName
+resultObject.aName = fixture.aName
+
+
+
+
+if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
+//console.log(team + " home win")
+resultObject.lastGame = "W";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.hScore - fixture.aScore;
+resultObject.class = "homeWin";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore = fixture.aScore;
+if(scoreDiff > 1) resultObject.class = "homeWinDiff2";
+resultObject.type = "home"
+
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
+last6Home.push(resultObject);
+
+}
+
+if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
+//console.log(team + " home loss")
+resultObject.lastGame = "L";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "homeLoss";
+resultObject.type = "home";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
+//if(scoreDiff > 1) resultObject.class = "homeLossDiff2";
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
+last6Home.push(resultObject);
+}
+
+
+if (team == fixture.aName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
+//console.log(team + " Away Loss")
+resultObject.lastGame = "L";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "awayLoss";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Home.push(resultObject);
+}
+
+if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
+//console.log(team + " Away Win")
+resultObject.lastGame = "W";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
+resultObject.class = "awayWin";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Home.push(resultObject);
+
+if(scoreDiff > 1) resultObject.class = "awayWinDiff2";
+}
+
+if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
+//console.log(team + " away draw")
+resultObject.lastGame = "D";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "awayDraw";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Home.push(resultObject);
+}
+
+if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
+//console.log(team + "home draw")
+resultObject.lastGame = "D";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "homeDraw";
+resultObject.type = "home";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+if(homeGameTotal.length <6) homeGameTotal.push(resultObject);
+last6Home.push(resultObject);
+}
+
+if (fixture.hScore == "pp.") {
+
+resultObject.lastGame = "pp.";
+resultObject.class = "pp";
+
+}
+
+
+return resultObject
+}
+
+var awayGameTotal = [];
+var last6Away = [];
+
+function determineResultAway (fixture, team, venue){
+var resultObject = new Object;
+resultObject.hName = fixture.hName
+resultObject.aName = fixture.aName
+
+
+
+if (team == fixture.hName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
+//console.log(team + " home win")
+resultObject.lastGame = "W";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "homeWin";
+resultObject.type = "home";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Away.push(resultObject);
+}
+
+if (team == fixture.hName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
+//console.log(team + " home loss")
+resultObject.lastGame = "L";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "homeLoss";
+resultObject.type = "home";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Away.push(resultObject);
+}
+
+
+if (team == fixture.aName && parseInt(fixture.hScore) > parseInt(fixture.aScore)) {
+//console.log(team + " Away Loss")
+resultObject.lastGame = "L";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "awayLoss";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
+last6Away.push(resultObject);
+}
+
+if (team == fixture.aName && parseInt(fixture.hScore) < parseInt(fixture.aScore)) {
+//console.log(team + " Away Win")
+resultObject.lastGame = "W";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+scoreDiff = fixture.aScore - fixture.hScore;
+resultObject.class = "awayWin";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+
+if(scoreDiff > 1) resultObject.class = "awayWinDiff2";
+
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
+last6Away.push(resultObject);
+}
+
+if (team == fixture.aName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
+//console.log(team + " away draw")
+resultObject.lastGame = "D";
+resultObject.opponent =  resultObject.hName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "awayDraw";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+if(awayGameTotal.length <6) awayGameTotal.push(resultObject);
+last6Away.push(resultObject);
+}
+
+if (team == fixture.hName && parseInt(fixture.hScore) == parseInt(fixture.aScore)) {
+//console.log(team + "home draw")
+resultObject.lastGame = "D";
+resultObject.opponent =  resultObject.aName.split(' ').join('');
+resultObject.score = resultObject.hName + " " + fixture.hScore + "<br /> " + resultObject.aName + " " + fixture.aScore;
+resultObject.class = "homeDraw";
+resultObject.type = "home";
+resultObject.hName = fixture.hName;
+resultObject.aName= fixture.aName;
+resultObject.hScore = fixture.hScore;
+resultObject.aScore= fixture.aScore;
+last6Away.push(resultObject);
+
+}
+if (fixture.hScore == "pp.") {
+//console.log(team + "home draw")
+
+resultObject.lastGame = "pp.";
+resultObject.class = "pp";
+}
+
+
+
+
+return resultObject
+}
+
+
+if (homeTeamFixturesArray[0].hName == homeTeam || homeTeamFixturesArray[0].aName == homeTeam)
+{    
+  matchResult = determineResultHome(homeTeamFixturesArray[0], homeTeam, "home");
+  matchResult2 = determineResultHome(homeTeamFixturesArray[1], homeTeam, "home");
+  matchResult3= determineResultHome(homeTeamFixturesArray[2], homeTeam, "home");
+  matchResult4= determineResultHome(homeTeamFixturesArray[3], homeTeam, "home");
+  matchResult5= determineResultHome(homeTeamFixturesArray[4], homeTeam, "home");  
+  matchResult6= determineResultHome(homeTeamFixturesArray[5], homeTeam, "home");  
+  matchResult7= determineResultHome(homeTeamFixturesArray[6], homeTeam, "home");  
+  matchResult8= determineResultHome(homeTeamFixturesArray[7], homeTeam, "home"); 
+  matchResult9= determineResultHome(homeTeamFixturesArray[8], homeTeam, "home"); 
+  matchResult10= determineResultHome(homeTeamFixturesArray[9], homeTeam, "home");  
+   
+  matchResult11= determineResultHome(homeTeamFixturesArray[10], homeTeam, "home");  
+  matchResult12= determineResultHome(homeTeamFixturesArray[11], homeTeam, "home"); 
+
+  matchResult13= determineResultHome(homeTeamFixturesArray[12], homeTeam, "home"); 
+  matchResult14= determineResultHome(homeTeamFixturesArray[13], homeTeam, "home"); 
+       rowClassH = "nope";
+   
+   // console.log(matchResult.lastGame,matchResult2.lastGame,matchResult3.lastGame,matchResult4.lastGame,matchResult5.lastGame,matchResult6.lastGame,matchResult7.lastGame,matchResult8.lastGame,matchResult9.lastGame,matchResult10.lastGame)
+          
+}
+
+
+if (awayTeamFixturesArray[0].hName == awayTeam || awayTeamFixturesArray[0].aName == awayTeam)
+{ 
+
+    matchResultAwayTeam = determineResultAway(awayTeamFixturesArray[0], awayTeam, "away");
+    matchResultAwayTeam2 = determineResultAway(awayTeamFixturesArray[1], awayTeam, "away");
+     matchResultAwayTeam3 = determineResultAway(awayTeamFixturesArray[2], awayTeam, "away");
+     matchResultAwayTeam4 = determineResultAway(awayTeamFixturesArray[3], awayTeam, "away");
+     matchResultAwayTeam5 = determineResultAway(awayTeamFixturesArray[4], awayTeam, "away");
+     matchResultAwayTeam6 = determineResultAway(awayTeamFixturesArray[5], awayTeam, "away");
+     matchResultAwayTeam7 = determineResultAway(awayTeamFixturesArray[6], awayTeam, "away");       
+ matchResultAwayTeam8 = determineResultAway(awayTeamFixturesArray[7], awayTeam, "away");                         
+ matchResultAwayTeam9 = determineResultAway(awayTeamFixturesArray[8], awayTeam, "away");  
+ matchResultAwayTeam10 = determineResultAway(awayTeamFixturesArray[9], awayTeam, "away");  
+  matchResultAwayTeam11 = determineResultAway(awayTeamFixturesArray[10], awayTeam, "away");  
+   matchResultAwayTeam12 = determineResultAway(awayTeamFixturesArray[11], awayTeam, "away");
+        matchResultAwayTeam13 = determineResultAway(awayTeamFixturesArray[12], awayTeam, "away");
+                matchResultAwayTeam14 = determineResultAway(awayTeamFixturesArray[13], awayTeam, "away");
+                
+   rowClassA = "nope";
+}
+
+
+
+
+fixtureDateNumber =  date.substring(4,6);
+var dd = new Date();
+
+
+if(parseInt(fixtureDateNumber) < d.getDate()) {
+  displayClass = "hide";
+}else {
+  displayClass = "show";
+}
+
+if(parseInt(fixtureDateNumber) < 16) {
+  displayClass = "hide";
+}
+
+
+if(parseInt(fixtureDateNumber) > 15) {
+  displayClass = "show";
+}
+
+
+if(today == matchDate) {
+  todaysGame = "matchday"
+
+}else {
+   displayClass = "hide";
+}
+ 
+/*
+if(currentHours > hours) {
+    displayClass = "hide";
+}
+*/
+
+var homeDraw = 0;
+for(p=0;p<homeGameTotal.length;p++) {
+   if(homeGameTotal[p].class == "homeDraw"){
+    homeDraw += 1;
+
+   }    
+}
+
+
+  if(homeDraw == 0) rowClassH = "homeWin4"; 
+  if(homeDraw == 1) rowClassH = "homeWin3"; 
+  if(homeDraw == 2) rowClassH = "homeWin2";   
+
+
+
+var awayDraw = 0;
+for(p=0;p<awayGameTotal.length;p++) {
+   if(awayGameTotal[p].class == "awayDraw"){
+    awayDraw += 1;
+   } 
+  
+}
+
+   if(awayDraw == 0)  rowClassA = "homeWin4"; 
+   if(awayDraw == 1)  rowClassA = "homeWin3"; 
+   if(awayDraw == 2)  rowClassA = "homeWin2";    
+
+
+var drawsOdds = "n/a";
+for(f=0;f<oddsArray.length;f++){
+   if(oddsArray[f].hName == homeTeam){  
+       var drawsOdds = oddsArray[f].drawOdds;
+     }
+}
+
+
+
+
+    if(matchResult.lastGame != "D" && matchResult2.lastGame != "D" && matchResult3.lastGame != "D" && matchResult4.lastGame != "D" && matchResult5.lastGame != "D" && matchResult6.lastGame != "D" && matchResult7.lastGame != "D" && matchResult8.lastGame != "D" && matchResult9.lastGame != "D" && matchResult10.lastGame != "D" ) {
+     // console.log(homeTeam)
+      rowClassH ="noDraws";
+    }   
+
+
+
+if (homeTable[j].name == homeTeam) {
+markup = markup + '<tr id='+homeTable[j].name.split(' ').join('') +' class='+ displayClass +'><td class='+ todaysGame +'>' + date + '</td><td id=' + homeTable[j].name.split(' ').join('') + ' class=' + rowClassH + '>' + homeTable[j].name + '</td><td style="width: 156px;" class="hm">';
+
+for(z=0;z<homeGameTotal.length;z++){
+markup = markup + '<div class='+homeGameTotal[z].class + ' id='+ homeGameTotal[z].opponent +'>'+ homeGameTotal[z].lastGame + '<span class=toolTip>' + homeGameTotal[z].score +'</span></div>'
+}
+markup = markup + '</td>';
+homePoints = homeTable[j].points;
+homeGoalsFor = homeTable[j].goalsF;
+homeGoalsAgainst = homeTable[j].goalsA;
+}
+}
+
+
+sixGameMarkup = '<tr id="grid"><td></td><td colspan=10><div style=display:flex;>';
+
+sixGameMarkup = sixGameMarkup + '<table id="last6Home" class='+homeTeam.split(' ').join('')+' style="width: 100%; margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 home </th></tr>';
+for (h=0; h<homeGameTotal.length; h++) {
+
+sixGameMarkup = sixGameMarkup + '<tr class='+ homeGameTotal[h].class + '><td style="width: 43%;" id='+homeGameTotal[h].hName.split(' ').join('')  +'>' +  homeGameTotal[h].hName + '</td><td class="score">' + homeGameTotal[h].hScore + '</td><td  class="score">' +  homeGameTotal[h].aScore  + '</td><td class="oppo" style="width: 43%;" id='+homeGameTotal[h].opponent  +'>' + homeGameTotal[h].aName + '</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table>';
+
+sixGameMarkup = sixGameMarkup + '<table id="last6AwayTable" style="width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 away </th></tr>';
+for (h=0; h<awayGameTotal.length; h++) {
+sixGameMarkup = sixGameMarkup + '<tr class='+ awayGameTotal[h].class + '><td style="width: 43%;" id='+awayGameTotal[h].hName.split(' ').join('')  +'>' +  awayGameTotal[h].hName + '</td><td class="score">' + awayGameTotal[h].hScore + '</td><td class="score">' +  awayGameTotal[h].aScore  + '</td><td style="width: 43%;" id='+awayGameTotal[h].aName.split(' ').join('') +'>' + awayGameTotal[h].aName + '</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table></div><div style=display:flex;>';
+
+
+sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;margin-right: 20px;"><tr><th colspan=4>' + homeTeam +' last 6 games </th></tr>';
+for (h=0; h<6; h++) {
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Home[h].class + '><td style="width: 43%;" id='+last6Home[h].hName.split(' ').join('') +'>' +  last6Home[h].hName + '</td><td class="score">' + last6Home[h].hScore + '</td><td class="score">' +  last6Home[h].aScore  + '</td><td style="width: 43%;" id='+last6Home[h].aName.split(' ').join('') +'>' + last6Home[h].aName + '</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table>';
+
+
+
+sixGameMarkup = sixGameMarkup + '<table style="margin-top: 20px;width: 100%;"><tr><th colspan=4>' + awayTeam +' last 6 games </th></tr>';
+for (h=0; h<6; h++) {
+sixGameMarkup = sixGameMarkup + '<tr class='+ last6Away[h].class + '><td style="width: 43%;" id='+last6Away[h].hName.split(' ').join('') +'>' +  last6Away[h].hName + '</td><td class="score">' + last6Away[h].hScore + '</td><td class="score">' +  last6Away[h].aScore  + '</td><td style="width: 43%;" id='+last6Away[h].aName.split(' ').join('') +'>' + last6Away[h].aName + '</td></tr>';
+}
+sixGameMarkup = sixGameMarkup + '</table>';
+
+
+
+
+
+
+
+            for (var j = 0; j < awayTable.length; j++) {
+            if (awayTable[j].name == awayTeam) {
+            //console.log(awayTable[j].name)
+            awayPoints = awayTable[j].points;
+            ptsDiff = homePoints - awayPoints;
+            awayGoalsFor = awayTable[j].goalsF;
+            awayGoalsAgainst = awayTable[j].goalsA;
+            goalsForDelta = homeGoalsFor - awayGoalsFor;
+            goalsAgainstDelta = awayGoalsAgainst - homeGoalsAgainst;
+
+
+ if(matchResultAwayTeam.lastGame != "D" && matchResultAwayTeam2.lastGame != "D" && matchResultAwayTeam3.lastGame != "D" && matchResultAwayTeam4.lastGame != "D" && matchResultAwayTeam5.lastGame != "D" && matchResultAwayTeam6.lastGame != "D" && matchResultAwayTeam7.lastGame != "D" && matchResultAwayTeam8.lastGame != "D" && matchResultAwayTeam9.lastGame != "D" && matchResultAwayTeam10.lastGame != "D" ) {
+ 
+        
+      rowClassA ="noDraws";
+    }  
+
+
+
+
+if(typeof pastHomeFixture[0] === 'undefined') {
+
+       markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td class="am"><div class='+matchResultAwayTeam.class + ' id='+ matchResultAwayTeam.opponent +'>'+ matchResultAwayTeam.lastGame + '<span class=toolTip>' + matchResultAwayTeam.score +'</span>' + '</div><div class='+matchResultAwayTeam2.class +' id='+ matchResultAwayTeam2.opponent +'>'+ matchResultAwayTeam2.lastGame + '<span class=toolTip>' + matchResultAwayTeam2.score +'</span>' + '</div><div class='+matchResultAwayTeam3.class +' id='+ matchResultAwayTeam3.opponent +'>'+ matchResultAwayTeam3.lastGame + '<span class=toolTip>' + matchResultAwayTeam3.score +'</span></div><div class='+matchResultAwayTeam4.class +' id='+ matchResultAwayTeam4.opponent +'>'+ matchResultAwayTeam4.lastGame + '<span class=toolTip>' + matchResultAwayTeam4.score +'</span></div><div class='+matchResultAwayTeam5.class +' id='+ matchResultAwayTeam5.opponent +'>'+ matchResultAwayTeam5.lastGame + '<span class=toolTip>' + matchResultAwayTeam5.score +'</span></div><div class='+matchResultAwayTeam6.class +' id='+ matchResultAwayTeam6.opponent +'>'+ matchResultAwayTeam6.lastGame + '<span class=toolTip>' + matchResultAwayTeam6.score +'</span></div><div class='+matchResultAwayTeam7.class +' id='+ matchResultAwayTeam7.opponent +'>'+ matchResultAwayTeam7.lastGame + '<span class=toolTip>' + matchResultAwayTeam7.score +'</span></div><div class='+matchResultAwayTeam8.class +' id='+ matchResultAwayTeam8.opponent +'>'+ matchResultAwayTeam8.lastGame + '<span class=toolTip>' + matchResultAwayTeam8.score +'</span></div><div class='+matchResultAwayTeam9.class +' id='+ matchResultAwayTeam9.opponent +'>'+ matchResultAwayTeam9.lastGame + '<span class=toolTip>' + matchResultAwayTeam9.score +'</span></div><div class='+matchResultAwayTeam10.class +' id='+ matchResultAwayTeam10.opponent +'>'+ matchResultAwayTeam10.lastGame + '<span class=toolTip>' + matchResultAwayTeam10.score +'</span></div></div><div class='+matchResultAwayTeam11.class +' id='+ matchResultAwayTeam11.opponent +'>'+ matchResultAwayTeam11.lastGame + '<span class=toolTip>' + matchResultAwayTeam11.score +'</span></div></div><div class='+matchResultAwayTeam12.class +' id='+ matchResultAwayTeam12.opponent +'>'+ matchResultAwayTeam12.lastGame + '<span class=toolTip>' + matchResultAwayTeam12.score +'</span></div><div class='+matchResultAwayTeam13.class +' id='+ matchResultAwayTeam13.opponent +'>'+ matchResultAwayTeam13.lastGame + '<span class=toolTip>' + matchResultAwayTeam13.score +'</span></div></td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>n/a</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td>1</td></tr>';
+
+  }else{
+
+
+     markup = markup + '<td id=' + awayTable[j].name.split(' ').join('') + ' class=' + rowClassA + '>' + awayTable[j].name + '</td><td class="am">';
+
+for(z=0;z<awayGameTotal.length;z++){
+markup = markup + '<div class='+awayGameTotal[z].class + ' id='+ awayGameTotal[z].opponent +'>'+ awayGameTotal[z].lastGame + '<span class=toolTip>' + awayGameTotal[z].score +'</span></div>'
+}
+markup = markup + '</td><td>' + ptsDiff + '</td><td>' + goalsForDelta + '</td><td>' + goalsAgainstDelta + '</td><td class=' + result + '>'+ pastHomeFixture[0].aScore + " " + pastHomeFixture[0].hScore +'</td><td class=' + result18h + '>'+ hScoreHome + " " + aScoreHome +'</td><td class=' + result18 + '>'+ aScore + " " + hScore +'</td><td>'+drawsOdds+'</td>' + sixGameMarkup;
+
+
+}
+
+
+
+
+
+            }
+            } //
+
+
+            document.getElementById('fixturesTable').innerHTML = markup;
+            }
+
+
+
+
+            var fixTable = document.getElementById('fixturesTable');
+            var fixTableTRs = fixTable.getElementsByClassName("show");
+
+            var fixTableDiv = fixTable.getElementsByTagName("div");    
+            var leagueTable = document.getElementById('leagueTable');
+            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
+            var last6HomeTable = document.getElementById('last6Home');
+            var last6HomeTableTRs = last6HomeTable.getElementsByTagName("tr");
+
+            var last6AwayTable = document.getElementById('last6AwayTable');
+            var last6AwayTableTRs = last6AwayTable.getElementsByTagName("tr");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+        for (var j = 0; j < fixTableDiv.length; j++) {
+              fixTableDiv[j].addEventListener("mouseover", function(e) {   
+            for (var p = 0; p < leagueTableTRs.length; p++) {
+
+            if (leagueTableTRs[p].id == e.currentTarget.id) {
+            
+            leagueTableTRs[p].style.backgroundColor = "red";
+            } 
+            }
+        })
+            };
+
+
+        for (var j = 0; j < fixTableDiv.length; j++) {
+              fixTableDiv[j].addEventListener("mouseout", function(e) {              
+
+            var leagueTable = document.getElementById('leagueTable');
+            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
+            //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
+            for (var p = 0; p < leagueTableTRs.length; p++) {
+
+            if (leagueTableTRs[p].id == e.currentTarget.id) {
+            leagueTableTRs[p].style.backgroundColor = "white";
+            } 
+            }
+        })
+            };
+
+
+
+
+            for (var j = 0; j < fixTableTRs.length; j++) {  
+            fixTableTRs[j].addEventListener("mouseover", function(e) {
+ 
+
+            var homeDrawTable = document.getElementById('homeDrawTable');
+            var awayDrawTable = document.getElementById('awayDrawTable');
+            var leagueTable = document.getElementById('leagueTable');
+
+            e.currentTarget.childNodes[1].style.backgroundColor = "lightgreen"
+            e.currentTarget.childNodes[2].style.backgroundColor = "lightgreen"
+            e.currentTarget.childNodes[3].style.backgroundColor = "pink"
+            e.currentTarget.childNodes[4].style.backgroundColor = "pink"
+
+            var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
+            var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
+            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
+            //console.log(e.currentTarget.childNodes[1].id + " " + e.currentTarget.childNodes[3].id)
+            //console.log(leagueTableTRs.length)
+            // console.log(homeDrawTableTRs.length)
+            for (var p = 0; p < homeDrawTableTRs.length; p++) {
+
+
+       
+            if (homeDrawTableTRs[p].id == e.currentTarget.childNodes[1].id) {
+
+            homeDrawTableTRs[p].style.backgroundColor = "lightgreen";
+            }
+            if (awayDrawTableTRs[p].id == e.currentTarget.childNodes[3].id) {
+            awayDrawTableTRs[p].style.backgroundColor = "pink";
+
+            }
+            if (leagueTableTRs[p].id == e.currentTarget.childNodes[1].id) {
+                   
+           leagueTableTRs[p].style.backgroundColor = "lightgreen";
+            }
+            if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {
+            leagueTableTRs[p].style.backgroundColor = "pink";
+            }
+
+
+            }
+            })
+
+
+
+
+            fixTableTRs[j].addEventListener("mouseout", function(e) {
+
+
+
+            var homeDrawTable = document.getElementById('homeDrawTable');
+            var awayDrawTable = document.getElementById('awayDrawTable');
+            var leagueTable = document.getElementById('leagueTable');
+
+            var homeDrawTableTRs = homeDrawTable.getElementsByClassName("team");
+            var awayDrawTableTRs = awayDrawTable.getElementsByClassName("team");
+            var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+
+
+            e.currentTarget.childNodes[1].style.backgroundColor = "white"
+            e.currentTarget.childNodes[2].style.backgroundColor = "white"
+            e.currentTarget.childNodes[3].style.backgroundColor = "white"
+            e.currentTarget.childNodes[4].style.backgroundColor = "white"
+
+            for (var p = 0; p < homeDrawTableTRs.length; p++) {
+
+             
+
+            if (homeDrawTableTRs[p].id == e.currentTarget.childNodes[1].id) {
+            homeDrawTableTRs[p].style.backgroundColor = "white";
+            }
+            if (awayDrawTableTRs[p].id == e.currentTarget.childNodes[3].id) {
+            awayDrawTableTRs[p].style.backgroundColor = "white";
+            }
+            if (leagueTableTRs[p].id == e.currentTarget.childNodes[1].id) {
+            leagueTableTRs[p].style.backgroundColor = "white";
+            }
+            if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {
+            leagueTableTRs[p].style.backgroundColor = "white";
+            }
+            }
+            })
+ }
+ //
+
+ var leagueTable = [];
+ homeTable.sort(function(a, b) {
+  if (a.name < b.name) return -1;
+  if (a.name > b.name) return 1;
+
+ });
+ awayTable.sort(function(a, b) {
+  if (a.name < b.name) return -1;
+  if (a.name > b.name) return 1;
+
+ });
+ for (var i = 0; i < awayTable.length; i++) {
+  var team = new Object();
+  var winPoints = (parseInt(homeTable[i].wins) + parseInt(awayTable[i].wins)) * 3;
+  //console.log(homeTable[i].wins + " " + homeTable[i].name + " " + awayTable[i].name + awayTable[i].wins);
+  var drawPoints = parseInt(homeTable[i].draws) + parseInt(awayTable[i].draws);
+  team.name = awayTable[i].name;
+  team.points = winPoints + drawPoints;
+  leagueTable.push(team);
+
+ }
+
+ leagueTable.sort(function(a, b) {
+  if (a.points > b.points) return -1;
+  if (a.points < b.points) return 1;
+ });
+pointsMarkup = "";
+ for (var i = 0; i < leagueTable.length; i++) {
+  var pointsMarkup = pointsMarkup + '<tr id=' + leagueTable[i].name.split(' ').join('') + '><td>' + leagueTable[i].name + '<td>' + leagueTable[i].points + '</td></tr>';
+
+ }
+
+ document.getElementById('leagueTable').innerHTML = pointsMarkup;
+
+
+
+
+ /*
+             document.addEventListener("mouseover", function(){
+   document.getElementById("demo").innerHTML = "Hello World";
+
+ }   
+ */
+
+}
+
+
+
+document.addEventListener('DOMContentLoaded', function(event) {
+   var intervalID = window.setInterval(myCallback, 50);
+
+   function myCallback() {
+      homeMatches = document.querySelectorAll(".hm");
+  for (i = 0; i < homeMatches.length; i++) {
+    homeMatches[i].classList.toggle("hideAway");
+  }
+  homeMatches = document.querySelectorAll(".am");
+  for (i = 0; i < homeMatches.length; i++) {
+    homeMatches[i].classList.toggle("hideHome");
+  }
+
+
+var fixTable = document.getElementById('fixturesTable');
+var fixTableTRs = fixTable.getElementsByClassName("show");
+
+if(fixTableTRs.length>0) clearInterval(intervalID);
+ for (var j = 0; j < fixTableTRs.length; j++) {  
+console.log(fixTableTRs.length)
+fixTableTRs[j].addEventListener("click", function(e) {
+  document.getElementById('leagueTable').classList.toggle('show');
+  this.nextSibling.classList.toggle('show');
+  var gridTable =  this.nextSibling
+
+
+last6HomeTable = gridTable.childNodes[1].childNodes[0].childNodes[0];
+
+last6HomeTRs = last6HomeTable.getElementsByTagName("tr");
+var leagueTable = document.getElementById('leagueTable');
+var leagueTableTRs = leagueTable.getElementsByTagName("tr");
+var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
+th = last6HomeTable.getElementsByTagName("th");
+console.log(th);
+
+yes(th,last6HomeOpp,leagueTableTRs);
+tdsArray = [];
+
+
+
+for (var j = 0; j < last6HomeTRs.length; j++) {
+    last6HomeTRs[j].addEventListener("mouseover", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "pink";
+        } 
+      }
+    })
+        last6HomeTRs[j].addEventListener("mouseout", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+      }
+    })
+};
+
+
+last6AwayTable = gridTable.childNodes[1].childNodes[0].childNodes[1];
+last6AwayTRs = last6AwayTable.getElementsByTagName("tr");
+
+for (var j = 0; j < last6AwayTRs.length; j++) {
+    last6AwayTRs[j].addEventListener("mouseover", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "pink";
+        } 
+      }
+    })
+        last6AwayTRs[j].addEventListener("mouseout", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+      }
+    })
+};
+
+
+
+
+last6HomeAnyTable = gridTable.childNodes[1].childNodes[1].childNodes[0];
+last6HomeAnyTRs = last6HomeAnyTable.getElementsByTagName("tr");
+
+for (var j = 0; j < last6HomeAnyTRs.length; j++) {
+    last6HomeAnyTRs[j].addEventListener("mouseover", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "pink";
+        } 
+      }
+    })
+        last6HomeAnyTRs[j].addEventListener("mouseout", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+      }
+    })
+};
+
+last6HAwayAnyTable = gridTable.childNodes[1].childNodes[1].childNodes[1];
+last6AwayAnyTRs = last6HAwayAnyTable.getElementsByTagName("tr");
+
+for (var j = 0; j < last6AwayAnyTRs.length; j++) {
+    last6AwayAnyTRs[j].addEventListener("mouseover", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "lightgreen";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "pink";
+        } 
+      }
+    })
+        last6AwayAnyTRs[j].addEventListener("mouseout", function(e) {  
+      for (var p = 0; p < leagueTableTRs.length; p++) {
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[0].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+        if (leagueTableTRs[p].id == e.currentTarget.childNodes[3].id) {            
+        leagueTableTRs[p].style.backgroundColor = "white";
+        } 
+      }
+    })
+};
+
+
+
+
+ })
+}
+}
+});
+
+function yes(th,last6HomeOpp,leagueTableTRs){
+th[0].addEventListener("mouseover", function(e) {
+  console.log("In");
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) 
+            {
+              leagueTableTRs[y].style.backgroundColor = "black";
+              leagueTableTRs[y].style.color = "white";
+            }
+        if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "#feffbf";
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "pink";
+        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "lightgreen";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "springgreen";
+
+        } 
+}
+}
+})
+th[0].addEventListener("mouseout", function(e) {
+  console.log("Out");
+ for (var p = 0; p < last6HomeOpp.length; p++) {
+   for (var y = 0; y < leagueTableTRs.length;y++) {
+           if (leagueTableTRs[y].id == last6HomeOpp[p].parentNode.parentNode.parentNode.className) {
+            leagueTableTRs[y].style.backgroundColor = "white";
+ leagueTableTRs[y].style.color = "black";
+          }
+        if (leagueTableTRs[y].id == last6HomeOpp[p].id) { 
+        if(last6HomeOpp[p].parentNode.className == "homeDraw") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeLoss") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeWin") leagueTableTRs[y].style.backgroundColor = "white";
+        if(last6HomeOpp[p].parentNode.className == "homeWinDiff2") leagueTableTRs[y].style.backgroundColor = "white";
+
+        } 
+}
+}
+})
+}
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  homeMatches = document.querySelectorAll(".hm");
+  for (i = 0; i < homeMatches.length; i++) {
+    homeMatches[i].classList.toggle("hideAway");
+  }
+  homeMatches = document.querySelectorAll(".am");
+  for (i = 0; i < homeMatches.length; i++) {
+    homeMatches[i].classList.toggle("hideHome");
+  }
+
+ })
+
+ var intervalID2 = window.setInterval(myCallback2, 1000);
+var loop = 0;
+   function myCallback2() {
+    iframes = document.getElementsByTagName("iframe");
+ 
+  for (f = 0; f < iframes.length; f++) {
+let iframe = iframes[f];
+let win = iframes[f].contentWindow;
+let doc = iframes[f].contentDocument? iframes[f].contentDocument: iframes[f].contentWindow.document;
+let form = doc.getElementById('tables');
+
+
+iframes[f].style.height = form.clientHeight + 10 + 'px';
+
+form.addEventListener('click', function(event) {
+ // console.log(iframe);
+ // console.log(win);
+ //   console.log(form);
+  iframe.style.height = form.clientHeight + 10 + 'px';
+})
+}
+loop++;
+
+  if(loop>9)  clearInterval(intervalID2);
+}
+
+
+
+
+</script>
+</body>
+
+</html>
