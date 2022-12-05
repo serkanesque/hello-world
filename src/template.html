@@ -3229,6 +3229,17 @@ var last6AwayteamOpp = last6GamesAwayteamTableTRs;
 
 yes(th,last6HomeOpp,leagueTableTRs);
 
+
+
+
+var homeAttackTable = document.getElementById('homeAttackTable');
+var leagueTableTRs = homeAttackTable.getElementsByTagName("tr");
+var last6HomeOpp = last6HomeTable.getElementsByClassName("oppo");
+th = last6HomeTable.getElementsByTagName("th");
+
+yes(th,last6HomeOpp,homeAttackTrs);
+
+
 yesAway(thAway,last6AwayOpp,leagueTableTRs);
 yesAway2(th,last6AwayOpp,document.getElementById('leagueTable2').getElementsByTagName("tr"));
 yesAwayTable(th,last6HomeOpp,document.getElementById('awayDrawTable').getElementsByTagName("tr"));
