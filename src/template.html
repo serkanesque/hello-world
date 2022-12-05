@@ -3116,7 +3116,7 @@ var attackMarkup = "";
  });
 
 for (var f = 0; f < poissonTableHome.length; f++) {
-  attackMarkup += "<tr id=" +poissonTableHome[f].name.split(' ').join('')+"><td>" + poissonTableHome[f].name  +"</td><td>" + poissonTableHome[f].AttackStrength  +"</td><td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
+  attackMarkup += "<tr id=" + poissonTableHome[f].name.split(' ').join('')+"><td>" + poissonTableHome[f].name  +"</td><td>" + poissonTableHome[f].AttackStrength  +"</td><td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
 }
 
 
@@ -3472,6 +3472,7 @@ th[0].addEventListener("mouseout", function(e) {
 function yes(th,last6HomeOpp,leagueTableTRs){
    //document.getElementById('leagueTable3').innerHTML = pointsMarkup;
  var leagueTRsTest =  document.getElementById('leagueTable').getElementsByTagName("tr");
+ /*
 var topPoints = leagueTRsTest[0].lastChild.textContent;
  var bottomPoints = leagueTRsTest[leagueTRsTest.length - 1].lastChild.textContent;
 console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
@@ -3479,6 +3480,7 @@ console.log("topPoints",topPoints,"bottomPoints",bottomPoints);
 var pointsDifference = 100/topPoints;
 console.log("pointsDifference",pointsDifference)
   var strengthIndex = 0;
+  */
 th[0].addEventListener("mouseover", function(e) {
   console.log("In");
  for (var p = 0; p < last6HomeOpp.length; p++) {
@@ -3536,12 +3538,12 @@ th[0].addEventListener("mouseover", function(e) {
         } 
 }
 }
-console.log("strengthIndex",strengthIndex);
+//console.log("strengthIndex",strengthIndex);
 
 
 })
 th[0].addEventListener("mouseout", function(e) {
-  strengthIndex = 0;
+ // strengthIndex = 0;
   console.log("Out");
  for (var p = 0; p < last6HomeOpp.length; p++) {
    for (var y = 0; y < leagueTableTRs.length;y++) {
