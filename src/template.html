@@ -2784,12 +2784,12 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
     poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = parseInt(poissonHomeTeam.homeGreaterThan1GoalConceded) /  parseInt(poissonHomeTeam.goalsAgainstInGames.length);
     poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio.toFixed(4);
 
-
+    homeTeamFixturesArrayTest.reverse();
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
 
-          matchWeight = i / homeTeamFixturesArrayTest.length;  
+          matchWeight =  i / homeTeamFixturesArrayTest.length;  
             if(venue == "home") {
               if(matchResult.hScore >1) {                      
                 homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);               
