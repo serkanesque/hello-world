@@ -352,7 +352,7 @@ padding: 10px;
 </Div>
 <Div>       
   <h1> Away  Att/Def</h1>
-  <table id="homeDefenceTable">
+  <table id="awayDefenceTable">
   </table>
 </Div>
 
@@ -3121,6 +3121,9 @@ for (var f = 0; f < poissonTableHome.length; f++) {
 
 
 document.getElementById("homeAttackTable").innerHTML = attackMarkup;
+
+
+
 
 var defenceMarkup = "";
 poissonTableAway.sort(function(a, b) {
