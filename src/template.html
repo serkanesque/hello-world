@@ -2796,7 +2796,7 @@ if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTe
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
-              homeGoalDampner =  homeGoalDampner * matchWeight;
+              homeGoalDampner =  homeGoalDampner + matchWeight;
 
               poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);     
               leagueWidestandardDeviation.push(matchResult.hScore);
@@ -2805,7 +2805,7 @@ if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTe
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);
               }  
-              awayGoalDampner =  awayGoalDampner * matchWeight;
+              awayGoalDampner =  awayGoalDampner + matchWeight;
 
               poissonHomeTeam.goalsAgainst =  parseFloat(poissonHomeTeam.goalsAgainst) +  parseFloat(awayGoalDampner);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
@@ -2828,8 +2828,8 @@ if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTe
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);        
             }
-            homeGoalDampner =  homeGoalDampner * matchWeight;
-            awayGoalDampner =  awayGoalDampner * matchWeight;
+            homeGoalDampner =  homeGoalDampner + matchWeight;
+            awayGoalDampner =  awayGoalDampner + matchWeight;
             poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
             poissonHomeTeam.goalsAgainst = parseFloat(poissonHomeTeam.goalsAgainst) + parseFloat(homeGoalDampner);
      
