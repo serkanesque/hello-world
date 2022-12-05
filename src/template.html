@@ -2789,13 +2789,15 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
 
-
+          matchWeight = i / homeTeamFixturesArrayTest.length;  
             if(venue == "home") {
-              if(matchResult.hScore >1) {              
-                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);
+              if(matchResult.hScore >1) {                      
+                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);               
               } else {
                 homeGoalDampner = parseInt(matchResult.hScore);
               }
+              homeGoalDampner =  homeGoalDampner * matchWeight;
+
               poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);     
               leagueWidestandardDeviation.push(matchResult.hScore);
               if(matchResult.aScore >1) {
@@ -2803,6 +2805,8 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);
               }  
+              awayGoalDampner =  awayGoalDampner * matchWeight;
+
               poissonHomeTeam.goalsAgainst =  parseFloat(poissonHomeTeam.goalsAgainst) +  parseFloat(awayGoalDampner);
               poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
               stdDeviation.push(matchResult.hScore);              
@@ -2824,6 +2828,8 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
               } else {
                 awayGoalDampner = parseInt(matchResult.aScore);        
             }
+            homeGoalDampner =  homeGoalDampner * matchWeight;
+            awayGoalDampner =  awayGoalDampner * matchWeight;
             poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
             poissonHomeTeam.goalsAgainst = parseFloat(poissonHomeTeam.goalsAgainst) + parseFloat(homeGoalDampner);
      
