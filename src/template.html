@@ -2885,6 +2885,7 @@ console.log("goals againtst in home games", poissonHomeTeam.goalsAgainstInGames)
     poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
     poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
     poissonHomeTeam.AttackAndDefence = poissonHomeTeam.AttackStrength - poissonHomeTeam.DefenceStrength;
+    poissonHomeTeam.AttackAndDefence = poissonHomeTeam.AttackAndDefence.toFixed(2);
     poissonTableArray.push(poissonHomeTeam);
   }
   if(venue == "home")  console.log("League wide standard deviation goals against",math.std(leagueWidestandardDeviation));
