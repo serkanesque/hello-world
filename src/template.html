@@ -2784,7 +2784,7 @@ for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
     poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = parseInt(poissonHomeTeam.homeGreaterThan1GoalConceded) /  parseInt(poissonHomeTeam.goalsAgainstInGames.length);
     poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio.toFixed(4);
 if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTest",homeTeamFixturesArrayTest);
-    homeTeamFixturesArrayTest.reverse();
+
     for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
