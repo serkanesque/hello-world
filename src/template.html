@@ -3119,8 +3119,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 var attackMarkup = "";
 
   poissonTableHome.sort(function(a, b) {
-    if (a.AttackAndDefence > b.AttackAndDefence) return 1;
-  if (a.AttackAndDefence < b.AttackAndDefence) return -1;
+    if (a.AttackAndDefence < b.AttackAndDefence) return 1;
+  if (a.AttackAndDefence > b.AttackAndDefence) return -1;
  });
 
 for (var f = 0; f < poissonTableHome.length; f++) {
@@ -3135,8 +3135,8 @@ document.getElementById("homeAttackTable").innerHTML = attackMarkup;
 
 var defenceMarkup = "";
 poissonTableAway.sort(function(a, b) {
-  if (a.AttackAndDefence > b.AttackAndDefence) return 1;
-  if (a.AttackAndDefence < b.AttackAndDefence) return -1;
+  if (a.AttackAndDefence < b.AttackAndDefence) return 1;
+  if (a.AttackAndDefence > b.AttackAndDefence) return -1;
  });
 
  for (var f = 0; f < poissonTableAway.length; f++) {
