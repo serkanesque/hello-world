@@ -346,11 +346,15 @@ padding: 10px;
     </table>
 </Div>
 <Div>       
-    <h1> Home AttackStrength</h1>
+    <h1> Home Att/Def</h1>
     <table id="homeAttackTable">
     </table>
 </Div>
-
+<Div>       
+  <h1> Away  Att/Def</h1>
+  <table id="homeDefenceTable">
+  </table>
+</Div>
 
 <Div>
 <h1 class="title"> Fixtures </h1>
@@ -3112,11 +3116,28 @@ var attackMarkup = "";
  });
 
 for (var f = 0; f < poissonTableHome.length; f++) {
-  attackMarkup += "<tr><td>" + poissonTableHome[f].name  +"<td><td>" + poissonTableHome[f].AttackStrength  +"</td></tr>";
+  attackMarkup += "<tr><td>" + poissonTableHome[f].name  +"<td><td>" + poissonTableHome[f].AttackStrength  +"</td><<td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
 }
 
 
 document.getElementById("homeAttackTable").innerHTML = attackMarkup;
+
+var defenceMarkup = "";
+poissonTableAway.sort(function(a, b) {
+  if (a.DefenceStrength < b.DefenceStrength) return 1;
+  if (a.DefenceStrength > b.DefenceStrength) return -1;
+ });
+
+ for (var f = 0; f < poissonTableHome.length; f++) {
+  defenceMarkup += "<tr><td>" + poissonTableHome[f].name  +"<td><td>" + poissonTableHome[f].AttackStrength  +"</td><<td>" + poissonTableHome[f].DefenceStrength  +"</td></tr>";
+}
+
+
+
+document.getElementById("awayDefenceTable").innerHTML = defenceMarkup;
+
+
+
 
 
  let buttons = document.querySelectorAll(".save");
