@@ -2789,7 +2789,7 @@ if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTe
         matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
         if(matchResult.hScore && matchResult.hScore !== "pp.")  {
 
-          matchWeight =  i / homeTeamFixturesArrayTest.length;  
+          matchWeight = .25 * (i / homeTeamFixturesArrayTest.length);  
             if(venue == "home") {
               if(matchResult.hScore >1) {                      
                 homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);               
