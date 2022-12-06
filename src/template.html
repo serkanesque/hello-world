@@ -2934,9 +2934,9 @@ while(standardDeviation.length > 0) {
     } else {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
     }
-
+console.log("homeTeamFixturesArrayTest before",homeTeamFixturesArrayTest);
     homeTeamFixturesArrayTest.splice(homeTeamFixturesArrayTest.length - removeFixtureNumber ,homeTeamFixturesArrayTest.length);
-    
+    console.log("homeTeamFixturesArrayTest after",homeTeamFixturesArrayTest);
 
 
 
