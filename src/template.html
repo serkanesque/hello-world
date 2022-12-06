@@ -2934,6 +2934,14 @@ while(standardDeviation.length > 0) {
     } else {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
     }
+
+
+    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
+        if(matchResult.hScore && matchResult.hScore !== "pp.")  {    
+          homeTeamFixturesArrayTest.splice(i -1, 1);
+        }
+      }
+
 console.log("homeTeamFixturesArrayTest before",homeTeamFixturesArrayTest);
     homeTeamFixturesArrayTest.splice(homeTeamFixturesArrayTest.length - parseInt(removeFixtureNumber), parseInt(removeFixtureNumber));
     console.log("homeTeamFixturesArrayTest after",homeTeamFixturesArrayTest);
@@ -3284,6 +3292,7 @@ var scoreData = [];
 }
 
 scoreDataArray = scoreData(poissonTableHomeSingle,poissonTableAwaySingle);
+
 scoreDataArraySingle =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Dover Athletic",1);
 scoreDataArraySingle2 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Ebbsfleet Utd",2);
 scoreDataArraySingle3 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","St Albans"),3;
