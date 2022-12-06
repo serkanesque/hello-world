@@ -2984,13 +2984,17 @@ leagueTablePoissonTrs = document.getElementById("fixturesTable").getElementsByCl
 homeScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 awayScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 
-function scoreData(arrayHome,arrayAway) {
+function scoreData(arrayHome,arrayAway, homeTeam, awayTeam) {
 var scoreData = [];
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
+  if(homeTeam) {
+    let homeTeamPoisson = arrayHome.find(el => el.name == homeTeam);
+    let awayTeamPoisson = arrayAway.find(el => el.name == awayTeam);
+  } else {
   let homeTeamPoisson = arrayHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
   //console.log("homeTeamPoisson",homeTeamPoisson);
   let awayTeamPoisson = arrayAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
-
+}
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
             var stats = new Statistics();
@@ -3039,6 +3043,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 }
 
 scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
+scoreDataArraySingle =  scoreData(poissonTableHome,poissonTableAway,"Hampton & R","Taunton Town");
 //console.log("scoreDataArray",scoreDataArray);
 //scoreDataArrayLast6 = scoreData(poissonTableHomeLast6,poissonTableAwayLast6)
 //console.log("scoreDataArrayLast6",scoreDataArrayLast6);
@@ -3113,6 +3118,8 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   //el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
  
 }
+testPastGames =  calculateProbabilites2(scoreDataArraySingle,"Hampton & R.");
+console.log("testPastGames",testPastGames);
 
 
 
