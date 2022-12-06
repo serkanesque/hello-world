@@ -3170,8 +3170,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   //el3[0].innerHTML = displayPoissonScores(scoreDataArrayLast3,homeTeam,"Last 3 games Poisson");
  
 }
-testPastGames =  calculateProbabilites2(scoreDataArraySingle,"Hampton & R.");
-console.log("testPastGames",testPastGames);
+
 
 
 
@@ -3204,7 +3203,8 @@ poissonTableAway.sort(function(a, b) {
 
 
 document.getElementById("awayDefenceTable").innerHTML = defenceMarkup;
-
+testPastGames =  calculateProbabilites2(scoreDataArraySingle,"Hampton & R.");
+console.log("testPastGames",testPastGames);
 
 
 
