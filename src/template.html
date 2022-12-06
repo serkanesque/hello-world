@@ -3230,16 +3230,12 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 
 
 
-function scoreDataSingle(arrayHome,arrayAway,singleHomeTeam,singleAwayTeam,removeFixtureNumber) {
+function scoreDataSingle(arrayHome,arrayAway,singleHomeTeam,singleAwayTeam) {
 var scoreData = [];
   let homeTeamPoisson = arrayHome.find(el => el.name == singleHomeTeam);
-  console.log("homeTeamPoissonSingle",homeTeamPoisson);
   let awayTeamPoisson = arrayAway.find(el => el.name == singleAwayTeam);
-console.log("homeTeamPoissonBefore",homeTeamPoisson)
-  homeTeamPoisson.splice(homeTeamPoisson.length-removeFixtureNumber,homeTeamPoisson.length);
-  awayTeamPoisson.splice(homeTeamPoisson.length-removeFixtureNumber,homeTeamPoisson.length)
-  console.log("homeTeamPoissonafter",homeTeamPoisson)
-  console.log("awayTeamPoissonPoissonSingle",awayTeamPoisson);
+
+
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
             let stats = new Statistics();
