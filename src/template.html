@@ -2931,12 +2931,16 @@ while(standardDeviation.length > 0) {
     poissonHomeTeam.goalsAgainstInGames = [] ;
     if(venue == "home") {
        homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
-    } else {
-       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
-    }
-console.log("homeTeamFixturesArrayTest before",homeTeamFixturesArrayTest);
+       console.log("homeTeamFixturesArrayTest before",homeTeamFixturesArrayTest);
     homeTeamFixturesArrayTest.splice(homeTeamFixturesArrayTest.length - 2, 2);
     console.log("homeTeamFixturesArrayTest after",homeTeamFixturesArrayTest);
+    } else {
+       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
+       console.log("homeTeamFixturesArrayTest before",homeTeamFixturesArrayTest);
+    homeTeamFixturesArrayTest.splice(homeTeamFixturesArrayTest.length - 2, 2);
+    console.log("homeTeamFixturesArrayTest after",homeTeamFixturesArrayTest);
+    }
+
 
 
 
