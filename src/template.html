@@ -2895,6 +2895,195 @@ console.log("goals againtst in home games", poissonHomeTeam.goalsAgainstInGames)
 poissonTableHome = calcAttackDefenceTable(homeDrawTableTrs, "home")
 poissonTableAway = calcAttackDefenceTable(homeDrawTableTrs, "away")
 
+
+
+function calcAttackDefenceTableSingle(teamsArrayTrs,venue,removeFixtureNumber) {
+ poissonTableArray = [];
+     leagueWidestandardDeviation = [];
+for (var j = 0; j < teamsArrayTrs.length; j++) {
+  stdDeviation = [];
+ standardDeviation3 = [];
+     standardDeviation2 = [];
+     standardDeviation = [];
+
+while(standardDeviation3.length > 0) {
+  standardDeviation3.pop();
+}
+while(standardDeviation2.length > 0) {
+  standardDeviation2.pop();
+}
+while(standardDeviation.length > 0) {
+  standardDeviation.pop();
+}
+
+    poissonHomeTeam = new Object(); 
+    poissonHomeTeam.name =  teamsArrayTrs[j].firstChild.textContent;
+    poissonHomeTeam.played = 0;
+    poissonHomeTeam.wins = 0;
+    poissonHomeTeam.goalsFor = 0;
+    poissonHomeTeam.goalsAgainst = 0;
+    poissonHomeTeam.avgGoalsFor = 0;
+    poissonHomeTeam.avgGoalsAgainst = 0;
+    poissonHomeTeam.played =  0;
+    poissonHomeTeam.goalsFor =  0;
+    poissonHomeTeam.goalsAgainst = 0 ;
+    poissonHomeTeam.goalsForInGames = [] ;
+    poissonHomeTeam.goalsAgainstInGames = [] ;
+    if(venue == "home") {
+       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.hName == teamsArrayTrs[j].firstChild.textContent});
+    } else {
+       homeTeamFixturesArrayTest =  seasonFixtures.filter(function(team) { return team.aName == teamsArrayTrs[j].firstChild.textContent});
+    }
+
+    homeTeamFixturesArrayTest.splice(homeTeamFixturesArrayTest.length - removeFixtureNumber ,homeTeamFixturesArrayTest.length);
+    
+
+
+
+
+
+for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
+        if(matchResult.hScore && matchResult.hScore !== "pp.")  {            
+          if(venue == "home") {
+              poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.hScore));      
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.aScore)) 
+          } else {
+            poissonHomeTeam.goalsForInGames.push(parseInt(matchResult.aScore));      
+              poissonHomeTeam.goalsAgainstInGames.push(parseInt(matchResult.hScore)) 
+          }
+      }
+    }
+
+    
+    poissonHomeTeam.homeGreaterThan1Goal = 0;
+    for (var d = 0; d < poissonHomeTeam.goalsForInGames.length; d++) {
+      if( poissonHomeTeam.goalsForInGames[d] > 1) poissonHomeTeam.homeGreaterThan1Goal +=1;      
+    }
+
+    poissonHomeTeam.homeGreaterThan1GoalConceded = 0;
+    for (var d = 0; d < poissonHomeTeam.goalsAgainstInGames.length; d++) {
+      if( poissonHomeTeam.goalsAgainstInGames[d] > 1) poissonHomeTeam.homeGreaterThan1GoalConceded +=1;      
+    }
+    poissonHomeTeam.homeGreaterThan1GoalRatio =  parseInt(poissonHomeTeam.homeGreaterThan1Goal) /  parseInt(poissonHomeTeam.goalsForInGames.length);
+    poissonHomeTeam.homeGreaterThan1GoalRatio =    poissonHomeTeam.homeGreaterThan1GoalRatio.toFixed(4);                                                                    
+
+    poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = parseInt(poissonHomeTeam.homeGreaterThan1GoalConceded) /  parseInt(poissonHomeTeam.goalsAgainstInGames.length);
+    poissonHomeTeam.homeGreaterThan1ConcededGoalRatio = poissonHomeTeam.homeGreaterThan1ConcededGoalRatio.toFixed(4);
+if(poissonHomeTeam.name == "Brackley Town") console.log("homeTeamFixturesArrayTest",homeTeamFixturesArrayTest);
+
+    for (var i = 0; i < homeTeamFixturesArrayTest.length; i++) {
+        matchResult = determineResultHome(homeTeamFixturesArrayTest[i], teamsArrayTrs[j].firstChild.textContent, venue);   
+        if(matchResult.hScore && matchResult.hScore !== "pp.")  {
+
+          matchWeight = .5 * (i / homeTeamFixturesArrayTest.length);  
+            if(venue == "home") {
+              if(matchResult.hScore >1) {                      
+                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);               
+              } else {
+                homeGoalDampner = parseInt(matchResult.hScore);
+              }
+              homeGoalDampner =  homeGoalDampner + matchWeight;
+
+              poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(homeGoalDampner);     
+              leagueWidestandardDeviation.push(matchResult.hScore);
+              if(matchResult.aScore >1) {
+                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
+              } else {
+                awayGoalDampner = parseInt(matchResult.aScore);
+              }  
+              awayGoalDampner =  awayGoalDampner + matchWeight;
+
+              poissonHomeTeam.goalsAgainst =  parseFloat(poissonHomeTeam.goalsAgainst) +  parseFloat(awayGoalDampner);
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;     
+              stdDeviation.push(matchResult.hScore);              
+
+              
+            } else {
+
+              if(matchResult.hScore >1) {              
+                homeGoalDampner =  1 +  parseFloat(poissonHomeTeam.homeGreaterThan1ConcededGoalRatio);
+               
+              } else {
+                homeGoalDampner = parseInt(matchResult.hScore);
+            
+              }
+
+
+                if(matchResult.aScore >1) {
+                awayGoalDampner =  1 + parseFloat(poissonHomeTeam.homeGreaterThan1GoalRatio);
+              } else {
+                awayGoalDampner = parseInt(matchResult.aScore);        
+            }
+            homeGoalDampner =  homeGoalDampner + matchWeight;
+            awayGoalDampner =  awayGoalDampner + matchWeight;
+            poissonHomeTeam.goalsFor =  parseFloat(poissonHomeTeam.goalsFor) + parseFloat(awayGoalDampner);
+            poissonHomeTeam.goalsAgainst = parseFloat(poissonHomeTeam.goalsAgainst) + parseFloat(homeGoalDampner);
+     
+             
+              poissonHomeTeam.played = parseInt(poissonHomeTeam.played) + 1;
+  
+      }
+    }
+  }
+
+
+
+    
+    if(venue == "home") {
+    math.std(stdDeviation);
+    stdDeviation.sort(function(a, b) {
+  if (a < b) return 1;
+  if (a > b) return -1;
+ });
+ stdDeviationN = math.std(stdDeviation);
+ //stdDeviationN = 1.1568;
+
+    console.log("standard deviation", poissonHomeTeam.name , stdDeviationN);
+ 
+     for (var d = 0; d < stdDeviation.length; d++) {
+      if(stdDeviation[d] > stdDeviationN*3){
+        standardDeviation3.push(stdDeviation[d]);
+      } else if(stdDeviation[d] > stdDeviationN && stdDeviation[d] < stdDeviationN*3){
+        standardDeviation2.push(stdDeviation[d]) 
+      } else if(stdDeviation[d] < stdDeviationN && stdDeviation[d] >0) {
+        standardDeviation.push(stdDeviation[d]);
+      }
+     }
+    console.log("standardDeviation3 "  + venue,standardDeviation3)
+console.log("standardDeviation2" + venue,standardDeviation2)
+console.log("standardDeviation" + venue,standardDeviation)
+console.log("goals in home games", poissonHomeTeam.goalsForInGames)
+console.log("goals againtst in home games", poissonHomeTeam.goalsAgainstInGames)
+    }
+    
+  
+    
+    // Method 1
+    poissonHomeTeam.avgGoalsFor = poissonHomeTeam.goalsFor / poissonHomeTeam.played;
+    poissonHomeTeam.avgGoalsAgainst = poissonHomeTeam.goalsAgainst / poissonHomeTeam.played;
+    // Method 2
+   // poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor  / leagueAverageHomeGoalsScored;
+   // poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst / leagueAverageAwayGoalsScored;
+    
+    poissonHomeTeam.AttackStrength = poissonHomeTeam.avgGoalsFor;
+    poissonHomeTeam.DefenceStrength = poissonHomeTeam.avgGoalsAgainst;
+
+    poissonHomeTeam.AttackStrength  =  (poissonHomeTeam.AttackStrength).toFixed(2);
+    poissonHomeTeam.DefenceStrength =  (poissonHomeTeam.DefenceStrength).toFixed(2)
+    poissonHomeTeam.AttackAndDefence = poissonHomeTeam.AttackStrength - poissonHomeTeam.DefenceStrength;
+    poissonHomeTeam.AttackAndDefence = poissonHomeTeam.AttackAndDefence.toFixed(2);
+    poissonTableArray.push(poissonHomeTeam);
+  }
+  if(venue == "home")  console.log("League wide standard deviation goals against",math.std(leagueWidestandardDeviation));
+  return poissonTableArray;
+}
+
+
+
+poissonTableHomeSingle = calcAttackDefenceTableSingle(homeDrawTableTrs, "home",1)
+poissonTableAwaySingle = calcAttackDefenceTableSingle(homeDrawTableTrs, "away",1)
+
 console.log("poissonTableHome",poissonTableHome);
 console.log("poissonTableAway",poissonTableAway);
 
@@ -3098,13 +3287,13 @@ console.log("homeTeamPoissonBefore",homeTeamPoisson)
   return scoreData;
 }
 
-scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
-scoreDataArraySingle =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Dover Athletic",1);
-scoreDataArraySingle2 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Ebbsfleet Utd",2);
-scoreDataArraySingle3 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","St Albans"),3;
-scoreDataArraySingle4 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Braintree Town",4);
-scoreDataArraySingle5 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Concord Rangers",5);
-scoreDataArraySingle6 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Welling Utd",6);
+scoreDataArray = scoreData(poissonTableHomeSingle,poissonTableAwaySingle);
+scoreDataArraySingle =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Dover Athletic",1);
+scoreDataArraySingle2 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Ebbsfleet Utd",2);
+scoreDataArraySingle3 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","St Albans"),3;
+scoreDataArraySingle4 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Braintree Town",4);
+scoreDataArraySingle5 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Concord Rangers",5);
+scoreDataArraySingle6 =  scoreDataSingle(poissonTableHomeSingle,poissonTableAwaySingle,"Hampton & R.","Welling Utd",6);
 
 
 //console.log("scoreDataArray",scoreDataArray);
