@@ -3096,6 +3096,13 @@ var scoreData = [];
 
 scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
 scoreDataArraySingle =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Dover Athletic");
+scoreDataArraySingle2 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Ebbsfleet Utd");
+scoreDataArraySingle3 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","St Albans");
+scoreDataArraySingle4 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Braintree Town");
+scoreDataArraySingle5 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Concord Rangers");
+scoreDataArraySingle6 =  scoreDataSingle(poissonTableHome,poissonTableAway,"Hampton & R.","Welling Utd");
+
+
 //console.log("scoreDataArray",scoreDataArray);
 //scoreDataArrayLast6 = scoreData(poissonTableHomeLast6,poissonTableAwayLast6)
 //console.log("scoreDataArrayLast6",scoreDataArrayLast6);
@@ -3204,8 +3211,17 @@ poissonTableAway.sort(function(a, b) {
 
 document.getElementById("awayDefenceTable").innerHTML = defenceMarkup;
 testPastGames =  calculateProbabilites2(scoreDataArraySingle,"Hampton & R.");
+testPastGames2 =  calculateProbabilites2(scoreDataArraySingle2,"Hampton & R.");
+testPastGames3 =  calculateProbabilites2(scoreDataArraySingle3,"Hampton & R.");
+testPastGames4 =  calculateProbabilites2(scoreDataArraySingle4,"Hampton & R.");
+testPastGames5 =  calculateProbabilites2(scoreDataArraySingle5,"Hampton & R.");
+testPastGames6 =  calculateProbabilites2(scoreDataArraySingle6,"Hampton & R.");
 console.log("testPastGames",testPastGames);
-
+console.log("testPastGames2",testPastGames2);
+console.log("testPastGames3",testPastGames3);
+console.log("testPastGames4",testPastGames4);
+console.log("testPastGames5",testPastGames5);
+console.log("testPastGames6",testPastGames6);
 
 
 
