@@ -2984,17 +2984,17 @@ leagueTablePoissonTrs = document.getElementById("fixturesTable").getElementsByCl
 homeScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 awayScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 
-function scoreData(arrayHome,arrayAway, homeTeam, awayTeam) {
+function scoreData(arrayHome,arrayAway, singleHomeTeam, singleAwayTeam) {
 var scoreData = [];
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
-  if(homeTeam === undefined) {
+  if(singleHomeTeam === undefined) {
         let homeTeamPoisson = arrayHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
         //console.log("homeTeamPoisson",homeTeamPoisson);
         let awayTeamPoisson = arrayAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
         console.log("Not Found");
   } else {
-    let homeTeamPoisson = arrayHome.find(el => el.name == homeTeam);
-    let awayTeamPoisson = arrayAway.find(el => el.name == awayTeam);
+    let homeTeamPoisson = arrayHome.find(el => el.name == singleHomeTeam);
+    let awayTeamPoisson = arrayAway.find(el => el.name == singleAwayTeam);
     console.log("HomeTeam",homeTeam)
 }
     for (var j = 0; j < homeScoreVariations.length; j++) {
