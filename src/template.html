@@ -2987,7 +2987,7 @@ awayScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 function scoreData(arrayHome,arrayAway, homeTeam, awayTeam) {
 var scoreData = [];
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
-  if(homeTeam) {
+  if(homeTeam !== "undefined") {
     let homeTeamPoisson = arrayHome.find(el => el.name == homeTeam);
     let awayTeamPoisson = arrayAway.find(el => el.name == awayTeam);
     console.log("HomeTeam",homeTeam)
