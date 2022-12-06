@@ -2987,15 +2987,15 @@ awayScoreVariations = [0,1,2,3,4,5,6,7,8,9,10];
 function scoreData(arrayHome,arrayAway, homeTeam, awayTeam) {
 var scoreData = [];
 for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
-  if(homeTeam) {
+  if(homeTeam === undefined) {
+        let homeTeamPoisson = arrayHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
+        //console.log("homeTeamPoisson",homeTeamPoisson);
+        let awayTeamPoisson = arrayAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
+        console.log("Not Found");
+  } else {
     let homeTeamPoisson = arrayHome.find(el => el.name == homeTeam);
     let awayTeamPoisson = arrayAway.find(el => el.name == awayTeam);
     console.log("HomeTeam",homeTeam)
-  } else {
-  let homeTeamPoisson = arrayHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
-  //console.log("homeTeamPoisson",homeTeamPoisson);
-  let awayTeamPoisson = arrayAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
-  console.log("Not Found");
 }
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
@@ -3045,7 +3045,7 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
 }
 
 scoreDataArray = scoreData(poissonTableHome,poissonTableAway);
-
+scoreDataArraySingle =  scoreData(poissonTableHome,poissonTableAway,"Hampton & R.","Dover Athletic");
 //console.log("scoreDataArray",scoreDataArray);
 //scoreDataArrayLast6 = scoreData(poissonTableHomeLast6,poissonTableAwayLast6)
 //console.log("scoreDataArrayLast6",scoreDataArrayLast6);
@@ -3156,7 +3156,7 @@ poissonTableAway.sort(function(a, b) {
 document.getElementById("awayDefenceTable").innerHTML = defenceMarkup;
 
 
-scoreDataArraySingle =  scoreData(poissonTableHome,poissonTableAway,"Hampton & R.","Dover Athletic");
+
 
 
  let buttons = document.querySelectorAll(".save");
