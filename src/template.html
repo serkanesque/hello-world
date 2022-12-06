@@ -2990,10 +2990,12 @@ for (var f = 0; f < leagueTablePoissonTrs.length; f++) {
   if(homeTeam) {
     let homeTeamPoisson = arrayHome.find(el => el.name == homeTeam);
     let awayTeamPoisson = arrayAway.find(el => el.name == awayTeam);
+    console.log("HomeTeam",homeTeam)
   } else {
   let homeTeamPoisson = arrayHome.find(el => el.name == leagueTablePoissonTrs[f].childNodes[1].textContent);
   //console.log("homeTeamPoisson",homeTeamPoisson);
   let awayTeamPoisson = arrayAway.find(el => el.name == leagueTablePoissonTrs[f].childNodes[3].textContent);
+  console.log("Not Found");
 }
     for (var j = 0; j < homeScoreVariations.length; j++) {
         for (var k  = 0; k < awayScoreVariations.length; k++) {
