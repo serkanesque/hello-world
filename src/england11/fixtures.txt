@@ -1,9 +1,159 @@
-<table id="btable">
-<tr class="odd" height="22"><td> <a class="countrylist" href="trends.asp?league=england11">Goals statistics</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=rp">Relative performance</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=c">Over / Under</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=f">Scored / Conceded</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=ha">Home advantage</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=re">Relative form</a></td></tr>
-<tr class="odd" height="22"><td> <a class="countrylist" href="table.asp?league=england11&amp;tid=10">Run-in analysis</a></td></tr>
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england11&amp;stats=20-harrow-borough">Harrow Borough</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Harrow Borough</b>:
+1.11
+points per game
+at home
+<br/><b>Hartley Wintney</b>:
+0.60
+points per game
+away
+<br/><br/>
+<font color="black">
+Harrow Borough have scored 67% of their goals away.
+</font>
+<br/>
+<font color="red">
+Hartley Wintney have lost their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england11&amp;stats=9-hartley-wintney">Hartley Wintney</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england11&amp;stats=368-20-9-2023" title="Harrow Borough vs Hartley Wintney">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england11&amp;stats=19-tiverton-town">Tiverton Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Tiverton Town</b>:
+1.60
+points per game
+at home
+<br/><b>North Leigh</b>:
+0.40
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+North Leigh have failed to win in their last 10 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england11&amp;stats=4-north-leigh">North Leigh</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england11&amp;stats=229-19-4-2023" title="Tiverton Town vs North Leigh">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england11&amp;stats=19-tiverton-town">Tiverton Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Tiverton Town</b>:
+1.60
+points per game
+at home
+<br/><b>Hayes &amp; Yeading</b>:
+1.33
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england11&amp;stats=14-hayes-&amp;-yeading">Hayes &amp; Yeading</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england11&amp;stats=373-19-14-2023" title="Tiverton Town vs Hayes &amp; Yeading">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england11&amp;stats=8-truro-city">Truro City</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Truro City</b>:
+2.56
+points per game
+at home
+<br/><b>Beaconsfield</b>:
+1.38
+points per game
+away
+<br/><br/>
+<font color="green">
+Truro City have been undefeated in their last 9 home matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england11&amp;stats=18-beaconsfield">Beaconsfield</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england11&amp;stats=374-8-18-2023" title="Truro City vs Beaconsfield">stats</a>
+</td>
+</tr>
 </table>
