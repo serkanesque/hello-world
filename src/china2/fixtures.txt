@@ -1,172 +1,187 @@
 <table id="btable" width="100%">
-<thead>
-<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
-<h3>Results &amp; pre-match Points per Game (PPG)</h3>
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
-<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
-<td></td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=13-shanghai-jiadin">Shanghai Jiadin</a> - <a href="team.asp?league=china2&amp;stats=5-nantong-zhiyun">Nantong Zhiyun</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>2 - 1</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.63">1.63</progress><font style="color:#888888;font-size:11px;">1.63</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china2&amp;stats=13-shanghai-jiadin">Shanghai Jiadin</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">06:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Shanghai Jiadin conceded at least one goal in each of their last 11 matches.
+</font>
+<font color="black">
+84% of Shanghai Jiadin's points have been earned at home.
+</font>
+<font color="black">
+Shanghai Jiadin have scored 72% of their goals at home.
+</font>
+<font color="red">
+Shanghai Jiadin conceded at least one goal in each of their last 6 home matches.
+</font>
+<font color="red">
+Shanghai Jiadin have conceded 2 goals or more in each of their last 6 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="2.25">2.25</progress><font style="color:#888888;font-size:11px;">2.25</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m300&amp;st1=13&amp;st2=5">analysis</a>
+<font color="green">
+Nantong Zhiyun have won 11 of their 16 away matches.
+</font>
+<font color="red">
+Nantong Zhiyun have lost their last 4 matches.
+</font>
+<font color="green">
+Nantong Zhiyun did not concede any goal in 9 of their 16 away matches.
+</font>
+<font color="green">
+Nantong Zhiyun have scored in 15 of their 16 away matches.
+</font>
+<font color="green">
+Nantong Zhiyun have scored in each of their last 8 away matches.
+</font>
+<font color="red">
+Nantong Zhiyun have conceded 2 goals or more in each of their last 4 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china2&amp;stats=5-nantong-zhiyun">Nantong Zhiyun</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china2&amp;stats=300-13-5-2022" title="Shanghai Jiadin vs Nantong Zhiyun">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=14-shenyang-urban">Shenyang Urban</a> - <a href="team.asp?league=china2&amp;stats=12-qingdao-y.-i.">Qingdao Y. I.</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>1 - 2</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.00">1.00</progress><font style="color:#888888;font-size:11px;">1.00</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china2&amp;stats=14-shenyang-urban">Shenyang Urban</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">06:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Shenyang Urban conceded at least one goal in 14 of their 16 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.94">0.94</progress><font style="color:#888888;font-size:11px;">0.94</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m305&amp;st1=14&amp;st2=12">analysis</a>
+<font color="red">
+Qingdao Y. I. conceded at least one goal in each of their last 8 matches.
+</font>
+<font color="black">
+67% of Qingdao Y. I.'s points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china2&amp;stats=12-qingdao-y.-i.">Qingdao Y. I.</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china2&amp;stats=305-14-12-2022" title="Shenyang Urban vs Qingdao Y. I.">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=3-sichuan-jiuniu">Sichuan Jiuniu</a> - <a href="team.asp?league=china2&amp;stats=6-suzhou-dongwu">Suzhou Dongwu</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>0 - 1</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.75">1.75</progress><font style="color:#888888;font-size:11px;">1.75</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china2&amp;stats=3-sichuan-jiuniu">Sichuan Jiuniu</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">06:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="black">
+76% of Sichuan Jiuniu's matches had under 2.5 goals in total.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.25">1.25</progress><font style="color:#888888;font-size:11px;">1.25</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m304&amp;st1=3&amp;st2=6">analysis</a>
+<font color="green">
+Suzhou Dongwu have been undefeated in their last 4 away matches.
+</font>
+<font color="green">
+Suzhou Dongwu have scored in each of their last 5 away matches.
+</font>
+<font color="green">
+Suzhou Dongwu have scored 2 goals or more in each of their last 4 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china2&amp;stats=6-suzhou-dongwu">Suzhou Dongwu</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china2&amp;stats=304-3-6-2022" title="Sichuan Jiuniu vs Suzhou Dongwu">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=11-zibo-cuju">Zibo Cuju</a> - <a href="team.asp?league=china2&amp;stats=17-kunshan">Kunshan</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>0 - 1</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.44">1.44</progress><font style="color:#888888;font-size:11px;">1.44</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 8 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china2&amp;stats=11-zibo-cuju">Zibo Cuju</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">06:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Zibo Cuju conceded at least one goal in each of their last 7 matches.
+</font>
+<font color="red">
+Zibo Cuju conceded at least one goal in each of their last 5 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="2.75">2.75</progress><font style="color:#888888;font-size:11px;">2.75</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m303&amp;st1=11&amp;st2=17">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=2-beijing-bg">Beijing BG</a> - <a href="team.asp?league=china2&amp;stats=16-jiangxi-l.">Jiangxi L.</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>0 - 1</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="0.94">0.94</progress><font style="color:#888888;font-size:11px;">0.94</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.13">1.13</progress><font style="color:#888888;font-size:11px;">1.13</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m301&amp;st1=2&amp;st2=16">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=8-guangxi-baoyun">Guangxi Baoyun</a> - <a href="team.asp?league=china2&amp;stats=9-qingdao-jonoon">Qingdao Jonoon</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>2 - 2</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.38">1.38</progress><font style="color:#888888;font-size:11px;">1.38</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="2.56">2.56</progress><font style="color:#888888;font-size:11px;">2.56</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m302&amp;st1=8&amp;st2=9">analysis</a>
+<font color="green">
+Kunshan have won 27 of their 33 matches.
+</font>
+<font color="green">
+Kunshan have won 14 of their 16 away matches.
+</font>
+<font color="green">
+Kunshan have scored in 15 of their 16 away matches.
+</font>
+<font color="green">
+Kunshan have won their last 10 away matches.
+</font>
+<font color="green">
+Kunshan have been undefeated in their last 16 away matches.
+</font>
+<font color="green">
+Kunshan have scored in each of their last 15 away matches.
+</font>
+<font color="green">
+Kunshan did not concede any goal in their last 4 away matches.
+</font>
+<font color="green">
+Kunshan have scored 2 goals or more in each of their last 10 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china2&amp;stats=17-kunshan">Kunshan</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china2&amp;stats=303-11-17-2022" title="Zibo Cuju vs Kunshan">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=7-hebei-kungfu">Hebei Kungfu</a> - <a href="team.asp?league=china2&amp;stats=15-nanjing">Nanjing</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>1 - 3</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.19">2.19</progress><font style="color:#888888;font-size:11px;">2.19</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.63">1.63</progress><font style="color:#888888;font-size:11px;">1.63</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m299&amp;st1=7&amp;st2=15">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=1-heilongjiang-l.">Heilongjiang L.</a> - <a href="team.asp?league=china2&amp;stats=10-shaanxi-changan">Shaanxi Changan</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>2 - 1</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.44">1.44</progress><font style="color:#888888;font-size:11px;">1.44</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="2.38">2.38</progress><font style="color:#888888;font-size:11px;">2.38</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m298&amp;st1=1&amp;st2=10">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">We 7 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=4-xinjiang-t.">Xinjiang T.</a> - <a href="team.asp?league=china2&amp;stats=18-beijing-it">Beijing IT</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>0 - 3</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.19">1.19</progress><font style="color:#888888;font-size:11px;">1.19</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.06">0.06</progress><font style="color:#888888;font-size:11px;">0.06</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m306&amp;st1=4&amp;st2=18">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Su 4 Dec</font></td>
-<td><a href="team.asp?league=china2&amp;stats=15-nanjing">Nanjing</a> - <a href="team.asp?league=china2&amp;stats=13-shanghai-jiadin">Shanghai Jiadin</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>1 - 3</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.31">1.31</progress><font style="color:#888888;font-size:11px;">1.31</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.13">0.13</progress><font style="color:#888888;font-size:11px;">0.13</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china2&amp;mrevid=m291&amp;st1=15&amp;st2=13">analysis</a>
-</td>
-</tr>
-</tbody>
 </table>
