@@ -6,29 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 5 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=15-versailles">Versailles</a></td>
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=10-avranches">Avranches</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:00</font>
+<font color="green" size="1">18:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Versailles</b>:
-2.00
+<b>Avranches</b>:
+0.83
 points per game
 at home
-<br/><b>Sedan</b>:
-1.43
+<br/><b>Nancy</b>:
+0.83
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="red">
+Avranches have lost their last 4 matches.
 </font>
 <br/>
-<font color="green">
-Sedan have been undefeated in their last 5 away matches.
+<font color="black">
+74% of Nancy's points have been earned at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -37,9 +38,280 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=6-sedan">Sedan</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=17-nancy">Nancy</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=232-15-6-2023" title="Versailles vs Sedan">stats</a>
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=241-10-17-2023" title="Avranches vs Nancy">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=18-bourg-en-bresse">Bourg-en-Bresse</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Bourg-en-Bresse</b>:
+0.50
+points per game
+at home
+<br/><b>Orleans</b>:
+1.43
+points per game
+away
+<br/><br/>
+<font color="red">
+Bourg-en-Bresse have failed to win in their last 6 home matches.
+</font>
+<br/>
+<font color="black">
+82% of Orleans's conceded goals occurred in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=14-orleans">Orleans</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=234-18-14-2023" title="Bourg-en-Bresse vs Orleans">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=8-le-puy">Le Puy</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Le Puy</b>:
+0.83
+points per game
+at home
+<br/><b>USL Dunkerque</b>:
+1.50
+points per game
+away
+<br/><br/>
+<font color="red">
+Le Puy have failed to win in their last 5 home matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=3-usl-dunkerque">USL Dunkerque</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=237-8-3-2023" title="Le Puy vs USL Dunkerque">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=12-red-star">Red Star</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Red Star</b>:
+1.67
+points per game
+at home
+<br/><b>Versailles</b>:
+1.33
+points per game
+away
+<br/><br/>
+<font color="black">
+70% of Red Star's conceded goals were conceded at home.
+</font>
+<br/>
+<font color="black">
+68% of Versailles's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=15-versailles">Versailles</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=239-12-15-2023" title="Red Star vs Versailles">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=6-sedan">Sedan</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Sedan</b>:
+1.17
+points per game
+at home
+<br/><b>Cholet</b>:
+1.00
+points per game
+away
+<br/><br/>
+<font color="black">
+71% of Sedan's goals have been scored in the second half.
+</font>
+<br/>
+<font color="green">
+Cholet have been undefeated in their last 8 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=9-cholet">Cholet</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=233-6-9-2023" title="Sedan vs Cholet">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=11-stade-briochin">Stade Briochin</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Stade Briochin</b>:
+0.43
+points per game
+at home
+<br/><b>Le Mans</b>:
+0.57
+points per game
+away
+<br/><br/>
+<font color="red">
+Stade Briochin have failed to win in their last 7 home matches.
+</font>
+<br/>
+<font color="black">
+79% of Le Mans's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=4-le-mans">Le Mans</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=240-11-4-2023" title="Stade Briochin vs Le Mans">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=5-villefranche">Villefranche</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Villefranche</b>:
+1.57
+points per game
+at home
+<br/><b>Chateauroux</b>:
+1.33
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+71% of Chateauroux's goals have been scored in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=1-chateauroux">Chateauroux</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=236-5-1-2023" title="Villefranche vs Chateauroux">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 9 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=2-paris-13-a.">Paris 13 A.</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Paris 13 A.</b>:
+0.83
+points per game
+at home
+<br/><b>Bastia-Borgo</b>:
+0.33
+points per game
+away
+<br/><br/>
+<font color="red">
+Paris 13 A. have failed to win in their last 6 home matches.
+</font>
+<br/>
+<font color="red">
+Bastia-Borgo have lost their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=7-bastia-borgo">Bastia-Borgo</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=238-2-7-2023" title="Paris 13 A. vs Bastia-Borgo">stats</a>
 </td>
 </tr>
 </table>
