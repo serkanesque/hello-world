@@ -168,6 +168,49 @@ Concarneau
 </font>
 </td>
 <td style="padding-left:4px;">
+USL Dunkerque
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Martigues
 </td>
 <td align="center">
@@ -206,7 +249,7 @@ Martigues
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Orleans
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Sedan
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,39 +378,39 @@ Avranches
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-USL Dunkerque
+Versailles
 </td>
 <td align="center">
 <font color="green">
+7
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
 6
 </font>
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
 <font color="red">
-11
+8
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>
@@ -378,7 +421,7 @@ USL Dunkerque
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -421,7 +464,7 @@ Le Puy
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -454,49 +497,6 @@ Chateauroux
 </td>
 <td align="center">
 -1
-</td>
-<td align="center">
-<b>
-8
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Versailles
-</td>
-<td align="center">
-<font color="green">
-6
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
--2
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ Cholet
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -612,20 +612,20 @@ Cholet
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-7
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+12
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -731,26 +731,26 @@ Le Mans
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-7
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -758,7 +758,7 @@ Le Mans
 </td>
 <td align="center">
 <b>
-4
+5
 </b>
 </td>
 </tr>
