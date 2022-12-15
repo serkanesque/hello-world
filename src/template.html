@@ -1312,7 +1312,8 @@ var fixture = new Object();
       homeTeam = homeTeam2;
 
 //console.log("homeTeam",homeTeam)
-
+if(homeTeam == "M Petah Tikva")  homeTeam = "M. Petah Tikva"
+     if(homeTeam == "H Petah Tikva")  homeTeam = "H. Petah Tikva"
 if(homeTeam == "H Kfar Saba")  homeTeam = "H. Kfar Saba"
 if(homeTeam == "Atherton C")  homeTeam = "Atherton C."
 if(homeTeam == "V Francavilla")  homeTeam = "V. Francavilla";
@@ -1537,6 +1538,9 @@ if(homeTeam == "Bowers  P")  homeTeam =  "Bowers & P."
   
     if(awayTeam2.length != 0) {
      awayTeam = awayTeam2;
+     
+     if(awayTeam == "M Petah Tikva")  awayTeam = "M. Petah Tikva"
+     if(awayTeam == "H Petah Tikva")  awayTeam = "H. Petah Tikva"
      if(awayTeam == "H Kfar Saba")  awayTeam = "H. Kfar Saba"
      if(awayTeam == "Atherton C")  awayTeam = "Atherton C."
      if(awayTeam == "V Francavilla")  awayTeam = "V. Francavilla";
