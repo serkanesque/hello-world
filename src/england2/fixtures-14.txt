@@ -1,0 +1,1427 @@
+<div class="event event--results">
+   <div class="leagues--static event--leagues results">
+      <div class="sportName soccer">
+         <div class="event__header event__header--noExpand">
+            <div class="mlPopUpContainer">
+               <span class="eventSubscriber eventSubscriber__star ">
+                  <svg class="star-ico eventStar ">
+                     <title></title>
+                     <use xlink:href="/res/_fs/build/action.803f661.svg#star"></use>
+                  </svg>
+               </span>
+            </div>
+            <div class="icon--flag event__title fl_198" title="England">
+               <div class="event__titleBox"><span class="event__title--type">ENGLAND</span><span class="event__title--name" title="Championship - Play Offs">Championship - Play Offs</span></div>
+            </div>
+            <a href="#" class="event__info active">Draw</a>
+         </div>
+         <div class="event__round event__round--static">Final</div>
+         <div id="g_1_rXJ88aNk" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.05. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home">Middlesbrough</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away fontExtraBold">
+               Norwich
+               <svg class="winner-ico icon icon--winner">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#next-stage"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+            <svg class="headphones-ico icon icon--info">
+               <title></title>
+               <use xlink:href="/res/_fs/build/incident.00659d1.svg#info"></use>
+            </svg>
+         </div>
+         <div class="event__round event__round--static">Semi-finals</div>
+         <div id="g_1_OSQcfy8k" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">16.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--home fontExtraBold">
+               Norwich
+               <svg class="winner-ico icon icon--winner">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#next-stage"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--away">
+               Ipswich
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+            <svg class="headphones-ico icon icon--info">
+               <title></title>
+               <use xlink:href="/res/_fs/build/incident.00659d1.svg#info"></use>
+            </svg>
+         </div>
+         <div id="g_1_h2V1geNe" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">15.05. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home fontExtraBold">
+               Middlesbrough
+               <svg class="winner-ico icon icon--winner">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#next-stage"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--away">Brentford</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+            <svg class="headphones-ico icon icon--info">
+               <title></title>
+               <use xlink:href="/res/_fs/build/incident.00659d1.svg#info"></use>
+            </svg>
+         </div>
+         <div id="g_1_vekRacpS" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">09.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--home">Ipswich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away">Norwich</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_pxSgeHhq" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">08.05. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--home">Brentford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--away fontExtraBold">Middlesbrough</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div class="event__header event__header--noExpand">
+            <div class="mlPopUpContainer">
+               <span class="eventSubscriber eventSubscriber__star ">
+                  <svg class="star-ico eventStar ">
+                     <title></title>
+                     <use xlink:href="/res/_fs/build/action.803f661.svg#star"></use>
+                  </svg>
+               </span>
+            </div>
+            <div class="icon--flag event__title fl_198" title="England">
+               <div class="event__titleBox"><span class="event__title--type">ENGLAND</span><span class="event__title--name" title="Championship">Championship</span></div>
+            </div>
+            <a href="#" class="event__info active">Standings</a>
+         </div>
+         <div class="event__round event__round--static">Round 46</div>
+         <div id="g_1_OtUdzLPe" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--home fontExtraBold">Blackburn</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--away">Ipswich</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_2XS0Zvu2" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--home">Blackpool</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--away">Huddersfield</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_jmMrbOH2" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--home">Bolton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--away fontExtraBold">Birmingham</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_UwLncrX8" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--home fontExtraBold">Brentford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--away">Wigan</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_C2Aid2nF" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--home">Charlton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Bournemouth</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_OxEeeM1L" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--home">Derby</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Reading</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_IaDaftHR" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--home">Leeds</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--away">Rotherham</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_K8aRk0Pr" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home">Middlesbrough</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--away">Brighton</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_xpfWlKvk" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Norwich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--away">Fulham</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_nJktQhO9" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--home">Nottingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--away fontExtraBold">
+               Cardiff
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_Gzgzlvfe" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--home">Watford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--away">Sheffield Wed</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_Achvmb91" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">02.05. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--home fontExtraBold">Wolves</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--away">Millwall</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 44</div>
+         <div id="g_1_I5fvW5Y9" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">28.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--home fontExtraBold">Rotherham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--away">Reading</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 45</div>
+         <div id="g_1_8zZIONQq" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">27.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Bournemouth</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--away">
+               Bolton
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_xAwNNstj" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--home fontExtraBold">Birmingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--away">Charlton</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_8SjxRY83" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--home fontExtraBold">Cardiff</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--away">Blackpool</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_I5G9ooYd" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--home fontExtraBold">Fulham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--away">
+               Middlesbrough
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_W8KDp5m3" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--home">Huddersfield</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--away">Blackburn</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_QVJHqP29" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--home fontExtraBold">Ipswich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--away">Nottingham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_4MILrqIF" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--home">Millwall</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--away">Derby</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_WrkIs3XL" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--home">Reading</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--away fontExtraBold">Brentford</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_AZmMtNnS" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--home">Rotherham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away">
+               Norwich
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_tIvhy1Ak" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--home">
+               Wigan
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--away fontExtraBold">Wolves</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_SEzlxseq" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 12:30</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--home">Sheffield Wed</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--away fontExtraBold">Leeds</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_G0xRM1ed" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">25.04. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--home">Brighton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--away fontExtraBold">Watford</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div class="event__round event__round--static">Round 38</div>
+         <div id="g_1_A16dhvTj" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">22.04. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--home">Reading</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--away fontExtraBold">Birmingham</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 41</div>
+         <div id="g_1_8jcuC5rU" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--home fontExtraBold">Blackburn</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--away">Millwall</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 44</div>
+         <div id="g_1_zqdBSWRH" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">Blackburn</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--away">Nottingham</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_GtAuB4dp" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--home">Blackpool</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--away fontExtraBold">Fulham</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_dhc7TCCB" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--home">
+               Bournemouth
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--away">Sheffield Wed</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_UqEqAOBj" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--home">Brentford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--away">Bolton</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_E5iYREgc" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--home">Cardiff</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--away">Millwall</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_rm2RY7li" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--home fontExtraBold">Charlton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--away">Leeds</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_Mw1VXR3c" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--home">Huddersfield</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--away">Derby</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">4</div>
+            <div class="event__part event__part--home event__part--1">(3)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_CSgrVPmG" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--home fontExtraBold">Watford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--away">Birmingham</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_O2cnUq3M" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--home fontExtraBold">Wigan</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--away">Brighton</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_6RniT3IS" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.04. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--home">Wolves</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--away">Ipswich</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_vFezXoJ3" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">17.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--home">Norwich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--away fontExtraBold">Middlesbrough</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div class="event__round event__round--static">Round 43</div>
+         <div id="g_1_lSc3Uhc5" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">15.04. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">Fulham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--away">Rotherham</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_AyaaVYsa" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">15.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--home">
+               Nottingham
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--away fontExtraBold">Watford</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_E95jXfDn" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--home">Bolton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--away">Charlton</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_SC9fWESh" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--home">Reading</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Bournemouth</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_SbULHFDa" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--home">Birmingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--away">Blackburn</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_ANJQGZS5" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--home">Brighton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--away">Huddersfield</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_88xUFgrC" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--home fontExtraBold">Derby</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--away">Blackpool</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(3)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_02mUSfvi" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--home fontExtraBold">Ipswich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--away">Cardiff</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_2VyYEDcI" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--home">Leeds</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Norwich</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_tMzxEXCO" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home fontExtraBold">Middlesbrough</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--away">Wolves</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_IwKKxHkP" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--home fontExtraBold">
+               Millwall
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--away">
+               Wigan
+               <svg class="card-ico icon--redCard icon--redCard-first">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+               <svg class="card-ico icon--redCard icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_Kn6nYzbt" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">14.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--home fontExtraBold">Sheffield Wed</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--away">Brentford</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 42</div>
+         <div id="g_1_2yur6IEm" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--home fontExtraBold">Birmingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--away">Wolves</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_Gvqn5xUg" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--home">Bolton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Norwich</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_8fce1fTI" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--home fontExtraBold">Ipswich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--away">Blackpool</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_dUMmK2zi" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--home">Leeds</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--away fontExtraBold">Cardiff</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_McowQw6J" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home fontExtraBold">Middlesbrough</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--away">Rotherham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_z1ksPcLP" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--home">Millwall</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--away fontExtraBold">Watford</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_trS9KHTt" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--home">Nottingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--away fontExtraBold">Huddersfield</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_KYQDJyqm" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--home">Reading</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--away">Blackburn</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_l8VHIebg" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--home">Sheffield Wed</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--away">Charlton</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_lhsf3Gb6" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">11.04. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--home">Derby</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--away">Brentford</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_U3bi2zEC" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">10.04. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">Fulham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--away">Wigan</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_A1rj4dq0" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">10.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--home">Brighton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Bournemouth</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 41</div>
+         <div id="g_1_rql77Pjo" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">07.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--home">Blackpool</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--away">Reading</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_hEVcUnbb" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">07.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--home">Charlton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--away">Fulham</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_IwOqLrLp" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 17:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--home fontExtraBold">Wolves</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--away">Leeds</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_QR7zDoTN" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Bournemouth</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--away">Birmingham</div>
+            <div class="event__score event__score--home">4</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(2)</div>
+         </div>
+         <div id="g_1_dnxkW8To" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--home">Brentford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--away">Nottingham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_zwygVSrh" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--home">Cardiff</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--away fontExtraBold">Bolton</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_W4U1T6D4" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--home fontExtraBold">Huddersfield</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--away">Ipswich</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_QRT5SQSA" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Norwich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--away">Sheffield Wed</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_vVX9RprH" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--home fontExtraBold">Rotherham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--away">Brighton</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_0pMIPOCT" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--home">Wigan</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--away fontExtraBold">Derby</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_MgNEQ4cN" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">06.04. 12:30</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--home fontExtraBold">Watford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--away">Middlesbrough</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 40</div>
+         <div id="g_1_Qkv29W3r" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">04.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--home">Bolton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--away">Blackpool</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_65ZM48ID" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">04.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--home">
+               Leeds
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--away fontExtraBold">Blackburn</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_ny9WDRDH" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">04.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--home">Reading</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--away">Cardiff</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_KCkw7bas" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">04.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--home">Sheffield Wed</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--away">Huddersfield</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_MHXA7AYf" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--home">Derby</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--away">
+               Watford
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_fVVI5l37" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 17:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--home">Ipswich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--away">Bournemouth</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_8AizECeR" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--home fontExtraBold">Birmingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--away">Rotherham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_4tw68jJl" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--home">Brighton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--away fontExtraBold">Norwich</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_08WE6Um1" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">Fulham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--away fontExtraBold">Brentford</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">4</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_Aw03D0MD" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--home fontExtraBold">Middlesbrough</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--away">Wigan</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_lUb7CKyK" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--home fontExtraBold">Millwall</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--away">
+               Charlton
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_I33BBviQ" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">03.04. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--home">Nottingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--away fontExtraBold">Wolves</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 39</div>
+         <div id="g_1_dfniELkA" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AHfWnRCN-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">Blackburn</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/G0q9xjRq-IccPlIAs.png">
+            <div class="event__participant event__participant--away fontExtraBold">Brighton</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_EVtdDu5G" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xY13hkDN-pG7mpC96.png">
+            <div class="event__participant event__participant--home">Blackpool</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--away">Leeds</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_I14SE7bB" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/AaPWNHkC-bDM8X95t.png">
+            <div class="event__participant event__participant--home fontExtraBold">Cardiff</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/04SrzD5k-h6QdLSu6.png">
+            <div class="event__participant event__participant--away">Birmingham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_pI3TfXlk" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/jg6JyX7k-fefkuPTt.png">
+            <div class="event__participant event__participant--home fontExtraBold">Charlton</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WxSczele-6P8qohf0.png">
+            <div class="event__participant event__participant--away">
+               Reading
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_bL7Xgi4e" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/xtcM8m6k-0O9D2D4K.png">
+            <div class="event__participant event__participant--home">Huddersfield</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--away fontExtraBold">
+               Fulham
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_tpcxgBJ1" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GvTpbCjC-UJktHyp0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Norwich</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--away">Nottingham</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_KzdthVY7" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--home">Rotherham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/GpiRvDoe-0AvExOne.png">
+            <div class="event__participant event__participant--away fontExtraBold">Sheffield Wed</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_YiaNGEB8" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/pYQ39lBN-AmUVvt4h.png">
+            <div class="event__participant event__participant--home">Watford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/r9vl4eQq-UVqdBWNB.png">
+            <div class="event__participant event__participant--away fontExtraBold">Ipswich</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_CrbRFYQE" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 15:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/GC6dzmA6-SY9unYvf.png">
+            <div class="event__participant event__participant--home">Wigan</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/8jj84yCN-rHfhLHbJ.png">
+            <div class="event__participant event__participant--away">Bolton</div>
+            <div class="event__score event__score--home">1</div>
+            <div class="event__score event__score--away">1</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_je4PeDZr" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 13:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/SjSCLv86-pv6hBoUh.png">
+            <div class="event__participant event__participant--home">Brentford</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/KE2n7iVH-Ey1P2xOD.png">
+            <div class="event__participant event__participant--away">Millwall</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">2</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_I3mmF1z4" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">21.03. 12:15</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/C60HMWTH-xtDkL8U0.png">
+            <div class="event__participant event__participant--home fontExtraBold">Bournemouth</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/p6waIw86-rBodzytr.png">
+            <div class="event__participant event__participant--away">Middlesbrough</div>
+            <div class="event__score event__score--home">3</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(1)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div id="g_1_f7mWEhtL" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">20.03. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/OMUzjDkC-rawILjE1.png">
+            <div class="event__participant event__participant--home fontExtraBold">Wolves</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/xrSu4XPq-AgRJlRL5.png">
+            <div class="event__participant event__participant--away">Derby</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <div class="event__round event__round--static">Round 38</div>
+         <div id="g_1_OtlqGsLc" title="Click for match detail!" class="event__match event__match--static event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.03. 20:00</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/fkbYUWme-fcuGVCfD.png">
+            <div class="event__participant event__participant--home">
+               Fulham
+               <svg class="card-ico icon--redCard icon--redCard-first icon--redCard-last">
+                  <title></title>
+                  <use xlink:href="/res/_fs/build/incident.00659d1.svg#card"></use>
+               </svg>
+            </div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/lvs4WW5k-xSJZZHS6.png">
+            <div class="event__participant event__participant--away fontExtraBold">Leeds</div>
+            <div class="event__score event__score--home">0</div>
+            <div class="event__score event__score--away">3</div>
+            <div class="event__part event__part--home event__part--1">(0)</div>
+            <div class="event__part event__part--away event__part--1">(1)</div>
+         </div>
+         <div id="g_1_C6puHN5i" title="Click for match detail!" class="event__match event__match--static event__match--last event__match--twoLine">
+            <span class="event__check--hidden"></span>
+            <div class="event__time">18.03. 19:45</div>
+            <img class="event__logo event__logo--home" loading="lazy" src="/res/image/data/86ODdyle-UTtcnC2F.png">
+            <div class="event__participant event__participant--home fontExtraBold">Nottingham</div>
+            <img class="event__logo event__logo--away" loading="lazy" src="/res/image/data/WjUotCCN-vBhPjnUE.png">
+            <div class="event__participant event__participant--away">Rotherham</div>
+            <div class="event__score event__score--home">2</div>
+            <div class="event__score event__score--away">0</div>
+            <div class="event__part event__part--home event__part--1">(2)</div>
+            <div class="event__part event__part--away event__part--1">(0)</div>
+         </div>
+         <a class="event__more event__more--static" href="#">Show more matches</a>
+      </div>
+   </div>
+</div>
