@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=2-east-bengal">East Bengal</a></td>
+<font style="font-size:10px;color:#666666;">Sa 17 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=3-bengaluru">Bengaluru</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">14:00</font>
+<font color="green" size="1">12:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>East Bengal</b>:
-0.00
+<b>Bengaluru</b>:
+1.00
 points per game
 at home
-<br/><b>Mumbai City</b>:
-2.50
+<br/><b>Jamshedpur</b>:
+0.25
 points per game
 away
 <br/><br/>
-<font color="red">
-East Bengal have lost their last 3 home matches.
+<font color="black">
+83% of Bengaluru's conceded goals were conceded away.
 </font>
 <br/>
-<font color="green">
-Mumbai City have won their last 4 matches.
+<font color="red">
+Jamshedpur have lost their last 6 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +38,48 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=6-mumbai-city">Mumbai City</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=9-jamshedpur">Jamshedpur</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=india&amp;stats=52-2-6-2023" title="East Bengal vs Mumbai City">stats</a>
+<a class="vsmall" href="pmatch.asp?league=india&amp;stats=53-3-9-2023" title="Bengaluru vs Jamshedpur">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 17 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=india&amp;stats=11-goa">Goa</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Goa</b>:
+2.25
+points per game
+at home
+<br/><b>NorthEast Utd</b>:
+0.00
+points per game
+away
+<br/><br/>
+<font color="black">
+82% of Goa's conceded goals were conceded away.
+</font>
+<br/>
+<font color="red">
+NorthEast Utd have lost their last 9 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=india&amp;stats=4-northeast-utd">NorthEast Utd</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=india&amp;stats=54-11-4-2023" title="Goa vs NorthEast Utd">stats</a>
 </td>
 </tr>
 </table>
