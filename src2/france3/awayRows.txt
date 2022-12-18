@@ -129,7 +129,7 @@ Concarneau
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -139,7 +139,7 @@ Concarneau
 2
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 <font color="blue">
@@ -148,11 +148,11 @@ Concarneau
 </td>
 <td align="center">
 <font color="red">
-6
+8
 </font>
 </td>
 <td align="center">
-+6
++4
 </td>
 <td align="center">
 <b>
@@ -164,6 +164,178 @@ Concarneau
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 4
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Avranches
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Sedan
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+USL Dunkerque
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Orleans
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
 </b>
 </font>
 </td>
@@ -206,178 +378,6 @@ Martigues
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Orleans
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-6
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Sedan
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Avranches
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-5
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-USL Dunkerque
-</td>
-<td align="center">
-<font color="green">
-6
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
--1
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 9
 </b>
 </font>
@@ -387,14 +387,14 @@ Le Puy
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 3
@@ -414,7 +414,7 @@ Le Puy
 </td>
 <td align="center">
 <b>
-9
+10
 </b>
 </td>
 </tr>
@@ -430,26 +430,26 @@ Chateauroux
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
 <font color="blue">
-6
+7
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -457,7 +457,7 @@ Chateauroux
 </td>
 <td align="center">
 <b>
-8
+9
 </b>
 </td>
 </tr>
@@ -473,14 +473,14 @@ Versailles
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
@@ -500,7 +500,7 @@ Versailles
 </td>
 <td align="center">
 <b>
-8
+9
 </b>
 </td>
 </tr>
@@ -516,7 +516,7 @@ Paris 13 A.
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -526,7 +526,7 @@ Paris 13 A.
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -535,11 +535,11 @@ Paris 13 A.
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
--4
+-5
 </td>
 <td align="center">
 <b>
@@ -602,7 +602,7 @@ Cholet
 </td>
 <td align="center">
 <font color="green">
-6
+7
 </font>
 </td>
 <td align="center">
@@ -612,20 +612,20 @@ Cholet
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-7
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+12
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -645,7 +645,7 @@ Villefranche
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -655,93 +655,7 @@ Villefranche
 3
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-6
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-16
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Nancy
-</td>
-<td align="center">
-<font color="green">
-6
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-5
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-5
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Le Mans
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-5
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -758,27 +672,70 @@ Le Mans
 </td>
 <td align="center">
 <b>
-4
+6
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-18
+16
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Bastia-Borgo
+Le Mans
 </td>
 <td align="center">
 <font color="green">
-6
+8
 </font>
 </td>
 <td align="center">
-0
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
+-5
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Nancy
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+1
 </td>
 <td align="center">
 2
@@ -798,6 +755,49 @@ Bastia-Borgo
 </td>
 <td align="center">
 -5
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Bastia-Borgo
+</td>
+<td align="center">
+<font color="green">
+7
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+5
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-9
 </td>
 <td align="center">
 <b>

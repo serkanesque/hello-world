@@ -39,6 +39,49 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
+Wellington
+</td>
+<td align="center">
+<font color="green">
+6
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+9
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Melbourne City
 </td>
 <td align="center">
@@ -77,7 +120,7 @@ Melbourne City
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-2
+3
 </b>
 </font>
 </td>
@@ -120,7 +163,7 @@ Western Sydney
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-3
+4
 </b>
 </font>
 </td>
@@ -163,7 +206,7 @@ Adelaide Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -172,7 +215,7 @@ Newcastle Jets
 </td>
 <td align="center">
 <font color="green">
-3
+4
 </font>
 </td>
 <td align="center">
@@ -182,67 +225,24 @@ Newcastle Jets
 0
 </td>
 <td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-4
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-6
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Wellington
-</td>
-<td align="center">
-<font color="green">
-4
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
 2
 </td>
 <td align="center">
-1
-</td>
-<td align="center">
 <font color="blue">
-9
+6
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+5
 </font>
 </td>
 <td align="center">
-+2
++1
 </td>
 <td align="center">
 <b>
-5
+6
 </b>
 </td>
 </tr>
@@ -250,49 +250,6 @@ Wellington
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 6
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Brisbane Roar
-</td>
-<td align="center">
-<font color="green">
-4
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-3
-</font>
-</td>
-<td align="center">
-<font color="red">
-3
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-5
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
 </b>
 </font>
 </td>
@@ -301,14 +258,100 @@ Macarthur FC
 </td>
 <td align="center">
 <font color="green">
+4
+</font>
+</td>
+<td align="center">
 2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+5
+</font>
+</td>
+<td align="center">
+<font color="red">
+4
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Central Coast
+</td>
+<td align="center">
+<font color="green">
+5
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Brisbane Roar
+</td>
+<td align="center">
+<font color="green">
+5
 </font>
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
-0
+3
 </td>
 <td align="center">
 1
@@ -320,22 +363,108 @@ Macarthur FC
 </td>
 <td align="center">
 <font color="red">
-3
+4
 </font>
 </td>
 <td align="center">
-+1
+0
 </td>
 <td align="center">
 <b>
-3
+6
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+9
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Sydney FC
+</td>
+<td align="center">
+<font color="green">
+4
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+7
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+4
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Western United
+</td>
+<td align="center">
+<font color="green">
+4
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+5
+</font>
+</td>
+<td align="center">
+<font color="red">
 8
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+4
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
 </b>
 </font>
 </td>
@@ -378,135 +507,6 @@ Melbourne V.
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Central Coast
-</td>
-<td align="center">
-<font color="green">
-3
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-7
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-3
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Sydney FC
-</td>
-<td align="center">
-<font color="green">
-3
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-4
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-1
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Western United
-</td>
-<td align="center">
-<font color="green">
-3
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-4
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-1
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 12
 </b>
 </font>
@@ -516,11 +516,11 @@ Perth Glory
 </td>
 <td align="center">
 <font color="green">
-0
+1
 </font>
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 0
@@ -530,20 +530,20 @@ Perth Glory
 </td>
 <td align="center">
 <font color="blue">
-0
+2
 </font>
 </td>
 <td align="center">
 <font color="red">
-0
+1
 </font>
 </td>
 <td align="center">
-0
++1
 </td>
 <td align="center">
 <b>
-0
+3
 </b>
 </td>
 </tr>

@@ -211,6 +211,49 @@ Berliner AK
 </font>
 </td>
 <td style="padding-left:4px;">
+Energie Cottbus
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++4
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Chemnitzer FC
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Chemnitzer FC
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Carl Zeiss Jena
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,7 +378,7 @@ Chemie Leipzig
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
@@ -344,7 +387,7 @@ Lok. Leipzig
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -354,7 +397,7 @@ Lok. Leipzig
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -363,58 +406,15 @@ Lok. Leipzig
 </td>
 <td align="center">
 <font color="red">
-15
+17
 </font>
 </td>
 <td align="center">
--2
+-4
 </td>
 <td align="center">
 <b>
 10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Energie Cottbus
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-14
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-9
 </b>
 </td>
 </tr>
@@ -443,7 +443,7 @@ Viktoria Berlin
 3
 </td>
 <td align="center">
-<font color="blue">
+<font color="blue"> 
 7
 </font>
 </td>
@@ -516,7 +516,7 @@ BFC Dynamo
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -526,20 +526,20 @@ BFC Dynamo
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-6
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+12
 </font>
 </td>
 <td align="center">
--3
+-4
 </td>
 <td align="center">
 <b>
@@ -551,6 +551,49 @@ BFC Dynamo
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Hertha Berlin B
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-5
+</td>
+<td align="center">
+<b>
+6
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -587,49 +630,6 @@ Meuselwitz
 <td align="center">
 <b>
 6
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Hertha Berlin B
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-5
 </b>
 </td>
 </tr>
@@ -774,7 +774,7 @@ TB Berlin
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -784,20 +784,20 @@ TB Berlin
 0
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
-3
+4
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+28
 </font>
 </td>
 <td align="center">
--20
+-24
 </td>
 <td align="center">
 <b>

@@ -76,7 +76,7 @@ S. Taishan
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
+<font color="#444444"><b> 
 2
 </b>
 </font>
@@ -86,26 +86,26 @@ Wuhan Three T.
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 10
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-49
+50
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+18
 </font>
 </td>
 <td align="center">
@@ -113,7 +113,7 @@ Wuhan Three T.
 </td>
 <td align="center">
 <b>
-30
+31
 </b>
 </td>
 </tr>
@@ -121,6 +121,49 @@ Wuhan Three T.
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Zhejiang
+</td>
+<td align="center">
+<font color="green">
+15
+</font>
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+25
+</font>
+</td>
+<td align="center">
+<font color="red">
+10
+</font>
+</td>
+<td align="center">
++15
+</td>
+<td align="center">
+<b>
+31
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
@@ -163,7 +206,7 @@ Shanghai Port
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -206,49 +249,6 @@ Henan SL
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Zhejiang
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-22
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+13
-</td>
-<td align="center">
-<b>
-27
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 6
 </b>
 </font>
@@ -258,11 +258,11 @@ Beijing Guoan
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 4
@@ -272,7 +272,7 @@ Beijing Guoan
 </td>
 <td align="center">
 <font color="blue">
-25
+28
 </font>
 </td>
 <td align="center">
@@ -281,11 +281,11 @@ Beijing Guoan
 </font>
 </td>
 <td align="center">
-+6
++9
 </td>
 <td align="center">
 <b>
-25
+28
 </b>
 </td>
 </tr>
@@ -293,49 +293,6 @@ Beijing Guoan
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-S. Shenhua
-</td>
-<td align="center">
-<font color="green">
-15
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-13
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-25
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-8
 </b>
 </font>
 </td>
@@ -344,14 +301,14 @@ Chengdu
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
 6
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 1
@@ -371,7 +328,50 @@ Chengdu
 </td>
 <td align="center">
 <b>
-24
+25
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Tianjin T.
+</td>
+<td align="center">
+<font color="green">
+16
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+25
 </b>
 </td>
 </tr>
@@ -383,38 +383,38 @@ Chengdu
 </font>
 </td>
 <td style="padding-left:4px;">
-Meizhou Hakka
+S. Shenhua
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
 4
 </td>
 <td align="center">
-<font color="blue">
-28
-</font>
+5
 </td>
 <td align="center">
-<font color="red">
+<font color="blue">
 17
 </font>
 </td>
 <td align="center">
-+11
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++2
 </td>
 <td align="center">
 <b>
-24
+25
 </b>
 </td>
 </tr>
@@ -426,7 +426,7 @@ Meizhou Hakka
 </font>
 </td>
 <td style="padding-left:4px;">
-Tianjin T.
+Meizhou Hakka
 </td>
 <td align="center">
 <font color="green">
@@ -444,16 +444,16 @@ Tianjin T.
 </td>
 <td align="center">
 <font color="blue">
-22
+28
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+18
 </font>
 </td>
 <td align="center">
-+9
++10
 </td>
 <td align="center">
 <b>
@@ -473,7 +473,7 @@ Dalian P.
 </td>
 <td align="center">
 <font color="green">
-16
+17
 </font>
 </td>
 <td align="center">
@@ -483,20 +483,20 @@ Dalian P.
 5
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-24
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+25
 </font>
 </td>
 <td align="center">
-+1
+0
 </td>
 <td align="center">
 <b>
@@ -559,7 +559,7 @@ Shenzhen
 </td>
 <td align="center">
 <font color="green">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -569,7 +569,7 @@ Shenzhen
 1
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -578,11 +578,11 @@ Shenzhen
 </td>
 <td align="center">
 <font color="red">
-27
+29
 </font>
 </td>
 <td align="center">
--14
+-16
 </td>
 <td align="center">
 <b>
@@ -598,11 +598,54 @@ Shenzhen
 </font>
 </td>
 <td style="padding-left:4px;">
-Wuhan FC
+Cangzhou
 </td>
 <td align="center">
 <font color="green">
 15
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+17
+</font>
+</td>
+<td align="center">
+-7
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Wuhan FC
+</td>
+<td align="center">
+<font color="green">
+16
 </font>
 </td>
 <td align="center">
@@ -612,7 +655,7 @@ Wuhan FC
 4
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
@@ -621,11 +664,11 @@ Wuhan FC
 </td>
 <td align="center">
 <font color="red">
-30
+33
 </font>
 </td>
 <td align="center">
--14
+-17
 </td>
 <td align="center">
 <b>
@@ -636,7 +679,7 @@ Wuhan FC
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-15
+16
 </b>
 </font>
 </td>
@@ -645,77 +688,34 @@ Guangzhou FC
 </td>
 <td align="center">
 <font color="green">
-13
+15
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--7
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-16
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Cangzhou
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
 5
 </td>
 <td align="center">
-<font color="blue">
 8
+</td>
+<td align="center">
+<font color="blue">
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+24
 </font>
 </td>
 <td align="center">
--8
+-9
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
@@ -731,26 +731,26 @@ Guangzhou City
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 11
 </td>
 <td align="center">
 <font color="blue">
-10
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-30
+31
 </font>
 </td>
 <td align="center">
@@ -758,7 +758,7 @@ Guangzhou City
 </td>
 <td align="center">
 <b>
-7
+8
 </b>
 </td>
 </tr>
@@ -774,34 +774,34 @@ Hebei
 </td>
 <td align="center">
 <font color="green">
-14
+16
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
-13
+14
 </td>
 <td align="center">
 <font color="blue">
-9
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-53
+57
 </font>
 </td>
 <td align="center">
--44
+-46
 </td>
 <td align="center">
 <b>
-3
+6
 </b>
 </td>
 </tr>
