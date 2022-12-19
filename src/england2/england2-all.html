@@ -7251,8 +7251,20 @@
 
 
 <script>
+   var seasonFixturesContainerDiv = document.getElementById("fixtures");
+   var seasonFixturesInnerDivs = seasonFixturesContainerDiv.querySelectorAll('[id*="g_1"]');
+   var seasonFixtures = [];
+ for (var i = 0; i < seasonFixturesInnerDivs.length; i++) {
+  var fixtureTeam = new Object();
+  fixtureTeam.hName = seasonFixturesInnerDivs[i].children[3].textContent.trim();
+  fixtureTeam.aName = seasonFixturesInnerDivs[i].children[5].textContent.trim();
+  fixtureTeam.hScore = seasonFixturesInnerDivs[i].children[6].textContent.trim();
+  fixtureTeam.aScore = seasonFixturesInnerDivs[i].children[7].textContent.trim();
+  seasonFixtures.push(fixtureTeam);
+ }
 
-
+ console.log(seasonFixtures);
+/*
    var seasonFixturesContainerDiv = document.getElementById("fixtures");
    var seasonFixturesInnerDivs = seasonFixturesContainerDiv.querySelectorAll('[id*="g_1"]');
    var event__check = seasonFixturesContainerDiv.querySelectorAll('.event__check--hidden');
@@ -7276,4 +7288,6 @@ for (var i = 0; i < event__part.length; i++) {
 for (var i = 0; i < winner_ico.length; i++) {
    winner_ico[i].remove();
 }
+
+*/
    </script>
