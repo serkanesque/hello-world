@@ -6,33 +6,48 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 20 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=scotland&amp;stats=12-aberdeen">Aberdeen</a></td>
+<font style="font-size:10px;color:#666666;">Fr 23 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=scotland&amp;stats=4-ross-county">Ross County</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">20:00</font>
+<font color="green" size="1">19:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<font color="black">
-72% of Aberdeen's points have been earned at home.
+<font color="red">
+Ross County conceded at least one goal in 8 of their 9 home matches.
 </font>
 <font color="black">
-Aberdeen have scored 76% of their goals at home.
+64% of Ross County's conceded goals were conceded at home.
+</font>
+<font color="red">
+Ross County have lost 5 of their 9 home matches.
+</font>
+<font color="red">
+Ross County conceded at least one goal in each of their last 7 home matches.
+</font>
+<font color="red">
+Ross County have conceded 2 goals or more in each of their last 3 home matches.
+</font>
+<font color="black">
+32% of Ross County's conceded goals occurred after the 75th minute.
 </font>
 <br/>
 <font color="green">
-Rangers have scored in each of their last 10 matches.
-</font>
-<font color="black">
-75% of Rangers's matches had over 2.5 goals scored in total.
+Rangers have won 12 of their 17 matches.
 </font>
 <font color="green">
-Rangers have scored in 6 of their 7 away matches.
+Rangers have scored in each of their last 11 matches.
 </font>
 <font color="black">
-69% of Rangers's points have been earned at home.
+76% of Rangers's matches had over 2.5 goals scored in total.
+</font>
+<font color="green">
+Rangers have scored in 7 of their 8 away matches.
+</font>
+<font color="green">
+Rangers have scored in each of their last 5 away matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -43,7 +58,64 @@ Click the Stats button for more stats on those teams.
 </a>
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=scotland&amp;stats=2-rangers">Rangers</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=scotland&amp;stats=67-12-2-2023" title="Aberdeen vs Rangers">stats</a>
+<a class="vsmall" href="pmatch.asp?league=scotland&amp;stats=137-4-2-2023" title="Ross County vs Rangers">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 23 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=scotland&amp;stats=10-motherwell">Motherwell</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Motherwell conceded at least one goal in 5 of their 7 home matches.
+</font>
+<font color="black">
+76% of Motherwell's points have been earned away.
+</font>
+<font color="black">
+Motherwell have scored 75% of their goals away.
+</font>
+<font color="red">
+Motherwell have lost 5 of their 7 home matches.
+</font>
+<font color="red">
+Motherwell have lost their last 4 home matches.
+</font>
+<font color="red">
+Motherwell have failed to win in their last 5 home matches.
+</font>
+<font color="red">
+Motherwell have conceded 2 goals or more in each of their last 4 home matches.
+</font>
+<br/>
+<font color="black">
+93% of Kilmarnock's points have been earned at home.
+</font>
+<font color="black">
+Kilmarnock have scored 85% of their goals at home.
+</font>
+<font color="red">
+Kilmarnock have lost 8 of their 9 away matches.
+</font>
+<font color="red">
+Kilmarnock have failed to win in their last 9 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=scotland&amp;stats=5-kilmarnock">Kilmarnock</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=scotland&amp;stats=136-10-5-2023" title="Motherwell vs Kilmarnock">stats</a>
 </td>
 </tr>
 </table>
