@@ -1,195 +1,136 @@
-<table id="btable" width="100%">
-<thead>
-<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
-<h3>Results &amp; pre-match Points per Game (PPG)</h3>
+<table cellpadding="0" cellspacing="0" id="btable" width="100%">
+<tr style="pointer-events:none;height:26px;"><td align="center">HT score</td>
+<td align="left" colspan="3">
+Matches
+</td></tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#222222"><b>0 - 0</b></font>
 </td>
-<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
-<td></td>
+<td align="left" width="22"><font color="#444444">25</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="26"></progress>
+</td>
+<td align="center">26%</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 20 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a> - <a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m98">
-<font color="blue"><b>3 - 0</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">H. Franklin (7)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">M. Wilde (90)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>3-0</b>  
-<font color="#000000">M. Wilde (90)</font>
-</font>
-</div>
-</span>
-</a>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>1 - 0</b></font>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.75">2.75</progress><font style="color:#888888;font-size:11px;">2.75</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.43">0.43</progress><font style="color:#888888;font-size:11px;">0.43</font>
+<td align="left" width="22"><font color="#444444">20</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="21"></progress>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m98&amp;st1=4&amp;st2=2">analysis</a>
-</td>
+<td align="center">21%</td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
-<td></td>
-<td width="50">
-pp.
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 1</b></font>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.71">1.71</progress><font style="color:#888888;font-size:11px;">1.71</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.57">1.57</progress><font style="color:#888888;font-size:11px;">1.57</font>
+<td align="left" width="22"><font color="#444444">15</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="16"></progress>
 </td>
-<td></td>
+<td align="center">16%</td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
-<td></td>
-<td width="50">
-pp.
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="0.14">0.14</progress><font style="color:#888888;font-size:11px;">0.14</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.60">0.60</progress><font style="color:#888888;font-size:11px;">0.60</font>
-</td>
-<td></td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a> - <a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a></td>
-<td></td>
-<td width="50">
-pp.
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.83">1.83</progress><font style="color:#888888;font-size:11px;">1.83</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-</td>
-<td></td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a> - <a href="team.asp?league=wales&amp;stats=5-haverfordwest">Haverfordwest</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m105">
+<tr class="odd" height="30">
+<td align="center" width="70">
 <font color="blue"><b>2 - 0</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">L. Rees (10)</font> pen.
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">S. Jones (90)</font>
-</font>
-</div>
-</span>
-</a>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.14">2.14</progress><font style="color:#888888;font-size:11px;">2.14</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.88">0.88</progress><font style="color:#888888;font-size:11px;">0.88</font>
+<td align="left" width="22"><font color="#444444">11</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="12"></progress>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m105&amp;st1=3&amp;st2=5">analysis</a>
-</td>
+<td align="center">12%</td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
-<td></td>
-<td width="50">
-pp.
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#222222"><b>1 - 1</b></font>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.00">1.00</progress><font style="color:#888888;font-size:11px;">1.00</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="2.67">2.67</progress><font style="color:#888888;font-size:11px;">2.67</font>
+<td align="left" width="22"><font color="#444444">5</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="5"></progress>
 </td>
-<td></td>
+<td align="center">5%</td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 16 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a> - <a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m106">
-<font color="blue"><b>4 - 2</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">L. Robles (4)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>1-1</b>  
-<font color="#000000">B. Ahmun (13)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>2-1</b>  
-<font color="#000000">A. Williams (15)</font> pen.
-</font>
-<font style="color:#000000;">
-<br/>
-<b>3-1</b>  
-<font color="#000000">L. Robles (40)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>4-1</b>  
-<font color="#000000">L. Robles (88)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>4-2</b>  
-<font color="#000000">B. Ahmun (90)</font>
-</font>
-</div>
-</span>
-</a>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 3</b></font>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.25">1.25</progress><font style="color:#888888;font-size:11px;">1.25</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.57">0.57</progress><font style="color:#888888;font-size:11px;">0.57</font>
+<td align="left" width="22"><font color="#444444">4</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="4"></progress>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m106&amp;st1=7&amp;st2=9">analysis</a>
-</td>
+<td align="center">4%</td>
 </tr>
-</tbody>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 2</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">4</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="4"></progress>
+</td>
+<td align="center">4%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>3 - 1</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">3</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="3"></progress>
+</td>
+<td align="center">3%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>2 - 1</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">3</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="3"></progress>
+</td>
+<td align="center">3%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>0 - 4</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">2</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="2"></progress>
+</td>
+<td align="center">2%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#222222"><b>2 - 2</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">1</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="1"></progress>
+</td>
+<td align="center">1%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="#C70039"><b>1 - 2</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">1</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="1"></progress>
+</td>
+<td align="center">1%</td>
+</tr>
+<tr class="odd" height="30">
+<td align="center" width="70">
+<font color="blue"><b>4 - 0</b></font>
+</td>
+<td align="left" width="22"><font color="#444444">1</font></td>
+<td align="left">
+<progress max="100" style="width:80px;" value="1"></progress>
+</td>
+<td align="center">1%</td>
+</tr>
 </table>
