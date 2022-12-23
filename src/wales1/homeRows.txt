@@ -43,26 +43,26 @@ Connah`s Quay
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
 <font color="blue">
-17
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-4
+5
 </font>
 </td>
 <td align="center">
@@ -70,7 +70,7 @@ Connah`s Quay
 </td>
 <td align="center">
 <b>
-25
+26
 </b>
 </td>
 </tr>
@@ -211,6 +211,92 @@ Caernarfon Town
 </font>
 </td>
 <td style="padding-left:4px;">
+Bala Town
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++5
+</td>
+<td align="center">
+<b>
+17
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Haverfordwest
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+15
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+7
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Aberystwyth
 </td>
 <td align="center">
@@ -249,7 +335,7 @@ Aberystwyth
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+8
 </b>
 </font>
 </td>
@@ -286,92 +372,6 @@ Penybont
 <td align="center">
 <b>
 14
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Bala Town
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-7
-</font>
-</td>
-<td align="center">
-+4
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Haverfordwest
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-13
 </b>
 </td>
 </tr>
@@ -426,21 +426,21 @@ Newtown
 </font>
 </td>
 <td style="padding-left:4px;">
-Pontypridd Town
+Flint
 </td>
 <td align="center">
 <font color="green">
-8
+7
 </font>
+</td>
+<td align="center">
+2
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-0
-</td>
-<td align="center">
-5
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -449,11 +449,11 @@ Pontypridd Town
 </td>
 <td align="center">
 <font color="red">
-15
+9
 </font>
 </td>
 <td align="center">
--8
+-2
 </td>
 <td align="center">
 <b>
@@ -469,38 +469,38 @@ Pontypridd Town
 </font>
 </td>
 <td style="padding-left:4px;">
-Flint
+Pontypridd Town
 </td>
 <td align="center">
 <font color="green">
-6
+9
 </font>
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-2
+0
+</td>
+<td align="center">
+6
 </td>
 <td align="center">
 <font color="blue">
-5
+7
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+16
 </font>
 </td>
 <td align="center">
--3
+-9
 </td>
 <td align="center">
 <b>
-6
+9
 </b>
 </td>
 </tr>
