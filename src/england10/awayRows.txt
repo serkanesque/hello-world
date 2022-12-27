@@ -43,11 +43,11 @@ Tamworth
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 3
@@ -57,7 +57,7 @@ Tamworth
 </td>
 <td align="center">
 <font color="blue">
-28
+32
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Tamworth
 </font>
 </td>
 <td align="center">
-+14
++18
 </td>
 <td align="center">
 <b>
-24
+27
 </b>
 </td>
 </tr>
@@ -172,7 +172,50 @@ Redditch Utd
 </td>
 <td align="center">
 <font color="green">
-10
+11
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++6
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Bromsgrove
+</td>
+<td align="center">
+<font color="green">
+12
 </font>
 </td>
 <td align="center">
@@ -182,20 +225,20 @@ Redditch Utd
 3
 </td>
 <td align="center">
-2
+4
 </td>
 <td align="center">
 <font color="blue">
-14
+23
 </font>
 </td>
 <td align="center">
 <font color="red">
-8
+25
 </font>
 </td>
 <td align="center">
-+6
+-2
 </td>
 <td align="center">
 <b>
@@ -206,7 +249,7 @@ Redditch Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,7 +292,7 @@ Coalville Town
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -282,49 +325,6 @@ Nuneaton Town
 </td>
 <td align="center">
 +2
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Bromsgrove
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-22
-</font>
-</td>
-<td align="center">
-<font color="red">
-24
-</font>
-</td>
-<td align="center">
--2
 </td>
 <td align="center">
 <b>
@@ -469,6 +469,49 @@ Hitchin Town
 </font>
 </td>
 <td style="padding-left:4px;">
+Kings Langley
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+22
+</font>
+</td>
+<td align="center">
+-10
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Ilkeston Town
 </td>
 <td align="center">
@@ -507,7 +550,7 @@ Ilkeston Town
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -550,7 +593,50 @@ Bedford Town
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Royston
+</td>
+<td align="center">
+<font color="green">
 13
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+31
+</font>
+</td>
+<td align="center">
+-13
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+15
 </b>
 </font>
 </td>
@@ -559,7 +645,7 @@ Barwell
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -567,49 +653,6 @@ Barwell
 </td>
 <td align="center">
 2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Mickleover
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
 </td>
 <td align="center">
 5
@@ -621,31 +664,31 @@ Mickleover
 </td>
 <td align="center">
 <font color="red">
-22
+21
 </font>
 </td>
 <td align="center">
--5
+-4
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-15
+16
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Kings Langley
+Mickleover
 </td>
 <td align="center">
 <font color="green">
-11
+10
 </font>
 </td>
 <td align="center">
@@ -655,20 +698,20 @@ Kings Langley
 1
 </td>
 <td align="center">
-7
+6
 </td>
 <td align="center">
 <font color="blue">
-8
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+26
 </font>
 </td>
 <td align="center">
--12
+-7
 </td>
 <td align="center">
 <b>
@@ -679,50 +722,50 @@ Kings Langley
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Royston
+Basford Utd
 </td>
 <td align="center">
 <font color="green">
-12
+10
 </font>
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-3
+5
 </td>
 <td align="center">
-7
+4
 </td>
 <td align="center">
 <font color="blue">
-16
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-31
+15
 </font>
 </td>
 <td align="center">
--15
+-4
 </td>
 <td align="center">
 <b>
-9
+8
 </b>
 </td>
 </tr>
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-17
+18
 </b>
 </font>
 </td>
@@ -765,49 +808,6 @@ Alvechurch
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Basford Utd
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-7
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 19
 </b>
 </font>
@@ -817,7 +817,7 @@ Needham Market
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -827,20 +827,20 @@ Needham Market
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-8
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+15
 </font>
 </td>
 <td align="center">
--5
+-6
 </td>
 <td align="center">
 <b>
@@ -860,7 +860,7 @@ Hednesford
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -870,7 +870,7 @@ Hednesford
 3
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -879,11 +879,11 @@ Hednesford
 </td>
 <td align="center">
 <font color="red">
-19
+22
 </font>
 </td>
 <td align="center">
--11
+-14
 </td>
 <td align="center">
 <b>
@@ -946,7 +946,7 @@ Rushden &amp; D.
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -956,20 +956,20 @@ Rushden &amp; D.
 0
 </td>
 <td align="center">
-10
+11
 </td>
 <td align="center">
 <font color="blue">
-8
+9
 </font>
 </td>
 <td align="center">
 <font color="red">
-29
+35
 </font>
 </td>
 <td align="center">
--21
+-26
 </td>
 <td align="center">
 <b>
