@@ -43,7 +43,7 @@ KRC Genk
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -53,7 +53,7 @@ KRC Genk
 0
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -62,11 +62,11 @@ KRC Genk
 </td>
 <td align="center">
 <font color="red">
-7
+8
 </font>
 </td>
 <td align="center">
-+13
++12
 </td>
 <td align="center">
 <b>
@@ -211,6 +211,49 @@ Gent
 </font>
 </td>
 <td style="padding-left:4px;">
+OH Leuven
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Club Brugge
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Club Brugge
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Antwerp
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -329,49 +372,6 @@ Standard Liege
 <td align="center">
 <b>
 13
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-8
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-OH Leuven
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-12
 </b>
 </td>
 </tr>
@@ -426,6 +426,49 @@ Cercle Brugge
 </font>
 </td>
 <td style="padding-left:4px;">
+Anderlecht
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Seraing
 </td>
 <td align="center">
@@ -464,7 +507,7 @@ Seraing
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -507,7 +550,7 @@ Westerlo
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-12
+13
 </b>
 </font>
 </td>
@@ -550,7 +593,7 @@ Eupen
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-13
+14
 </b>
 </font>
 </td>
@@ -587,49 +630,6 @@ Charleroi
 <td align="center">
 <b>
 9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Anderlecht
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-12
-</font>
-</td>
-<td align="center">
--1
-</td>
-<td align="center">
-<b>
-7
 </b>
 </td>
 </tr>
@@ -731,7 +731,7 @@ Oostende
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -741,7 +741,7 @@ Oostende
 2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -750,11 +750,11 @@ Oostende
 </td>
 <td align="center">
 <font color="red">
-22
+25
 </font>
 </td>
 <td align="center">
--13
+-16
 </td>
 <td align="center">
 <b>
