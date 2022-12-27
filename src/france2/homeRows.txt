@@ -43,11 +43,11 @@ Sochaux
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 2
@@ -57,7 +57,7 @@ Sochaux
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Sochaux
 </font>
 </td>
 <td align="center">
-+9
++10
 </td>
 <td align="center">
 <b>
-17
+20
 </b>
 </td>
 </tr>
@@ -78,6 +78,49 @@ Sochaux
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Le Havre
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+3
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+3
 </b>
 </font>
 </td>
@@ -120,7 +163,7 @@ Caen
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-3
+4
 </b>
 </font>
 </td>
@@ -163,7 +206,7 @@ Bordeaux
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -206,7 +249,7 @@ Grenoble
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
+6
 </b>
 </font>
 </td>
@@ -249,23 +292,23 @@ Amiens
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Le Havre
+Valenciennes
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 0
@@ -277,50 +320,7 @@ Le Havre
 </td>
 <td align="center">
 <font color="red">
-3
-</font>
-</td>
-<td align="center">
-+8
-</td>
-<td align="center">
-<b>
-15
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Valenciennes
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Valenciennes
 </td>
 <td align="center">
 <b>
-15
+16
 </b>
 </td>
 </tr>
@@ -344,14 +344,14 @@ Metz
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 2
@@ -371,7 +371,7 @@ Metz
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
@@ -383,30 +383,30 @@ Metz
 </font>
 </td>
 <td style="padding-left:4px;">
-Nimes
+Dijon
 </td>
 <td align="center">
 <font color="green">
-7
+9
 </font>
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
-1
+4
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
 <font color="blue">
-5
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-2
+9
 </font>
 </td>
 <td align="center">
@@ -426,34 +426,120 @@ Nimes
 </font>
 </td>
 <td style="padding-left:4px;">
-Pau FC
+Nimes
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-3
+4
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
+3
+</td>
+<td align="center">
 <font color="blue">
-8
+6
 </font>
 </td>
 <td align="center">
 <font color="red">
+4
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+11
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+SC Bastia
+</td>
+<td align="center">
+<font color="green">
 8
 </font>
 </td>
 <td align="center">
-0
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+7
+</font>
+</td>
+<td align="center">
+<font color="red">
+6
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+12
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Quevilly Rouen
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++2
 </td>
 <td align="center">
 <b>
@@ -464,7 +550,50 @@ Pau FC
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-11
+13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Pau FC
+</td>
+<td align="center">
+<font color="green">
+8
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
+-1
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -507,16 +636,16 @@ Laval
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-12
+15
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-SC Bastia
+Annecy
 </td>
 <td align="center">
 <font color="green">
-7
+8
 </font>
 </td>
 <td align="center">
@@ -526,54 +655,11 @@ SC Bastia
 1
 </td>
 <td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-13
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Dijon
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
 4
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
 <font color="blue">
-7
+6
 </font>
 </td>
 <td align="center">
@@ -582,7 +668,7 @@ Dijon
 </font>
 </td>
 <td align="center">
--2
+-3
 </td>
 <td align="center">
 <b>
@@ -593,50 +679,7 @@ Dijon
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Quevilly Rouen
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-15
+16
 </b>
 </font>
 </td>
@@ -679,7 +722,7 @@ Guingamp
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
@@ -722,7 +765,7 @@ Saint-Etienne
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-17
+18
 </b>
 </font>
 </td>
@@ -759,49 +802,6 @@ Niort
 <td align="center">
 <b>
 8
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Annecy
-</td>
-<td align="center">
-<font color="green">
-7
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-4
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
--4
-</td>
-<td align="center">
-<b>
-7
 </b>
 </td>
 </tr>
