@@ -6,8 +6,8 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">We 28 Dec</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal2&amp;stats=15-fc-porto-b">FC Porto B</a></td>
+<font style="font-size:10px;color:#666666;">Th 29 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal2&amp;stats=8-belenenses">Belenenses</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -15,21 +15,21 @@
 </div>
 <span>
 <div style="text-align:left;">
-<b>FC Porto B</b>:
-1.33
+<b>Belenenses</b>:
+0.17
 points per game
 at home
-<br/><b>Farense</b>:
-2.17
+<br/><b>Leixoes</b>:
+1.14
 points per game
 away
 <br/><br/>
-<font color="black">
-83% of FC Porto B's conceded goals were conceded away.
+<font color="red">
+Belenenses have failed to win in their last 6 home matches.
 </font>
 <br/>
-<font color="black">
-62% of Farense's conceded goals occurred in the first half.
+<font color="green">
+Leixoes have been undefeated in their last 7 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +38,47 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal2&amp;stats=3-farense">Farense</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal2&amp;stats=18-leixoes">Leixoes</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=portugal2&amp;stats=292-15-3-2023" title="FC Porto B vs Farense">stats</a>
+<a class="vsmall" href="pmatch.asp?league=portugal2&amp;stats=297-8-18-2023" title="Belenenses vs Leixoes">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 29 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal2&amp;stats=5-nacional">Nacional</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Nacional</b>:
+0.71
+points per game
+at home
+<br/><b>Benfica B</b>:
+1.50
+points per game
+away
+<br/><br/>
+<font color="black">
+62% of Nacional's points have been earned away.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal2&amp;stats=9-benfica-b">Benfica B</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal2&amp;stats=296-5-9-2023" title="Nacional vs Benfica B">stats</a>
 </td>
 </tr>
 </table>
