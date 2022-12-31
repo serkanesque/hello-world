@@ -1,11 +1,10 @@
 <table id="btable" width="100%">
-<thead>
-<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
-<h3>Results &amp; pre-match Points per Game (PPG)</h3>
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
-<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
-<td></td>
 </tr>
+<<<<<<< HEAD
 </thead>
 <tbody>
 <tr class="odd" height="38">
@@ -31,19 +30,66 @@
 <b>1-0</b>  
 <<<<<<< HEAD
 <font color="#000000">G. Newell (16)</font>
+=======
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Airbus UK have lost their last 10 matches.
+>>>>>>> parent of 27480d15 (1)
 </font>
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">A. Roscrow (40)</font>
+<font color="red">
+Airbus UK have failed to win in their last 17 matches.
+</font>
+<font color="red">
+Airbus UK conceded at least one goal in each of their last 17 matches.
+</font>
+<font color="black">
+82% of Airbus UK's matches had over 2.5 goals scored in total.
+</font>
+<font color="red">
+Airbus UK conceded at least one goal in each of their 8 home matches.
+</font>
+<font color="black">
+100% of Airbus UK's points have been earned at home.
+</font>
+<font color="red">
+Airbus UK have conceded the opening goal in 13 of their 17 matches.
+</font>
+<font color="red">
+Airbus UK have lost 16 of their 17 matches.
+</font>
+<font color="red">
+Airbus UK have lost 7 of their 8 home matches.
+</font>
+<font color="red">
+Airbus UK have lost their last 5 home matches.
+</font>
+<font color="red">
+Airbus UK have failed to win in their last 8 home matches.
+</font>
+<font color="red">
+Airbus UK conceded at least one goal in each of their last 8 home matches.
+</font>
+<font color="red">
+Airbus UK have conceded 2 goals or more in each of their last 6 matches.
+</font>
+<font color="red">
+Airbus UK have conceded 2 goals or more in each of their last 8 home matches.
 </font>
 <br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>3-0</b>  
-<font color="#000000">C. Venables (89)</font> pen.
+<font color="green">
+The New Saints have won 14 of their 17 matches.
 </font>
+<<<<<<< HEAD
 =======
 <font color="#000000">J. Evans (28)</font>
 </font>
@@ -71,18 +117,72 @@
 </td>
 <td align="center" valign="middle" width="55">
 <a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m121&amp;st1=12&amp;st2=6">analysis</a>
+=======
+<font color="green">
+The New Saints have won 5 of their 8 away matches.
+</font>
+<font color="green">
+The New Saints have been undefeated in their last 17 matches.
+</font>
+<font color="green">
+The New Saints did not concede any goal in 6 of their 8 away matches.
+</font>
+<font color="green">
+The New Saints have scored in 6 of their 8 away matches.
+</font>
+<font color="black">
+67% of The New Saints's conceded goals were conceded at home.
+</font>
+<font color="green">
+The New Saints have scored the opening goal in 13 of their 17 matches.
+</font>
+<font color="green">
+The New Saints were leading at half-time in 11 of their 17 matches.
+</font>
+<font color="green">
+The New Saints have been undefeated in their last 8 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=124-1-8-2023" title="Airbus UK vs The New Saints">stats</a>
+>>>>>>> parent of 27480d15 (1)
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a> - <a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m122">
-<font color="blue"><b>0 - 0</b></font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
 <span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
+<div style="text-align:left;">
+<font color="red">
+Flint conceded at least one goal in each of their last 7 matches.
+</font>
+<font color="black">
+67% of Flint's matches had under 2.5 goals in total.
+</font>
+<font color="red">
+Flint conceded at least one goal in 6 of their 7 home matches.
+</font>
+<font color="black">
+Flint have scored 61% of their goals away.
+</font>
+<font color="black">
+78% of Flint's conceded goals occurred in the second half.
+</font>
 <br/>
+<<<<<<< HEAD
 =======
 <progress max="3" style="width:60px;margin-right:8px;" value="1.88">1.88</progress><font style="color:#888888;font-size:11px;">1.88</font>
 <br/>
@@ -146,21 +246,66 @@
 </td>
 <td align="center" valign="middle" width="55">
 <a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m122&amp;st1=3&amp;st2=11">analysis</a>
+=======
+<font color="green">
+Connah's Quay have won 13 of their 18 matches.
+</font>
+<font color="green">
+Connah's Quay have been undefeated in their last 12 matches.
+</font>
+<font color="green">
+Connah's Quay have scored in each of their last 17 matches.
+</font>
+<font color="green">
+Connah's Quay have scored in 6 of their 7 away matches.
+</font>
+<font color="black">
+71% of Connah's Quay's points have been earned at home.
+</font>
+<font color="green">
+Connah's Quay have scored the opening goal in 15 of their 18 matches.
+</font>
+<font color="green">
+Connah's Quay have won their last 4 away matches.
+</font>
+<font color="green">
+Connah's Quay have been undefeated in their last 4 away matches.
+</font>
+<font color="green">
+Connah's Quay have scored in each of their last 6 away matches.
+</font>
+<font color="black">
+50% of Connah's Quay's conceded goals occurred after the 75th minute.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah`s Quay</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=125-10-4-2023" title="Flint vs Connah`s Quay">stats</a>
+>>>>>>> parent of 27480d15 (1)
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a> - <a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m123">
-<font color="blue"><b>6 - 1</b></font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=5-haverfordwest">Haverfordwest</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
 <span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">N. Flint (o.g.) (14)</font>
+<div style="text-align:left;">
+<font color="green">
+Haverfordwest have scored in each of their 9 home matches.
+</font>
+<font color="black">
+70% of Haverfordwest's points have been earned at home.
 </font>
 =======
 <progress max="3" style="width:60px;margin-right:8px;" value="2.00">2.00</progress><font style="color:#888888;font-size:11px;">2.00</font>
@@ -182,38 +327,31 @@
 <div style="text-align:left;font-size:13px;line-height:16px;">
 >>>>>>> parent of eee31f36 (1)
 <br/>
+<<<<<<< HEAD
 ---------------------------------------
 <font style="color:#000000;">
 <br/>
 <<<<<<< HEAD
 <b>2-0</b>  
 <font color="#000000">A. Williams (51)</font> pen.
+=======
+<font color="black">
+75% of Pontypridd Town's points have been earned at home.
+>>>>>>> parent of 27480d15 (1)
 </font>
-<font style="color:#000000;">
-<br/>
-<b>3-0</b>  
-<font color="#000000">N. Aris (54)</font>
+<font color="black">
+61% of Pontypridd Town's conceded goals occurred in the first half.
 </font>
-<font style="color:#000000;">
-<br/>
-<b>4-0</b>  
-<font color="#000000">N. Rushton (56)</font>
+<font color="red">
+Pontypridd Town have conceded the opening goal in 14 of their 18 matches.
 </font>
-<font style="color:#000000;">
-<br/>
-<b>5-0</b>  
-<font color="#000000">N. Aris (63)</font>
+<font color="red">
+Pontypridd Town have lost 12 of their 18 matches.
 </font>
-<font style="color:#000000;">
-<br/>
-<b>6-0</b>  
-<font color="#000000">N. Rushton (73)</font>
+<font color="red">
+Pontypridd Town have lost 6 of their 8 away matches.
 </font>
-<font style="color:#000000;">
-<br/>    
-<b>6-1</b>  
-<font color="#000000">J. Evans (80)</font>
-</font>
+<<<<<<< HEAD
 =======
 <b>1-0</b>  
 <font color="#000000">J. Malkin (61)</font>
@@ -570,4 +708,18 @@
 </tr>
 >>>>>>> parent of eee31f36 (1)
 </tbody>
+=======
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=126-5-9-2023" title="Haverfordwest vs Pontypridd Town">stats</a>
+</td>
+</tr>
+>>>>>>> parent of 27480d15 (1)
 </table>
