@@ -1,172 +1,268 @@
 <table id="btable" width="100%">
-<thead>
-<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
-<h3>Results &amp; pre-match Points per Game (PPG)</h3>
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
 </td>
-<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
-<td></td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=10-chengdu">Chengdu</a> - <a href="team.asp?league=china&amp;stats=16-dalian-p.">Dalian P.</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>3 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.94">1.94</progress><font style="color:#888888;font-size:11px;">1.94</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=10-chengdu">Chengdu</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="green">
+Chengdu have been undefeated in their last 13 matches.
+</font>
+<font color="green">
+Chengdu have been undefeated in their last 15 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.38">1.38</progress><font style="color:#888888;font-size:11px;">1.38</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m300&amp;st1=10&amp;st2=16">analysis</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=16-dalian-p.">Dalian P.</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=300-10-16-2022" title="Chengdu vs Dalian P.">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=12-guangzhou-city">Guangzhou City</a> - <a href="team.asp?league=china&amp;stats=18-cangzhou">Cangzhou</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>1 - 4</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="0.69">0.69</progress><font style="color:#888888;font-size:11px;">0.69</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=12-guangzhou-city">Guangzhou City</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Guangzhou City conceded at least one goal in 14 of their 16 home matches.
+</font>
+<font color="red">
+Guangzhou City have lost 22 of their 33 matches.
+</font>
+<font color="red">
+Guangzhou City have lost 11 of their 16 home matches.
+</font>
+<font color="red">
+Guangzhou City conceded at least one goal in each of their last 6 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m199&amp;st1=12&amp;st2=18">analysis</a>
+<font color="black">
+Cangzhou have scored 70% of their goals away.
+</font>
+<font color="green">
+Cangzhou have scored 2 goals or more in each of their last 3 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=18-cangzhou">Cangzhou</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=199-12-18-2022" title="Guangzhou City vs Cangzhou">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=13-meizhou-hakka">Meizhou Hakka</a> - <a href="team.asp?league=china&amp;stats=3-guangzhou-fc">Guangzhou FC</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>1 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.69">1.69</progress><font style="color:#888888;font-size:11px;">1.69</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=13-meizhou-hakka">Meizhou Hakka</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="red">
+Meizhou Hakka conceded at least one goal in 12 of their 16 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.38">0.38</progress><font style="color:#888888;font-size:11px;">0.38</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m299&amp;st1=13&amp;st2=3">analysis</a>
+<font color="red">
+Guangzhou FC have failed to win in their last 20 matches.
+</font>
+<font color="black">
+Guangzhou FC have scored 71% of their goals at home.
+</font>
+<font color="red">
+Guangzhou FC have lost 22 of their 33 matches.
+</font>
+<font color="red">
+Guangzhou FC have lost 12 of their 16 away matches.
+</font>
+<font color="red">
+Guangzhou FC have failed to win in their last 11 away matches.
+</font>
+<font color="red">
+Guangzhou FC have conceded 2 goals or more in each of their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=3-guangzhou-fc">Guangzhou FC</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=299-13-3-2022" title="Meizhou Hakka vs Guangzhou FC">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=7-shanghai-port">Shanghai Port</a> - <a href="team.asp?league=china&amp;stats=11-changchun-yatai">Changchun Yatai</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>4 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.00">2.00</progress><font style="color:#888888;font-size:11px;">2.00</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=1-s.-taishan">S. Taishan</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="green">
+S. Taishan have won 24 of their 33 matches.
+</font>
+<font color="black">
+67% of S. Taishan's matches had over 2.5 goals scored in total.
+</font>
+<font color="green">
+S. Taishan have scored in each of their 16 home matches.
+</font>
+<font color="black">
+76% of S. Taishan's conceded goals were conceded away.
+</font>
+<font color="green">
+S. Taishan have scored in each of their last 16 home matches.
+</font>
+<font color="green">
+S. Taishan have scored 2 goals or more in each of their last 9 home matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m201&amp;st1=7&amp;st2=11">analysis</a>
+<font color="black">
+70% of Beijing Guoan's matches had over 2.5 goals scored in total.
+</font>
+<font color="green">
+Beijing Guoan have scored in 14 of their 16 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=17-beijing-guoan">Beijing Guoan</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=301-1-17-2022" title="S. Taishan vs Beijing Guoan">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=2-zhejiang">Zhejiang</a> - <a href="team.asp?league=china&amp;stats=8-wuhan-fc">Wuhan FC</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>4 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.13">2.13</progress><font style="color:#888888;font-size:11px;">2.13</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=7-shanghai-port">Shanghai Port</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="green">
+Shanghai Port did not concede any goal in their last 4 matches.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.75">0.75</progress><font style="color:#888888;font-size:11px;">0.75</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m200&amp;st1=2&amp;st2=8">analysis</a>
+<font color="black">
+Changchun Yatai have scored 61% of their goals away.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=11-changchun-yatai">Changchun Yatai</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=201-7-11-2022" title="Shanghai Port vs Changchun Yatai">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=5-hebei">Hebei</a> - <a href="team.asp?league=china&amp;stats=15-henan-sl">Henan SL</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>0 - 4</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="0.38">0.38</progress><font style="color:#888888;font-size:11px;">0.38</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=6-wuhan-three-t.">Wuhan Three T.</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<font color="green">
+Wuhan Three T. have won 24 of their 33 matches.
+</font>
+<font color="black">
+73% of Wuhan Three T.'s matches had over 2.5 goals scored in total.
+</font>
+<font color="green">
+Wuhan Three T. have scored in 15 of their 16 home matches.
+</font>
+<font color="black">
+64% of Wuhan Three T.'s conceded goals were conceded at home.
+</font>
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m202&amp;st1=5&amp;st2=15">analysis</a>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=14-tianjin-t.">Tianjin T.</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=204-6-14-2022" title="Wuhan Three T. vs Tianjin T.">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=4-s.-shenhua">S. Shenhua</a> - <a href="team.asp?league=china&amp;stats=9-shenzhen">Shenzhen</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>2 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.56">1.56</progress><font style="color:#888888;font-size:11px;">1.56</font>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 31 Dec</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=china&amp;stats=2-zhejiang">Zhejiang</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">07:00</font>
+</div>
+<span>
+<div style="text-align:left;">
 <br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.88">0.88</progress><font style="color:#888888;font-size:11px;">0.88</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m203&amp;st1=4&amp;st2=9">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=1-s.-taishan">S. Taishan</a> - <a href="team.asp?league=china&amp;stats=17-beijing-guoan">Beijing Guoan</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>3 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.69">2.69</progress><font style="color:#888888;font-size:11px;">2.69</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.88">1.88</progress><font style="color:#888888;font-size:11px;">1.88</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m301&amp;st1=1&amp;st2=17">analysis</a>
+<font color="black">
+76% of Wuhan FC's matches had over 2.5 goals scored in total.
+</font>
+<font color="red">
+Wuhan FC have lost 12 of their 16 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=china&amp;stats=8-wuhan-fc">Wuhan FC</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=china&amp;stats=200-2-8-2022" title="Zhejiang vs Wuhan FC">stats</a>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 30 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=6-wuhan-three-t.">Wuhan Three T.</a> - <a href="team.asp?league=china&amp;stats=14-tianjin-t.">Tianjin T.</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>3 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.13">2.13</progress><font style="color:#888888;font-size:11px;">2.13</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m204&amp;st1=6&amp;st2=14">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 27 Dec</font></td>
-<td><a href="team.asp?league=china&amp;stats=6-wuhan-three-t.">Wuhan Three T.</a> - <a href="team.asp?league=china&amp;stats=2-zhejiang">Zhejiang</a></td>
-<td></td>
-<td width="50">
-<font color="#606060"><b>2 - 0</b></font>
-</td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.07">2.07</progress><font style="color:#888888;font-size:11px;">2.07</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.75">1.75</progress><font style="color:#888888;font-size:11px;">1.75</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=china&amp;mrevid=m298&amp;st1=6&amp;st2=2">analysis</a>
-</td>
-</tr>
-</tbody>
 </table>
