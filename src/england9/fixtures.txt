@@ -5,40 +5,24 @@
 </td>
 </tr>
 <tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england9&amp;stats=12-belper-town">Belper Town</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">13:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Belper Town</b>:
-0.60
-points per game
-at home
-<br/><b>Stafford</b>:
-1.20
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="black">
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england9&amp;stats=17-stafford">Stafford</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england9&amp;stats=168-12-17-2023" title="Belper Town vs Stafford">stats</a>
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Mo 2 Jan</td>
+<td align="right"><a href="team.asp?league=england9&amp;stats=12-belper-town">Belper Town</a> </td>
+<td align="center" width="45">
+<font color="#404040"><b>2 - 1</b></font>
+</td>
+<td align="left"> <a href="team.asp?league=england9&amp;stats=17-stafford">Stafford</a> </td>
+<td align="left" valign="middle">
+<a class="vsmall" href="round_details.asp?league=england9&amp;mrevid=m168&amp;st1=12&amp;st2=17">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Mo 2 Jan</td>
+<td align="right"><a href="team.asp?league=england9&amp;stats=14-whitby-town">Whitby Town</a> </td>
+<td align="center" width="45">
+pp.
+</td>
+<td align="left"> <a href="team.asp?league=england9&amp;stats=11-marske-united">Marske United</a> </td>
+<td align="left" valign="middle">
 </td>
 </tr>
 <tr class="odd" height="32">
@@ -383,43 +367,6 @@ Click the Stats button for more stats on those teams.
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england9&amp;stats=9-liversedge">Liversedge</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=england9&amp;stats=174-16-9-2023" title="Stalybridge vs Liversedge">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england9&amp;stats=14-whitby-town">Whitby Town</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">15:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Whitby Town</b>:
-1.00
-points per game
-at home
-<br/><b>Marske United</b>:
-1.44
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="black">
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england9&amp;stats=11-marske-united">Marske United</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england9&amp;stats=175-14-11-2023" title="Whitby Town vs Marske United">stats</a>
 </td>
 </tr>
 </table>
