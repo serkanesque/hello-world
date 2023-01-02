@@ -6,30 +6,29 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=16-brentford">Brentford</a></td>
+<font style="font-size:10px;color:#666666;">Su 1 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=11-tottenham">Tottenham</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:30</font>
+<font color="green" size="1">14:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Brentford</b>:
-1.63
+<b>Tottenham</b>:
+2.25
 points per game
 at home
-<br/><b>Liverpool</b>:
-1.14
+<br/><b>Aston Villa</b>:
+0.63
 points per game
 away
 <br/><br/>
 <font color="black">
-Brentford have drawn their last 3 home matches.
 </font>
 <br/>
-<font color="green">
-Liverpool have won their last 4 matches.
+<font color="black">
+72% of Aston Villa's points have been earned at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +37,47 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=4-liverpool">Liverpool</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=6-aston-villa">Aston Villa</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england&amp;stats=383-16-4-2023" title="Brentford vs Liverpool">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=378-11-6-2023" title="Tottenham vs Aston Villa">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 1 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=10-nottm-forest">Nottm Forest</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">16:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Nottm Forest</b>:
+1.38
+points per game
+at home
+<br/><b>Chelsea</b>:
+1.25
+points per game
+away
+<br/><br/>
+<font color="black">
+Nottm Forest have scored 91% of their goals at home.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=14-chelsea">Chelsea</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=377-10-14-2023" title="Nottm Forest vs Chelsea">stats</a>
 </td>
 </tr>
 </table>
