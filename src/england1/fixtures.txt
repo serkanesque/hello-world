@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 3 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=2-arsenal">Arsenal</a></td>
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=12-southampton">Southampton</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:45</font>
+<font color="green" size="1">19:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Arsenal</b>:
-3.00
+<b>Southampton</b>:
+0.75
 points per game
 at home
-<br/><b>Newcastle Utd</b>:
-1.88
+<br/><b>Nottm Forest</b>:
+0.25
 points per game
 away
 <br/><br/>
-<font color="green">
-Arsenal have won their last 5 matches.
+<font color="red">
+Southampton have lost their last 5 matches.
 </font>
 <br/>
-<font color="green">
-Newcastle Utd have been undefeated in their last 12 matches.
+<font color="red">
+Nottm Forest have failed to score in their last 6 away matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,15 +38,15 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=9-newcastle-utd">Newcastle Utd</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=10-nottm-forest">Nottm Forest</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england&amp;stats=381-2-9-2023" title="Arsenal vs Newcastle Utd">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=390-12-10-2023" title="Southampton vs Nottm Forest">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 3 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=13-everton">Everton</a></td>
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=7-leeds-utd">Leeds Utd</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -54,19 +54,21 @@ Click the Stats button for more stats on those teams.
 </div>
 <span>
 <div style="text-align:left;">
-<b>Everton</b>:
-1.00
+<b>Leeds Utd</b>:
+1.38
 points per game
 at home
-<br/><b>Brighton</b>:
-1.63
+<br/><b>West Ham Utd</b>:
+0.50
 points per game
 away
 <br/><br/>
 <font color="black">
+69% of Leeds Utd's points have been earned at home.
 </font>
 <br/>
-<font color="black">
+<font color="red">
+West Ham Utd have lost their last 5 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -75,53 +77,15 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=18-brighton">Brighton</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=19-west-ham-utd">West Ham Utd</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england&amp;stats=386-13-18-2023" title="Everton vs Brighton">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=387-7-19-2023" title="Leeds Utd vs West Ham Utd">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 3 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=15-leicester-city">Leicester City</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">19:45</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Leicester City</b>:
-1.00
-points per game
-at home
-<br/><b>Fulham</b>:
-1.25
-points per game
-away
-<br/><br/>
-<font color="black">
-Leicester City have scored 65% of their goals away.
-</font>
-<br/>
-<font color="black">
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=3-fulham">Fulham</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england&amp;stats=388-15-3-2023" title="Leicester City vs Fulham">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 3 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=17-manchester-utd">Manchester Utd</a></td>
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=6-aston-villa">Aston Villa</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -129,21 +93,20 @@ Click the Stats button for more stats on those teams.
 </div>
 <span>
 <div style="text-align:left;">
-<b>Manchester Utd</b>:
-2.29
+<b>Aston Villa</b>:
+1.63
 points per game
 at home
-<br/><b>Bournemouth</b>:
+<br/><b>Wolverhampton</b>:
 0.63
 points per game
 away
 <br/><br/>
-<font color="green">
-Manchester Utd have won their last 3 matches.
+<font color="black">
 </font>
 <br/>
 <font color="black">
-69% of Bournemouth's points have been earned at home.
+Wolverhampton have scored 70% of their goals in the first half.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -152,9 +115,46 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=5-bournemouth">Bournemouth</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=8-wolverhampton">Wolverhampton</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england&amp;stats=389-17-5-2023" title="Manchester Utd vs Bournemouth">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=382-6-8-2023" title="Aston Villa vs Wolverhampton">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 4 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england&amp;stats=1-crystal-palace">Crystal Palace</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Crystal Palace</b>:
+1.63
+points per game
+at home
+<br/><b>Tottenham</b>:
+1.50
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england&amp;stats=11-tottenham">Tottenham</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england&amp;stats=385-1-11-2023" title="Crystal Palace vs Tottenham">stats</a>
 </td>
 </tr>
 </table>
