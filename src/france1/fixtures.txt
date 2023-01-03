@@ -5,62 +5,18 @@
 </td>
 </tr>
 <tr class="odd" height="32">
-<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Mo 2 Jan</td>
-<td align="right"><a href="team.asp?league=france&amp;stats=3-strasbourg">Strasbourg</a> </td>
-<td align="center" width="45">
-<a class="tooltip4" href="#m350" title="match 350">
-<font color="blue"><b>2 - 3</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;">
-<font style="color:#000000;">
-<br/>    
-<b>0-1</b>  
-<font color="#000000">Renaud Ripart (16)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>0-2</b>  
-<font color="#000000">Rony Lopes (20)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>1-2</b>  
-<font color="#000000">H. Diallo (41)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>2-2</b>  
-<font color="#000000">I. Doukoure (54)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>2-3</b>  
-<font color="#000000">Xavier Chavalerin (78)</font>
-</font>
-</div>
-</span>
-</a>
-</td>
-<td align="left"> <a href="team.asp?league=france&amp;stats=14-troyes">Troyes</a> </td>
-<td align="left" valign="middle">
-<a class="vsmall" href="round_details.asp?league=france&amp;mrevid=m350&amp;st1=3&amp;st2=14">analysis</a>
-</td>
-</tr>
-<tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=9-lille">Lille</a></td>
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=2-ac-ajaccio">AC Ajaccio</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">16:00</font>
+<font color="green" size="1">18:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Lille</b>:
-2.00
+<b>AC Ajaccio</b>:
+0.88
 points per game
 at home
 <br/><b>Reims</b>:
@@ -69,11 +25,10 @@ points per game
 away
 <br/><br/>
 <font color="black">
-65% of Lille's conceded goals were conceded at home.
 </font>
 <br/>
 <font color="green">
-Reims have been undefeated in their last 8 matches.
+Reims have been undefeated in their last 9 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -84,13 +39,13 @@ Click the Stats button for more stats on those teams.
 </a>
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=20-reims">Reims</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=343-9-20-2023" title="Lille vs Reims">stats</a>
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=351-2-20-2023" title="AC Ajaccio vs Reims">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=13-montpellier">Montpellier</a></td>
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=10-auxerre">Auxerre</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -98,21 +53,332 @@ Click the Stats button for more stats on those teams.
 </div>
 <span>
 <div style="text-align:left;">
-<b>Montpellier</b>:
-1.25
+<b>Auxerre</b>:
+1.13
 points per game
 at home
-<br/><b>Marseille</b>:
-2.00
+<br/><b>Toulouse</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="red">
+Auxerre have lost their last 3 matches.
+</font>
+<br/>
+<font color="black">
+79% of Toulouse's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=7-toulouse">Toulouse</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=352-10-7-2023" title="Auxerre vs Toulouse">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=16-brest">Brest</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Brest</b>:
+0.75
+points per game
+at home
+<br/><b>Lille</b>:
+1.63
 points per game
 away
 <br/><br/>
 <font color="black">
-Montpellier have scored 62% of their goals in the first half.
+Brest have scored 61% of their goals away.
+</font>
+<br/>
+<font color="black">
+67% of Lille's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=9-lille">Lille</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=359-16-9-2023" title="Brest vs Lille">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=5-clermont">Clermont</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Clermont</b>:
+1.25
+points per game
+at home
+<br/><b>Rennes</b>:
+1.25
+points per game
+away
+<br/><br/>
+<font color="black">
+80% of Clermont's goals have been scored in the second half.
+</font>
+<br/>
+<font color="black">
+71% of Rennes's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=17-rennes">Rennes</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=353-5-17-2023" title="Clermont vs Rennes">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=12-nantes">Nantes</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Nantes</b>:
+1.63
+points per game
+at home
+<br/><b>Lyon</b>:
+0.88
+points per game
+away
+<br/><br/>
+<font color="black">
+78% of Nantes's goals have been scored in the second half.
+</font>
+<br/>
+<font color="black">
+71% of Lyon's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=1-lyon">Lyon</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=355-12-1-2023" title="Nantes vs Lyon">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=18-lorient">Lorient</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Lorient</b>:
+1.63
+points per game
+at home
+<br/><b>Monaco</b>:
+2.38
+points per game
+away
+<br/><br/>
+<font color="red">
+Lorient have lost their last 3 home matches.
+</font>
+<br/>
+<font color="black">
+65% of Monaco's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=4-monaco">Monaco</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=354-18-4-2023" title="Lorient vs Monaco">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=8-nice">Nice</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Nice</b>:
+1.13
+points per game
+at home
+<br/><b>Montpellier</b>:
+0.88
+points per game
+away
+<br/><br/>
+<font color="black">
+Nice have scored 62% of their goals away.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=13-montpellier">Montpellier</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=356-8-13-2023" title="Nice vs Montpellier">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=6-paris-sg">Paris SG</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Paris SG</b>:
+2.75
+points per game
+at home
+<br/><b>Angers</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="green">
+Paris SG have been undefeated in their last 8 home matches.
+</font>
+<br/>
+<font color="red">
+Angers have lost their last 9 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=11-angers">Angers</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=357-6-11-2023" title="Paris SG vs Angers">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=3-strasbourg">Strasbourg</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Strasbourg</b>:
+0.56
+points per game
+at home
+<br/><b>Lens</b>:
+1.63
+points per game
+away
+<br/><br/>
+<font color="red">
+Strasbourg have failed to win in their last 7 matches.
 </font>
 <br/>
 <font color="green">
-Marseille have won their last 3 matches.
+Lens have been undefeated in their last 7 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=15-lens">Lens</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=358-3-15-2023" title="Strasbourg vs Lens">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">We 11 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=14-troyes">Troyes</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Troyes</b>:
+1.13
+points per game
+at home
+<br/><b>Marseille</b>:
+2.13
+points per game
+away
+<br/><br/>
+<font color="black">
+Troyes have drawn their last 6 home matches.
+</font>
+<br/>
+<font color="green">
+Marseille have won their last 4 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -123,46 +389,7 @@ Click the Stats button for more stats on those teams.
 </a>
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=19-marseille">Marseille</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=349-13-19-2023" title="Montpellier vs Marseille">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 2 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france&amp;stats=17-rennes">Rennes</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">20:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Rennes</b>:
-2.63
-points per game
-at home
-<br/><b>Nice</b>:
-1.50
-points per game
-away
-<br/><br/>
-<font color="green">
-Rennes have won their last 7 home matches.
-</font>
-<br/>
-<font color="green">
-Nice have been undefeated in their last 7 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france&amp;stats=8-nice">Nice</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france&amp;stats=346-17-8-2023" title="Rennes vs Nice">stats</a>
+<a class="vsmall" href="pmatch.asp?league=france&amp;stats=360-14-19-2023" title="Troyes vs Marseille">stats</a>
 </td>
 </tr>
 </table>

@@ -86,11 +86,11 @@ Rushall
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 3
@@ -100,20 +100,20 @@ Rushall
 </td>
 <td align="center">
 <font color="blue">
-16
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-6
+7
 </font>
 </td>
 <td align="center">
-+10
++11
 </td>
 <td align="center">
 <b>
-21
+24
 </b>
 </td>
 </tr>
@@ -211,6 +211,49 @@ Leiston
 </font>
 </td>
 <td style="padding-left:4px;">
+Nuneaton Town
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+19
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+20
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Redditch Utd
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Redditch Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,86 +335,43 @@ Bromsgrove
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Nuneaton Town
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-17
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 8
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-St. Ives Town
+Stourbridge
 </td>
 <td align="center">
 <font color="green">
-8
+12
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-1
+4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-15
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+18
 </font>
 </td>
 <td align="center">
-0
++1
 </td>
 <td align="center">
 <b>
-13
+16
 </b>
 </td>
 </tr>
@@ -383,11 +383,11 @@ St. Ives Town
 </font>
 </td>
 <td style="padding-left:4px;">
-Stourbridge
+Ilkeston Town
 </td>
 <td align="center">
 <font color="green">
-11
+10
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Stourbridge
 4
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Stourbridge
 </td>
 <td align="center">
 <font color="red">
-18
+14
 </font>
 </td>
 <td align="center">
--2
++2
 </td>
 <td align="center">
 <b>
@@ -426,11 +426,11 @@ Stourbridge
 </font>
 </td>
 <td style="padding-left:4px;">
-Hitchin Town
+St. Ives Town
 </td>
 <td align="center">
 <font color="green">
-12
+9
 </font>
 </td>
 <td align="center">
@@ -440,20 +440,20 @@ Hitchin Town
 1
 </td>
 <td align="center">
-7
+4
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+17
 </font>
 </td>
 <td align="center">
--9
+-1
 </td>
 <td align="center">
 <b>
@@ -512,21 +512,21 @@ Kings Langley
 </font>
 </td>
 <td style="padding-left:4px;">
-Ilkeston Town
+Hitchin Town
 </td>
 <td align="center">
 <font color="green">
-9
+13
 </font>
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
-3
+1
 </td>
 <td align="center">
-3
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -535,15 +535,15 @@ Ilkeston Town
 </td>
 <td align="center">
 <font color="red">
-13
+27
 </font>
 </td>
 <td align="center">
-+2
+-12
 </td>
 <td align="center">
 <b>
-12
+13
 </b>
 </td>
 </tr>
@@ -774,7 +774,7 @@ Alvechurch
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Alvechurch
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Alvechurch
 </td>
 <td align="center">
 <font color="red">
-17
+20
 </font>
 </td>
 <td align="center">
--6
+-9
 </td>
 <td align="center">
 <b>
