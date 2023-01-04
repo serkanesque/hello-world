@@ -1,0 +1,45 @@
+<table id="btable" width="100%">
+<tr style="pointer-events:none;">
+<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
+<h2 style="padding-bottom:6px;">Matches</h2>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 9 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=1-psis-semarang">PSIS Semarang</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">09:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>PSIS Semarang</b>:
+1.86
+points per game
+at home
+<br/><b>Bhayangkara S.</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+Bhayangkara S. have lost their last 5 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=11-bhayangkara-s.">Bhayangkara S.</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=97-1-11-2023" title="PSIS Semarang vs Bhayangkara S.">stats</a>
+</td>
+</tr>
+</table>
