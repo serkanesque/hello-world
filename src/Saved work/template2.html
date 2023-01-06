@@ -7838,6 +7838,20 @@ for (var j = 0; j < fixTableTRs.length; j++) {
       let testPastGamesHomeAndAway =  calculateProbabilites2(scoreDataArray6HomeAndAway,poissonPredictionHomeAndAwayHomeTeam);
       console.log("scoreDataArray6HomeAndAway",testPastGamesHomeAndAway)
 
+
+
+  //el[0].innerHTML = displayPoissonScores(scoreDataArray,homeTeam, "Season Poisson");
+
+  let probabilities = scoreDataArraySingle.filter(el => el.homeSide ==  last6GamesHometeamTableTrs[t].childNodes[0].textContent );
+   threeGoalsProbabilty = 0;
+ for (let j = 0; j < probabilities.length; j++) {  
+  if(probabilities[j].home + slicedArray[j].away > 2 ) {
+    threeGoalsProbabilty += probabilities[j].probability2;
+  }
+}
+
+console.log("threeGoalsProbabilty",threeGoalsProbabilty)
+
      //console.log("scoreDataArray6HomeAndAway",scoreDataArray6HomeAndAway)
    // let scoreDataArrayHomeAndAwaySingle =  scoreDataSingle(poissonTableHomeAndAwaySingle2,poissonPredictionHomeTeam ,poissonPredictionAwayTeam);
    // scoreDataArray6HomeAndAway = scoreDataHomeAway(poissonTableHomeAndAway6);
@@ -7909,7 +7923,7 @@ if(testPastGamesLast6.winP > testPastGamesLast6.drawP && testPastGamesLast6.draw
    
      last6GamesHometeamTableTrs[t].childNodes[4].innerHTML = 
      
-     `<div style='display:flex;'><div class='${poissonResultClass}'>${(testPastGames.winP).toFixed(2)}</div><br><div class='${poissonResultClass}'>${(testPastGames.drawP).toFixed(2)}</div><br><div class='${poissonResultClass}'>${(testPastGames.lossP).toFixed(2)}</div></div>
+     `<div style='display:flex;'><div class='${poissonResultClass}'>${(testPastGames.winP).toFixed(2)}</div><br><div class='${poissonResultClass}'>${(testPastGames.drawP).toFixed(2)}</div><br><div class='${poissonResultClass}'>${(testPastGames.lossP).toFixed(2)} /// ${threeGoalsProbabilty.toFixed(2)}<</div></div>
      <div class='${poissonResultClass2}'>${(testPastGamesLast6.winP).toFixed(2)}</div><div class='${poissonResultClass2}'>${(testPastGamesLast6.drawP).toFixed(2)}</div><div class='${poissonResultClass2}'>${(testPastGamesLast6.lossP).toFixed(2)}</div></div>
      <div class='${poissonResultClass3}'>${(testPastGamesHomeAndAway.winP).toFixed(2)}</div><div class='${poissonResultClass3}'>${(testPastGamesHomeAndAway.drawP).toFixed(2)}</div><div class='${poissonResultClass3}'>${(testPastGamesHomeAndAway.lossP).toFixed(2)}</div></div>`;
 
