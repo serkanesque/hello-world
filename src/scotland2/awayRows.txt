@@ -39,6 +39,49 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
+Queen`s Park
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+24
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Dundee FC
 </td>
 <td align="center">
@@ -77,7 +120,7 @@ Dundee FC
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-2
+3
 </b>
 </font>
 </td>
@@ -120,16 +163,16 @@ Ayr Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-3
+4
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Queen`s Park
+Inverness
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -139,20 +182,20 @@ Queen`s Park
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-18
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-15
+18
 </font>
 </td>
 <td align="center">
-+3
+-4
 </td>
 <td align="center">
 <b>
@@ -163,7 +206,7 @@ Queen`s Park
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -172,7 +215,7 @@ Greenock Morton
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -182,67 +225,24 @@ Greenock Morton
 5
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
-12
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--2
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Inverness
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
--7
-</td>
-<td align="center">
-<b>
 13
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+14
 </b>
 </td>
 </tr>
@@ -387,7 +387,7 @@ Hamilton
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Hamilton
 3
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Hamilton
 </td>
 <td align="center">
 <font color="red">
-21
+22
 </font>
 </td>
 <td align="center">
--14
+-15
 </td>
 <td align="center">
 <b>
