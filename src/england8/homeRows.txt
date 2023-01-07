@@ -39,6 +39,49 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
+Billericay Town
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+27
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
++9
+</td>
+<td align="center">
+<b>
+28
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+2
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Hornchurch
 </td>
 <td align="center">
@@ -77,98 +120,12 @@ Hornchurch
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-2
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-B. Stortford
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-6
-</font>
-</td>
-<td align="center">
-+14
-</td>
-<td align="center">
-<b>
-25
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 3
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
 Carshalton
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-16
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-+8
-</td>
-<td align="center">
-<b>
-25
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-4
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Billericay Town
 </td>
 <td align="center">
 <font color="green">
@@ -179,23 +136,66 @@ Billericay Town
 8
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
 <font color="blue">
-25
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-18
+9
 </font>
 </td>
 <td align="center">
-+7
++8
+</td>
+<td align="center">
+<b>
+26
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+B. Stortford
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+<font color="blue">
+20
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++11
 </td>
 <td align="center">
 <b>
@@ -301,26 +301,26 @@ Canvey Island
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
 7
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
 <font color="blue">
-21
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+15
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Canvey Island
 </td>
 <td align="center">
 <b>
-23
+24
 </b>
 </td>
 </tr>
@@ -387,7 +387,7 @@ Enfield Town
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -397,7 +397,7 @@ Enfield Town
 3
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -406,11 +406,11 @@ Enfield Town
 </td>
 <td align="center">
 <font color="red">
-11
+12
 </font>
 </td>
 <td align="center">
-+8
++7
 </td>
 <td align="center">
 <b>
@@ -516,7 +516,7 @@ Hastings Utd
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -526,7 +526,7 @@ Hastings Utd
 1
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -535,11 +535,11 @@ Hastings Utd
 </td>
 <td align="center">
 <font color="red">
-9
+12
 </font>
 </td>
 <td align="center">
-+9
++6
 </td>
 <td align="center">
 <b>
@@ -551,6 +551,49 @@ Hastings Utd
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Bognor Regis
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+18
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+19
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -587,49 +630,6 @@ Potters Bar
 <td align="center">
 <b>
 19
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Bognor Regis
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
-+3
-</td>
-<td align="center">
-<b>
-18
 </b>
 </td>
 </tr>
@@ -731,26 +731,26 @@ Margate
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
 <font color="blue">
-17
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-18
+21
 </font>
 </td>
 <td align="center">
@@ -758,7 +758,7 @@ Margate
 </td>
 <td align="center">
 <b>
-13
+14
 </b>
 </td>
 </tr>
@@ -860,7 +860,7 @@ Corinthian-C.
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -870,7 +870,7 @@ Corinthian-C.
 1
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -879,11 +879,11 @@ Corinthian-C.
 </td>
 <td align="center">
 <font color="red">
-19
+21
 </font>
 </td>
 <td align="center">
--6
+-8
 </td>
 <td align="center">
 <b>
@@ -899,15 +899,15 @@ Corinthian-C.
 </font>
 </td>
 <td style="padding-left:4px;">
-Wingate &amp; F.
+Herne Bay
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 4
@@ -917,20 +917,20 @@ Wingate &amp; F.
 </td>
 <td align="center">
 <font color="blue">
-12
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-17
+25
 </font>
 </td>
 <td align="center">
--5
+-9
 </td>
 <td align="center">
 <b>
-7
+10
 </b>
 </td>
 </tr>
@@ -942,11 +942,11 @@ Wingate &amp; F.
 </font>
 </td>
 <td style="padding-left:4px;">
-Herne Bay
+Wingate &amp; F.
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -956,20 +956,20 @@ Herne Bay
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-13
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+19
 </font>
 </td>
 <td align="center">
--11
+-7
 </td>
 <td align="center">
 <b>

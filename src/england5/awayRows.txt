@@ -43,11 +43,11 @@ Notts County
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 4
@@ -57,7 +57,7 @@ Notts County
 </td>
 <td align="center">
 <font color="blue">
-39
+42
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Notts County
 </font>
 </td>
 <td align="center">
-+20
++23
 </td>
 <td align="center">
 <b>
-28
+31
 </b>
 </td>
 </tr>
@@ -129,11 +129,11 @@ Woking
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 2
@@ -143,20 +143,20 @@ Woking
 </td>
 <td align="center">
 <font color="blue">
-17
+19
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
-+7
++8
 </td>
 <td align="center">
 <b>
-20
+23
 </b>
 </td>
 </tr>
@@ -473,7 +473,7 @@ Solihull Moors
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -483,7 +483,7 @@ Solihull Moors
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -492,11 +492,11 @@ Solihull Moors
 </td>
 <td align="center">
 <font color="red">
-17
+20
 </font>
 </td>
 <td align="center">
--2
+-5
 </td>
 <td align="center">
 <b>
@@ -641,30 +641,30 @@ Dagenham &amp; R.
 </font>
 </td>
 <td style="padding-left:4px;">
-Maidenhead Utd
+Gateshead FC
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
-1
+4
 </td>
 <td align="center">
-8
+7
 </td>
 <td align="center">
 <font color="blue">
-12
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+22
 </font>
 </td>
 <td align="center">
@@ -680,6 +680,49 @@ Maidenhead Utd
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 16
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Maidenhead Utd
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
+-11
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+17
 </b>
 </font>
 </td>
@@ -722,49 +765,6 @@ Torquay Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Gateshead FC
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-13
-</font>
-</td>
-<td align="center">
-<font color="red">
-21
-</font>
-</td>
-<td align="center">
--8
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 18
 </b>
 </font>
@@ -774,7 +774,7 @@ Halifax Town
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Halifax Town
 3
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Halifax Town
 </td>
 <td align="center">
 <font color="red">
-18
+19
 </font>
 </td>
 <td align="center">
--9
+-10
 </td>
 <td align="center">
 <b>
@@ -899,7 +899,7 @@ Yeovil Town
 </font>
 </td>
 <td style="padding-left:4px;">
-Maidstone Utd
+Oldham
 </td>
 <td align="center">
 <font color="green">
@@ -907,26 +907,26 @@ Maidstone Utd
 </font>
 </td>
 <td align="center">
-2
-</td>
-<td align="center">
 1
 </td>
 <td align="center">
-10
+4
+</td>
+<td align="center">
+8
 </td>
 <td align="center">
 <font color="blue">
-16
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-36
+21
 </font>
 </td>
 <td align="center">
--20
+-10
 </td>
 <td align="center">
 <b>
@@ -942,11 +942,54 @@ Maidstone Utd
 </font>
 </td>
 <td style="padding-left:4px;">
+Maidstone Utd
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+11
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+40
+</font>
+</td>
+<td align="center">
+-23
+</td>
+<td align="center">
+<b>
+7
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+23
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Eastleigh
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
@@ -956,20 +999,20 @@ Eastleigh
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-10
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+23
 </font>
 </td>
 <td align="center">
--10
+-12
 </td>
 <td align="center">
 <b>
@@ -980,7 +1023,7 @@ Eastleigh
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-23
+24
 </b>
 </font>
 </td>
@@ -1017,49 +1060,6 @@ Scunthorpe
 <td align="center">
 <b>
 5
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-24
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Oldham
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--14
-</td>
-<td align="center">
-<b>
-4
 </b>
 </td>
 </tr>
