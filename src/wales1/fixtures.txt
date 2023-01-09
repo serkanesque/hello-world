@@ -1,259 +1,269 @@
 <table id="btable" width="100%">
-<tr style="pointer-events:none;">
-<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
-<h2 style="padding-bottom:6px;">Matches</h2>
+<thead>
+<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
+<h3>Results &amp; pre-match Points per Game (PPG)</h3>
 </td>
+<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
+<td></td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">19:45</font>
-</div>
+</thead>
+<tbody>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 7 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a> - <a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m32">
+<font color="blue"><b>0 - 2</b></font>
 <span>
-<div style="text-align:left;">
-<font color="red">
-Airbus UK have lost their last 13 matches.
-</font>
-<font color="red">
-Airbus UK have failed to win in their last 20 matches.
-</font>
-<font color="red">
-Airbus UK have failed to score in their last 4 matches.
-</font>
-<font color="red">
-Airbus UK conceded at least one goal in each of their last 20 matches.
-</font>
-<font color="black">
-75% of Airbus UK's matches had over 2.5 goals scored in total.
-</font>
-<font color="red">
-Airbus UK conceded at least one goal in each of their 10 home matches.
-</font>
-<font color="red">
-Airbus UK have failed to score in 5 of their 10 home matches.
-</font>
-<font color="black">
-100% of Airbus UK's points have been earned at home.
-</font>
-<font color="red">
-Airbus UK have conceded the opening goal in 16 of their 20 matches.
-</font>
-<font color="red">
-Airbus UK have lost 19 of their 20 matches.
-</font>
-<font color="red">
-Airbus UK have lost 9 of their 10 home matches.
-</font>
-<font color="red">
-Airbus UK have lost their last 7 home matches.
-</font>
-<font color="red">
-Airbus UK have failed to win in their last 10 home matches.
-</font>
-<font color="red">
-Airbus UK conceded at least one goal in each of their last 10 home matches.
-</font>
-<font color="red">
-Airbus UK have conceded 2 goals or more in each of their last 9 matches.
-</font>
-<font color="red">
-Airbus UK have conceded 2 goals or more in each of their last 10 home matches.
-</font>
+<div style="text-align:left;font-size:13px;line-height:16px;">
 <br/>
-<font color="red">
-Caernarfon Town have lost their last 6 matches.
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">D. Bowen (60)</font>
 </font>
-<font color="red">
-Caernarfon Town have failed to win in their last 8 matches.
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">Thomas Davies (90)</font>
 </font>
-<font color="red">
-Caernarfon Town conceded at least one goal in each of their last 8 matches.
-</font>
-<font color="black">
-70% of Caernarfon Town's matches had over 2.5 goals scored in total.
-</font>
-<font color="black">
-82% of Caernarfon Town's points have been earned at home.
-</font>
-<font color="black">
-72% of Caernarfon Town's goals have been scored in the second half.
-</font>
-<font color="red">
-Caernarfon Town have lost 7 of their 9 away matches.
-</font>
-<font color="red">
-Caernarfon Town have conceded 2 goals or more in each of their last 4 away matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=103-1-6-2023" title="Airbus UK vs Caernarfon Town">stats</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="0.11">0.11</progress><font style="color:#888888;font-size:11px;">0.11</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.30">1.30</progress><font style="color:#888888;font-size:11px;">1.30</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m32&amp;st1=1&amp;st2=3">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">19:45</font>
-</div>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 7 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a> - <a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m33">
+<font color="blue"><b>3 - 0</b></font>
 <span>
-<div style="text-align:left;">
-<font color="green">
-Bala Town have won their last 5 home matches.
-</font>
-<font color="black">
-28% of Bala Town's conceded goals occurred in the first 15 minutes.
+<div style="text-align:left;font-size:13px;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">C. Venables (17)</font>
 </font>
 <br/>
-<font color="green">
-Connah's Quay have been undefeated in their last 14 matches.
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">L. Wall (49)</font>
 </font>
-<font color="green">
-Connah's Quay did not concede any goal in 5 of their 9 away matches.
+<font style="color:#000000;">
+<br/>
+<b>3-0</b>  
+<font color="#000000">L. Mendes (72)</font>
 </font>
-<font color="black">
-67% of Connah's Quay's points have been earned at home.
-</font>
-<font color="green">
-Connah's Quay have scored the opening goal in 15 of their 20 matches.
-</font>
-<font color="green">
-Connah's Quay have been undefeated in their last 6 away matches.
-</font>
-<font color="black">
-50% of Connah's Quay's conceded goals occurred after the 75th minute.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah`s Quay</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=104-12-4-2023" title="Bala Town vs Connah`s Quay">stats</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.22">2.22</progress><font style="color:#888888;font-size:11px;">2.22</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.56">0.56</progress><font style="color:#888888;font-size:11px;">0.56</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m33&amp;st1=12&amp;st2=9">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">19:45</font>
-</div>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 7 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a> - <a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m34">
+<font color="blue"><b>0 - 0</b></font>
 <span>
-<div style="text-align:left;">
-<font color="black">
-70% of Flint's matches had under 2.5 goals in total.
-</font>
-<font color="red">
-Flint conceded at least one goal in 7 of their 9 home matches.
-</font>
+<div style="text-align:left;font-size:13px;line-height:16px;">
 <br/>
-<font color="green">
-The New Saints have won 17 of their 20 matches.
-</font>
-<font color="green">
-The New Saints have won 7 of their 10 away matches.
-</font>
-<font color="green">
-The New Saints have won their last 4 matches.
-</font>
-<font color="green">
-The New Saints have been undefeated in their last 20 matches.
-</font>
-<font color="green">
-The New Saints did not concede any goal in 8 of their 10 away matches.
-</font>
-<font color="green">
-The New Saints have scored in 8 of their 10 away matches.
-</font>
-<font color="black">
-71% of The New Saints's conceded goals were conceded at home.
-</font>
-<font color="green">
-The New Saints have scored the opening goal in 16 of their 20 matches.
-</font>
-<font color="green">
-The New Saints were leading at half-time in 13 of their 20 matches.
-</font>
-<font color="green">
-The New Saints have been undefeated in their last 10 away matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=133-10-8-2023" title="Flint vs The New Saints">stats</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.60">1.60</progress><font style="color:#888888;font-size:11px;">1.60</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.63">1.63</progress><font style="color:#888888;font-size:11px;">1.63</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m34&amp;st1=7&amp;st2=4">analysis</a>
 </td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">20:00</font>
-</div>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 7 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a> - <a href="team.asp?league=wales&amp;stats=5-haverfordwest">Haverfordwest</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m36">
+<font color="blue"><b>3 - 1</b></font>
 <span>
-<div style="text-align:left;">
-<font color="red">
-Aberystwyth have failed to win in their last 6 matches.
+<div style="text-align:left;font-size:13px;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">B. Clark (15)</font>
 </font>
-<font color="red">
-Aberystwyth conceded at least one goal in each of their last 20 matches.
-</font>
-<font color="black">
-90% of Aberystwyth's matches had over 2.5 goals scored in total.
-</font>
-<font color="red">
-Aberystwyth conceded at least one goal in each of their 9 home matches.
-</font>
-<font color="black">
-79% of Aberystwyth's points have been earned at home.
-</font>
-<font color="red">
-Aberystwyth were losing at half-time in 12 of their 20 matches.
-</font>
-<font color="red">
-Aberystwyth conceded at least one goal in each of their last 9 home matches.
-</font>
-<font color="black">
-Aberystwyth have scored 33% of their goals after the 75th minute.
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">R. Brobbel (19)</font>
 </font>
 <br/>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>2-1</b>  
+<font color="#000000">B. Fawcett (62)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>3-1</b>  
+<font color="#000000">D. McManus (89)</font>
+</font>
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=108-2-11-2023" title="Aberystwyth vs Penybont">stats</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="3.00">3.00</progress><font style="color:#888888;font-size:11px;">3.00</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.70">0.70</progress><font style="color:#888888;font-size:11px;">0.70</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m36&amp;st1=8&amp;st2=5">analysis</a>
 </td>
 </tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 7 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m35">
+<font color="blue"><b>5 - 1</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">K. Reffell (9)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">R. Reynolds (17)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>3-0</b>  
+<font color="#000000">J. Yorwerth (32)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>4-0</b>  
+<font color="#000000">K. Georgievsky (72)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>4-1</b>  
+<font color="#000000">I. Cartwright (78)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>5-1</b>  
+<font color="#000000">T. Tweedy (82)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.89">1.89</progress><font style="color:#888888;font-size:11px;">1.89</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.50">0.50</progress><font style="color:#888888;font-size:11px;">0.50</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m35&amp;st1=11&amp;st2=6">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Fr 6 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m31">
+<font color="blue"><b>1 - 1</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">J. Evans (37)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>1-1</b>  
+<font color="#000000">H. Owen (72)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.25">1.25</progress><font style="color:#888888;font-size:11px;">1.25</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.30">0.30</progress><font style="color:#888888;font-size:11px;">0.30</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m31&amp;st1=10&amp;st2=2">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 3 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a> - <a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m97">
+<font color="blue"><b>0 - 1</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;">
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">D. McManus (72)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.80">1.80</progress><font style="color:#888888;font-size:11px;">1.80</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="2.33">2.33</progress><font style="color:#888888;font-size:11px;">2.33</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m97&amp;st1=6&amp;st2=8">analysis</a>
+</td>
+</tr>
+</tbody>
 </table>
