@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=14-al-raed">Al Raed</a></td>
+<font style="font-size:10px;color:#666666;">Th 12 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=11-al-fateh">Al Fateh</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:30</font>
+<font color="green" size="1">12:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Al Raed</b>:
-1.00
+<b>Al Fateh</b>:
+1.50
 points per game
 at home
-<br/><b>Al Hilal</b>:
-2.33
+<br/><b>Al Ittifaq</b>:
+1.20
 points per game
 away
 <br/><br/>
-<font color="red">
-Al Raed have lost their last 3 home matches.
+<font color="black">
+77% of Al Fateh's conceded goals occurred in the second half.
 </font>
 <br/>
-<font color="green">
-Al Hilal have been undefeated in their last 7 matches.
+<font color="black">
+70% of Al Ittifaq's conceded goals occurred in the first half.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +38,48 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=4-al-hilal">Al Hilal</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=5-al-ittifaq">Al Ittifaq</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=97-14-4-2023" title="Al Raed vs Al Hilal">stats</a>
+<a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=98-11-5-2023" title="Al Fateh vs Al Ittifaq">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 12 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=6-al-taeee">Al Taeee</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">12:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Al Taeee</b>:
+2.40
+points per game
+at home
+<br/><b>Al Taawon</b>:
+2.17
+points per game
+away
+<br/><br/>
+<font color="black">
+81% of Al Taeee's conceded goals were conceded away.
+</font>
+<br/>
+<font color="black">
+77% of Al Taawon's conceded goals occurred in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=12-al-taawon">Al Taawon</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=99-6-12-2023" title="Al Taeee vs Al Taawon">stats</a>
 </td>
 </tr>
 </table>
