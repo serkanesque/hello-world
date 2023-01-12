@@ -11,7 +11,7 @@
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">08:15</font>
+<font color="green" size="1">08:00</font>
 </div>
 <span>
 <div style="text-align:left;">
@@ -46,28 +46,28 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=14-dewa-united">Dewa United</a></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=4-psm">PSM</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">08:15</font>
+<font color="green" size="1">08:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Dewa United</b>:
-1.11
+<b>PSM</b>:
+2.44
 points per game
 at home
-<br/><b>Persis Solo</b>:
-0.88
+<br/><b>PSS Sleman</b>:
+1.25
 points per game
 away
 <br/><br/>
-<font color="red">
-Dewa United have lost their last 3 matches.
+<font color="black">
 </font>
 <br/>
 <font color="black">
+62% of PSS Sleman's points have been earned away.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -76,9 +76,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=13-persis-solo">Persis Solo</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=3-pss-sleman">PSS Sleman</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=267-14-13-2023" title="Dewa United vs Persis Solo">stats</a>
+<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=266-4-3-2023" title="PSM vs PSS Sleman">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
@@ -160,7 +160,7 @@ Click the Stats button for more stats on those teams.
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=4-psm">PSM</a></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=14-dewa-united">Dewa United</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -168,20 +168,20 @@ Click the Stats button for more stats on those teams.
 </div>
 <span>
 <div style="text-align:left;">
-<b>PSM</b>:
-2.44
+<b>Dewa United</b>:
+1.11
 points per game
 at home
-<br/><b>PSS Sleman</b>:
-1.25
+<br/><b>Persis Solo</b>:
+0.88
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="red">
+Dewa United have lost their last 3 matches.
 </font>
 <br/>
 <font color="black">
-62% of PSS Sleman's points have been earned away.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -190,9 +190,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=3-pss-sleman">PSS Sleman</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=13-persis-solo">Persis Solo</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=266-4-3-2023" title="PSM vs PSS Sleman">stats</a>
+<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=267-14-13-2023" title="Dewa United vs Persis Solo">stats</a>
 </td>
 </tr>
 </table>
