@@ -6,21 +6,59 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 13 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=17-westerlo">Westerlo</a></td>
+<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=8-seraing">Seraing</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:45</font>
+<font color="green" size="1">15:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Westerlo</b>:
-1.89
+<b>Seraing</b>:
+0.11
 points per game
 at home
-<br/><b>OH Leuven</b>:
-1.30
+<br/><b>Standard Liege</b>:
+1.44
+points per game
+away
+<br/><br/>
+<font color="black">
+93% of Seraing's points have been earned away.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=1-standard-liege">Standard Liege</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=280-8-1-2023" title="Seraing vs Standard Liege">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=4-eupen">Eupen</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:15</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Eupen</b>:
+1.00
+points per game
+at home
+<br/><b>Sint-Truiden</b>:
+1.60
 points per game
 away
 <br/><br/>
@@ -36,9 +74,87 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=6-oh-leuven">OH Leuven</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=9-sint-truiden">Sint-Truiden</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=283-17-6-2023" title="Westerlo vs OH Leuven">stats</a>
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=285-4-9-2023" title="Eupen vs Sint-Truiden">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=13-kv-mechelen">KV Mechelen</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:15</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>KV Mechelen</b>:
+1.50
+points per game
+at home
+<br/><b>Oostende</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="black">
+79% of KV Mechelen's points have been earned at home.
+</font>
+<br/>
+<font color="red">
+Oostende have lost their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=16-oostende">Oostende</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=282-13-16-2023" title="KV Mechelen vs Oostende">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=12-krc-genk">KRC Genk</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>KRC Genk</b>:
+2.80
+points per game
+at home
+<br/><b>Zulte-Waregem</b>:
+0.67
+points per game
+away
+<br/><br/>
+<font color="green">
+KRC Genk have been undefeated in their last 10 home matches.
+</font>
+<br/>
+<font color="black">
+67% of Zulte-Waregem's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=7-zulte-waregem">Zulte-Waregem</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=278-12-7-2023" title="KRC Genk vs Zulte-Waregem">stats</a>
 </td>
 </tr>
 </table>
