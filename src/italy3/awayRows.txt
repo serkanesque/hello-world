@@ -129,14 +129,14 @@ Virtus Verona
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 2
@@ -156,7 +156,7 @@ Virtus Verona
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -168,38 +168,38 @@ Virtus Verona
 </font>
 </td>
 <td style="padding-left:4px;">
-Vicenza
+Pro Sesto
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
 <font color="blue">
-14
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+19
 </font>
 </td>
 <td align="center">
-+2
+-4
 </td>
 <td align="center">
 <b>
-17
+18
 </b>
 </td>
 </tr>
@@ -211,11 +211,11 @@ Vicenza
 </font>
 </td>
 <td style="padding-left:4px;">
-Pro Sesto
+Vicenza
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -225,7 +225,7 @@ Pro Sesto
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -234,11 +234,11 @@ Pro Sesto
 </td>
 <td align="center">
 <font color="red">
-18
+15
 </font>
 </td>
 <td align="center">
--4
+-1
 </td>
 <td align="center">
 <b>
@@ -383,6 +383,49 @@ Arzignano
 </font>
 </td>
 <td style="padding-left:4px;">
+Trento
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+13
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Lecco
 </td>
 <td align="center">
@@ -421,7 +464,7 @@ Lecco
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -430,7 +473,7 @@ Pro Vercelli
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -440,7 +483,7 @@ Pro Vercelli
 3
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -449,11 +492,11 @@ Pro Vercelli
 </td>
 <td align="center">
 <font color="red">
-15
+16
 </font>
 </td>
 <td align="center">
--1
+-2
 </td>
 <td align="center">
 <b>
@@ -464,7 +507,7 @@ Pro Vercelli
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-11
+12
 </b>
 </font>
 </td>
@@ -473,7 +516,7 @@ Pro Patria
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -483,7 +526,7 @@ Pro Patria
 3
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -492,50 +535,7 @@ Pro Patria
 </td>
 <td align="center">
 <font color="red">
-12
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-12
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-12
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Trento
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-16
+14
 </font>
 </td>
 <td align="center">
@@ -543,7 +543,7 @@ Trento
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -551,6 +551,49 @@ Trento
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Piacenza
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+20
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -593,7 +636,7 @@ Padova
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-14
+15
 </b>
 </font>
 </td>
@@ -602,7 +645,7 @@ Novara
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -612,7 +655,7 @@ Novara
 0
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -621,54 +664,11 @@ Novara
 </td>
 <td align="center">
 <font color="red">
-17
+19
 </font>
 </td>
 <td align="center">
--8
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Piacenza
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--9
+-10
 </td>
 <td align="center">
 <b>
@@ -727,6 +727,49 @@ Mantova
 </font>
 </td>
 <td style="padding-left:4px;">
+Juventus U23
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+7
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Sangiuliano CN
 </td>
 <td align="center">
@@ -765,93 +808,7 @@ Sangiuliano CN
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Juventus U23
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-6
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 19
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Pergolettese
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-<font color="blue">
-4
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--10
-</td>
-<td align="center">
-<b>
-3
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-20
 </b>
 </font>
 </td>
@@ -884,6 +841,49 @@ Triestina
 </td>
 <td align="center">
 -11
+</td>
+<td align="center">
+<b>
+3
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+20
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Pergolettese
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">
+4
+</font>
+</td>
+<td align="center">
+<font color="red">
+16
+</font>
+</td>
+<td align="center">
+-12
 </td>
 <td align="center">
 <b>
