@@ -6,30 +6,67 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=12-fc-volendam">FC Volendam</a></td>
+<font style="font-size:10px;color:#666666;">Su 15 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=13-vitesse-arnhem">Vitesse Arnhem</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:45</font>
+<font color="green" size="1">11:15</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>FC Volendam</b>:
-0.43
+<b>Vitesse Arnhem</b>:
+0.71
 points per game
 at home
-<br/><b>RKC Waalwijk</b>:
-0.86
+<br/><b>NEC Nijmegen</b>:
+1.29
+points per game
+away
+<br/><br/>
+<font color="black">
+Vitesse Arnhem have drawn their last 3 matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=15-nec-nijmegen">NEC Nijmegen</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=247-13-15-2023" title="Vitesse Arnhem vs NEC Nijmegen">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 15 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=3-fortuna-sittard">Fortuna Sittard</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">13:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Fortuna Sittard</b>:
+0.88
+points per game
+at home
+<br/><b>PSV Eindhoven</b>:
+1.71
 points per game
 away
 <br/><br/>
 <font color="red">
-FC Volendam have lost their last 5 home matches.
+Fortuna Sittard have failed to score in their last 3 home matches.
 </font>
 <br/>
 <font color="black">
-RKC Waalwijk have scored 72% of their goals at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,36 +75,37 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=9-rkc-waalwijk">RKC Waalwijk</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=7-psv-eindhoven">PSV Eindhoven</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=246-12-9-2023" title="FC Volendam vs RKC Waalwijk">stats</a>
+<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=248-3-7-2023" title="Fortuna Sittard vs PSV Eindhoven">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=1-heerenveen">Heerenveen</a></td>
+<font style="font-size:10px;color:#666666;">Su 15 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=18-go-ahead-eagles">Go Ahead Eagles</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:45</font>
+<font color="green" size="1">13:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Heerenveen</b>:
-1.57
+<b>Go Ahead Eagles</b>:
+1.13
 points per game
 at home
-<br/><b>AZ Alkmaar</b>:
-2.25
+<br/><b>FC Utrecht</b>:
+1.86
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="green">
+Go Ahead Eagles have been undefeated in their last 10 matches.
 </font>
 <br/>
 <font color="black">
-AZ Alkmaar have scored 62% of their goals away.
+FC Utrecht have scored 67% of their goals away.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -76,37 +114,76 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=17-az-alkmaar">AZ Alkmaar</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=10-fc-utrecht">FC Utrecht</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=242-1-17-2023" title="Heerenveen vs AZ Alkmaar">stats</a>
+<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=249-18-10-2023" title="Go Ahead Eagles vs FC Utrecht">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=4-ajax-amsterdam">Ajax Amsterdam</a></td>
+<font style="font-size:10px;color:#666666;">Su 15 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=8-fc-emmen">FC Emmen</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">20:00</font>
+<font color="green" size="1">15:45</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Ajax Amsterdam</b>:
-2.00
-points per game
-at home
-<br/><b>FC Twente</b>:
+<b>FC Emmen</b>:
 1.14
 points per game
+at home
+<br/><b>Cambuur</b>:
+0.71
+points per game
 away
 <br/><br/>
-<font color="black">
-Ajax Amsterdam have drawn their last 3 matches.
+<font color="red">
+FC Emmen have failed to win in their last 5 home matches.
+</font>
+<br/>
+<font color="red">
+Cambuur have lost their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=5-cambuur">Cambuur</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=250-8-5-2023" title="FC Emmen vs Cambuur">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 15 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=11-fc-groningen">FC Groningen</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>FC Groningen</b>:
+1.00
+points per game
+at home
+<br/><b>Feyenoord</b>:
+2.13
+points per game
+away
+<br/><br/>
+<font color="red">
+FC Groningen have lost their last 3 matches.
 </font>
 <br/>
 <font color="green">
-FC Twente have been undefeated in their last 6 matches.
+Feyenoord have been undefeated in their last 8 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -115,47 +192,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=16-fc-twente">FC Twente</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=14-feyenoord">Feyenoord</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=245-4-16-2023" title="Ajax Amsterdam vs FC Twente">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 14 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=netherlands&amp;stats=2-sparta">Sparta</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">20:00</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Sparta</b>:
-2.00
-points per game
-at home
-<br/><b>Excelsior</b>:
-0.50
-points per game
-away
-<br/><br/>
-<font color="black">
-</font>
-<br/>
-<font color="black">
-75% of Excelsior's points have been earned at home.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=netherlands&amp;stats=6-excelsior">Excelsior</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=244-2-6-2023" title="Sparta vs Excelsior">stats</a>
+<a class="vsmall" href="pmatch.asp?league=netherlands&amp;stats=243-11-14-2023" title="FC Groningen vs Feyenoord">stats</a>
 </td>
 </tr>
 </table>
