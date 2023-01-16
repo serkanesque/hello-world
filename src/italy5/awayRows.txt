@@ -43,11 +43,11 @@ Catanzaro
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 3
@@ -57,7 +57,7 @@ Catanzaro
 </td>
 <td align="center">
 <font color="blue">
-21
+22
 </font>
 </td>
 <td align="center">
@@ -66,11 +66,11 @@ Catanzaro
 </font>
 </td>
 <td align="center">
-+17
++18
 </td>
 <td align="center">
 <b>
-24
+27
 </b>
 </td>
 </tr>
@@ -258,14 +258,14 @@ Turris
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 5
@@ -285,7 +285,7 @@ Turris
 </td>
 <td align="center">
 <b>
-13
+14
 </b>
 </td>
 </tr>
@@ -387,14 +387,14 @@ Monopoli
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 3
@@ -414,7 +414,7 @@ Monopoli
 </td>
 <td align="center">
 <b>
-11
+12
 </b>
 </td>
 </tr>
@@ -426,38 +426,38 @@ Monopoli
 </font>
 </td>
 <td style="padding-left:4px;">
-Gelbison
+Monterosi
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
+</td>
+<td align="center">
+3
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
-4
+6
 </td>
 <td align="center">
 <font color="blue">
-5
+12
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+15
 </font>
 </td>
 <td align="center">
--4
+-3
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
@@ -512,6 +512,92 @@ A. Cerignola
 </font>
 </td>
 <td style="padding-left:4px;">
+Giugliano
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Gelbison
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+12
+</font>
+</td>
+<td align="center">
+-6
+</td>
+<td align="center">
+<b>
+10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Potenza
 </td>
 <td align="center">
@@ -550,7 +636,7 @@ Potenza
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-13
+15
 </b>
 </font>
 </td>
@@ -587,92 +673,6 @@ Avellino
 <td align="center">
 <b>
 9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Giugliano
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-8
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Monterosi
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-14
-</font>
-</td>
-<td align="center">
--5
-</td>
-<td align="center">
-<b>
-8
 </b>
 </td>
 </tr>
@@ -774,7 +774,7 @@ Fidelis Andria
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -784,7 +784,7 @@ Fidelis Andria
 3
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 <font color="blue">
@@ -793,11 +793,11 @@ Fidelis Andria
 </td>
 <td align="center">
 <font color="red">
-17
+19
 </font>
 </td>
 <td align="center">
--10
+-12
 </td>
 <td align="center">
 <b>
@@ -809,6 +809,49 @@ Fidelis Andria
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 19
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+ACR Messina
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<font color="blue">
+4
+</font>
+</td>
+<td align="center">
+<font color="red">
+21
+</font>
+</td>
+<td align="center">
+-17
+</td>
+<td align="center">
+<b>
+3
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+20
 </b>
 </font>
 </td>
@@ -845,49 +888,6 @@ V. Francavilla
 <td align="center">
 <b>
 2
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-20
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-ACR Messina
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-10
-</td>
-<td align="center">
-<font color="blue">
-1
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--19
-</td>
-<td align="center">
-<b>
-0
 </b>
 </td>
 </tr>
