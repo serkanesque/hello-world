@@ -387,26 +387,26 @@ Cercle Brugge
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -414,7 +414,7 @@ Cercle Brugge
 </td>
 <td align="center">
 <b>
-15
+16
 </b>
 </td>
 </tr>
@@ -473,7 +473,7 @@ Anderlecht
 </td>
 <td align="center">
 <font color="green">
-10
+11
 </font>
 </td>
 <td align="center">
@@ -483,20 +483,20 @@ Anderlecht
 1
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
-16
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-14
+17
 </font>
 </td>
 <td align="center">
-+2
++1
 </td>
 <td align="center">
 <b>
@@ -559,7 +559,7 @@ Oostende
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -569,7 +569,7 @@ Oostende
 0
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -578,11 +578,11 @@ Oostende
 </td>
 <td align="center">
 <font color="red">
-17
+20
 </font>
 </td>
 <td align="center">
--5
+-8
 </td>
 <td align="center">
 <b>
@@ -641,6 +641,49 @@ Sint-Truiden
 </font>
 </td>
 <td style="padding-left:4px;">
+Kortrijk
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+9
+</font>
+</td>
+<td align="center">
+<font color="red">
+20
+</font>
+</td>
+<td align="center">
+-11
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+16
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Zulte-Waregem
 </td>
 <td align="center">
@@ -679,7 +722,7 @@ Zulte-Waregem
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-16
+17
 </b>
 </font>
 </td>
@@ -716,49 +759,6 @@ Eupen
 <td align="center">
 <b>
 9
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Kortrijk
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-6
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--12
-</td>
-<td align="center">
-<b>
-8
 </b>
 </td>
 </tr>
