@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 20 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=16-rb-leipzig">RB Leipzig</a></td>
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=9-bochum">Bochum</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:30</font>
+<font color="green" size="1">14:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>RB Leipzig</b>:
-2.71
+<b>Bochum</b>:
+1.43
 points per game
 at home
-<br/><b>Bayern Munich</b>:
-2.13
+<br/><b>Hertha Berlin</b>:
+0.57
 points per game
 away
 <br/><br/>
-<font color="green">
-RB Leipzig have won their last 4 matches.
+<font color="black">
+77% of Bochum's points have been earned at home.
 </font>
 <br/>
-<font color="green">
-Bayern Munich have won their last 6 matches.
+<font color="black">
+71% of Hertha Berlin's points have been earned at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +38,201 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=2-bayern-munich">Bayern Munich</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=4-hertha-berlin">Hertha Berlin</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=243-16-2-2023" title="RB Leipzig vs Bayern Munich">stats</a>
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=249-9-4-2023" title="Bochum vs Hertha Berlin">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=1-e.-frankfurt">E. Frankfurt</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>E. Frankfurt</b>:
+1.63
+points per game
+at home
+<br/><b>Schalke 04</b>:
+0.29
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+Schalke 04 have lost their last 4 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=18-schalke-04">Schalke 04</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=247-1-18-2023" title="E. Frankfurt vs Schalke 04">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=15-stuttgart">Stuttgart</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Stuttgart</b>:
+1.38
+points per game
+at home
+<br/><b>FSV Mainz</b>:
+1.50
+points per game
+away
+<br/><br/>
+<font color="black">
+79% of Stuttgart's points have been earned at home.
+</font>
+<br/>
+<font color="black">
+63% of FSV Mainz's points have been earned away.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=10-fsv-mainz">FSV Mainz</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=250-15-10-2023" title="Stuttgart vs FSV Mainz">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=3-union-berlin">Union Berlin</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Union Berlin</b>:
+2.43
+points per game
+at home
+<br/><b>Hoffenheim</b>:
+1.14
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+Hoffenheim have lost their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=6-hoffenheim">Hoffenheim</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=244-3-6-2023" title="Union Berlin vs Hoffenheim">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=7-wolfsburg">Wolfsburg</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Wolfsburg</b>:
+1.71
+points per game
+at home
+<br/><b>Freiburg</b>:
+1.75
+points per game
+away
+<br/><br/>
+<font color="green">
+Wolfsburg have won their last 4 matches.
+</font>
+<br/>
+<font color="black">
+76% of Freiburg's conceded goals occurred in the second half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=12-freiburg">Freiburg</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=248-7-12-2023" title="Wolfsburg vs Freiburg">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=germany&amp;stats=17-fc-koln">FC Koln</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>FC Koln</b>:
+1.57
+points per game
+at home
+<br/><b>Werder Bremen</b>:
+1.57
+points per game
+away
+<br/><br/>
+<font color="red">
+FC Koln have lost their last 3 matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=germany&amp;stats=8-werder-bremen">Werder Bremen</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=germany&amp;stats=245-17-8-2023" title="FC Koln vs Werder Bremen">stats</a>
 </td>
 </tr>
 </table>

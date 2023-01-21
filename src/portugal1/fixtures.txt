@@ -6,28 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 20 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=3-arouca">Arouca</a></td>
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=19-pacos-ferreira">Pacos Ferreira</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:00</font>
+<font color="green" size="1">15:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Arouca</b>:
-1.63
+<b>Pacos Ferreira</b>:
+0.25
 points per game
 at home
-<br/><b>Portimonense</b>:
-1.29
+<br/><b>Sporting Braga</b>:
+2.63
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="red">
+Pacos Ferreira have failed to win in their last 8 home matches.
 </font>
 <br/>
-<font color="black">
+<font color="green">
+Sporting Braga have won their last 4 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -36,36 +38,37 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=14-portimonense">Portimonense</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=12-sporting-braga">Sporting Braga</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=259-3-14-2023" title="Arouca vs Portimonense">stats</a>
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=252-19-12-2023" title="Pacos Ferreira vs Sporting Braga">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Fr 20 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=13-sporting-cp">Sporting CP</a></td>
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=10-santa-clara">Santa Clara</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">21:15</font>
+<font color="green" size="1">18:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Sporting CP</b>:
-2.57
+<b>Santa Clara</b>:
+1.13
 points per game
 at home
-<br/><b>Vizela</b>:
-1.38
+<br/><b>Benfica</b>:
+2.29
 points per game
 away
 <br/><br/>
-<font color="green">
-Sporting CP have won their last 5 home matches.
+<font color="black">
+Santa Clara have scored 82% of their goals at home.
 </font>
 <br/>
 <font color="black">
+Benfica have scored 72% of their goals at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -74,9 +77,48 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=5-vizela">Vizela</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=1-benfica">Benfica</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=255-13-5-2023" title="Sporting CP vs Vizela">stats</a>
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=251-10-1-2023" title="Santa Clara vs Benfica">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=portugal&amp;stats=17-guimaraes">Guimaraes</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">20:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Guimaraes</b>:
+2.13
+points per game
+at home
+<br/><b>FC Porto</b>:
+1.88
+points per game
+away
+<br/><br/>
+<font color="black">
+71% of Guimaraes's points have been earned at home.
+</font>
+<br/>
+<font color="green">
+FC Porto have been undefeated in their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=portugal&amp;stats=8-fc-porto">FC Porto</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=portugal&amp;stats=254-17-8-2023" title="Guimaraes vs FC Porto">stats</a>
 </td>
 </tr>
 </table>

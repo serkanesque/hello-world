@@ -43,7 +43,7 @@ Red Star
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -53,20 +53,20 @@ Red Star
 5
 </td>
 <td align="center">
-0
+1
 </td>
 <td align="center">
 <font color="blue">
-15
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-4
+7
 </font>
 </td>
 <td align="center">
-+11
++9
 </td>
 <td align="center">
 <b>
@@ -86,7 +86,7 @@ Bourg-en-Bresse
 </td>
 <td align="center">
 <font color="green">
-8
+9
 </font>
 </td>
 <td align="center">
@@ -96,7 +96,7 @@ Bourg-en-Bresse
 1
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 <font color="blue">
@@ -105,11 +105,11 @@ Bourg-en-Bresse
 </td>
 <td align="center">
 <font color="red">
-7
+9
 </font>
 </td>
 <td align="center">
-+4
++2
 </td>
 <td align="center">
 <b>
@@ -121,6 +121,49 @@ Bourg-en-Bresse
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+USL Dunkerque
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+11
+</font>
+</td>
+<td align="center">
++1
+</td>
+<td align="center">
+<b>
+16
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
@@ -163,7 +206,50 @@ Concarneau
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Orleans
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+12
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+14
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
 </b>
 </font>
 </td>
@@ -206,50 +292,7 @@ Martigues
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-USL Dunkerque
-</td>
-<td align="center">
-<font color="green">
-8
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-11
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-13
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -292,7 +335,7 @@ Avranches
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-7
+8
 </b>
 </font>
 </td>
@@ -335,7 +378,7 @@ Sedan
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-8
+9
 </b>
 </font>
 </td>
@@ -372,49 +415,6 @@ Versailles
 <td align="center">
 <b>
 12
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-9
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Orleans
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-11
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-11
 </b>
 </td>
 </tr>
@@ -559,7 +559,7 @@ Paris 13 A.
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -569,7 +569,7 @@ Paris 13 A.
 2
 </td>
 <td align="center">
-5
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -578,11 +578,11 @@ Paris 13 A.
 </td>
 <td align="center">
 <font color="red">
-11
+12
 </font>
 </td>
 <td align="center">
--5
+-6
 </td>
 <td align="center">
 <b>
