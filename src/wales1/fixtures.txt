@@ -1,225 +1,1615 @@
-<table id="btable" width="100%">
-<thead>
-<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
-<h3>Results &amp; pre-match Points per Game (PPG)</h3>
-</td>
-<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
-<td></td>
+<table cellpadding="2" cellspacing="0" id="btable" width="100%">
+<tr style="height:28px;pointer-events:none;">
+<td align="center" height="26"><span title="Ranking"><b><font color="#222222"> </font></b></span></td>
+<td width="124"> </td>
+<td align="center"><span title="Games played"><b><font color="#222222">GP</font></b></span></td>
+<td align="center"><span title="Games won"><b><font color="#222222">W</font></b></span></td>
+<td align="center"><span title="Draws"><b><font color="#222222">D</font></b></span></td>
+<td align="center"><span title="Games lost"><b><font color="#222222">L</font></b></span></td>
+<td align="center"><span title="Goals For"><b><font color="#222222">GF</font></b></span></td>
+<td align="center"><span title="Goals Against"><b><font color="#222222">GA</font></b></span></td>
+<td align="center"><span title="Goal Difference"><b><font color="#222222">GD</font></b></span></td>
+<td align="center"><span title="Points"><b><font color="#222222">Pts</font></b></span></td>
+<td><span title="Last 6 results (chronological order)">     <font color="#222222"><b>Form</b></font></span></td>
+<td align="center"><span title="Points Per Game"><font color="#222222"><b>PPG</b></font></span></td>
+<td align="center"><span title="Points Per Game in the last 8 matches"><font color="#222222"><b>last 8</b></font></span></td>
+<td align="center"><span title="% clean sheets (matches with no goal conceded)"><font color="#222222"><b>CS</b></font></span></td>
+<td align="center"><span title="% failed to score (matches with no goal scored)"><font color="#222222"><b>FTS</b></font></span></td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m127">
-<font color="blue"><b>2 - 1</b></font>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>1</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=8-the-new-saints" itemprop="url" target="_top" title="The New Saints stats">The New Saints</a>
+<span content="The New Saints" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">21</font>
+</td>
+<td align="center">
+18
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+<font color="blue">80</font>
+</td>
+<td align="center">
+<font color="red">8</font>
+</td>
+<td align="center">
+<font color="gray" size="1">+72</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>57</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dorange"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+</div>
 <span>
-<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">H. Arnison (8)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">N. Flint (77)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>2-1</b>  
-<font color="#000000">R. Williams (89)</font>
-</font>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Connah`s Quay
+-
+<b>
+The New Saints
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+The New Saints
+</b>
+-
+Airbus UK
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>7-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Airbus UK
+-
+<b>
+The New Saints
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-8</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Caernarfon Town
+-
+<b>
+The New Saints
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+The New Saints
+</b>
+-
+Haverfordwest
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Flint
+-
+<b>
+The New Saints
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>1-8</b>
+</td>
+</tr>
+</table>
 </div>
 </span>
 </a>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.70">0.70</progress><font style="color:#888888;font-size:11px;">0.70</font>
+<td align="center"><font color="black">2.71</font></td>
+<td align="center"><font color="red">2.50</font></td>
+<td align="center">67%</td>
+<td align="center">10%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>2</b>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m127&amp;st1=2&amp;st2=6">analysis</a>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=4-connah`s-quay" itemprop="url" target="_top" title="Connah`s Quay stats">Connah`s Quay</a>
+<span content="Connah`s Quay" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">21</font>
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+<font color="blue">32</font>
+</td>
+<td align="center">
+<font color="red">12</font>
+</td>
+<td align="center">
+<font color="gray" size="1">+20</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>44</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+<div class="dorange"></div>
+<div class="dorange"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">20 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Connah`s Quay
+</b>
+-
+Aberystwyth
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-0</b>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a> - <a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m128">
-<font color="blue"><b>3 - 1</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">D. Bowen (12)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">E. Evans (49)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>2-1</b>  
-<font color="#000000">A. Davies (58)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>3-1</b>  
-<font color="#000000">C. Craven (72)</font>
-</font>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Connah`s Quay
+</b>
+-
+The New Saints
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Connah`s Quay
+</b>
+-
+Flint
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Flint
+-
+<b>
+Connah`s Quay
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Newtown
+-
+<b>
+Connah`s Quay
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Bala Town
+-
+<b>
+Connah`s Quay
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+</table>
 </div>
 </span>
 </a>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="2.20">2.20</progress><font style="color:#888888;font-size:11px;">2.20</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.00">0.00</progress><font style="color:#888888;font-size:11px;">0.00</font>
+<td align="center"><font color="black">2.10</font></td>
+<td align="center"><font color="red">1.75</font></td>
+<td align="center">67%</td>
+<td align="center">19%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>3</b>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m128&amp;st1=3&amp;st2=1">analysis</a>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=3-cardiff-mu" itemprop="url" target="_top" title="Cardiff MU stats">Cardiff MU</a>
+<span content="Cardiff MU" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+<font color="blue">29</font>
+</td>
+<td align="center">
+<font color="red">29</font>
+</td>
+<td align="center">
+<font color="gray" size="1">0</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>41</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">16 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Cardiff MU
+</b>
+-
+Haverfordwest
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-0</b>
 </td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m129">
-<font color="blue"><b>4 - 1</b></font>
-<span>
-<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
-<font style="color:#000000;">
-<br/>
-<b>1-0</b>  
-<font color="#000000">Z. Clarke (29)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>2-0</b>  
-<font color="#000000">J. Akpa Akpro (32)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>
-<b>3-0</b>  
-<font color="#000000">Z. Clarke (58)</font>
-</font>
-<font style="color:#000000;">
-<br/>
-<b>4-0</b>  
-<font color="#000000">Z. Clarke (63)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>4-1</b>  
-<font color="#000000">J. Evans (82)</font>
-</font>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">22 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Cardiff MU
+</b>
+-
+Newtown
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Penybont
+-
+<b>
+Cardiff MU
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>1-3</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Cardiff MU
+</b>
+-
+Penybont
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Airbus UK
+-
+<b>
+Cardiff MU
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Cardiff MU
+</b>
+-
+Airbus UK
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-1</b>
+</td>
+</tr>
+</table>
 </div>
 </span>
 </a>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.10">1.10</progress><font style="color:#888888;font-size:11px;">1.10</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="0.50">0.50</progress><font style="color:#888888;font-size:11px;">0.50</font>
-</td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m129&amp;st1=10&amp;st2=9">analysis</a>
-</td>
+<td align="center"><font color="black">1.86</font></td>
+<td align="center"><font color="green">2.50</font></td>
+<td align="center">45%</td>
+<td align="center">32%</td>
 </tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=5-haverfordwest">Haverfordwest</a> - <a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a></td>
-<td></td>
-<td width="50">
-pp.
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>4</b>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.78">1.78</progress><font style="color:#888888;font-size:11px;">1.78</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.56">1.56</progress><font style="color:#888888;font-size:11px;">1.56</font>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=12-bala-town" itemprop="url" target="_top" title="Bala Town stats">Bala Town</a>
+<span content="Bala Town" itemprop="name"></span>
 </td>
-<td></td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a> - <a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a></td>
-<td></td>
-<td width="50">
-pp.
+<td align="center">
+<font color="green">21</font>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.89">1.89</progress><font style="color:#888888;font-size:11px;">1.89</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.44">1.44</progress><font style="color:#888888;font-size:11px;">1.44</font>
+<td align="center">
+12
 </td>
-<td></td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a> - <a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a></td>
-<td></td>
-<td width="50">
-pp.
+<td align="center">
+4
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="3.00">3.00</progress><font style="color:#888888;font-size:11px;">3.00</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.78">1.78</progress><font style="color:#888888;font-size:11px;">1.78</font>
+<td align="center">
+5
 </td>
-<td></td>
-</tr>
-<tr class="odd" height="38">
-<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
-<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
-<td></td>
-<td width="50">
-<a class="tooltip4" href="#m108">
-<font color="blue"><b>0 - 3</b></font>
+<td align="center">
+<font color="blue">42</font>
+</td>
+<td align="center">
+<font color="red">18</font>
+</td>
+<td align="center">
+<font color="gray" size="1">+24</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>40</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+</div>
 <span>
-<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
-<font style="color:#000000;">
-<br/>    
-<b>0-1</b>  
-<font color="#000000">K. Reffell (24)</font>
-</font>
-<font style="color:#000000;">
-<br/>    
-<b>0-2</b>  
-<font color="#000000">K. Georgievsky (38)</font>
-</font>
-<br/>
----------------------------------------
-<font style="color:#000000;">
-<br/>    
-<b>0-3</b>  
-<font color="#000000">J. Rimmer (o.g.) (64)</font>
-</font>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Bala Town
+</b>
+-
+Airbus UK
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Caernarfon Town
+-
+<b>
+Bala Town
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>1-5</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Bala Town
+</b>
+-
+Caernarfon Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Pontypridd Town
+-
+<b>
+Bala Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Bala Town
+</b>
+-
+Pontypridd Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Bala Town
+</b>
+-
+Connah`s Quay
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+</table>
 </div>
 </span>
 </a>
 </td>
-<td colspan="4">
-<progress max="3" style="width:60px;margin-right:8px;" value="1.67">1.67</progress><font style="color:#888888;font-size:11px;">1.67</font>
-<br/>
-<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
+<td align="center"><font color="black">1.90</font></td>
+<td align="center"><font color="green">2.00</font></td>
+<td align="center">43%</td>
+<td align="center">24%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>5</b>
 </td>
-<td align="center" valign="middle" width="55">
-<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m108&amp;st1=2&amp;st2=11">analysis</a>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=11-penybont" itemprop="url" target="_top" title="Penybont stats">Penybont</a>
+<span content="Penybont" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">21</font>
+</td>
+<td align="center">
+11
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">34</font>
+</td>
+<td align="center">
+<font color="red">19</font>
+</td>
+<td align="center">
+<font color="gray" size="1">+15</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>38</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dorange"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Pontypridd Town
+-
+<b>
+Penybont
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-1</b>
 </td>
 </tr>
-</tbody>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Penybont
+</b>
+-
+Cardiff MU
+</td><td align="center" style="background-color: #ffbaba;">
+<b>1-3</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Cardiff MU
+-
+<b>
+Penybont
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Penybont
+</b>
+-
+Airbus UK
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Penybont
+</b>
+-
+Caernarfon Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>5-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Aberystwyth
+-
+<b>
+Penybont
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-3</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.81</font></td>
+<td align="center"><font color="red">1.75</font></td>
+<td align="center">38%</td>
+<td align="center">24%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>6</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=7-newtown" itemprop="url" target="_top" title="Newtown stats">Newtown</a>
+<span content="Newtown" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">21</font>
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+<font color="blue">41</font>
+</td>
+<td align="center">
+<font color="red">36</font>
+</td>
+<td align="center">
+<font color="gray" size="1">+5</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>33</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">11 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Newtown
+</b>
+-
+Haverfordwest
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">16 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Newtown
+</b>
+-
+Pontypridd Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>4-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">22 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Cardiff MU
+-
+<b>
+Newtown
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Aberystwyth
+-
+<b>
+Newtown
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>1-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Newtown
+</b>
+-
+Aberystwyth
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>6-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Newtown
+</b>
+-
+Connah`s Quay
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.57</font></td>
+<td align="center"><font color="green">2.38</font></td>
+<td align="center">14%</td>
+<td align="center">29%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>7</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=6-caernarfon-town" itemprop="url" target="_top" title="Caernarfon Town stats">Caernarfon Town</a>
+<span content="Caernarfon Town" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+13
+</td>
+<td align="center">
+<font color="blue">33</font>
+</td>
+<td align="center">
+<font color="red">41</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-8</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>25</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Caernarfon Town
+</b>
+-
+Bala Town
+</td><td align="center" style="background-color: #ffbaba;">
+<b>1-5</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Bala Town
+-
+<b>
+Caernarfon Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Caernarfon Town
+</b>
+-
+The New Saints
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Penybont
+-
+<b>
+Caernarfon Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>5-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+Airbus UK
+-
+<b>
+Caernarfon Town
+</b>
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>0-3</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Aberystwyth
+-
+<b>
+Caernarfon Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.14</font></td>
+<td align="center"><font color="red">0.38</font></td>
+<td align="center">18%</td>
+<td align="center">27%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>8</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=5-haverfordwest" itemprop="url" target="_top" title="Haverfordwest stats">Haverfordwest</a>
+<span content="Haverfordwest" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">21</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+11
+</td>
+<td align="center">
+<font color="blue">27</font>
+</td>
+<td align="center">
+<font color="red">34</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-7</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>24</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dorange"></div>
+<div class="dred"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">11 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Newtown
+-
+<b>
+Haverfordwest
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">16 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Cardiff MU
+-
+<b>
+Haverfordwest
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Haverfordwest
+</b>
+-
+Aberystwyth
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Pontypridd Town
+-
+<b>
+Haverfordwest
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Haverfordwest
+</b>
+-
+Pontypridd Town
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+The New Saints
+-
+<b>
+Haverfordwest
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.14</font></td>
+<td align="center"><font color="green">1.25</font></td>
+<td align="center">19%</td>
+<td align="center">14%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>9</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=10-flint" itemprop="url" target="_top" title="Flint stats">Flint</a>
+<span content="Flint" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+10
+</td>
+<td align="center">
+<font color="blue">24</font>
+</td>
+<td align="center">
+<font color="red">37</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-13</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>24</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dorange"></div>
+<div class="dorange"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Flint
+</b>
+-
+Caernarfon Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Connah`s Quay
+-
+<b>
+Flint
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Flint
+</b>
+-
+Connah`s Quay
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>0-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">6 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+<b>
+Flint
+</b>
+-
+Aberystwyth
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Flint
+</b>
+-
+The New Saints
+</td><td align="center" style="background-color: #ffbaba;">
+<b>1-8</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Flint
+</b>
+-
+Pontypridd Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>4-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.09</font></td>
+<td align="center"><font color="green">1.13</font></td>
+<td align="center">18%</td>
+<td align="center">27%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>10</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=2-aberystwyth" itemprop="url" target="_top" title="Aberystwyth stats">Aberystwyth</a>
+<span content="Aberystwyth" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+14
+</td>
+<td align="center">
+<font color="blue">23</font>
+</td>
+<td align="center">
+<font color="red">58</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-35</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>22</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dorange"></div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Haverfordwest
+-
+<b>
+Aberystwyth
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Aberystwyth
+</b>
+-
+Newtown
+</td><td align="center" style="background-color: #ffbaba;">
+<b>1-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">30 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Newtown
+-
+<b>
+Aberystwyth
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>6-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">6 Jan</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Flint
+-
+<b>
+Aberystwyth
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Aberystwyth
+</b>
+-
+Penybont
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-3</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Aberystwyth
+</b>
+-
+Caernarfon Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">1.00</font></td>
+<td align="center"><font color="red">0.50</font></td>
+<td align="center">0%</td>
+<td align="center">27%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>11</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=9-pontypridd-town" itemprop="url" target="_top" title="Pontypridd Town stats">Pontypridd Town</a>
+<span content="Pontypridd Town" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+14
+</td>
+<td align="center">
+<font color="blue">22</font>
+</td>
+<td align="center">
+<font color="red">42</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-20</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>20</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dred"></div>
+<div class="dgreen"></div>
+<div class="dorange"></div>
+<div class="dgreen"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">23 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Pontypridd Town
+</b>
+-
+Penybont
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Pontypridd Town
+</b>
+-
+Haverfordwest
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>3-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #FFFFBF;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #FFFFBF;padding-left:5px;">
+Haverfordwest
+-
+<b>
+Pontypridd Town
+</b>
+</td><td align="center" style="background-color: #FFFFBF;">
+<b>1-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #c6ecc6;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #c6ecc6;padding-left:5px;">
+<b>
+Pontypridd Town
+</b>
+-
+Bala Town
+</td><td align="center" style="background-color: #c6ecc6;">
+<b>2-1</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Bala Town
+-
+<b>
+Pontypridd Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Flint
+-
+<b>
+Pontypridd Town
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>4-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">0.91</font></td>
+<td align="center"><font color="red">0.88</font></td>
+<td align="center">9%</td>
+<td align="center">45%</td>
+</tr>
+<tr class="odd" height="28" itemscope="" itemtype="http://schema.org/SportsTeam">
+<td align="center" bgcolor="#f0f0f0">
+<b>12</b>
+</td>
+<td align="left" width="130">
+ <a href="team.asp?league=wales&amp;stats=1-airbus-uk" itemprop="url" target="_top" title="Airbus UK stats">Airbus UK</a>
+<span content="Airbus UK" itemprop="name"></span>
+</td>
+<td align="center">
+<font color="green">22</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+21
+</td>
+<td align="center">
+<font color="blue">13</font>
+</td>
+<td align="center">
+<font color="red">66</font>
+</td>
+<td align="center">
+<font color="gray" size="1">-53</font>
+</td>
+<td align="center" bgcolor="#f0f0f0">
+<b>-2</b>
+</td>
+<td style="padding-left:10px;">
+<a class="tooltip2" href="#">
+<div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+<div class="dred"></div>
+</div>
+<span>
+<div style="text-align:left;">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">26 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+The New Saints
+-
+<b>
+Airbus UK
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>7-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">31 Dec</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Airbus UK
+</b>
+-
+The New Saints
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-8</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">3 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Penybont
+-
+<b>
+Airbus UK
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>2-0</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">7 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Airbus UK
+</b>
+-
+Cardiff MU
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-2</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">10 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+<b>
+Airbus UK
+</b>
+-
+Caernarfon Town
+</td><td align="center" style="background-color: #ffbaba;">
+<b>0-3</b>
+</td>
+</tr>
+<tr>
+<td align="right" height="18" style="background-color: #ffbaba;">
+<font color="gray" size="1">21 Jan</font>
+</td><td style="background-color: #ffbaba;padding-left:5px;">
+Cardiff MU
+-
+<b>
+Airbus UK
+</b>
+</td><td align="center" style="background-color: #ffbaba;">
+<b>3-1</b>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</a>
+</td>
+<td align="center"><font color="black">0.05</font></td>
+<td align="center"><font color="red">0.00</font></td>
+<td align="center">0%</td>
+<td align="center">55%</td>
+</tr>
 </table>
