@@ -6,25 +6,26 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland&amp;stats=9-luzern">Luzern</a></td>
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland&amp;stats=6-sion">Sion</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:00</font>
+<font color="green" size="1">13:15</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Luzern</b>:
-1.13
+<b>Sion</b>:
+1.00
 points per game
 at home
-<br/><b>FC Zurich</b>:
-0.75
+<br/><b>Lugano</b>:
+1.38
 points per game
 away
 <br/><br/>
 <font color="black">
+61% of Sion's conceded goals were conceded at home.
 </font>
 <br/>
 <font color="black">
@@ -36,37 +37,36 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland&amp;stats=2-fc-zurich">FC Zurich</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland&amp;stats=5-lugano">Lugano</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=switzerland&amp;stats=82-9-2-2023" title="Luzern vs FC Zurich">stats</a>
+<a class="vsmall" href="pmatch.asp?league=switzerland&amp;stats=83-6-5-2023" title="Sion vs Lugano">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland&amp;stats=10-grasshopper">Grasshopper</a></td>
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland&amp;stats=8-st.-gallen">St. Gallen</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:30</font>
+<font color="green" size="1">15:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Grasshopper</b>:
-1.75
+<b>St. Gallen</b>:
+2.13
 points per game
 at home
-<br/><b>BSC Young Boys</b>:
-1.88
+<br/><b>FC Basel</b>:
+1.00
 points per game
 away
 <br/><br/>
 <font color="black">
-70% of Grasshopper's points have been earned at home.
+71% of St. Gallen's points have been earned at home.
 </font>
 <br/>
-<font color="green">
-BSC Young Boys have been undefeated in their last 9 matches.
+<font color="black">
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -75,9 +75,47 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland&amp;stats=1-bsc-young-boys">BSC Young Boys</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland&amp;stats=4-fc-basel">FC Basel</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=switzerland&amp;stats=81-10-1-2023" title="Grasshopper vs BSC Young Boys">stats</a>
+<a class="vsmall" href="pmatch.asp?league=switzerland&amp;stats=84-8-4-2023" title="St. Gallen vs FC Basel">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland&amp;stats=3-winterthur">Winterthur</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Winterthur</b>:
+1.38
+points per game
+at home
+<br/><b>Servette</b>:
+1.13
+points per game
+away
+<br/><br/>
+<font color="black">
+69% of Winterthur's points have been earned at home.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland&amp;stats=7-servette">Servette</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=switzerland&amp;stats=85-3-7-2023" title="Winterthur vs Servette">stats</a>
 </td>
 </tr>
 </table>
