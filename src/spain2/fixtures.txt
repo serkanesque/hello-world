@@ -7,7 +7,7 @@
 <tr class="odd" height="32">
          <td>Sa 21 Jan<td>
         <td><a>Leganes</a></td>
-            <a class="tooltip2" href="#">
+    <td>        <a class="tooltip2" href="#">
                 <div>
                     <font color="green" size="1">13:00</font>
                 </div>
@@ -34,13 +34,13 @@
                             </i></font>
                     </div>
                 </span>
-            </a>
+            </a></td>
         <td><a>Levante</a></td>
     </tr>
     <tr class="odd" height="32">
         <td>Sa 21 Jan<td>
        <td><a>Cartagena</a></td>
-                <a class="tooltip2" href="#">
+        <td>        <a class="tooltip2" href="#">
                 <div>
                     <font color="green" size="1">13:00</font>
                 </div>
@@ -67,13 +67,13 @@
                             </i></font>
                     </div>
                 </span>
-            </a>
+            </a></td>
        <td><a>Tenerife</a></td>
    </tr>
    <tr class="odd" height="32">
     <td>Sa 21 Jan<td>
    <td><a>Sporting Gijon</a></td>
-            <a class="tooltip2" href="#">
+    <td>        <a class="tooltip2" href="#">
                 <div>
                     <font color="green" size="1">13:00</font>
                 </div>
@@ -100,13 +100,13 @@
                             </i></font>
                     </div>
                 </span>
-            </a>
+            </a></td>
    <td><a>Real Zaragoza</a></td>
 </tr>
 <tr class="odd" height="32">
     <td>Sa 21 Jan<td>
    <td><a>Huesca</a></td>
-            <a class="tooltip2" href="#">
+    <td>        <a class="tooltip2" href="#">
                 <div>
                     <font color="green" size="1">13:00</font>
                 </div>
@@ -133,13 +133,13 @@
                             </i></font>
                     </div>
                 </span>
-            </a>
+            </a></td>
    <td><a>Real Oviedo</a></td>
 </tr>
 <tr class="odd" height="32">
     <td>Sa 21 Jan<td>
    <td><a>Lugo</a></td>
-                <a class="tooltip2" href="#">
+        <td>        <a class="tooltip2" href="#">
                 <div>
                     <font color="green" size="1">13:00</font>
                 </div>
@@ -166,7 +166,7 @@
                             </i></font>
                     </div>
                 </span>
-            </a>
+            </a></td>
    <td><a>Villarreal B</a></td>
 </tr>
 </table>
