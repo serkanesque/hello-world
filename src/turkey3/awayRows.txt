@@ -215,7 +215,7 @@ Osmanlispor
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -225,7 +225,7 @@ Osmanlispor
 4
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -234,11 +234,11 @@ Osmanlispor
 </td>
 <td align="center">
 <font color="red">
-9
+12
 </font>
 </td>
 <td align="center">
-+3
+0
 </td>
 <td align="center">
 <b>
@@ -258,14 +258,14 @@ Erokspor
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 3
@@ -285,7 +285,7 @@ Erokspor
 </td>
 <td align="center">
 <b>
-14
+15
 </b>
 </td>
 </tr>
@@ -301,7 +301,7 @@ Amed SK
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -311,7 +311,7 @@ Amed SK
 5
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -320,11 +320,11 @@ Amed SK
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
-+4
++3
 </td>
 <td align="center">
 <b>
@@ -344,14 +344,14 @@ Corum
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 3
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 3
@@ -371,7 +371,7 @@ Corum
 </td>
 <td align="center">
 <b>
-12
+13
 </b>
 </td>
 </tr>
@@ -379,6 +379,49 @@ Corum
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 9
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Afjet Afyonspor
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-3
+</td>
+<td align="center">
+<b>
+12
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
 </b>
 </font>
 </td>
@@ -421,49 +464,6 @@ Arnavutkoy B.
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Afjet Afyonspor
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-13
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 11
 </b>
 </font>
@@ -473,7 +473,7 @@ Tarsus Idman Y.
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -483,7 +483,7 @@ Tarsus Idman Y.
 4
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
@@ -492,11 +492,11 @@ Tarsus Idman Y.
 </td>
 <td align="center">
 <font color="red">
-9
+13
 </font>
 </td>
 <td align="center">
--2
+-6
 </td>
 <td align="center">
 <b>
@@ -555,6 +555,49 @@ Isparta Davrazs
 </font>
 </td>
 <td style="padding-left:4px;">
+B. Petrolspor
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+6
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+7
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Menemen B.
 </td>
 <td align="center">
@@ -587,49 +630,6 @@ Menemen B.
 <td align="center">
 <b>
 7
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-B. Petrolspor
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-5
-</font>
-</td>
-<td align="center">
-<font color="red">
-13
-</font>
-</td>
-<td align="center">
--8
-</td>
-<td align="center">
-<b>
-6
 </b>
 </td>
 </tr>
@@ -727,6 +727,49 @@ Inegolspor
 </font>
 </td>
 <td style="padding-left:4px;">
+Sivas Belediyes
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+0
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+4
+</font>
+</td>
+<td align="center">
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-14
+</td>
+<td align="center">
+<b>
+5
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Bursaspor
 </td>
 <td align="center">
@@ -765,49 +808,6 @@ Bursaspor
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Sivas Belediyes
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-4
-</font>
-</td>
-<td align="center">
-<font color="red">
-18
-</font>
-</td>
-<td align="center">
--14
-</td>
-<td align="center">
-<b>
-4
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 19
 </b>
 </font>
@@ -817,7 +817,7 @@ Bayburt
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -827,7 +827,7 @@ Bayburt
 0
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 <font color="blue">
@@ -836,11 +836,11 @@ Bayburt
 </td>
 <td align="center">
 <font color="red">
-21
+22
 </font>
 </td>
 <td align="center">
--20
+-21
 </td>
 <td align="center">
 <b>

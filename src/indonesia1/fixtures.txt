@@ -6,8 +6,8 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=14-dewa-united">Dewa United</a></td>
+<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=18-persebaya-s.">Persebaya S.</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -15,21 +15,20 @@
 </div>
 <span>
 <div style="text-align:left;">
-<b>Dewa United</b>:
-1.10
+<b>Persebaya S.</b>:
+1.50
 points per game
 at home
-<br/><b>Persita</b>:
-1.11
+<br/><b>Bhayangkara S.</b>:
+0.78
 points per game
 away
 <br/><br/>
-<font color="red">
-Dewa United have failed to win in their last 7 home matches.
+<font color="black">
 </font>
 <br/>
-<font color="red">
-Persita have lost their last 4 matches.
+<font color="black">
+Bhayangkara S. have scored 72% of their goals at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +37,47 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=15-persita">Persita</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=11-bhayangkara-s.">Bhayangkara S.</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=282-14-15-2023" title="Dewa United vs Persita">stats</a>
+<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=279-18-11-2023" title="Persebaya S. vs Bhayangkara S.">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=indonesia&amp;stats=13-persis-solo">Persis Solo</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">11:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Persis Solo</b>:
+1.50
+points per game
+at home
+<br/><b>TIRA Persikabo</b>:
+1.00
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+TIRA Persikabo have failed to win in their last 7 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=indonesia&amp;stats=17-tira-persikabo">TIRA Persikabo</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=indonesia&amp;stats=284-13-17-2023" title="Persis Solo vs TIRA Persikabo">stats</a>
 </td>
 </tr>
 </table>
