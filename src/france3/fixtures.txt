@@ -6,29 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=6-sedan">Sedan</a></td>
+<font style="font-size:10px;color:#666666;">Fr 27 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=1-chateauroux">Chateauroux</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:30</font>
+<font color="green" size="1">18:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Sedan</b>:
-1.38
+<b>Chateauroux</b>:
+1.00
 points per game
 at home
-<br/><b>Le Mans</b>:
-0.63
+<br/><b>Avranches</b>:
+1.44
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="red">
+Chateauroux have failed to win in their last 8 matches.
 </font>
 <br/>
-<font color="green">
-Le Mans have been undefeated in their last 6 matches.
+<font color="black">
+62% of Avranches's points have been earned away.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -37,9 +38,123 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=4-le-mans">Le Mans</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=10-avranches">Avranches</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=299-6-4-2023" title="Sedan vs Le Mans">stats</a>
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=298-1-10-2023" title="Chateauroux vs Avranches">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 27 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=9-cholet">Cholet</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Cholet</b>:
+1.78
+points per game
+at home
+<br/><b>Martigues</b>:
+1.56
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="green">
+Martigues have won their last 4 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=16-martigues">Martigues</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=303-9-16-2023" title="Cholet vs Martigues">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 27 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=3-usl-dunkerque">USL Dunkerque</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>USL Dunkerque</b>:
+1.63
+points per game
+at home
+<br/><b>Bourg-en-Bresse</b>:
+1.78
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+70% of Bourg-en-Bresse's points have been earned away.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=18-bourg-en-bresse">Bourg-en-Bresse</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=243-3-18-2023" title="USL Dunkerque vs Bourg-en-Bresse">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 27 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=france3&amp;stats=15-versailles">Versailles</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Versailles</b>:
+2.22
+points per game
+at home
+<br/><b>Le Puy</b>:
+1.11
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+62% of Le Puy's points have been earned away.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=france3&amp;stats=8-le-puy">Le Puy</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=france3&amp;stats=306-15-8-2023" title="Versailles vs Le Puy">stats</a>
 </td>
 </tr>
 </table>
