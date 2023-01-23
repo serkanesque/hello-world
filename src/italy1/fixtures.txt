@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=12-bologna">Bologna</a></td>
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=3-sampdoria">Sampdoria</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:30</font>
+<font color="green" size="1">11:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Bologna</b>:
-1.67
+<b>Sampdoria</b>:
+0.22
 points per game
 at home
-<br/><b>Cremonese</b>:
-0.44
+<br/><b>Udinese</b>:
+1.33
 points per game
 away
 <br/><br/>
-<font color="black">
-68% of Bologna's points have been earned at home.
+<font color="red">
+Sampdoria have failed to win in their last 9 home matches.
 </font>
 <br/>
 <font color="red">
-Cremonese have lost their last 4 matches.
+Udinese have failed to win in their last 10 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,15 +38,92 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=10-cremonese">Cremonese</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=2-udinese">Udinese</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=181-12-10-2023" title="Bologna vs Cremonese">stats</a>
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=189-3-2-2023" title="Sampdoria vs Udinese">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=6-inter-milan">Inter Milan</a></td>
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=7-monza">Monza</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">14:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Monza</b>:
+1.44
+points per game
+at home
+<br/><b>Sassuolo</b>:
+0.56
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+Sassuolo have lost their last 4 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=20-sassuolo">Sassuolo</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=187-7-20-2023" title="Monza vs Sassuolo">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=15-spezia">Spezia</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Spezia</b>:
+1.33
+points per game
+at home
+<br/><b>AS Roma</b>:
+2.00
+points per game
+away
+<br/><br/>
+<font color="red">
+Spezia have failed to win in their last 5 home matches.
+</font>
+<br/>
+<font color="green">
+AS Roma have been undefeated in their last 6 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=14-as-roma">AS Roma</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=190-15-14-2023" title="Spezia vs AS Roma">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 22 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=19-juventus">Juventus</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -54,20 +131,21 @@ Click the Stats button for more stats on those teams.
 </div>
 <span>
 <div style="text-align:left;">
-<b>Inter Milan</b>:
-2.67
+<b>Juventus</b>:
+2.56
 points per game
 at home
-<br/><b>Empoli</b>:
-0.89
+<br/><b>Atalanta</b>:
+2.22
 points per game
 away
 <br/><br/>
 <font color="green">
-Inter Milan have won their last 5 home matches.
+Juventus have been undefeated in their last 9 home matches.
 </font>
 <br/>
 <font color="black">
+65% of Atalanta's conceded goals were conceded at home.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -76,9 +154,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=16-empoli">Empoli</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=4-atalanta">Atalanta</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=184-6-16-2023" title="Inter Milan vs Empoli">stats</a>
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=185-19-4-2023" title="Juventus vs Atalanta">stats</a>
 </td>
 </tr>
 </table>

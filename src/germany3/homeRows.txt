@@ -86,11 +86,11 @@ Elversberg
 </td>
 <td align="center">
 <font color="green">
-10
+9
 </font>
 </td>
 <td align="center">
-8
+7
 </td>
 <td align="center">
 0
@@ -100,20 +100,20 @@ Elversberg
 </td>
 <td align="center">
 <font color="blue">
-28
+24
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+7
 </font>
 </td>
 <td align="center">
-+18
++17
 </td>
 <td align="center">
 <b>
-24
+21
 </b>
 </td>
 </tr>
@@ -121,49 +121,6 @@ Elversberg
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 3
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-1860 Munchen
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-23
-</font>
-</td>
-<td align="center">
-<font color="red">
-9
-</font>
-</td>
-<td align="center">
-+14
-</td>
-<td align="center">
-<b>
-22
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-4
 </b>
 </font>
 </td>
@@ -206,7 +163,7 @@ Freiburg B
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-5
+4
 </b>
 </font>
 </td>
@@ -243,6 +200,49 @@ Wehen Wiesbaden
 <td align="center">
 <b>
 20
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+5
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+1860 Munchen
+</td>
+<td align="center">
+<font color="green">
+9
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+20
+</font>
+</td>
+<td align="center">
+<font color="red">
+8
+</font>
+</td>
+<td align="center">
++12
+</td>
+<td align="center">
+<b>
+19
 </b>
 </td>
 </tr>
@@ -301,26 +301,26 @@ Verl
 </td>
 <td align="center">
 <font color="green">
-10
+9
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-5
+4
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
 <font color="blue">
-17
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+11
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Verl
 </td>
 <td align="center">
 <b>
-17
+16
 </b>
 </td>
 </tr>
@@ -387,7 +387,7 @@ Hallescher
 </td>
 <td align="center">
 <font color="green">
-10
+9
 </font>
 </td>
 <td align="center">
@@ -397,20 +397,20 @@ Hallescher
 2
 </td>
 <td align="center">
-4
+3
 </td>
 <td align="center">
 <font color="blue">
-18
+16
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+10
 </font>
 </td>
 <td align="center">
-+5
++6
 </td>
 <td align="center">
 <b>
@@ -770,7 +770,7 @@ Dortmund B
 </font>
 </td>
 <td style="padding-left:4px;">
-Erzgebirge Aue
+Oldenburg
 </td>
 <td align="center">
 <font color="green">
@@ -788,16 +788,16 @@ Erzgebirge Aue
 </td>
 <td align="center">
 <font color="blue">
-11
+14
 </font>
 </td>
 <td align="center">
 <font color="red">
-12
+20
 </font>
 </td>
 <td align="center">
--1
+-6
 </td>
 <td align="center">
 <b>
@@ -813,38 +813,38 @@ Erzgebirge Aue
 </font>
 </td>
 <td style="padding-left:4px;">
-Oldenburg
+Meppen
 </td>
 <td align="center">
 <font color="green">
-10
+9
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-15
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-23
+16
 </font>
 </td>
 <td align="center">
--8
+-5
 </td>
 <td align="center">
 <b>
-9
+8
 </b>
 </td>
 </tr>
@@ -856,38 +856,38 @@ Oldenburg
 </font>
 </td>
 <td style="padding-left:4px;">
-Meppen
+Erzgebirge Aue
 </td>
 <td align="center">
 <font color="green">
-10
+8
 </font>
 </td>
 <td align="center">
-2
+1
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
-6
+4
 </td>
 <td align="center">
 <font color="blue">
-12
+7
 </font>
 </td>
 <td align="center">
 <font color="red">
-18
+12
 </font>
 </td>
 <td align="center">
--6
+-5
 </td>
 <td align="center">
 <b>
-8
+6
 </b>
 </td>
 </tr>
