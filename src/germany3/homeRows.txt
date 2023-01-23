@@ -86,11 +86,11 @@ Elversberg
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 0
@@ -100,20 +100,20 @@ Elversberg
 </td>
 <td align="center">
 <font color="blue">
-24
+28
 </font>
 </td>
 <td align="center">
 <font color="red">
-7
+10
 </font>
 </td>
 <td align="center">
-+17
++18
 </td>
 <td align="center">
 <b>
-21
+24
 </b>
 </td>
 </tr>
@@ -121,6 +121,49 @@ Elversberg
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+1860 Munchen
+</td>
+<td align="center">
+<font color="green">
+10
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+23
+</font>
+</td>
+<td align="center">
+<font color="red">
+9
+</font>
+</td>
+<td align="center">
++14
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+4
 </b>
 </font>
 </td>
@@ -163,7 +206,7 @@ Freiburg B
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-4
+5
 </b>
 </font>
 </td>
@@ -200,49 +243,6 @@ Wehen Wiesbaden
 <td align="center">
 <b>
 20
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-5
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-1860 Munchen
-</td>
-<td align="center">
-<font color="green">
-9
-</font>
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-20
-</font>
-</td>
-<td align="center">
-<font color="red">
-8
-</font>
-</td>
-<td align="center">
-+12
-</td>
-<td align="center">
-<b>
-19
 </b>
 </td>
 </tr>
@@ -301,26 +301,26 @@ Verl
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 1
 </td>
 <td align="center">
 <font color="blue">
-16
+17
 </font>
 </td>
 <td align="center">
 <font color="red">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -328,7 +328,7 @@ Verl
 </td>
 <td align="center">
 <b>
-16
+17
 </b>
 </td>
 </tr>
@@ -387,7 +387,7 @@ Hallescher
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
@@ -397,20 +397,20 @@ Hallescher
 2
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 <font color="blue">
-16
+18
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+13
 </font>
 </td>
 <td align="center">
-+6
++5
 </td>
 <td align="center">
 <b>
@@ -770,7 +770,7 @@ Dortmund B
 </font>
 </td>
 <td style="padding-left:4px;">
-Oldenburg
+Erzgebirge Aue
 </td>
 <td align="center">
 <font color="green">
@@ -788,16 +788,16 @@ Oldenburg
 </td>
 <td align="center">
 <font color="blue">
-14
+11
 </font>
 </td>
 <td align="center">
 <font color="red">
-20
+12
 </font>
 </td>
 <td align="center">
--6
+-1
 </td>
 <td align="center">
 <b>
@@ -813,38 +813,38 @@ Oldenburg
 </font>
 </td>
 <td style="padding-left:4px;">
-Meppen
+Oldenburg
 </td>
 <td align="center">
 <font color="green">
-9
+10
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-2
+3
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
 <font color="blue">
-11
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-16
+23
 </font>
 </td>
 <td align="center">
--5
+-8
 </td>
 <td align="center">
 <b>
-8
+9
 </b>
 </td>
 </tr>
@@ -856,38 +856,38 @@ Meppen
 </font>
 </td>
 <td style="padding-left:4px;">
-Erzgebirge Aue
+Meppen
 </td>
 <td align="center">
 <font color="green">
-8
+10
 </font>
 </td>
 <td align="center">
-1
+2
 </td>
 <td align="center">
-3
+2
 </td>
 <td align="center">
-4
+6
 </td>
 <td align="center">
 <font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
 12
 </font>
 </td>
 <td align="center">
--5
+<font color="red">
+18
+</font>
+</td>
+<td align="center">
+-6
 </td>
 <td align="center">
 <b>
-6
+8
 </b>
 </td>
 </tr>
