@@ -5,19 +5,9 @@
 </td>
 </tr>
 <tr class="odd" height="32">
-<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Mo 23 Jan</td>
-<td align="right"><a href="team.asp?league=england10&amp;stats=4-stourbridge">Stourbridge</a> </td>
-<td align="center" width="45">
-pp.
-</td>
-<td align="left"> <a href="team.asp?league=england10&amp;stats=18-coalville-town">Coalville Town</a> </td>
-<td align="left" valign="middle">
-</td>
-</tr>
-<tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 23 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england10&amp;stats=6-hitchin-town">Hitchin Town</a></td>
+<font style="font-size:10px;color:#666666;">Tu 24 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england10&amp;stats=1-rushden-&amp;-d.">Rushden &amp; D.</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -25,12 +15,51 @@ pp.
 </div>
 <span>
 <div style="text-align:left;">
-<b>Hitchin Town</b>:
-1.77
+<b>Rushden &amp; D.</b>:
+1.00
 points per game
 at home
-<br/><b>Barwell</b>:
-1.10
+<br/><b>Basford Utd</b>:
+0.75
+points per game
+away
+<br/><br/>
+<font color="black">
+80% of Rushden &amp; D.'s points have been earned at home.
+</font>
+<br/>
+<font color="black">
+74% of Basford Utd's points have been earned at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england10&amp;stats=16-basford-utd">Basford Utd</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england10&amp;stats=254-1-16-2023" title="Rushden &amp; D. vs Basford Utd">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 24 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england10&amp;stats=8-st.-ives-town">St. Ives Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>St. Ives Town</b>:
+1.29
+points per game
+at home
+<br/><b>Alvechurch</b>:
+0.73
 points per game
 away
 <br/><br/>
@@ -46,9 +75,86 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england10&amp;stats=5-barwell">Barwell</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england10&amp;stats=3-alvechurch">Alvechurch</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england10&amp;stats=246-6-5-2023" title="Hitchin Town vs Barwell">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england10&amp;stats=319-8-3-2023" title="St. Ives Town vs Alvechurch">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 24 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england10&amp;stats=4-stourbridge">Stourbridge</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Stourbridge</b>:
+1.60
+points per game
+at home
+<br/><b>Mickleover</b>:
+0.92
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="red">
+Mickleover conceded at least one goal in each of their last 12 away matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england10&amp;stats=12-mickleover">Mickleover</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england10&amp;stats=117-4-12-2023" title="Stourbridge vs Mickleover">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Tu 24 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england10&amp;stats=19-stratford-town">Stratford Town</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Stratford Town</b>:
+1.33
+points per game
+at home
+<br/><b>Redditch Utd</b>:
+1.58
+points per game
+away
+<br/><br/>
+<font color="red">
+Stratford Town have lost their last 5 matches.
+</font>
+<br/>
+<font color="black">
+68% of Redditch Utd's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england10&amp;stats=10-redditch-utd">Redditch Utd</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england10&amp;stats=220-19-10-2023" title="Stratford Town vs Redditch Utd">stats</a>
 </td>
 </tr>
 </table>
