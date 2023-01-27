@@ -1,52 +1,314 @@
 <table id="btable" width="100%">
-<tr style="pointer-events:none;">
-<td colspan="5" height="25" style="padding-left:4px;" valign="middle">
-<h2 style="padding-bottom:6px;">Matches</h2>
+<thead>
+<tr height="38" style="pointer-events:none;"><td colspan="3" style="padding-left:5px;" valign="middle">
+<h3>Results &amp; pre-match Points per Game (PPG)</h3>
 </td>
+<td align="right" colspan="5" style="padding-right:5px;" valign="middle"><font style="font-size:11px;">Locals home PPG vs Visitors away PPG</font></td>
+<td></td>
 </tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">15:00</font>
-</div>
+</thead>
+<tbody>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m127">
+<font color="blue"><b>2 - 1</b></font>
 <span>
-<div style="text-align:left;">
-<font color="green">
-Penybont have scored 2 goals or more in each of their last 3 matches.
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">H. Arnison (8)</font>
 </font>
 <br/>
-<font color="black">
-71% of Newtown's matches had over 2.5 goals scored in total.
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">N. Flint (77)</font>
 </font>
-<font color="red">
-Newtown conceded at least one goal in each of their 10 away matches.
+<font style="color:#000000;">
+<br/>    
+<b>2-1</b>  
+<font color="#000000">R. Alun (89)</font>
 </font>
-<font color="green">
-Newtown have scored in 9 of their 10 away matches.
-</font>
-<font color="black">
-61% of Newtown's conceded goals occurred in the first half.
-</font>
-<font color="green">
-Newtown have scored in each of their last 9 away matches.
-</font>
-<font color="red">
-Newtown conceded at least one goal in each of their last 10 away matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=wales&amp;stats=7-newtown">Newtown</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=wales&amp;stats=131-11-7-2023" title="Penybont vs Newtown">stats</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.70">0.70</progress><font style="color:#888888;font-size:11px;">0.70</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m127&amp;st1=2&amp;st2=6">analysis</a>
 </td>
 </tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=3-cardiff-mu">Cardiff MU</a> - <a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m128">
+<font color="blue"><b>3 - 1</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">D. Bowen (12)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">E. Evans (49)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>2-1</b>  
+<font color="#000000">A. Davies (58)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>3-1</b>  
+<font color="#000000">C. Craven (72)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.20">2.20</progress><font style="color:#888888;font-size:11px;">2.20</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.00">0.00</progress><font style="color:#888888;font-size:11px;">0.00</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m128&amp;st1=3&amp;st2=1">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Sa 21 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=9-pontypridd-town">Pontypridd Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m129">
+<font color="blue"><b>4 - 1</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>
+<b>1-0</b>  
+<font color="#000000">Z. Clarke (29)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>2-0</b>  
+<font color="#000000">J. Akpa Akpro (32)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>
+<b>3-0</b>  
+<font color="#000000">Z. Clarke (58)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>4-0</b>  
+<font color="#000000">Z. Clarke (63)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>4-1</b>  
+<font color="#000000">J. Evans (82)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.10">1.10</progress><font style="color:#888888;font-size:11px;">1.10</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.50">0.50</progress><font style="color:#888888;font-size:11px;">0.50</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m129&amp;st1=10&amp;st2=9">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=2-aberystwyth">Aberystwyth</a> - <a href="team.asp?league=wales&amp;stats=11-penybont">Penybont</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m108">
+<font color="blue"><b>0 - 3</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">K. Reffell (24)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">K. Georgievsky (38)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">J. Rimmer (o.g.) (64)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.67">1.67</progress><font style="color:#888888;font-size:11px;">1.67</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.50">1.50</progress><font style="color:#888888;font-size:11px;">1.50</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m108&amp;st1=2&amp;st2=11">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=1-airbus-uk">Airbus UK</a> - <a href="team.asp?league=wales&amp;stats=6-caernarfon-town">Caernarfon Town</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m103">
+<font color="blue"><b>0 - 3</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">R. Hughes (4)</font> pen.
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">J. Faux (19)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">D. Thomas (47)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="0.10">0.10</progress><font style="color:#888888;font-size:11px;">0.10</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="0.44">0.44</progress><font style="color:#888888;font-size:11px;">0.44</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m103&amp;st1=1&amp;st2=6">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=12-bala-town">Bala Town</a> - <a href="team.asp?league=wales&amp;stats=4-connah`s-quay">Connah's Quay</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m104">
+<font color="blue"><b>0 - 0</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<br/>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="2.30">2.30</progress><font style="color:#888888;font-size:11px;">2.30</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="1.56">1.56</progress><font style="color:#888888;font-size:11px;">1.56</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m104&amp;st1=12&amp;st2=4">analysis</a>
+</td>
+</tr>
+<tr class="odd" height="38">
+<td style="padding-left:5px;" width="70"><font style="font-size:10px;color:#666666;">Tu 10 Jan</font></td>
+<td><a href="team.asp?league=wales&amp;stats=10-flint">Flint</a> - <a href="team.asp?league=wales&amp;stats=8-the-new-saints">The New Saints</a></td>
+<td></td>
+<td width="50">
+<a class="tooltip4" href="#m133">
+<font color="blue"><b>1 - 8</b></font>
+<span>
+<div style="text-align:left;font-size:13px;line-height:16px;padding:10px;">
+<font style="color:#000000;">
+<br/>    
+<b>0-1</b>  
+<font color="#000000">B. Clark (18)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-2</b>  
+<font color="#000000">D. McManus (23)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>0-3</b>  
+<font color="#000000">R. Brobbel (25)</font>
+</font>
+<font style="color:#000000;">
+<br/>
+<b>1-3</b>  
+<font color="#000000">A. Stephens (28)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>1-4</b>  
+<font color="#000000">D. McManus (42)</font>
+</font>
+<br/>
+---------------------------------------
+<font style="color:#000000;">
+<br/>    
+<b>1-5</b>  
+<font color="#000000">A. Stephens (o.g.) (55)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>1-6</b>  
+<font color="#000000">D. McManus (60)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>1-7</b>  
+<font color="#000000">D. McManus (62)</font>
+</font>
+<font style="color:#000000;">
+<br/>    
+<b>1-8</b>  
+<font color="#000000">B. Clark (73)</font>
+</font>
+</div>
+</span>
+</a>
+</td>
+<td colspan="4">
+<progress max="3" style="width:60px;margin-right:8px;" value="1.22">1.22</progress><font style="color:#888888;font-size:11px;">1.22</font>
+<br/>
+<progress max="3" style="width:60px;margin-right:8px;" value="2.40">2.40</progress><font style="color:#888888;font-size:11px;">2.40</font>
+</td>
+<td align="center" valign="middle" width="55">
+<a class="vsmall" href="round_details.asp?league=wales&amp;mrevid=m133&amp;st1=10&amp;st2=8">analysis</a>
+</td>
+</tr>
+</tbody>
 </table>
