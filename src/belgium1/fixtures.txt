@@ -6,8 +6,47 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=17-westerlo">Westerlo</a></td>
+<font style="font-size:10px;color:#666666;">Su 29 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=15-anderlecht">Anderlecht</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">12:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Anderlecht</b>:
+1.18
+points per game
+at home
+<br/><b>Antwerp</b>:
+1.55
+points per game
+away
+<br/><br/>
+<font color="red">
+Anderlecht have lost their last 3 home matches.
+</font>
+<br/>
+<font color="black">
+70% of Antwerp's conceded goals occurred in the first half.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=14-antwerp">Antwerp</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=304-15-14-2023" title="Anderlecht vs Antwerp">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Su 29 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=18-cercle-brugge">Cercle Brugge</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
@@ -15,20 +54,19 @@
 </div>
 <span>
 <div style="text-align:left;">
-<b>Westerlo</b>:
-1.55
+<b>Cercle Brugge</b>:
+1.60
 points per game
 at home
-<br/><b>KV Mechelen</b>:
-0.44
+<br/><b>Gent</b>:
+1.55
 points per game
 away
 <br/><br/>
 <font color="black">
 </font>
 <br/>
-<font color="red">
-KV Mechelen have lost their last 5 away matches.
+<font color="black">
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -37,75 +75,37 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=13-kv-mechelen">KV Mechelen</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=2-gent">Gent</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=105-17-13-2023" title="Westerlo vs KV Mechelen">stats</a>
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=103-18-2-2023" title="Cercle Brugge vs Gent">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=5-kortrijk">Kortrijk</a></td>
+<font style="font-size:10px;color:#666666;">Su 29 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=7-zulte-waregem">Zulte-Waregem</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:15</font>
+<font color="green" size="1">17:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Kortrijk</b>:
+<b>Zulte-Waregem</b>:
 1.00
 points per game
 at home
-<br/><b>Oostende</b>:
-0.45
-points per game
-away
-<br/><br/>
-<font color="black">
-Kortrijk have scored 62% of their goals away.
-</font>
-<br/>
-<font color="red">
-Oostende have lost their last 6 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=16-oostende">Oostende</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=102-5-16-2023" title="Kortrijk vs Oostende">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=6-oh-leuven">OH Leuven</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">17:15</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>OH Leuven</b>:
+<br/><b>Club Brugge</b>:
 1.40
 points per game
-at home
-<br/><b>Sint-Truiden</b>:
-1.73
-points per game
 away
 <br/><br/>
 <font color="black">
+63% of Zulte-Waregem's conceded goals were conceded at home.
 </font>
 <br/>
-<font color="green">
-Sint-Truiden have been undefeated in their last 4 away matches.
+<font color="black">
+Club Brugge have drawn their last 3 matches.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -114,36 +114,37 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=9-sint-truiden">Sint-Truiden</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=11-club-brugge">Club Brugge</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=101-6-9-2023" title="OH Leuven vs Sint-Truiden">stats</a>
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=104-7-11-2023" title="Zulte-Waregem vs Club Brugge">stats</a>
 </td>
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=3-charleroi">Charleroi</a></td>
+<font style="font-size:10px;color:#666666;">Su 29 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=belgium&amp;stats=12-krc-genk">KRC Genk</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:45</font>
+<font color="green" size="1">20:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Charleroi</b>:
-1.30
+<b>KRC Genk</b>:
+2.82
 points per game
 at home
-<br/><b>Royale Union SG</b>:
-2.09
+<br/><b>Seraing</b>:
+1.18
 points per game
 away
 <br/><br/>
-<font color="black">
+<font color="green">
+KRC Genk have won their last 3 matches.
 </font>
 <br/>
-<font color="green">
-Royale Union SG have been undefeated in their last 14 matches.
+<font color="black">
+87% of Seraing's points have been earned away.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -152,9 +153,9 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=10-royale-union-sg">Royale Union SG</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=belgium&amp;stats=8-seraing">Seraing</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=106-3-10-2023" title="Charleroi vs Royale Union SG">stats</a>
+<a class="vsmall" href="pmatch.asp?league=belgium&amp;stats=100-12-8-2023" title="KRC Genk vs Seraing">stats</a>
 </td>
 </tr>
 </table>
