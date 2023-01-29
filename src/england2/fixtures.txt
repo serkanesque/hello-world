@@ -5,31 +5,40 @@
 </td>
 </tr>
 <tr class="odd" height="32">
+<td style="width:50px;padding-left:5px;font-size:10px;color:#666666;">Sa 28 Jan</td>
+<td align="right"><a href="team.asp?league=england2&amp;stats=18-preston">Preston</a> </td>
+<td align="center" width="45">
+pp.
+</td>
+<td align="left"> <a href="team.asp?league=england2&amp;stats=22-coventry-city">Coventry City</a> </td>
+<td align="left" valign="middle">
+</td>
+</tr>
+<tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Tu 31 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england2&amp;stats=11-luton-town">Luton Town</a></td>
+<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england2&amp;stats=22-coventry-city">Coventry City</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:45</font>
+<font color="green" size="1">15:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Luton Town</b>:
-1.23
+<b>Coventry City</b>:
+1.57
 points per game
 at home
-<br/><b>Cardiff City</b>:
-0.92
+<br/><b>Huddersfield</b>:
+0.75
 points per game
 away
 <br/><br/>
 <font color="black">
-62% of Luton Town's points have been earned away.
 </font>
 <br/>
-<font color="red">
-Cardiff City have failed to win in their last 9 matches.
+<font color="black">
+61% of Huddersfield's conceded goals occurred in the first half.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +47,85 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england2&amp;stats=7-cardiff-city">Cardiff City</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england2&amp;stats=1-huddersfield">Huddersfield</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=england2&amp;stats=540-11-7-2023" title="Luton Town vs Cardiff City">stats</a>
+<a class="vsmall" href="pmatch.asp?league=england2&amp;stats=52-22-1-2023" title="Coventry City vs Huddersfield">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england2&amp;stats=9-hull-city">Hull City</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Hull City</b>:
+1.07
+points per game
+at home
+<br/><b>QP Rangers</b>:
+1.36
+points per game
+away
+<br/><br/>
+<font color="red">
+Hull City have failed to win in their last 7 home matches.
+</font>
+<br/>
+<font color="black">
+QP Rangers have drawn their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england2&amp;stats=4-qp-rangers">QP Rangers</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england2&amp;stats=539-9-4-2023" title="Hull City vs QP Rangers">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=england2&amp;stats=19-middlesbrough">Middlesbrough</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">15:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Middlesbrough</b>:
+1.77
+points per game
+at home
+<br/><b>Watford</b>:
+1.43
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=england2&amp;stats=23-watford">Watford</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=england2&amp;stats=541-19-23-2023" title="Middlesbrough vs Watford">stats</a>
 </td>
 </tr>
 </table>

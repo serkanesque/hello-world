@@ -39,49 +39,6 @@ Pts
 </font>
 </td>
 <td style="padding-left:4px;">
-Truro City
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-8
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-<font color="blue">
-26
-</font>
-</td>
-<td align="center">
-<font color="red">
-17
-</font>
-</td>
-<td align="center">
-+9
-</td>
-<td align="center">
-<b>
-27
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-2
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
 Weston-s.-Mare
 </td>
 <td align="center">
@@ -120,12 +77,12 @@ Weston-s.-Mare
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-3
+2
 </b>
 </font>
 </td>
 <td style="padding-left:4px;">
-Chesham Utd
+Poole Town
 </td>
 <td align="center">
 <font color="green">
@@ -143,16 +100,59 @@ Chesham Utd
 </td>
 <td align="center">
 <font color="blue">
-26
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+14
 </font>
 </td>
 <td align="center">
-+7
++11
+</td>
+<td align="center">
+<b>
+24
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+3
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Chesham Utd
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+7
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+<font color="blue">
+24
+</font>
+</td>
+<td align="center">
+<font color="red">
+14
+</font>
+</td>
+<td align="center">
++10
 </td>
 <td align="center">
 <b>
@@ -168,11 +168,11 @@ Chesham Utd
 </font>
 </td>
 <td style="padding-left:4px;">
-Poole Town
+Truro City
 </td>
 <td align="center">
 <font color="green">
-14
+12
 </font>
 </td>
 <td align="center">
@@ -182,7 +182,7 @@ Poole Town
 3
 </td>
 <td align="center">
-4
+2
 </td>
 <td align="center">
 <font color="blue">
@@ -191,11 +191,11 @@ Poole Town
 </td>
 <td align="center">
 <font color="red">
-18
+17
 </font>
 </td>
 <td align="center">
-+7
++8
 </td>
 <td align="center">
 <b>
@@ -344,7 +344,7 @@ Salisbury
 </td>
 <td align="center">
 <font color="green">
-14
+13
 </font>
 </td>
 <td align="center">
@@ -354,7 +354,7 @@ Salisbury
 1
 </td>
 <td align="center">
-7
+6
 </td>
 <td align="center">
 <font color="blue">
@@ -363,11 +363,11 @@ Salisbury
 </td>
 <td align="center">
 <font color="red">
-21
+16
 </font>
 </td>
 <td align="center">
--2
++3
 </td>
 <td align="center">
 <b>
@@ -387,7 +387,7 @@ Winchester City
 </td>
 <td align="center">
 <font color="green">
-14
+13
 </font>
 </td>
 <td align="center">
@@ -397,20 +397,20 @@ Winchester City
 4
 </td>
 <td align="center">
-6
+5
 </td>
 <td align="center">
 <font color="blue">
-21
+20
 </font>
 </td>
 <td align="center">
 <font color="red">
-30
+27
 </font>
 </td>
 <td align="center">
--9
+-7
 </td>
 <td align="center">
 <b>
@@ -430,7 +430,7 @@ Hayes &amp; Yeading
 </td>
 <td align="center">
 <font color="green">
-12
+11
 </font>
 </td>
 <td align="center">
@@ -440,20 +440,20 @@ Hayes &amp; Yeading
 3
 </td>
 <td align="center">
-5
+4
 </td>
 <td align="center">
 <font color="blue">
-24
+22
 </font>
 </td>
 <td align="center">
 <font color="red">
-24
+21
 </font>
 </td>
 <td align="center">
-0
++1
 </td>
 <td align="center">
 <b>
@@ -602,14 +602,14 @@ Tiverton Town
 </td>
 <td align="center">
 <font color="green">
-11
+10
 </font>
 </td>
 <td align="center">
 4
 </td>
 <td align="center">
-1
+0
 </td>
 <td align="center">
 6
@@ -629,7 +629,7 @@ Tiverton Town
 </td>
 <td align="center">
 <b>
-13
+12
 </b>
 </td>
 </tr>
@@ -684,54 +684,11 @@ Hendon
 </font>
 </td>
 <td style="padding-left:4px;">
-Swindon Sup.
-</td>
-<td align="center">
-<font color="green">
-10
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-6
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-23
-</font>
-</td>
-<td align="center">
--6
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-17
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
 Harrow Borough
 </td>
 <td align="center">
 <font color="green">
-12
+11
 </font>
 </td>
 <td align="center">
@@ -741,7 +698,7 @@ Harrow Borough
 4
 </td>
 <td align="center">
-6
+5
 </td>
 <td align="center">
 <font color="blue">
@@ -750,15 +707,58 @@ Harrow Borough
 </td>
 <td align="center">
 <font color="red">
-30
+27
 </font>
 </td>
 <td align="center">
--12
+-9
 </td>
 <td align="center">
 <b>
 10
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+17
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Hanwell Town
+</td>
+<td align="center">
+<font color="green">
+11
+</font>
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+19
+</font>
+</td>
+<td align="center">
+-8
+</td>
+<td align="center">
+<b>
+9
 </b>
 </td>
 </tr>
@@ -770,38 +770,38 @@ Harrow Borough
 </font>
 </td>
 <td style="padding-left:4px;">
-Hanwell Town
+Swindon Sup.
 </td>
 <td align="center">
 <font color="green">
-12
+9
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-3
+1
 </td>
 <td align="center">
-7
+6
 </td>
 <td align="center">
 <font color="blue">
-11
+13
 </font>
 </td>
 <td align="center">
 <font color="red">
-21
+20
 </font>
 </td>
 <td align="center">
--10
+-7
 </td>
 <td align="center">
 <b>
-9
+7
 </b>
 </td>
 </tr>
@@ -860,7 +860,7 @@ Hartley Wintney
 </td>
 <td align="center">
 <font color="green">
-14
+13
 </font>
 </td>
 <td align="center">
@@ -870,7 +870,7 @@ Hartley Wintney
 0
 </td>
 <td align="center">
-12
+11
 </td>
 <td align="center">
 <font color="blue">
@@ -879,11 +879,11 @@ Hartley Wintney
 </td>
 <td align="center">
 <font color="red">
-32
+29
 </font>
 </td>
 <td align="center">
--22
+-19
 </td>
 <td align="center">
 <b>
