@@ -43,26 +43,26 @@ Catanzaro
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
 8
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 0
 </td>
 <td align="center">
 <font color="blue">
-22
+23
 </font>
 </td>
 <td align="center">
 <font color="red">
-4
+5
 </font>
 </td>
 <td align="center">
@@ -70,7 +70,7 @@ Catanzaro
 </td>
 <td align="center">
 <b>
-27
+28
 </b>
 </td>
 </tr>
@@ -172,11 +172,11 @@ Foggia
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 3
@@ -186,7 +186,7 @@ Foggia
 </td>
 <td align="center">
 <font color="blue">
-16
+20
 </font>
 </td>
 <td align="center">
@@ -195,11 +195,11 @@ Foggia
 </font>
 </td>
 <td align="center">
-0
++4
 </td>
 <td align="center">
 <b>
-15
+18
 </b>
 </td>
 </tr>
@@ -215,11 +215,11 @@ Juve Stabia
 </td>
 <td align="center">
 <font color="green">
-12
+13
 </font>
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 3
@@ -229,12 +229,55 @@ Juve Stabia
 </td>
 <td align="center">
 <font color="blue">
-9
+10
 </font>
 </td>
 <td align="center">
 <font color="red">
 12
+</font>
+</td>
+<td align="center">
+-2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+6
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Latina
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+17
+</font>
+</td>
+<td align="center">
+<font color="red">
+20
 </font>
 </td>
 <td align="center">
@@ -249,7 +292,7 @@ Juve Stabia
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-6
+7
 </b>
 </font>
 </td>
@@ -282,49 +325,6 @@ Turris
 </td>
 <td align="center">
 -2
-</td>
-<td align="center">
-<b>
-14
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-7
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Latina
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-17
-</font>
-</td>
-<td align="center">
-<font color="red">
-20
-</font>
-</td>
-<td align="center">
--3
 </td>
 <td align="center">
 <b>
@@ -383,6 +383,49 @@ Picerno
 </font>
 </td>
 <td style="padding-left:4px;">
+Giugliano
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+<font color="blue">
+11
+</font>
+</td>
+<td align="center">
+<font color="red">
+15
+</font>
+</td>
+<td align="center">
+-4
+</td>
+<td align="center">
+<b>
+13
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+10
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Monopoli
 </td>
 <td align="center">
@@ -421,7 +464,7 @@ Monopoli
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -430,7 +473,7 @@ Monterosi
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -440,7 +483,7 @@ Monterosi
 2
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 <font color="blue">
@@ -449,50 +492,7 @@ Monterosi
 </td>
 <td align="center">
 <font color="red">
-15
-</font>
-</td>
-<td align="center">
--3
-</td>
-<td align="center">
-<b>
-11
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Giugliano
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-2
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-<font color="blue">
-9
-</font>
-</td>
-<td align="center">
-<font color="red">
-15
+18
 </font>
 </td>
 <td align="center">
@@ -500,7 +500,7 @@ Giugliano
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
@@ -516,14 +516,14 @@ Gelbison
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
 2
 </td>
 <td align="center">
-4
+5
 </td>
 <td align="center">
 5
@@ -543,7 +543,7 @@ Gelbison
 </td>
 <td align="center">
 <b>
-10
+11
 </b>
 </td>
 </tr>
@@ -551,6 +551,49 @@ Gelbison
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 13
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Potenza
+</td>
+<td align="center">
+<font color="green">
+13
+</font>
+</td>
+<td align="center">
+1
+</td>
+<td align="center">
+8
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+10
+</font>
+</td>
+<td align="center">
+<font color="red">
+21
+</font>
+</td>
+<td align="center">
+-11
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+14
 </b>
 </font>
 </td>
@@ -583,49 +626,6 @@ A. Cerignola
 </td>
 <td align="center">
 -9
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-14
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Potenza
-</td>
-<td align="center">
-<font color="green">
-12
-</font>
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-7
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-10
-</font>
-</td>
-<td align="center">
-<font color="red">
-21
-</font>
-</td>
-<td align="center">
--11
 </td>
 <td align="center">
 <b>
@@ -774,7 +774,7 @@ Fidelis Andria
 </td>
 <td align="center">
 <font color="green">
-11
+12
 </font>
 </td>
 <td align="center">
@@ -784,20 +784,20 @@ Fidelis Andria
 3
 </td>
 <td align="center">
-8
+9
 </td>
 <td align="center">
 <font color="blue">
-7
+8
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+22
 </font>
 </td>
 <td align="center">
--12
+-14
 </td>
 <td align="center">
 <b>

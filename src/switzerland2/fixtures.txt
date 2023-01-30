@@ -6,29 +6,29 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Sa 28 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=5-aarau">Aarau</a></td>
+<font style="font-size:10px;color:#666666;">Fr 3 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=1-schaffhausen">Schaffhausen</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">17:00</font>
+<font color="green" size="1">18:30</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Aarau</b>:
-1.44
+<b>Schaffhausen</b>:
+1.22
 points per game
 at home
-<br/><b>Thun</b>:
-1.11
+<br/><b>Vaduz</b>:
+0.78
 points per game
 away
 <br/><br/>
 <font color="black">
+Schaffhausen have scored 65% of their goals away.
 </font>
 <br/>
 <font color="black">
-71% of Thun's goals have been scored in the second half.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -37,9 +37,86 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=2-thun">Thun</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=6-vaduz">Vaduz</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=92-5-2-2023" title="Aarau vs Thun">stats</a>
+<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=96-1-6-2023" title="Schaffhausen vs Vaduz">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 3 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=3-yverdon">Yverdon</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">18:30</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Yverdon</b>:
+2.11
+points per game
+at home
+<br/><b>Lausanne Ouchy</b>:
+1.67
+points per game
+away
+<br/><br/>
+<font color="green">
+Yverdon have won their last 4 home matches.
+</font>
+<br/>
+<font color="black">
+69% of Lausanne Ouchy's conceded goals were conceded at home.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=4-lausanne-ouchy">Lausanne Ouchy</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=97-3-4-2023" title="Yverdon vs Lausanne Ouchy">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Fr 3 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=switzerland2&amp;stats=8-lausanne-sport">Lausanne Sport</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:15</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Lausanne Sport</b>:
+2.33
+points per game
+at home
+<br/><b>Aarau</b>:
+1.33
+points per game
+away
+<br/><br/>
+<font color="green">
+Lausanne Sport have been undefeated in their last 9 home matches.
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=switzerland2&amp;stats=5-aarau">Aarau</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=switzerland2&amp;stats=98-8-5-2023" title="Lausanne Sport vs Aarau">stats</a>
 </td>
 </tr>
 </table>
