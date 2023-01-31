@@ -6,30 +6,30 @@
 </tr>
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Mo 30 Jan</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=2-udinese">Udinese</a></td>
+<font style="font-size:10px;color:#666666;">Sa 4 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=10-cremonese">Cremonese</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
 <div>
-<font color="green" size="1">19:45</font>
+<font color="green" size="1">14:00</font>
 </div>
 <span>
 <div style="text-align:left;">
-<b>Udinese</b>:
-1.44
+<b>Cremonese</b>:
+0.30
 points per game
 at home
-<br/><b>Hellas Verona</b>:
-0.33
+<br/><b>Lecce</b>:
+0.90
 points per game
 away
 <br/><br/>
 <font color="red">
-Udinese have failed to win in their last 5 home matches.
+Cremonese have failed to win in their last 20 matches.
 </font>
 <br/>
 <font color="black">
-Hellas Verona have scored 76% of their goals in the first half.
+Lecce have scored 68% of their goals in the first half.
 </font>
 <br/><br/>
 <font color="gray"><i>
@@ -38,9 +38,85 @@ Click the Stats button for more stats on those teams.
 </div>
 </span>
 </a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=17-hellas-verona">Hellas Verona</a></td>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=5-lecce">Lecce</a></td>
 <td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=200-2-17-2023" title="Udinese vs Hellas Verona">stats</a>
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=281-10-5-2023" title="Cremonese vs Lecce">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 4 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=14-as-roma">AS Roma</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">17:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>AS Roma</b>:
+1.78
+points per game
+at home
+<br/><b>Empoli</b>:
+1.10
+points per game
+away
+<br/><br/>
+<font color="black">
+AS Roma have scored 62% of their goals away.
+</font>
+<br/>
+<font color="green">
+Empoli have been undefeated in their last 6 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=16-empoli">Empoli</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=286-14-16-2023" title="AS Roma vs Empoli">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Sa 4 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=italy&amp;stats=20-sassuolo">Sassuolo</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">19:45</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Sassuolo</b>:
+1.22
+points per game
+at home
+<br/><b>Atalanta</b>:
+2.10
+points per game
+away
+<br/><br/>
+<font color="black">
+</font>
+<br/>
+<font color="black">
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=italy&amp;stats=4-atalanta">Atalanta</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=italy&amp;stats=288-20-4-2023" title="Sassuolo vs Atalanta">stats</a>
 </td>
 </tr>
 </table>
