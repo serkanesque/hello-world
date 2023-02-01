@@ -43,11 +43,11 @@ Notts County
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-9
+10
 </td>
 <td align="center">
 4
@@ -57,20 +57,20 @@ Notts County
 </td>
 <td align="center">
 <font color="blue">
-42
+44
 </font>
 </td>
 <td align="center">
 <font color="red">
-19
+20
 </font>
 </td>
 <td align="center">
-+23
++24
 </td>
 <td align="center">
 <b>
-31
+34
 </b>
 </td>
 </tr>
@@ -172,11 +172,11 @@ Boreham Wood
 </td>
 <td align="center">
 <font color="green">
-14
+15
 </font>
 </td>
 <td align="center">
-6
+7
 </td>
 <td align="center">
 4
@@ -186,7 +186,7 @@ Boreham Wood
 </td>
 <td align="center">
 <font color="blue">
-17
+18
 </font>
 </td>
 <td align="center">
@@ -195,11 +195,11 @@ Boreham Wood
 </font>
 </td>
 <td align="center">
-+5
++6
 </td>
 <td align="center">
 <b>
-22
+25
 </b>
 </td>
 </tr>
@@ -301,14 +301,14 @@ Wealdstone
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
 5
 </td>
 <td align="center">
-3
+4
 </td>
 <td align="center">
 5
@@ -328,7 +328,7 @@ Wealdstone
 </td>
 <td align="center">
 <b>
-18
+19
 </b>
 </td>
 </tr>
@@ -336,6 +336,49 @@ Wealdstone
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
 8
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
+Barnet
+</td>
+<td align="center">
+<font color="green">
+12
+</font>
+</td>
+<td align="center">
+5
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+26
+</font>
+</td>
+<td align="center">
+<font color="red">
+24
+</font>
+</td>
+<td align="center">
++2
+</td>
+<td align="center">
+<b>
+18
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+9
 </b>
 </font>
 </td>
@@ -378,7 +421,7 @@ Solihull Moors
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-9
+10
 </b>
 </font>
 </td>
@@ -421,7 +464,7 @@ Southend Utd
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-10
+11
 </b>
 </font>
 </td>
@@ -458,49 +501,6 @@ York City
 <td align="center">
 <b>
 16
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-11
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Barnet
-</td>
-<td align="center">
-<font color="green">
-11
-</font>
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-24
-</font>
-</td>
-<td align="center">
-<font color="red">
-24
-</font>
-</td>
-<td align="center">
-0
-</td>
-<td align="center">
-<b>
-15
 </b>
 </td>
 </tr>
@@ -727,6 +727,49 @@ Altrincham
 </font>
 </td>
 <td style="padding-left:4px;">
+Torquay Utd
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+3
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+9
+</td>
+<td align="center">
+<font color="blue">
+8
+</font>
+</td>
+<td align="center">
+<font color="red">
+23
+</font>
+</td>
+<td align="center">
+-15
+</td>
+<td align="center">
+<b>
+11
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+18
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Yeovil Town
 </td>
 <td align="center">
@@ -755,49 +798,6 @@ Yeovil Town
 </td>
 <td align="center">
 -6
-</td>
-<td align="center">
-<b>
-10
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
-18
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Torquay Utd
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-3
-</td>
-<td align="center">
-1
-</td>
-<td align="center">
-9
-</td>
-<td align="center">
-<font color="blue">
-7
-</font>
-</td>
-<td align="center">
-<font color="red">
-22
-</font>
-</td>
-<td align="center">
--15
 </td>
 <td align="center">
 <b>

@@ -129,11 +129,11 @@ Carlisle Utd
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
 </td>
 <td align="center">
-7
+8
 </td>
 <td align="center">
 5
@@ -143,20 +143,20 @@ Carlisle Utd
 </td>
 <td align="center">
 <font color="blue">
-20
+25
 </font>
 </td>
 <td align="center">
 <font color="red">
-10
+11
 </font>
 </td>
 <td align="center">
-+10
++14
 </td>
 <td align="center">
 <b>
-26
+29
 </b>
 </td>
 </tr>
@@ -598,6 +598,49 @@ Doncaster
 </font>
 </td>
 <td style="padding-left:4px;">
+Salford City
+</td>
+<td align="center">
+<font color="green">
+14
+</font>
+</td>
+<td align="center">
+6
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+4
+</td>
+<td align="center">
+<font color="blue">
+16
+</font>
+</td>
+<td align="center">
+<font color="red">
+13
+</font>
+</td>
+<td align="center">
++3
+</td>
+<td align="center">
+<b>
+22
+</b>
+</td>
+</tr>
+<tr class="odd" height="28">
+<td align="center" bgcolor="#f0f0f0">
+<font color="#444444"><b>
+15
+</b>
+</font>
+</td>
+<td style="padding-left:4px;">
 Bradford
 </td>
 <td align="center">
@@ -636,49 +679,6 @@ Bradford
 <tr class="odd" height="28">
 <td align="center" bgcolor="#f0f0f0">
 <font color="#444444"><b>
-15
-</b>
-</font>
-</td>
-<td style="padding-left:4px;">
-Salford City
-</td>
-<td align="center">
-<font color="green">
-13
-</font>
-</td>
-<td align="center">
-5
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-4
-</td>
-<td align="center">
-<font color="blue">
-15
-</font>
-</td>
-<td align="center">
-<font color="red">
-13
-</font>
-</td>
-<td align="center">
-+2
-</td>
-<td align="center">
-<b>
-19
-</b>
-</td>
-</tr>
-<tr class="odd" height="28">
-<td align="center" bgcolor="#f0f0f0">
-<font color="#444444"><b>
 16
 </b>
 </font>
@@ -688,8 +688,11 @@ Crewe Alexandra
 </td>
 <td align="center">
 <font color="green">
-13
+14
 </font>
+</td>
+<td align="center">
+5
 </td>
 <td align="center">
 5
@@ -698,16 +701,13 @@ Crewe Alexandra
 4
 </td>
 <td align="center">
-4
-</td>
-<td align="center">
 <font color="blue">
-14
+15
 </font>
 </td>
 <td align="center">
 <font color="red">
-13
+14
 </font>
 </td>
 <td align="center">
@@ -715,7 +715,7 @@ Crewe Alexandra
 </td>
 <td align="center">
 <b>
-19
+20
 </b>
 </td>
 </tr>

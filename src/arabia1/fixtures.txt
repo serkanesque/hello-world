@@ -7,6 +7,45 @@
 <tr class="odd" height="32">
 <td style="padding-left:5px;" width="50">
 <font style="font-size:10px;color:#666666;">Th 2 Feb</font></td>
+<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=13-abha">Abha</a></td>
+<td align="center" width="40">
+<a class="tooltip2" href="#">
+<div>
+<font color="green" size="1">13:00</font>
+</div>
+<span>
+<div style="text-align:left;">
+<b>Abha</b>:
+1.43
+points per game
+at home
+<br/><b>Al Khaleej</b>:
+0.50
+points per game
+away
+<br/><br/>
+<font color="black">
+78% of Abha's goals have been scored in the second half.
+</font>
+<br/>
+<font color="green">
+Al Khaleej have won their last 3 matches.
+</font>
+<br/><br/>
+<font color="gray"><i>
+Click the Stats button for more stats on those teams.
+</i></font>
+</div>
+</span>
+</a>
+</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=3-al-khaleej">Al Khaleej</a></td>
+<td align="left" width="40">
+<a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=116-13-3-2023" title="Abha vs Al Khaleej">stats</a>
+</td>
+</tr>
+<tr class="odd" height="32">
+<td style="padding-left:5px;" width="50">
+<font style="font-size:10px;color:#666666;">Th 2 Feb</font></td>
 <td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=10-al-batin">Al Batin</a></td>
 <td align="center" width="40">
 <a class="tooltip2" href="#">
@@ -79,45 +118,6 @@ Click the Stats button for more stats on those teams.
 </td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=2-damak">Damak</a></td>
 <td align="left" width="40">
 <a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=114-9-2-2023" title="Al Shabab vs Damak">stats</a>
-</td>
-</tr>
-<tr class="odd" height="32">
-<td style="padding-left:5px;" width="50">
-<font style="font-size:10px;color:#666666;">Th 2 Feb</font></td>
-<td style="text-align:right;padding-right:8px;"><a href="team.asp?league=saudiarabia&amp;stats=13-abha">Abha</a></td>
-<td align="center" width="40">
-<a class="tooltip2" href="#">
-<div>
-<font color="green" size="1">17:30</font>
-</div>
-<span>
-<div style="text-align:left;">
-<b>Abha</b>:
-1.43
-points per game
-at home
-<br/><b>Al Khaleej</b>:
-0.50
-points per game
-away
-<br/><br/>
-<font color="black">
-78% of Abha's goals have been scored in the second half.
-</font>
-<br/>
-<font color="green">
-Al Khaleej have won their last 3 matches.
-</font>
-<br/><br/>
-<font color="gray"><i>
-Click the Stats button for more stats on those teams.
-</i></font>
-</div>
-</span>
-</a>
-</td><td style="text-align:left;padding-left:8px;"><a href="team.asp?league=saudiarabia&amp;stats=3-al-khaleej">Al Khaleej</a></td>
-<td align="left" width="40">
-<a class="vsmall" href="pmatch.asp?league=saudiarabia&amp;stats=116-13-3-2023" title="Abha vs Al Khaleej">stats</a>
 </td>
 </tr>
 </table>
