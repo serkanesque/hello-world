@@ -1,0 +1,533 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.104.2">
+  <title>Headers · Bootstrap v5.2</title>
+
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/headers/">
+  <link rel="stylesheet/less" type="text/css" href="styles.less" />
+  <script src="https://cdn.jsdelivr.net/npm/less" ></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500&family=IBM+Plex+Serif:wght@100;300;400;700&display=swap" rel="stylesheet">
+  
+  <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" integrity="sha512-wR4oNhLBHf7smjy0K4oqzdWumd+r5/+6QO/vDda76MW5iug4PT7v86FoEkySIJft3XA0Ae6axhIvHrqwm793Nw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="
+  https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
+  "></script>
+</head>
+
+<body>
+
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="bootstrap" viewBox="0 0 118 94">
+      <title>Bootstrap</title>
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 01-2-2V24a2 2 0 012-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863zM60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207zM49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281 0-5.406-3.903-8.178-11.425-8.178H49.948z">
+      </path>
+    </symbol>
+    <symbol id="home" viewBox="0 0 16 16">
+      <path
+        d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146zM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4H2.5z" />
+    </symbol>
+    <symbol id="speedometer2" viewBox="0 0 16 16">
+      <path
+        d="M8 4a.5.5 0 0 1 .5.5V6a.5.5 0 0 1-1 0V4.5A.5.5 0 0 1 8 4zM3.732 5.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 10a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 10zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L7.547 9.31a.91.91 0 1 0 1.302 1.258l3.434-4.297a.389.389 0 0 0-.029-.518z" />
+      <path fill-rule="evenodd"
+        d="M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25C11.309 13.488 9.475 13 8 13c-1.474 0-3.31.488-4.615.911-1.087.352-2.49.003-2.932-1.25A7.988 7.988 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.203.575.923.876 1.68.63C4.397 12.533 6.358 12 8 12s3.604.532 4.923.96c.757.245 1.477-.056 1.68-.631A7 7 0 0 0 8 3z" />
+    </symbol>
+    <symbol id="table" viewBox="0 0 16 16">
+      <path
+        d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm15 2h-4v3h4V4zm0 4h-4v3h4V8zm0 4h-4v3h3a1 1 0 0 0 1-1v-2zm-5 3v-3H6v3h4zm-5 0v-3H1v2a1 1 0 0 0 1 1h3zm-4-4h4V8H1v3zm0-4h4V4H1v3zm5-3v3h4V4H6zm4 4H6v3h4V8z" />
+    </symbol>
+    <symbol id="people-circle" viewBox="0 0 16 16">
+      <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+      <path fill-rule="evenodd"
+        d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z" />
+    </symbol>
+    <symbol id="grid" viewBox="0 0 16 16">
+      <path
+        d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v3A1.5 1.5 0 0 1 5.5 7h-3A1.5 1.5 0 0 1 1 5.5v-3zM2.5 2a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 1h3A1.5 1.5 0 0 1 15 2.5v3A1.5 1.5 0 0 1 13.5 7h-3A1.5 1.5 0 0 1 9 5.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zM1 10.5A1.5 1.5 0 0 1 2.5 9h3A1.5 1.5 0 0 1 7 10.5v3A1.5 1.5 0 0 1 5.5 15h-3A1.5 1.5 0 0 1 1 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 9h3a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3z" />
+    </symbol>
+  </svg>
+
+  <main>
+
+    <nav class="navbar sticky-top navbar-expand-lg">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">
+          <img src="imgs/logo.svg" alt="Logo"  class="d-inline-block align-text-top">
+          
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="about-us.html">About us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="our-services.html">Our services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="case-studies.html">Case studies</a>
+            </li>
+            <li class="nav-item button">
+              <a class="nav-link" href="contact-us.html">Contact us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+    <div class="hero d-flex align-items-center container mw-100 col px-4 py-5">
+      <div class="container">
+      <div class="row flex-lg-row-reverse justify-content-between align-items-center g-5 py-5">
+        <div class="col-10 col-sm-8 col-lg-6">
+          <img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" style="opacity:0;">
+        </div>
+        <div class="col-xxl-5 col-lg-6">
+          <p class="small">Strategic corporate finance advice</p>
+          <h1 class="mb-6">Helping your business make the right move</h1>
+          <p class="lead mt-11">We bring our expertise to help entrepreneurial businesses achieve their strategic objectives</p>
+
+        </div>
+      </div>
+      </div>
+
+    </div>
+
+    <div class="container px-4 py-5" id="featured-3">
+      <div class="row g-lg-5 mb-5">
+        <!-- LHS -->
+        <div class="col sidebar">
+       
+          <div class="list-group sticky-top" style="z-index: 5;">
+            <h3 class="fs-2">On this page</h3>
+            <a href="how-we-can-help-you" class="list-group-item list-group-item-action">How we can help you </a>
+            <a href="achievements" class="list-group-item list-group-item-action">Our achievements</a>
+            <a href="how-we-work" class="list-group-item list-group-item-action">How we work</a>
+            <a href="leadership" class="list-group-item list-group-item-action">Our leadership</a>
+            <a href="case-studies" class="list-group-item list-group-item-action">Case studies</a>
+            <a href="contact-us"class="list-group-item list-group-item-action">Get in touch</a>
+          </div>
+        </div>
+
+        <!-- RHS -->        
+        <div class="col-lg-9">
+          <div class="row">            
+            <div class="feature col col-lg-12 col-xl-9">
+            <h2 class="mt-6 mb-5 pb-2">We are an independent advisory firm, focussed on successful growing businesses</h2>
+            <p class="blurb mb-8">We provide strategic financial advice and manage transactions for a range of entrepreneurial companies and investors both in the UK and internationally.
+            </p>
+          </div>
+          </div>
+ 
+          <div data-name="how-we-can-help-you" class="row how-we-can-help">      
+            <h3 class="pb-2 pt-5 mb-8 border-top">How we can help you</h2>
+            <div class="card-wrapper">
+              <div class="feature col-lg-6">  
+                <img class="rounded-4" src="imgs/sell-side-advisory.png" />  
+                <div class="homepage-card">             
+                  <h4>Sell Side advisory</h4>
+                  <h5>Unlock shareholder value</h5>
+                    <ul>
+                      <li>Optimisation of exit strategy</li>
+                      <li>Buyer search and evaluation</li>
+                      <li>Company valuation</li>
+                      <li>Project management and negotiation</li>
+                    </ul>           
+                </div>
+              </div>
+              <div class="feature col-lg-6"> 
+                <img class="rounded-4" src="imgs/buy-side-advisory.png" />  
+                <div class="homepage-card">    
+                  <h4>Buy Side advisory</h4>
+                  <h5>Support growth strategy</h5>
+                  <ul>
+                    <li>Research potential targets</li>
+                    <li>Evaluate against return criteria</li>
+                    <li>Target valuation</li>
+                    <li>Effective negotiation and execution</li>
+                  </ul>   
+              </div>
+              </div>
+              <div class="feature col-lg-6">  
+                <img class="rounded-4" src="imgs/financing-structure.png" />  
+                <div class="homepage-card">      
+                  <h4>Financing structure</h4>
+                  <h5>Optimise capital structure</h5>
+                  <ul>
+                    <li>Develop financing strategy</li>
+                    <li>Evaluate funding options</li>
+                    <li>Capital raise advice and support</li>
+                  </ul>
+                </div>  
+              </div>
+              <div class="feature col-lg-6">
+                <img class="rounded-4" src="imgs/cfo-ned-services.png" />  
+                <div class="homepage-card">        
+                  <h4>CFO and NED Services</h4>
+                  <h5>Enhance Board capabilities</h5>
+                  <ul>
+                    <li>Part time cost effective support</li>
+                    <li>Financial overview and improvement</li>
+                    <li>Strategic advice</li>
+                    <li>Focus on value creation</li>
+                  </ul>   
+                </div>
+              </div>
+            </div>
+          </div>
+     
+          <h3 class="pb-2 pt-5 mb-8 border-top">Our achievements</h2>
+
+          <div data-name="achievements" name="achievements" class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 align-items-stretch g-4 py-5 achievements">
+            <div class="col">
+              <div class="card m-and-a card-cover h-100 overflow-hidden rounded-4">
+                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                  <h3><sup>£</sup>4.5<span>bn</span></h3>
+                  <span>of completed M&A deals</span>          
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card capital card-cover h-100 overflow-hidden rounded-4">
+                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                  <h3><sup>£</sup>3.6<span>bn</span></h3>
+                  <span>of successful capital raising</span>          
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <h3 class="pb-2 pt-5 mb-8 border-top">How we work</h2>
+          <div data-name="how-we-work" class="row how-we-work">
+            <div class="feature col">
+        
+              <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence
+                and probably just keep going until we run out of words.</p>
+            </div>
+            <div class="row row-cols-1 row-cols-lg-3  mt-0">
+              <div class="feature col">
+                  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-1">
+                    <div class="col-12 col-sm-3 col-md-3 col-lg-12" >
+                      <img src="imgs/scales.svg" />                     
+                    </div>
+                    <div class="col-12 col-sm-9 col-md-9 col-lg-12">
+                      <h6>Complete independence of view</h6>
+                      <p>Focussed on your needs not on the sale of financial products.</p>
+                    </div>
+                </div>
+              </div>
+
+              <div class="feature col">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-1">
+                  <div class="col-12 col-sm-3 col-md-3 col-lg-12" >
+                    <img src="imgs/input.svg" />                    
+                  </div>
+                  <div class="col-12 col-sm-9 col-md-9 col-lg-12">
+                    <h6>Dedicated senior level input throughout</h6>
+                    <p>With much closer hands on involvement than traditional advisory model.</p>
+                  </div>
+              </div>
+            </div>
+
+            <div class="feature col">
+              <div class="row row-cols-1 row-cols-md-2 row-cols-lg-1">
+                <div class="col-12 col-sm-3 col-md-3 col-lg-12" >
+                  <img src="imgs/structure.svg" />                     
+                </div>
+                <div class="col-12 col-sm-9 col-md-9 col-lg-12">
+                  <h6>Flexible remuneration structure</h6>
+                  <p>Aligned with your interests.</p>
+                </div>
+            </div>
+          </div>  
+            </div>
+          </div>
+          
+
+
+          <h3 class="pb-2 pt-5 mb-8 border-top">Our leadership</h2>
+          <div data-name="leadership" class="row leadership">
+            <div class="feature col-lg-4">
+              <div class="col col-sm-12 mb-4">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-1 mt-0 mb-0">
+                  <div class="col col-sm-3 col-md-3">
+                    <h2 class="display-2">35<sub>+</sub></h2>
+                  </div>
+                  <div class="col col-sm-9 col-md-9 d-flex align-items-center">
+                    <span class="stats">years of corporate finance experience</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col col-sm-12 mb-0">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-1 mt-0">
+                  <div class="col col-sm-3 col-md-3 mb-3">
+                    <h2 class="display-2">15<sub>+</sub></h2>
+                  </div>
+                  <div class="col col-sm-9 col-md-9 d-flex align-items-center">
+                    <span class="stats">years working in international investment banking</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="feature col-lg-8">
+              <p>Chantry is wholly owned by Managing Director, David Blake FCA. David is a highly experienced corporate finance professional and company director with a broad based industry and international experience.</p>
+              <p>In his career, David has assisted many private businesses and public companies in achieving their strategic objectives. His expertise in Corporate Finance spans a broad spectrum of transactions and industry sectors, both in the UK and overseas. </p>
+              <p>  <a href="#" class="icon-link d-inline-flex align-items-center">
+                Learn more about David
+                <svg class="bi" width="1em" height="1em">
+                  <use xlink:href="#chevron-right" />
+                </svg>
+              </a></p>
+            
+            </div>
+          </div>
+
+
+          <h3 class="pb-2 pt-5 mb-8 border-top">Case studies</h2>
+            <div data-name="case-studies" class="row">
+
+              <div class="feature col">
+            <div class="slick">
+              <div>
+                <div><img src="imgs/derrick-offshore.png" /></div>
+                <div>
+                  <h4>Derrick Offshore</h4>
+                  <p class="small">Advised the shareholders of the leading international broker of offshore support vessels in the sale of their business to Pareto JGO Shipbrokers from Norway. </p>
+                </div>
+              </div>
+              <div>
+                <div><img src="imgs/derrick-offshore.png" /></div>
+                <div>
+                  <h4>Derrick Offshore</h4>
+                  <p class="small">Advised the shareholders of the leading international broker of offshore support vessels in the sale of their business to Pareto JGO Shipbrokers from Norway</p>
+                </div>
+              </div>
+            </div>
+            </div>
+
+            </div>
+
+
+            
+          <div data-name="contact-us" class="row send-message">      
+            <h3 class="pb-2 pt-5 mb-8 border-top" name="case-studies">Send us a message</h2>              
+         
+              <div class="col-lg-9 mt-1 form">  
+                <form action="#" method="post">
+
+                <div class="row mt-1">
+                    <div class="col-lg-6 d-flex flex-column">
+                        <label for="first-name">First Name <span>(Required)</span></label>
+                        <input type="text" id="first-name" name="first-name" required>
+                    </div>         
+                    <div class="col-lg-6 d-flex flex-column">
+                        <label for="last-name">Last Name <span>(Required)</span></label>
+                        <input type="text" id="last-name" name="last-name" required>
+                    </div>
+                </div>
+                <div class="row">
+                 <div class="col-lg-6 d-flex flex-column">
+                        <label for="email">Email Address <span>(Required)</span></label>
+                        <input type="email" id="email" name="email" required>
+                </div>               
+                <div class="col-lg-6 d-flex flex-column">
+                    <label for="phone">Telephone Number <span>(Required)</span></label>
+                    <input type="tel" id="phone" name="phone" required>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 d-flex flex-column">
+                    <label for="message">Your Message </label>
+                    <textarea rows="8" id="message" name="message" required></textarea>
+                </div>
+                </div>
+                    <input type="submit" value="Send meassage">
+                  </form>
+                  
+               
+            </div>
+          
+                
+              </div>
+
+        </div>
+      </div>
+
+        </div>
+
+<div class="footer">
+        <div class="container">
+          <footer class="row row-cols-1 row-cols-sm-1 row-cols-md-5">
+            <div class="col-md-12 col-lg-3 mb-3">
+              <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
+                 <img class="logo" src="imgs/logo-white.svg" />
+              </a>
+              <p class="text-muted">Authorised and regulated by the financial conduct authority</p>
+            </div>
+
+            <div class="col mb-3 hide-when-small">
+
+            </div>
+
+            <div class="col-lg-2 col-md-4 mb-3">
+              <h5>Quick links</h5>
+              <ul class="nav flex-column">
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About us</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Our services</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Case studies</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Contact us</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><img style="margin-top: 12px;" src="imgs/social.svg"></a></li>
+              </ul>
+            </div>
+
+            <div class="col-lg-2 col-md-4 mb-3">
+              <h5>Get in touch</h5>
+              <ul class="nav flex-column">
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">T: +44  01483 280334</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">M: +44 07765 251740</a></li>
+                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">
+                  Parallel House<br>
+                  32 London Road<br> Guildford GU1 2AB
+                </a></li>
+              </ul>
+            </div>
+
+            <div class="col-lg-2 col-md-4 mb-3 registration">
+              <ul class="nav flex-column">
+                <li class="nav-item mb-2">
+                 Company Registration<br>
+                 <span class="p-0 text-muted">4623420 </span>               
+                </li>
+                  <li class="nav-item mb-2">
+                    <br>
+                    Registered office:<br>
+                    <span class="p-0 text-muted">Summerden House, Church Hill, Shamley Green, Guildford, GU5 0UD</span>
+                  
+                  </li>
+              </ul>
+            </div>
+          </footer>
+        </div>
+        <div class="container copyright">
+          © 2022 Chantry Corporate Finance Limited
+        </div>
+      </div>
+
+
+  </main>
+
+
+  <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+
+window.onload = function() {
+  const sidebar = document.querySelector('.sidebar');
+  const targetElements = document.querySelectorAll('[data-name]');
+  const links = document.querySelectorAll('.sidebar .list-group-item');
+
+  const options = {
+    rootMargin: '0px',
+    threshold: [0.5]
+  }
+
+  function callback(entries, observer) { 
+    console.log("entries",entries)
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        document.querySelector('.active').classList.remove('active');
+        const sectionName = entry.target.getAttribute('data-name'); // identify which element is visible in the viewport at 50%
+        document.querySelector(`[href="${sectionName}"]`).classList.add('active');
+      }
+    });
+  };
+
+  let observer = new IntersectionObserver(callback, options);
+
+  targetElements.forEach(targetElement => observer.observe(targetElement));
+
+  function scrollToTarget(targetElement) {
+    let offset = window.innerHeight / 2;
+    const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
+    window.scrollTo({ top: targetPosition, behavior: 'smooth' });
+  }
+
+  // Add event listener to each link
+  links.forEach((link) => {
+    link.addEventListener('click', (event) => {
+      event.preventDefault(); // prevent default link behavior
+      const targetId = link.getAttribute('href'); // get target element id
+      const targetElement = document.querySelector(`[data-name='${targetId}']`);
+      scrollToTarget(targetElement); // call scrollToTarget function
+    });
+  });
+};
+
+</script>
+
+
+<script>
+$(document).ready(function(){
+  var scrollTop = 0;
+  $(window).scroll(function(){
+    scrollTop = $(window).scrollTop();    
+    if (scrollTop >= 100) {
+      $('nav').addClass('scrolled-nav');
+    } else if (scrollTop < 100) {
+      $('nav').removeClass('scrolled-nav');
+    } 
+    
+  }); 
+  
+});
+
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+  $(document).ready(function(){
+  $('.slick').slick({
+      dots: true,
+      slidesToShow: 1,
+       infinite: false
+});
+});
+</script>
+
+
+<script>
+$(document).ready(function(){
+  var scrollTop = 0;
+  $(window).scroll(function(){
+    scrollTop = $(window).scrollTop();    
+    if (scrollTop >= 100) {
+      $('nav').addClass('scrolled-nav');
+    } else if (scrollTop < 100) {
+      $('nav').removeClass('scrolled-nav');
+    } 
+    
+  }); 
+  
+});
+</script>
+</body>
+
+</html>

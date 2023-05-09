@@ -1,0 +1,50 @@
+
+
+.card-cover {
+    > .d-flex  {
+        height: 282px !important; 
+        @media @desktop {
+            height: 312px !important; 
+        }
+       
+    
+    }
+    &.m-and-a {
+        background-image: url('imgs/card-deals.png');
+    }
+    &.capital {
+        background-image: url('imgs/capital-deals.png');
+    }
+    &.banks {
+        background-image: url('imgs/card-banks.jpg');
+    }
+    &.experience  {
+        background-image: url('imgs/card-experience.jpg');
+    }
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    border-bottom: none !important;
+    h3 {
+        color: #fff;
+        font-size: 80px !important;
+        font-weight: 300;
+        padding-top: 107px;
+        span {
+            font-size: 30px;
+        }
+        &:after {
+            bottom: -0.85rem;
+        }
+    }
+    sup {
+        font-size: 26px;
+        font-weight: 300;
+        top: -1.5em;
+    }
+    span {
+        margin: 15px 0;
+        font-size: 21px;
+    }
+  
+}
