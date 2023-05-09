@@ -1,0 +1,443 @@
+
+
+@import "media-queries";
+@import "colours";
+@import "typography";
+@import "navigation";
+@import "flash-cards";
+@import "footer";
+@import "side-nav";
+
+
+
+
+.hero {
+    color: #fff;
+    height: unset;
+    background-image: url(http://localhost/chantry/chessboard-compass-992px.png);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;    
+    .img-fluid {
+         height: 200px;
+     }
+ 
+    @media @desktop {      
+        .img-fluid {
+            height: 500px;
+        }
+    }
+    @media @desktop {      
+        height: 680px;
+        background-image: url(http://localhost/chantry/chessboard-compass.png);
+        background-size: cover;
+        background-position: 30% top;
+        background-repeat: no-repeat;
+    }
+
+    &.about-us {
+        background-image: url(http://localhost/chantry/finance-district-992px.jpg);
+        @media @desktop {      
+            height: 480px;
+            background-image: url(http://localhost/chantry/finance-district.jpg);
+            background-size: cover;
+            background-position: right top;
+            background-repeat: no-repeat;
+        }        
+    }
+    &.our-services {
+        background-image: url(imgs/office-meeting-992px.jpg);
+        background-position: center top;
+        @media @desktop {      
+            height: 480px;
+            background-image: url(imgs/office-meeting.jpg);
+            background-size: cover;           
+            background-repeat: no-repeat;
+        }    
+    }
+    &.case-studies {
+        background-image: url(imgs/handshake-992px.jpg);
+        background-position: center top;
+        @media @desktop {      
+            height: 480px;
+            background-image: url(imgs/handshake.jpg);
+            background-size: cover;           
+            background-repeat: no-repeat;
+        }    
+    }
+    &.contact-us {
+        background-image: url(imgs/man-using-phone-992px.jpg);
+        background-position: center top;
+        @media @desktop {      
+            height: 480px;
+            background-image: url(imgs/man-using-phone.jpg);
+            background-size: cover;           
+            background-repeat: no-repeat;
+        }    
+    }
+
+
+}
+
+
+    h2 {
+        &.sub-pages {
+            font-size: 3rem !important;
+            line-height: 40px;
+            @media @desktop {
+                font-size: 3.8rem !important;
+                line-height: 46px;
+            }
+         
+        }           
+    }
+        
+
+
+
+.hero {
+    background-color: @chantry-blue;
+}
+
+.sidebar {
+    .list-group {
+        max-width: max-content;
+        a {
+            border: none;
+        }
+       
+    }
+
+}
+
+
+
+.how-we-can-help {
+    img {
+        max-width: 100%;
+        
+    }
+    .card-wrapper {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-between;        
+        .feature {
+            width: 100%;
+            @media @tablet {
+                width: calc(50% - 2.8rem);
+            }
+            
+        }
+    }
+.homepage-card {
+    background-color: #fff;
+    z-index: 10;
+    position: relative;
+    padding: 2.5rem 0;
+    width: 92.5%;
+    margin-top: 0;
+    border-radius: 0 1rem;
+    margin-bottom: 40px;
+    ul {
+        margin-top: 40px;
+  
+    li {
+        list-style-type: square;
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+}
+
+  
+}
+}
+
+
+.slick-dots {
+    text-align: left !important;
+    bottom: -55px !important;
+}
+.slick-dots li button:before {
+    font-size: 12px !important;
+}
+.slick-dots li {
+    margin: 0 !important;
+    width: 24px !important;
+}
+.slick-dots li.slick-active button:before {
+    color: @red !important;
+}
+
+.slick-next, .slick-prev {
+    top: 105% !important;
+    left: 20px;
+    z-index: 10 !important;
+}
+.slick-next:before, .slick-prev:before {
+    font-family: slick;
+    font-size: 42px !important;
+    line-height: 1;
+    opacity: 1;
+    color: @chantry-blue !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev {
+    left: calc(100% - 78px) !important;
+}
+.slick-next{
+    left: calc(100% - 35px) !important;
+}
+
+.slick-slide {
+    display: flex !important;
+    flex-direction: column;
+    background-color: @chantry-blue;
+    //border-radius: 0;
+    @media @tablet {    
+      //  border-radius: 0 16px 16px 0;
+    }
+
+    
+    @media @desktop {
+        flex-direction: row;
+    } 
+    div {
+        width: 100%; 
+        @media @desktop {
+            width: 50%; 
+        }
+    }
+    div:first-child {
+
+        display: flex;
+        justify-content: center;
+        width: 100%; 
+        @media @tablet {
+            background-color: #F2F2F2;
+        }
+        @media @desktop {
+            width: 50%; 
+        }
+        img {
+            width: 100%; 
+            @media @tablet {
+                width: 66%; 
+            }
+            @media @desktop {
+                width: 100%; 
+            }
+        }
+    }
+    div:last-child {
+        padding: 32px;
+        @media @tablet  {
+            padding: 50px 40px;
+        }
+        color: #fff;
+        height: calc(100% - 1px);
+        position: relative;
+        margin-top: -1px;   
+        @media @desktop  {
+            margin-top: 0;
+        }
+        h4 {
+            color: #fff !important;
+            margin-bottom: 50px;
+            font-weight: 300 !important;
+            font-size: 28px !important;
+            @media @tablet  {
+                font-size: 34px !important;
+            }
+       
+            &:after {
+                content: "";
+                width: 4.4rem;
+                height: 2px;
+                background-color: @red;
+                position: absolute;
+                left: 0;
+                bottom: -2.5rem;
+        }
+        }
+        
+    }
+    
+}
+
+p {
+    &.small {
+        font-size: 19px;
+    }
+}
+
+
+.case-studies {
+    > .row {
+        border-radius: 16px;
+    overflow: hidden;
+    margin-bottom: 32px !important;
+    }
+    .blurb {
+        background-color: @chantry-blue;
+        color: #fff !important;
+             padding: 32px;
+           @media @desktop {
+                padding: 50px;
+           }
+   
+        box-sizing: border-box;
+        h5 {
+           font-family: 'IBM Plex Serif', serif;
+                font-size: 25px;
+              @media @desktop {
+           font-size: 28px;
+              }
+           color: #fff !important;
+           font-weight: 400;
+           &::after {
+                content: "";
+                width: 3.6rem;
+                height: 2px;
+                background-color: #AF0E0E;
+                position: absolute;
+                left: 0;
+                  bottom: -1.5rem;
+                   @media @desktop {
+                bottom: -3rem;
+                   }
+            }
+        }
+        p {
+            font-size: 17px;
+        }
+    }
+    .client-image {
+        background-size: cover;
+        background-repeat: no-repeat;
+      height: 300px;
+          background-position: 50% 50%;
+        @media @desktop {
+            height: 465px;
+        } 
+
+        &.derrick-offshore {
+                background-image: url(imgs/derrick-offshore.jpg);              
+            }
+            
+        &.bolney-wine-estate {
+            background-image: url(imgs/bolney-wine-estate.jpg);              
+        }
+        
+        &.next-control-systems {
+            background-image: url(imgs/next-control-systems.jpg);              
+        }
+        
+        &.second-byte {
+            background-image: url(imgs/second-byte.jpg);              
+        }
+        
+        &.healthcare {
+            background-image: url(imgs/healthcare.jpg);              
+        }
+
+        &.crown-golf {
+            background-image: url(imgs/crown-golf.jpg);              
+        }
+        
+    }
+}
+
+
+
+.form {
+    .row {
+        justify-content: space-between;
+        margin: 0 !important;
+        .col-lg-6 {    
+            padding: 0;
+            width: 100%;
+            margin: 0 0 2em 0 !important;
+            @media @desktop {
+                width: calc(50% - 16px);   
+               
+            }           
+        }
+        .col-lg-12  {
+            margin-bottom: 2em;
+            padding: 0;
+         
+        }
+    }
+
+    input,
+    textarea {
+        background: #F3F4F8;
+        border: 0;
+        border-bottom: 1px solid #C4C9DF;
+        padding: 11px 12px;    
+        font-size: 17px;
+    }
+
+    label {
+        margin-bottom: 8px;
+        font-size: 16px;
+        span {
+            font-size: 14px;
+            color: #999;
+        }
+    }
+
+    input[type='submit'] {
+        background: rgba(211, 240, 253, 0.8);
+        border-radius: 32px;
+        width: 200px;
+        padding: 12px;
+        border: 0;
+        font-size: 17px;
+        margin-top: 16px;
+        &:hover {
+            text-decoration: underline;
+        }
+
+    }
+
+}
+
+
+.call {
+    .row {
+        padding: 16px;
+        background: #F3F4F8;
+        border-radius: 4px;
+        margin: 0 0 8px 0 !important;
+    }
+    .col {
+        justify-content: space-between;
+        font-size: 18px;
+        padding: 16px;
+        flex-wrap: wrap;
+    }
+}
+
+
+.sidebar {  
+
+    h3 {
+        font-size: 15px !important;
+        @media @desktop {
+            font-size: 13px !important;
+            }
+    }
+    .list-group .list-group-item:last-child {
+        border-radius: 0;
+       border-bottom: 1px solid #ccc;
+       padding-bottom: 32px;
+       @media @desktop {
+        border-bottom: none;
+        padding-bottom: 0;
+        }
+
+    }
+}

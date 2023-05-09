@@ -1,0 +1,116 @@
+.navigation.container {
+
+}
+
+nav {
+    
+    padding:  20px 0 !important;
+    background-color: #fff !important;
+    border-bottom: 1px solid #ddd;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 15px;
+    transition: all .2s;
+    .nav-item {
+        padding: 7px 20px 7px 0;
+        border-top: 1px solid #ddd;
+        @media @desktop { 
+             padding: 5px 20px;
+             border-top: none;
+        }
+        
+        a {
+            color: @chantry-blue;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+        
+        &.button {
+            background-color: none;
+            border-radius: 0;
+            padding: 5px 20px 5px 0;
+            @media @desktop { 
+                background-color: @chantry-light-blue;
+                border-radius: 60px;
+                padding: 5px 15px;
+           }
+    
+        }
+    }
+
+    &.scrolled-nav {
+        padding:  8px 0 !important;
+    }
+}
+
+.navbar-collapse {
+    margin-top: 20px;
+    @media @desktop { 
+        margin-top: 0;
+    }
+    
+
+}
+
+.navbar-toggler-icon {
+    width: 2.5em !important;
+    height: 3em !important;
+}
+
+#current {  
+    background-color: #AF0E0E;
+    color: #fff;
+    @media @desktop {   
+        background-color: transparent;
+        color: #000046;    
+    font-weight: 500;
+    position: relative;
+    &::after {
+        transition: all .2s;
+        content: "";
+        width: 100%;
+        height: 4px;
+        background-color: #AF0E0E;
+        position: absolute;
+        left: 0;
+        top: 63px;
+    }
+
+}
+}
+.scrolled-nav {
+    #current {  
+        @media @desktop {   
+            background-color: transparent;
+            color: #000046;   
+        position: relative;
+        &::after {
+            content: "";
+            width: 100%;
+            height: 4px;
+            background-color: #AF0E0E;
+            position: absolute;
+            left: 0;
+            top: 50px;
+        }
+    }
+}
+}
+.navbar {
+.nav-item {
+    padding: 0 !important;
+    @media @desktop {
+        padding: 5px 20px !important;
+        
+    }
+}
+}
+.nav-link {
+   
+    padding: 12px !important;
+    @media @desktop {
+        padding: 5px !important;
+        
+    }
+}
